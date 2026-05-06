@@ -1,0 +1,30 @@
+{
+    "id": 8373,
+    "name": "Holambra Cooperativa Agroindustrial - Matriz",
+    "about": "Há mais de 60 anos, produzimos futuro e prosperidade.\nHolambra Cooperativa Agroindustrial, de Paranapanema. Desde 1960 esta marca entrou para a história do agronegócio brasileiro como modelo de cooperativismo de sucesso.\nCom união, buscamos eficiência e alta produtividade, tornando-nos mais fortes a cada ano. Conquistamos excelentes resultados, o que é confirmado e reconhecido pelos principais indicadores econômicos.",
+    "inventoriesId": [
+        8607
+    ],
+    "logoId": "f77e7b5d-1011-5b98-8a82-3a18eef3fef7",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8266,
+    "name": "ALZ Grãos",
+    "about": "A ALZ Grãos é uma empresa do agronegócio que oferece serviços de armazenagem, limpeza e secagem de grãos, comercialização e logística de grãos e insumos agrícolas, e crédito agrícola. Comprometida com o desenvolvimento responsável dos seus negócios, a ALZ Grãos proporciona um ambiente favorável que incentiva as boas práticas socioambientais em toda a sua cadeia de valor. Suas operações estão alicerçadas em duas políticas formalmente implementadas, sendo elas a Política Socioambiental e a Política de Sustentabilidade de Grãos.",
+    "inventoriesId": [
+        8100
+    ],
+    "logoId": "024b4da6-f832-5087-0938-3a187f71df2f",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 27,
+        "acronym": "TO",
+        "name": "Tocantins"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

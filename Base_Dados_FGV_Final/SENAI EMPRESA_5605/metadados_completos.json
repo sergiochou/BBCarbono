@@ -1,0 +1,40 @@
+{
+    "id": 5605,
+    "name": "SENAI EMPRESA",
+    "about": "Para apoiar o desenvolvimento tecnológico nas empresas e indústrias sul-mato-grossenses, o INSTITUTO SENAI DE TECNOLOGIA EFICIÊNCIA OPERACIONAL - HUB SENAI EMPRESA (IST) oferece à indústria mecanismos para acelerar sua modernização, expansão e regularização por meio da oferta de serviços de tecnologia e de inovação que buscam atender as necessidades empresariais, por meio da oferta de serviços de qualidade, capazes de disseminar novas tecnologias, melhorando processos, agregando valor e, assim, contribuindo para o fortalecimento e competitividade da indústria.\nO IST atua em diversas áreas transversais que a empresa possui necessidade, como: gestão de produção, gestão de ativos, gestão energética, gestão ambiental, normas e legislações, design, marketing, vestuário, desenvolvimento de software, inovação e linhas de fomento.",
+    "inventoriesId": [
+        6600,
+        7556,
+        9156
+    ],
+    "logoId": "9dd13c2c-391b-ac4b-6f34-3a1a33843cbe",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

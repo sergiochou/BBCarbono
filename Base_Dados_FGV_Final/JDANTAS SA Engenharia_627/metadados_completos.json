@@ -1,0 +1,30 @@
+{
+    "id": 627,
+    "name": "J.DANTAS S/A Engenharia",
+    "about": null,
+    "inventoriesId": [
+        3062
+    ],
+    "logoId": "457d1914-0cd5-45d4-91c4-76e1af8c9f05",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

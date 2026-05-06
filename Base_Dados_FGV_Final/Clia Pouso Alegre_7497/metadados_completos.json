@@ -1,0 +1,35 @@
+{
+    "id": 7497,
+    "name": "Clia Pouso Alegre",
+    "about": "O CLIA POUSO ALEGRE – Centro Logístico Industrial Aduaneiro) – é um Centro Logístico e Industrial, que iniciou as atividades em junho de 2017, com ADE definitivo, e desde então vem se consolidando como a melhor opção para operações aduaneiras em Minas Gerais.\n\nProjetos logísticos são desenvolvidos de acordo com a necessidade de cada cliente, sendo o CLIA Pouso Alegre qualificado para atender pequenas, médias e grandes empresas, com competitividade e alta performance na prestação de seus serviços.",
+    "inventoriesId": [
+        7225,
+        8322
+    ],
+    "logoId": "1d0c8c01-f7f1-eba6-16aa-3a12e0ab727a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

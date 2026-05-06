@@ -1,0 +1,30 @@
+{
+    "id": 8389,
+    "name": "Logum",
+    "about": "A Logum Logística S.A. é responsável pela construção e operação de um sistema multimodal de transporte de biocombustíveis que comporta uma rede de dutos de mais de 1 mil km de extensão. O sistema envolve ainda o transporte por rodovias e cabotagem, abarcando os serviços de logística, carga, descarga, movimentação, estocagem, operação de portos e terminais terrestres. ",
+    "inventoriesId": [
+        8042
+    ],
+    "logoId": "39cbd8a0-cd74-ea64-1b9d-3a18ffe9ad3e",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

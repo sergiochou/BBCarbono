@@ -1,0 +1,342 @@
+[
+    {
+        "empresa_pasta": "Enerbrax Acumuladores_7282",
+        "id_fgv": 7282,
+        "nome_oficial": "Enerbrax Acumuladores",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 415.704,
+                    "emissoes_escopo_2": 95.217,
+                    "emissoes_escopo_3": 217.972,
+                    "total_emissoes": 728.893,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Enercan_2269",
+        "id_fgv": 2269,
+        "nome_oficial": "Enercan",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 33.061,
+                    "emissoes_escopo_2": 6.546,
+                    "emissoes_escopo_3": 41.581,
+                    "total_emissoes": 81.188,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 93.489,
+                    "emissoes_escopo_2": 7.418,
+                    "emissoes_escopo_3": 49.067,
+                    "total_emissoes": 149.974,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 36.953,
+                    "emissoes_escopo_2": 5.042,
+                    "emissoes_escopo_3": 56.783,
+                    "total_emissoes": 98.778,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 100.706,
+                    "emissoes_escopo_2": 5.195,
+                    "emissoes_escopo_3": 73.691,
+                    "total_emissoes": 179.592,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 36.606,
+                    "emissoes_escopo_2": 4.472,
+                    "emissoes_escopo_3": 27.797,
+                    "total_emissoes": 68.875,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 24.705,
+                    "emissoes_escopo_2": 3.586,
+                    "emissoes_escopo_3": 20.668,
+                    "total_emissoes": 48.959,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 43.751,
+                    "emissoes_escopo_2": 3.241,
+                    "emissoes_escopo_3": 72.395,
+                    "total_emissoes": 119.387,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 43.695,
+                    "emissoes_escopo_2": 3.776,
+                    "emissoes_escopo_3": 38.708,
+                    "total_emissoes": 86.179,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Enerflex Brasil Energia Ltda_8074",
+        "id_fgv": 8074,
+        "nome_oficial": "Enerflex Brasil Energia Ltda",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 156898.26,
+                    "emissoes_escopo_2": 35.62,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 156933.88,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energest SA_1143",
+        "id_fgv": 1143,
+        "nome_oficial": "Energest S.A.",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 139.983,
+                    "emissoes_escopo_2": 623.465,
+                    "emissoes_escopo_3": 193.383,
+                    "total_emissoes": 956.831,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 112.816,
+                    "emissoes_escopo_2": 131.338,
+                    "emissoes_escopo_3": 169.28,
+                    "total_emissoes": 413.434,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energia Pecém_2368",
+        "id_fgv": 2368,
+        "nome_oficial": "Energia Pecém ",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3632654.848,
+                    "emissoes_escopo_2": 1185.465,
+                    "emissoes_escopo_3": 129.209,
+                    "total_emissoes": 3633969.522,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energisa Acre_3257",
+        "id_fgv": 3257,
+        "nome_oficial": "Energisa Acre",
+        "estado": "AC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 680.475,
+                    "emissoes_escopo_2": 15330.268,
+                    "emissoes_escopo_3": 159641.59,
+                    "total_emissoes": 175652.333,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energisa Borborema_3254",
+        "id_fgv": 3254,
+        "nome_oficial": "Energisa Borborema",
+        "estado": "PB",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 356.206,
+                    "emissoes_escopo_2": 3039.792,
+                    "emissoes_escopo_3": 4.144,
+                    "total_emissoes": 3400.142,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energisa Mato Grosso do Sul_3262",
+        "id_fgv": 3262,
+        "nome_oficial": "Energisa Mato Grosso do Sul",
+        "estado": "MS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3132.131,
+                    "emissoes_escopo_2": 55436.038,
+                    "emissoes_escopo_3": 65.749,
+                    "total_emissoes": 58633.918,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energisa Mato Grosso_3260",
+        "id_fgv": 3260,
+        "nome_oficial": "Energisa Mato Grosso",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 9960.847,
+                    "emissoes_escopo_2": 103480.358,
+                    "emissoes_escopo_3": 93.125,
+                    "total_emissoes": 113534.33,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Energisa Minas Gerais_3250",
+        "id_fgv": 3250,
+        "nome_oficial": "Energisa Minas Gerais",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 940.872,
+                    "emissoes_escopo_2": 11169.324,
+                    "emissoes_escopo_3": 49.756,
+                    "total_emissoes": 12159.952,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

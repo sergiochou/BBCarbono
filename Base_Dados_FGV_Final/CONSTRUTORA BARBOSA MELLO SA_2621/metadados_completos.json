@@ -1,0 +1,40 @@
+{
+    "id": 2621,
+    "name": "CONSTRUTORA BARBOSA MELLO S.A.",
+    "about": "Movida pela vontade de transformar realidades, a Construtora Barbosa Mello construiu uma trajetória que acompanha a história do desenvolvimento da infraestrutura no Brasil. Sua atuação em diversas regiões brasileiras constitui um portfólio completo que inclui os valores intrínsecos de desenvolvimento de pessoas, cuidado com o meio ambiente e preocupação com a segurança. \r\n\r\nA história da construtora é marcada pela exploração de novos desafios e pela transformação de cenários. Atuando desde 1958, a empresa alocou seus recursos em prol do desenvolvimento das comunidades nas quais estava inserida, buscando diversificar e ampliar seus horizontes de atuação. \r\n\r\n\r\n",
+    "inventoriesId": [
+        6049,
+        7708,
+        8998
+    ],
+    "logoId": "85e62df9-9fae-464e-8c5c-486afc69aadd",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

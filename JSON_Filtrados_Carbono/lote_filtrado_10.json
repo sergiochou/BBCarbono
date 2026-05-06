@@ -1,0 +1,595 @@
+[
+    {
+        "empresa_pasta": "Banco do Nordeste_5297",
+        "id_fgv": 5297,
+        "nome_oficial": "Banco do Nordeste",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 5098.336,
+                    "emissoes_escopo_2": 1692.742,
+                    "emissoes_escopo_3": 13946.567,
+                    "total_emissoes": 20737.645,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 3965.493,
+                    "emissoes_escopo_2": 1737.343,
+                    "emissoes_escopo_3": 11281.883,
+                    "total_emissoes": 16984.719,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶financeiras,▶de▶seguros▶e▶serviços▶relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Banco Fibra_3272",
+        "id_fgv": 3272,
+        "nome_oficial": "Banco Fibra",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 94.773,
+                    "emissoes_escopo_2": 20.2,
+                    "emissoes_escopo_3": 326.77,
+                    "total_emissoes": 441.743,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 118.466,
+                    "emissoes_escopo_2": 20.46,
+                    "emissoes_escopo_3": 269.978,
+                    "total_emissoes": 408.904,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 94.773,
+                    "emissoes_escopo_2": 19.3,
+                    "emissoes_escopo_3": 232.235,
+                    "total_emissoes": 346.308,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 63.673,
+                    "emissoes_escopo_2": 28.337,
+                    "emissoes_escopo_3": 184.607,
+                    "total_emissoes": 276.617,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 8.788,
+                    "emissoes_escopo_2": 10.784,
+                    "emissoes_escopo_3": 271.46,
+                    "total_emissoes": 291.032,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 4.122,
+                    "emissoes_escopo_2": 9.721,
+                    "emissoes_escopo_3": 402.716,
+                    "total_emissoes": 416.559,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶financeiras,▶de▶seguros▶e▶serviços▶relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "(tCOe) verificado?",
+                "The Envira Amazonia Project - A Tropical Forest Conservation Project in Acre,",
+                "Brazil",
+                "CCB & VCS VERIFICATION REPORT",
+                "CCB Version 3, VCS Version 3",
+                "VERIFICATION REPORT FOR THE",
+                "ENVIRA AMAZONIA PROJECT - A",
+                "TROPICAL FOREST CONSERVATION",
+                "PROJECT IN ACRE, BRAZIL",
+                "Document Prepared By Letty Brown"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Banco PAN_3714",
+        "id_fgv": 3714,
+        "nome_oficial": "Banco PAN",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.278,
+                    "emissoes_escopo_2": 290.953,
+                    "emissoes_escopo_3": 1719.033,
+                    "total_emissoes": 2010.264,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 37.104,
+                    "emissoes_escopo_2": 97.406,
+                    "emissoes_escopo_3": 2450.443,
+                    "total_emissoes": 2584.953,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 23.462,
+                    "emissoes_escopo_2": 90.1,
+                    "emissoes_escopo_3": 2716.311,
+                    "total_emissoes": 2829.873,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto REDD + Jari Amapá",
+                "Projeto BT Geradora",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Instituto Totum Nome da OI: Banco PAN S.A (Ciclo 2022)",
+                "Nome do verificador líder: Roberta Bertoni Nome do responsável pelo inventário: Anabelle Urbano"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Banco Santander_1785",
+        "id_fgv": 1785,
+        "nome_oficial": "Banco Santander",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 904.39,
+                    "emissoes_escopo_2": 6854.92,
+                    "emissoes_escopo_3": 25870.37,
+                    "total_emissoes": 33629.68,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 5155.53,
+                    "emissoes_escopo_2": 14020.74,
+                    "emissoes_escopo_3": 82706.05,
+                    "total_emissoes": 101882.32,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 6990.008,
+                    "emissoes_escopo_2": 9311.502,
+                    "emissoes_escopo_3": 74913.924,
+                    "total_emissoes": 91215.434,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 15789.91,
+                    "emissoes_escopo_2": 22860.75,
+                    "emissoes_escopo_3": 76665.19,
+                    "total_emissoes": 115315.85,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 16106.381,
+                    "emissoes_escopo_2": 37201.96,
+                    "emissoes_escopo_3": 53620.667,
+                    "total_emissoes": 106929.008,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 19739.71,
+                    "emissoes_escopo_2": 43628.099,
+                    "emissoes_escopo_3": 53532.201,
+                    "total_emissoes": 116900.01,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 18767.876,
+                    "emissoes_escopo_2": 38952.434,
+                    "emissoes_escopo_3": 45352.61,
+                    "total_emissoes": 103072.92,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 16009.464,
+                    "emissoes_escopo_2": 22658.733,
+                    "emissoes_escopo_3": 38501.025,
+                    "total_emissoes": 77169.222,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 16183.727,
+                    "emissoes_escopo_2": 23692.53,
+                    "emissoes_escopo_3": 34086.444,
+                    "total_emissoes": 73962.701,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 21606.947,
+                    "emissoes_escopo_2": 17227.893,
+                    "emissoes_escopo_3": 30838.288,
+                    "total_emissoes": 69673.128,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 17319.386,
+                    "emissoes_escopo_2": 20299.092,
+                    "emissoes_escopo_3": 28602.76,
+                    "total_emissoes": 66221.238,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 13037.477,
+                    "emissoes_escopo_2": 8488.702,
+                    "emissoes_escopo_3": 12631.549,
+                    "total_emissoes": 34157.728,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 6434.257,
+                    "emissoes_escopo_2": 27755.851,
+                    "emissoes_escopo_3": 28354.637,
+                    "total_emissoes": 62544.745,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2695.709,
+                    "emissoes_escopo_2": 10436.862,
+                    "emissoes_escopo_3": 21332.326,
+                    "total_emissoes": 34464.897,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 4750.811,
+                    "emissoes_escopo_2": 9290.931,
+                    "emissoes_escopo_3": 58259.975,
+                    "total_emissoes": 72301.717,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades\u0002financeiras,\u0002de\u0002seguros\u0002e\u0002serviços\u0002relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "e) verificado?",
+                "A compensação",
+                "referente ao plantio",
+                "de mudas iniciará",
+                "no ano de 2010.",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2010",
+                "Inventário 2010 - Banco Santander",
+                "Banco Santander S.A. (Brasil)",
+                "Nome fantasia: Banco Santander"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BANDES_9199",
+        "id_fgv": 9199,
+        "nome_oficial": "BANDES",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 67.434,
+                    "emissoes_escopo_2": 44.79,
+                    "emissoes_escopo_3": 193.677,
+                    "total_emissoes": 305.901,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Banestes_8274",
+        "id_fgv": 8274,
+        "nome_oficial": "Banestes",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 154.528,
+                    "emissoes_escopo_2": 387.215,
+                    "emissoes_escopo_3": 1322.414,
+                    "total_emissoes": 1864.157,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BANRISUL_3406",
+        "id_fgv": 3406,
+        "nome_oficial": "BANRISUL",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 639.7,
+                    "emissoes_escopo_2": 2067.626,
+                    "emissoes_escopo_3": 31.013,
+                    "total_emissoes": 2738.339,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 828.932,
+                    "emissoes_escopo_2": 4559.54,
+                    "emissoes_escopo_3": 5037.816,
+                    "total_emissoes": 10426.288,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 621.448,
+                    "emissoes_escopo_2": 1418.027,
+                    "emissoes_escopo_3": 7555.781,
+                    "total_emissoes": 9595.256,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 688.758,
+                    "emissoes_escopo_2": 1328.881,
+                    "emissoes_escopo_3": 6101.612,
+                    "total_emissoes": 8119.251,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶financeiras,▶de▶seguros▶e▶serviços▶relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BARRACRED_8796",
+        "id_fgv": 8796,
+        "nome_oficial": " BARRACRED",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 5.426,
+                    "emissoes_escopo_2": 1.125,
+                    "emissoes_escopo_3": 24.734,
+                    "total_emissoes": 31.285,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Baru offshore Navegação Ltda_8356",
+        "id_fgv": 8356,
+        "nome_oficial": "Baru offshore Navegação Ltda",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 31096.824,
+                    "emissoes_escopo_2": 4.9,
+                    "emissoes_escopo_3": 459.931,
+                    "total_emissoes": 31561.655,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 204.689,
+                    "emissoes_escopo_2": 7.013,
+                    "emissoes_escopo_3": 27920.871,
+                    "total_emissoes": 28132.573,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BB Seguros_6076",
+        "id_fgv": 6076,
+        "nome_oficial": "BB Seguros",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 45.202,
+                    "emissoes_escopo_2": 51.123,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 96.325,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 50.123,
+                    "emissoes_escopo_2": 18.59,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 68.713,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 39.195,
+                    "emissoes_escopo_2": 39.827,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 79.022,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 30.908,
+                    "emissoes_escopo_2": 25.073,
+                    "emissoes_escopo_3": 178.278,
+                    "total_emissoes": 234.259,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

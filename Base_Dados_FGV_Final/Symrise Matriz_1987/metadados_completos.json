@@ -1,0 +1,85 @@
+{
+    "id": 1987,
+    "name": "Symrise (Matriz)",
+    "about": "Symrise é um fornecedor mundial de fragrâncias, aromas, ingredientes ativos cosméticos e matérias-primas, bem como ingredientes funcionais.\r\nA empresa tem duas divisões: Flavor, Nutrition e Scent & Care. A divisão de Flavor desenvolve, produz e vende aromas e ingredientes funcionais que são utilizados em alimentos,bebidas e produtos de saúde. Nutrition desenvolve produtos para o setor agro-food, incluindo pet food e aquacultura. Scent & Care desenvolve, produz e comercializa fragrâncias, ingredientes cosméticos, aromas moleculares e aromas de hortelã. Eles são usados ??na fabricação de perfumes, higiene pessoal e cosméticos, produtos de limpeza e detergentes e produtos de higiene oral.\r\n\r\nMissão\r\nCombinar o conhecimento sobre a constante mudança das necessidades dos consumidores, com criatividade e tecnologias revolucionárias. Ao fazer isso, concentrar-se no desenvolvimento de soluções que proporcionam aos nossos clientes com valor agregado.\r\nGarantir a criação de valor sustentado, permitindo que os funcionários e acionistas para compartilhar o sucesso da nossa empresa.\r\nVisão\r\nPossuir um portfólio de agregação de valor único e ser a empresa de maior sucesso de sua indústria.\r\nDesafiar o status quo e constantemente explorar novas ideias. Isso permite executar seus níveis mais altos e definir novos padrões.\r\nFornecer aos clientes inovações e inspirações que preenchem a promessa de sempre inspirar mais...\r\nSustentabilidade\r\nÉ um princípio intrínseco da empresa, a qual acredita que ser sustentável é respeitar quatro pilares: pegada ambiental, inovação, cadeia de abastecimento e cuidado com as pessoas. ",
+    "inventoriesId": [
+        2536,
+        1786,
+        3042,
+        3367,
+        3662,
+        3928,
+        4356,
+        4902,
+        5380,
+        6319,
+        7646,
+        9025
+    ],
+    "logoId": "65ed6a6f-dc5d-4c0d-9869-6f7a8ad733e0",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

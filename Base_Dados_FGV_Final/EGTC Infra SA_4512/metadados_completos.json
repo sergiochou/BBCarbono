@@ -1,0 +1,40 @@
+{
+    "id": 4512,
+    "name": "EGTC Infra S.A",
+    "about": "A EGTC Infra, uma empresa de infraestrutura com mais de duas décadas no mercado da construção, focada no setor de infraestrutura, buscando ser protagonista e atuar pautada pela excelência na execução de obras, em soluções inovadoras de engenharia e estruturação de projetos.\r\nO Relatório Anual disponível em: https://egtc.com.br/\r\n",
+    "inventoriesId": [
+        6156,
+        7184,
+        8130
+    ],
+    "logoId": "e186d4bf-eef9-8383-37c3-3a1271e447b8",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

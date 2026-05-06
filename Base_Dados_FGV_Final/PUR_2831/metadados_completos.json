@@ -1,0 +1,30 @@
+{
+    "id": 2831,
+    "name": "PUR",
+    "about": "Código e Descrição da Atividade Econômica Principal:\r\n22.29-3-99- Fabricação de artefatos de material plástico para outros usos não especificados anteriormente.\r\n\r\nCódigo e Descrição das Atividades Econômicas Secundárias:\r\n33.14-7-15 - Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo.\r\n33.14-7-21 - Manutenção e reparação de máquinas e aparelhos para industria de celulose, papel e papelão e artefatos.",
+    "inventoriesId": [
+        4090
+    ],
+    "logoId": "f2523714-0cfe-4d7c-9e9c-4a51d9cc4d22",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

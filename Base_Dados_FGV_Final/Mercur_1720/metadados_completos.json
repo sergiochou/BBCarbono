@@ -1,0 +1,35 @@
+{
+    "id": 1720,
+    "name": "Mercur",
+    "about": "Compromisso Institucional: Unir pessoas e organizações para criar soluções sustentáveis.",
+    "inventoriesId": [
+        1606,
+        30
+    ],
+    "logoId": "3f4089b9-fef3-4d1d-a339-979c9ff74049",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

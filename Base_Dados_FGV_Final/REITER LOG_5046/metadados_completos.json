@@ -1,0 +1,45 @@
+{
+    "id": 5046,
+    "name": "REITER LOG",
+    "about": "Referência no segmento de transporte e logística, a Reiter Log atua oferecendo soluções logísticas para os principais players do Brasil. \r\n\r\nEm constante evolução oferecemos serviços de transporte, cross docking, armazenagem multi-temperatura e distribuição. A Reiter Log atua em todo território nacional e também na Argentina, Chile, Paraguai e Uruguai. Nossa infraestrutura possibilita um atendimento personalizado para cargas fechadas e fracionadas.\r\nConheça um pouco mais da Reiter Log para entender que a segurança, capacidade e versatilidade de atendimento, tempo de resposta e acesso à informação, credibilidade da informação, a confiabilidade dos prazos, e a otimização do ciclo logístico, são os nossos maiores compromissos.",
+    "inventoriesId": [
+        6120,
+        6661,
+        7812,
+        9050
+    ],
+    "logoId": "b839638b-a727-4589-bb00-7f8e36cd3931",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

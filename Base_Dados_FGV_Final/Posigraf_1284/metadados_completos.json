@@ -1,0 +1,70 @@
+{
+    "id": 1284,
+    "name": "Posigraf",
+    "about": "Se você acredita que os impressos vão mais longe e com eles podemos levar oportunidade de transformação e crescimento para os quatro cantos do Brasil, então você está com a Posigraf! Os nossos 50 anos de história não nos deixam mentir: quando o assunto é impressão, nós somos os melhores, afinal, temos um dos maiores e mais modernos parques gráficos da América Latina e isso nos faz ir além de preço e qualidade. \n\nPara nós, te entregar um material de qualidade e sem nenhum atraso não é suficiente, por isso somos a gráfica brasileira com mais iniciativas e certificações que atestam nossa trajetória sustentável! Essa preocupação não é nada recente: desde a nossa fundação, dentro do Grupo Positivo, temos a educação e a sede por mudança no nosso DNA. Assim, adotamos a missão de garantir que cada impresso que sai da nossa gráfica gere impactos positivos por onde quer que passe. ",
+    "inventoriesId": [
+        3120,
+        3722,
+        4040,
+        4321,
+        4538,
+        5689,
+        6310,
+        7335,
+        9107
+    ],
+    "logoId": "e2dfb53f-7157-46bd-b510-82597bfd9395",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

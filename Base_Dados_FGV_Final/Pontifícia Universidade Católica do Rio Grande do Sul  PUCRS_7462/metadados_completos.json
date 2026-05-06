@@ -1,0 +1,30 @@
+{
+    "id": 7462,
+    "name": "Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS",
+    "about": "A Pontifícia Universidade Católica do Rio Grande do Sul é uma instituição comunitária de ensino superior localizada em Porto Alegre (RS), mantida pela União Brasileira de Educação e Assistência, integrante da Rede Marista. Reconhecida pela excelência acadêmica, atua nas áreas de ensino, pesquisa, inovação e extensão, oferecendo cursos de graduação, pós-graduação e programas de educação continuada.\n\nA universidade possui um campus estruturado com centros de pesquisa, hospital universitário, institutos científicos e ambientes de inovação, contribuindo para o desenvolvimento científico, tecnológico e social do Brasil. Além da formação acadêmica, a PUCRS promove iniciativas voltadas à inovação, empreendedorismo e sustentabilidade, mantendo forte integração com a sociedade e com o setor produtivo.",
+    "inventoriesId": [
+        7903
+    ],
+    "logoId": "7a2f0a9c-92b4-64f6-e326-3a1883baf1d8",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

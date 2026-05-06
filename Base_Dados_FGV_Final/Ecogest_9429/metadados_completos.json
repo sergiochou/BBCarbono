@@ -1,0 +1,30 @@
+{
+    "id": 9429,
+    "name": "Ecogest",
+    "about": "A ECOGEST é um Organismo de Avaliação da Conformidade focado em programas de certificação nas áreas de Mudanças Climáticas, Sustentabilidade, ESG/ASG, Certificação de Produtos e desenvolvimento de novos programas de certificação.\nSomos acreditados pela Coordenação Geral de Acreditação do Inmetro como um Organismo de Verificação de Inventários de Emissões (ou Remoções de Emissões) de Gases de Efeito Estufa (GEE) e como um Organismo de Certificação de Produtos.\n​Somos conhecidos pelo mercado por nosso caráter inovador e nível técnico de excelência. Nossos serviços de certificação são conduzidos com base em padrões reconhecidos internacionalmente, assegurando a credibilidade e a confiabilidade dos resultados.",
+    "inventoriesId": [
+        9291
+    ],
+    "logoId": "5266e124-f128-5bdf-35e7-3a1a3534d5c7",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

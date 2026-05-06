@@ -1,0 +1,30 @@
+{
+    "id": 2481,
+    "name": "Destino Verde",
+    "about": "A Destino Verde sediada em Foz do Iguaçu destaca-se pela versatilidade em projetos sociais e ambientais. Tem se destacado compensação e neutralização voluntária de carbono de empresas e eventos, desenvolve também projetos para redução no consumo de combustíveis, qualidade do ar e emissões atmosféricas, adequando-se a realidade de seus clientes e buscando parceiros com o compromisso de formar uma sociedade mais sustentável. Desenvolve também programas de reflorestamento em áreas degradadas de Mata Atlântica em todo o território brasileiro.",
+    "inventoriesId": [
+        3152
+    ],
+    "logoId": "51408fa9-7c95-45bc-a4a2-867c724e6aeb",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

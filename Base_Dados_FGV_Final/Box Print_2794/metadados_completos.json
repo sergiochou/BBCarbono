@@ -1,0 +1,60 @@
+{
+    "id": 2794,
+    "name": "Box Print",
+    "about": "O primeiro contato do cliente com o seu produto é a embalagem. Nosso trabalho é fazer deste momento uma experiência inesquecível. A Box Print oferece o que nosso cliente mais precisa, inovação, agilidade e segurança. Sistema de informação online, permitindo acompanhamento 24h do seu pedido. Atendimento qualificado através de Anjos da Guarda, profissionais preparados para zelar pelo cliente. Que tem como objetivo assegurar a confiabilidade da execução dos projetos. Parque gráfico com 46 mil m² de área , permite agilidade de entrega e capacidade para altas demandas. Contamos ainda com um escritório Comercial em São Paulo, facilitando a comunicação com os demais estados do país. Acreditamos que a experiência com o produto começa na embalagem, nosso propósito é fazer deste momento uma experiência inesquecível.",
+    "inventoriesId": [
+        3825,
+        4196,
+        4787,
+        5598,
+        5878,
+        7019,
+        9269
+    ],
+    "logoId": "60a399ce-12f1-4bec-b425-4606ed308701",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

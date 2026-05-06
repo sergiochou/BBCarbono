@@ -1,0 +1,40 @@
+{
+    "id": 4957,
+    "name": "Ci&T Software S/A",
+    "about": "ESPECIALISTAS EM TRANSFORMAÇÃO TECNOLÓGICA\nNo mundo tecnológico acelerado e complexo de hoje, somos sua especialista em transformação tecnológica, ajudando você a navegar e co-criar soluções em cada etapa da jornada de transformação tecnológica.\nCombinando a melhor expertise humana com o poder da Inteligência Artificial, entregamos resultados rapidamente, de maneira eficiente e em escala. Nosso foco está em desenvolver soluções tecnológicas que impulsionam o crescimento e maximizam o valor do negócio.\n\nNossa ampla expertise abrange estratégia de tecnologia, experiência do cliente, desenvolvimento de software, serviços em nuvem, dados e IA, e mais, tudo alimentado pelo CI&T Flow, nossa plataforma de IA proprietária que aumenta significativamente a produtividade das equipes.",
+    "inventoriesId": [
+        6125,
+        7254,
+        8046
+    ],
+    "logoId": "b6d90dd1-804a-ad08-c8df-3a1908e919ee",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 5325,
+    "name": "SYNERGIA SOCIOAMBIENTAL",
+    "about": "Somos uma empresa especializada em consultoria socioambiental pioneira, na qual há mais de 17 anos trabalhamos com a criação e execução de soluções eficazes para os desafios de organizações públicas e privadas, dentro e fora do Brasil. Estamos entre os principais mercados de consultoria socioambiental, certificados como Empresa B e com o selo ISO 9001, participantes do Pacto Global e associados ao Instituto Ethos. Atuamos em quatro grandes pilares: gestão e prevenção de crises, relações territoriais, desenvolvimento social e gestão do conhecimento. Mudamos de negócio e de vida acreditando que, através dos meios de investimento em tecnologias avançadas juntamente com uma equipe especializada, podemos garantir que as nossas exigências serão satisfeitas com uma rapidez e alta performance.",
+    "inventoriesId": [
+        6362,
+        7210
+    ],
+    "logoId": "25748493-a46e-4f09-8b29-0c0593b30692",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 3849,
+    "name": "CMM OFFSHORE BRASIL LTDA",
+    "about": "A CMM OFFSHORE BRASIL LTDA é líder de mercado em Embarcações Rápidas de Apoio Offshore.\r\n\r\n- Focamos em trazer inovação ao mercado em termos de ativos e serviços.\r\n\r\n- Aplicamos a velocidade como ferramenta para aumentar a segurança e eficiência das operações offshore.\r\n\r\n- Visamos o mais alto padrão de operação da indústria.\r\n\r\n- Cultivamos um forte relacionamento de trabalho com nossos clientes, equipe marítima e parceiros.",
+    "inventoriesId": [
+        5084,
+        6554,
+        7493,
+        8597
+    ],
+    "logoId": "f97b991d-1b55-b669-d315-3a1b2bdb5853",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

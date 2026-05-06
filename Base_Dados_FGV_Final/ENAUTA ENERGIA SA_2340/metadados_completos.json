@@ -1,0 +1,70 @@
+{
+    "id": 2340,
+    "name": "ENAUTA ENERGIA S.A.",
+    "about": "A Enauta é uma das maiores operadoras independentes de campos de óleo e gás do Brasil, com 14 anos de atuação e experiência na exploração e produção de petróleo e gás natural no país. A companhia foi criada em 2010 e tem uma organização societária que permite seu crescimento e a construção de um portfólio diversificado de ativos. Atualmente, possuí dois ativos em produção: 100% de participação no Campo de Atlanta (BS-4), localizado na Bacia de Santos, onde é a operadora, produzindo óleo com baixo teor de enxofre, menos poluente para a produção do bunker IMO 2020, regulação para os combustíveis utilizados pelos navios. Já no Campo de Manati (BCAM-40), na Bacia de Camamu, possuí participação majoritária de 45%. O campo, operado pela Petrobras desde o início, em 2007, é um dos maiores produtores de gás natural não associado do país, tendo respondido por quase 40% das reservas de gás do estado da Bahia. \n\nA Enauta trabalha para gerar valor com segurança, robustez e conhecimento técnico. É isso que permite ser a única empresa independente a implementar um projeto de produção em águas ultraprofundas desde a fase zero.\n\nA Enauta direciona de forma efetiva as ações relacionadas à gestão, mitigação, contabilização e redução das emissões de gases de efeito estufa. Além disso, pauta seu modelo de gestão pelos mais criteriosos padrões de mercado.\n\nGestão de emissões de GEE:\ni)\tMetodologias aplicadas:  \n        (a) Petroleum Guidelines -. Diretrizes desenvolvidas pelo IPIECA (The Global Oil and Gas \n              Industry Association for Environmental and Social Issues) em parceria com o API (American \n              Petroleum Institute). \n         (b) Corporate Accounting and Reporting Standard (GHG Protocol)\n         (c) Abordagem de controle operacional e cálculo de intensidade energética, em linha com os \n               indicadores sugeridos pela versão G4 das diretrizes da Global Reporting Initiative (GRI) e \n               inclui ainda as especificidades do anexo GRI 11: Setor de Petróleo e Gás.\nii)\tSelo Ouro no Registro Público de Emissões: 8 anos com verificação de terceira parte dos seus \n        inventários. Última verificação em junho/2024. \niii)\tNota B no CDP (Carbon Disclosure Project): 12 anos de participação voluntária, melhor \n        desempenho no setor.\niv)\tMeta de intensidade empregada na bonificação de executivos e colaboradores.\nv)\tInvestimento em projetos de pesquisa e desenvolvimento \nvi)\tInvestimento em eficiência e redução de emissões em suas atividades operacionais\nvii)\tPolítica de Mudanças Climáticas aprovada em 2023 pelo conselho de administração \n",
+    "inventoriesId": [
+        2827,
+        3264,
+        3522,
+        4073,
+        4302,
+        4685,
+        5667,
+        6613,
+        7648
+    ],
+    "logoId": "dfa2fcd8-39d4-4413-94d9-b2f9e11a44bb",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

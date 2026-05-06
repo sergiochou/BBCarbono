@@ -1,0 +1,30 @@
+{
+    "id": 8375,
+    "name": "MUTUA DE ASSISTENCIA DOS PROFISSIONAIS DE ENG ARQ AGRONOMIA",
+    "about": "A Mútua – Caixa de Assistência dos Profissionais do Crea é uma sociedade civil sem fins lucrativos \ncriada pelo Conselho Federal de Engenharia e Agronomia (Confea). O principal objetivo da Mútua \né oferecer a seus associados planos de benefícios sociais, previdenciários e assistenciais, de \nacordo com sua disponibilidade financeira, respeitando o seu equilíbrio econômico-financeiro. \nPodem ser associados todos os profissionais com registro no Crea, desde que atendam às \ncondições estabelecidas em seu regimento, além de empregados do Crea, do Confea e da Mútua. ",
+    "inventoriesId": [
+        9219
+    ],
+    "logoId": "272ae576-5b5b-45e9-196c-3a18efecb426",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

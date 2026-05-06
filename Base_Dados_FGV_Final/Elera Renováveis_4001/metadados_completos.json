@@ -1,0 +1,45 @@
+{
+    "id": 4001,
+    "name": "Elera Renováveis",
+    "about": "A Elera Renováveis está entre as principais geradoras de energia renovável do Brasil, com 28 anos de atuação no setor. Parte da Brookfield Renewable Partners, a empresa desempenha um papel fundamental na transição energética. Com sede em São Paulo, mantém um portfólio diversificado de geração renovável distribuído por quatro regiões brasileiras, além de um ativo no Chile.\nCom uma capacidade instalada de 3,5 GW, chegamos em dezembro de 2024 com um portfólio composto por fontes diversificadas, como hidrelétrica, eólica e solar, contribuindo para uma matriz energética limpa e resiliente. Os ativos de geração de energia elétrica estão sob controle e gestão operacional da Elera Renováveis e alocados na própria Elera ou em fundos de investimentos\ngeridos pela Brookfield Corporation (Brookfield), por meio da Brookfield Renewable\nPartners L.P. (Brookfield Renewable). \nA empresa atua tanto no Ambiente de Contratação Livre (ACL), por meio de contratos de venda de\nenergia (PPAs), estruturas de autoprodução e certificados de energia renovável para consumidores de energia elétrica, quanto no Ambiente de Contratação Regulado, fornecendo energia para o mercado de distribuidoras de energia. Esta abrangência permite à Elera Renováveis atender uma vasta gama de necessidades no mercado energético, promovendo soluções energéticas eficientes e sustentáveis.",
+    "inventoriesId": [
+        5286,
+        6077,
+        7117,
+        8450
+    ],
+    "logoId": "45e94352-c260-2a9e-05ea-3a124296c2e5",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,100 @@
+{
+    "id": 1399,
+    "name": "Ecorodovias",
+    "about": "A EcoRodovias é uma companhia de infraestrutura logística integrada, que opera ativos de logística intermodal, concessões rodoviárias e serviços correlatos, de forma sustentável e socialmente responsável. Sua missão é criar valor de forma sustentável através do empreendedorismo e gestão de sinergias no portfólio de negócios em infraestrutura logística, alinhando-os através da cultura, princípios de gestão e governança da companhia.\n\nA EcoRodovias é subsidiária do Grupo ASTM e uma das maiores empresas de infraestrutura rodoviária do País. Atualmente, a EcoRodovias administra onze unidades de negócios focadas em concessões rodoviárias, que somam mais de 4 mil quilômetros de extensão em oito estados, nas regiões Sul, Sudeste, Centro-Oeste, Norte e Nordeste.",
+    "inventoriesId": [
+        10,
+        2686,
+        2194,
+        1621,
+        571,
+        3080,
+        3343,
+        3679,
+        3932,
+        4282,
+        4703,
+        5361,
+        5978,
+        6974,
+        8077
+    ],
+    "logoId": "a87c1078-8e70-878a-5d0e-3a18c696814e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

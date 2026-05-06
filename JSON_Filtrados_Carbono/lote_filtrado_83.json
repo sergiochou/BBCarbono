@@ -1,0 +1,372 @@
+[
+    {
+        "empresa_pasta": "Tokio Marine Seguradora_7706",
+        "id_fgv": 7706,
+        "nome_oficial": "Tokio Marine Seguradora",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesfinanceiras,deseguroseserviçosrelacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "TOLEDO AMBIENTAL LTDA_7457",
+        "id_fgv": 7457,
+        "nome_oficial": "TOLEDO AMBIENTAL LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "TOYOTA DO BRASIL_3967",
+        "id_fgv": 3967,
+        "nome_oficial": "TOYOTA DO BRASIL",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 19127.908,
+                    "emissoes_escopo_2": 12668.655,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 31796.563,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 22656.834,
+                    "emissoes_escopo_2": 4809.115,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 27465.949,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 20865.133,
+                    "emissoes_escopo_2": 4195.712,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 25060.845,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TPF Engenharia_4640",
+        "id_fgv": 4640,
+        "nome_oficial": "TPF Engenharia",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 317.295,
+                    "emissoes_escopo_2": 7.107,
+                    "emissoes_escopo_3": 712.585,
+                    "total_emissoes": 1036.987,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 225.122,
+                    "emissoes_escopo_2": 8.24,
+                    "emissoes_escopo_3": 1008.348,
+                    "total_emissoes": 1241.71,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesprofissionais,científicasetécnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "tragetta_5321",
+        "id_fgv": 5321,
+        "nome_oficial": "tragetta",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3878.622,
+                    "emissoes_escopo_2": 29.516,
+                    "emissoes_escopo_3": 7331.025,
+                    "total_emissoes": 11239.163,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3936.254,
+                    "emissoes_escopo_2": 26.19,
+                    "emissoes_escopo_3": 6501.347,
+                    "total_emissoes": 10463.791,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 75025.975,
+                    "emissoes_escopo_2": 405.919,
+                    "emissoes_escopo_3": 412.195,
+                    "total_emissoes": 75844.089,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRANSAUTO_5830",
+        "id_fgv": 5830,
+        "nome_oficial": "TRANSAUTO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 39479.828,
+                    "emissoes_escopo_2": 14.267,
+                    "emissoes_escopo_3": 138.114,
+                    "total_emissoes": 39632.209,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1308.36,
+                    "emissoes_escopo_2": 28.702,
+                    "emissoes_escopo_3": 42589.896,
+                    "total_emissoes": 43926.958,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2098.046,
+                    "emissoes_escopo_2": 24.056,
+                    "emissoes_escopo_3": 49944.376,
+                    "total_emissoes": 52066.478,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRANSHIP TRANSPORTES MARITIMOS LTDA_8571",
+        "id_fgv": 8571,
+        "nome_oficial": "TRANSHIP TRANSPORTES MARITIMOS LTDA",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Transportes Gabardo_6075",
+        "id_fgv": 6075,
+        "nome_oficial": "Transportes Gabardo ",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 57664.583,
+                    "emissoes_escopo_2": 46.399,
+                    "emissoes_escopo_3": 173.594,
+                    "total_emissoes": 57884.576,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRES CORACOES ALIMENTOS SA_8877",
+        "id_fgv": 8877,
+        "nome_oficial": "TRES CORACOES ALIMENTOS S.A.",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Tribanco_4159",
+        "id_fgv": 4159,
+        "nome_oficial": "Tribanco",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 530.87,
+                    "emissoes_escopo_2": 390.71,
+                    "emissoes_escopo_3": 1281.21,
+                    "total_emissoes": 2202.79,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 320.077,
+                    "emissoes_escopo_2": 65.048,
+                    "emissoes_escopo_3": 168.841,
+                    "total_emissoes": 553.966,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 438.159,
+                    "emissoes_escopo_2": 885.164,
+                    "emissoes_escopo_3": 214.573,
+                    "total_emissoes": 1537.896,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

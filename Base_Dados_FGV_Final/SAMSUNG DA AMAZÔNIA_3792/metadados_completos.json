@@ -1,0 +1,45 @@
+{
+    "id": 3792,
+    "name": "SAMSUNG DA AMAZÔNIA",
+    "about": null,
+    "inventoriesId": [
+        5060,
+        5911,
+        7100,
+        8669
+    ],
+    "logoId": "7d7b641e-c53d-4f2f-b9e5-a5942fae8444",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

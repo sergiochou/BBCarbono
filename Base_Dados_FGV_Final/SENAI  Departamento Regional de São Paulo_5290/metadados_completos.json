@@ -1,0 +1,40 @@
+{
+    "id": 5290,
+    "name": "SENAI - Departamento Regional de São Paulo",
+    "about": "Com mais de 80 anos de atuação, o SENAI-SP supera 1 milhão de matrículas anuais, abrangendo desde cursos para a qualificação básica até a pós-graduação, nas modalidades presencial, semipresencial e online. São 90 unidades de formação profissional distribuídas em todo o estado de São Paulo, além de 78 escolas móveis, que levam soluções customizadas para a indústria.\nA instituição oferece soluções em inovação e tecnologia, atuando nas mais diversas áreas de competência, como alimentos e bebidas, biotecnologia, energias renováveis, manufatura avançada e logística, reunindo profissionais qualificados e infraestruturas tecnológicas, como o Centro de Conectividade, o Laboratório de CyberSegurança, e o OpenLab da Indústria 4.0.\nNa área de empreendedorismo industrial, atua com programas de aceleração de startups, de inovação aberta, intraempreendedorismo e cultura inovadora, com soluções para indústrias de todos os portes e setores.\n",
+    "inventoriesId": [
+        6482,
+        7212,
+        8251
+    ],
+    "logoId": "baf60544-1f28-4ea1-9247-0e6d17868332",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

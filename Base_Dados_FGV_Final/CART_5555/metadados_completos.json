@@ -1,0 +1,40 @@
+{
+    "id": 5555,
+    "name": "CART",
+    "about": "Administramos o Corredor Raposo Tavares desde 17 de março de 2009. Nosso corredor (eixo principal) é formado pela SP-225 João Baptista Cabral Rennó, SP-327 Orlando Quagliato e SP-270 Raposo Tavares, total de 834 quilômetros entre Bauru e Presidente Epitácio, sendo 444 no eixo principal e 390 quilômetros de vicinais. Nossas rodovias atravessam o território de 27 municípios no centro-oeste paulista, com acesso ao início da SP-280 Castelo Branco, conexão com o Mato Grosso do Sul e ao Norte do Paraná. Por isso, são de importância vital para o transporte de cargas entre as regiões Centro-Oeste, Sul e Sudeste. \nSomos responsáveis, nas rodovias do eixo principal, por manutenção e melhorias, pela prestação de serviços de socorros médico e mecânico e pelo apoio e suporte aos usuários através das 12 bases do SAU – Serviço de Atendimento ao Usuário, 9 praças de pedágio e 4 PGF - Posto Geral de Fiscalização (balança) disponíveis ao longo das rodovias. Nas vicinais, mediante convênio assinado com as prefeituras, realizamos manutenção e conserva da via.",
+    "inventoriesId": [
+        6662,
+        7460,
+        7926
+    ],
+    "logoId": "bf1af60b-b9ec-45ee-a920-8593dfde4f9a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

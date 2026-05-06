@@ -1,0 +1,30 @@
+{
+    "id": 8659,
+    "name": "Jalles",
+    "about": "A Jalles Machado é uma das maiores produtoras de açúcar e etanol do Centro-Oeste e líder na exportação de açúcar orgânico. Fundada em 1980 por Otávio Lage em Goianésia (GO), a companhia tem três usinas atualmente: duas em Goiás e uma terceira em Minas Gerais. A Jalles é uma agroindústria referência no setor sucroenergético nacional, empregando diretamente cerca de 5.000 pessoas. A empresa também possui a Fundação Jalles Machado, que mantém a Escola Luiz César de Siqueira Melo, oferecendo educação de qualidade e aulas de dança, teatro, música e esportes.",
+    "inventoriesId": [
+        8313
+    ],
+    "logoId": "a38a4ccc-15e0-0caa-3cad-3a19bd368f5b",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

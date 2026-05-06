@@ -1,0 +1,110 @@
+{
+    "id": 1134,
+    "name": "Banco do Brasil",
+    "about": "O Banco do Brasil S.A. (BB) foi o primeiro a operar no país e, com seus mais de 210 anos de existência, contribui de maneira fundamental para o desenvolvimento nacional.\r\n\r\nFomos também a primeira empresa a realizar uma oferta pública de ações no mercado de capitais brasileiro e somos o único banco brasileiro listado no segmento Novo Mercado da B3 S.A. – Brasil, Bolsa, Balcão, que exige práticas avançadas de governança corporativa.\r\n\r\nSomos uma sociedade anônima aberta, Pessoa Jurídica de direito privado, de economia mista e controlada pela União, que detém 50% das ações.\r\n\r\nPelo nosso compromisso com a entrega de resultados consistentes e sustentáveis, sob o signo de transparência, prestação de contas, equidade e responsabilidade socioambiental, além de integrar o Novo Mercado, estamos no Programa Destaque em Governança de Estatais (PDGE) e no Índice de Sustentabilidade Empresarial (ISE), todos conduzidos pela B3. Somos listados também na carteira global e de mercados emergentes do Índice Dow Jones de Sustentabilidade (DJSI) da Bolsa de Valores de Nova Iorque e no FTSE4 Good Index Series, índice da Bolsa de Londres.\r\n\r\nOs VALORES que nos guiam são; Foco no Cliente, Inovação, Senso de Dono, Ética, Eficiência, Confiabilidade e Espírito Público.\r\n\r\nNossa VISÃO é ser a empresa que proporciona a melhor experiência para a vida das pessoas e promove o desenvolvimento da sociedade, de forma inovadora, eficiente e sustentável.",
+    "inventoriesId": [
+        1541,
+        542,
+        7,
+        2293,
+        2132,
+        1575,
+        1524,
+        2990,
+        3292,
+        3648,
+        4080,
+        4343,
+        4654,
+        5092,
+        6293,
+        7172,
+        8776
+    ],
+    "logoId": "e878bebf-b192-4531-8277-0829bf661e83",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

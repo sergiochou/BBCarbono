@@ -1,0 +1,30 @@
+{
+    "id": 8708,
+    "name": "TSEA Energia ",
+    "about": "A TSEA Energia, empresa do segmento de fabricação de máquinas, aparelhos e materiais elétricos, apresenta três unidades fabris, localizadas em Betim-MG, Contagem- MG e Curitiba-PR. A empresa atua desde 1968 na produção de equipamentos de qualidade para atendimento ao mercado de geração, transmissão e distribuição de energia. A sua missão consiste na busca contínua pelo\naprimoramento sustentável de produtos e serviços, transformando energia em valor.\n",
+    "inventoriesId": [
+        8353
+    ],
+    "logoId": "2de47c14-7dd2-424b-c009-3a201e79013c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

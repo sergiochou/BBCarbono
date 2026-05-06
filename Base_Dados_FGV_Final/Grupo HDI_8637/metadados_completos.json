@@ -1,0 +1,40 @@
+{
+    "id": 8637,
+    "name": "Grupo HDI",
+    "about": "Atualmente, 2025, o Grupo HDI é composto pelas empresas HDI Seguros S.A., Yelum Seguros S.A., HDI Global Seguros S.A., HDI Seguros do Brasil S.A., Indiana Seguros S.A. e Santander Auto S.A. (JV com Banco Santander), atuando com três marcas de seguros: Yelum, HDI Seguros e Aliro. Também fazem parte do Grupo a Fácil Assist, especializada em assistência 24 horas, e a Agrega, empresa focada no suporte ao corretor. \n \nO portfólio do Grupo HDI abrange uma ampla variedade de seguros, atendendo tanto pessoas físicas quanto jurídicas. A empresa oferece seguros automotivos, residenciais, empresariais, de vida e habitacionais, além de produtos voltados para grandes riscos, transporte, responsabilidade civil, rural, garantia e riscos diferenciados. Com essa diversidade de produtos e um modelo de atendimento ágil e digitalizado, o Grupo HDI busca oferecer a melhor experiência aos seus clientes, garantindo proteção e segurança em diferentes contextos.\n\nCombinando tecnologia, inovação e excelência operacional, o Grupo HDI continua sua trajetória de evolução, consolidando-se como uma das principais referências em seguros no Brasil.",
+    "inventoriesId": [
+        8418,
+        8410,
+        8318
+    ],
+    "logoId": "63f6a86c-1fdf-8348-2694-3a1b3f05fc99",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

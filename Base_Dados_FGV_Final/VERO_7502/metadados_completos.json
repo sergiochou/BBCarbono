@@ -1,0 +1,35 @@
+{
+    "id": 7502,
+    "name": "VERO",
+    "about": "Somos a Vero, uma empresa de telecomunicações brasileira, que soma qualidade no serviço com atendimento ágil para descomplicar o mundo de cada cliente.\n\nEstamos presentes em 426 cidades nas regiões Sul, Sudeste e Centro-Oeste, onde contamos com quase 3,2 mil colaboradores e atendemos cerca de 1,4 milhão de clientes. Sabemos que cada local tem sua realidade e trabalhamos para conectar esses universos de possibilidades. \n\nConvidamos clientes e colaboradores a viverem um mundo de comprometimento, eficiência, inovação e proximidade. Não se trata apenas de fazer mais, mas de fazer o melhor. E isso vai muito além da conexão. Nossos serviços são ponte para as pessoas acessarem conhecimento, entretenimento e interações com qualidade e velocidade. Cada pessoa faz um mundo de diferença a partir daí. \n\nVero, do tamanho do seu mundo! ",
+    "inventoriesId": [
+        7381,
+        8655
+    ],
+    "logoId": "41646727-e327-9d24-410a-3a12e27e4575",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

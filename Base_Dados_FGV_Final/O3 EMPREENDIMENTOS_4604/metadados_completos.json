@@ -1,0 +1,35 @@
+{
+    "id": 4604,
+    "name": "O3 EMPREENDIMENTOS",
+    "about": "Há mais de 20 anos no mercado de engenharia, em 2020 criamos a O3 Empreendimentos para entregar a mesma qualidade, prazo, personalidade e estilo à Curitiba.\n\nA O3 Empreendimentos foi fundada para ser uma empresa de espírito contemporâneo e dar vida a edifícios ou a condomínios que sirvam ao bem-estar, à segurança e ao conforto de proprietários com elevado nível de exigência.\n\nSomos uma incorporadora e construtora de empreendimentos residenciais de alto padrão. Nosso processo de desenvolvimento de cada produto leva em consideração o ponto de vista de quem vai usá-lo, de suas individualidades e singularidades, agregando aos projetos soluções de moradia, sustentabilidade e design inovador.\n\nAlto padrão de qualidade e rígidos processos de controle construtivo, norteiam cada obra desenvolvida e executada.\n\nCriamos empreendimentos únicos como você, que se adequam ao seu momento de vida.",
+    "inventoriesId": [
+        5797,
+        6922
+    ],
+    "logoId": "bba8f216-d44f-a937-faa0-3a1251a188a2",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

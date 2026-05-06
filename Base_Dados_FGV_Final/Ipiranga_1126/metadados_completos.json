@@ -1,0 +1,90 @@
+{
+    "id": 1126,
+    "name": "Ipiranga",
+    "about": "Somos a Ipiranga, empresa que apoia a jornada de mobilidade dos brasileiros, abastecendo a vida em movimento de milhões de pessoas diariamente.\n \nCom uma oferta completa, comercializamos combustíveis de qualidade e com excelência nos 5,9 mil postos da rede; atuamos no varejo de conveniência com a rede AmPm; oferecemos serviços automotivos nas unidades Jet Oil; e detemos a plataforma de pagamento digital Abastece Aí, conectada ao Km de Vantagens, um dos maiores programas de fidelidade do Brasil.\n \nNo início de 2024, Abastece Aí e Km de Vantagens se uniram para dar origem ao aplicativo KMV. Com a Ipiranga Empresas, marcamos presença no mercado B2B, suprindo negócios de distintos setores com nossos produtos, além de oferecer soluções de infraestrutura e de gestão de abastecimento e de gestão de frotas com o Pró-Frotas.\n \nMantemos, ainda, participação na Iconic (joint venture com a Chevron), líder no mercado de lubrificantes, e no gasoduto Transportadora Brasileira de Gás (TBS). Integramos o portfólio de empresas do Grupo Ultra, companhia de capital aberto, com ações negociadas na B3 de São Paulo e na Bolsa de Valores de Nova York (NYSE).\n \nComo signatários do Pacto Global da Organização das Nações Unidas (ONU), nos mobilizamos para cumprir e disseminar seus dez princípios (combate à corrupção, direitos humanos e trabalhistas e meio ambiente) e buscamos contribuir com os 17 Objetivos de Desenvolvimento Sustentável (ODS). Além disso, somos membros de outros movimentos e entidades, como o Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS), o Instituto Brasileiro de Petróleo e Gás (IBP) e do Programa Compromisso Com o Clima, do Instituto Ekos.\n\nPara saber mais sobre a Ipiranga e seus projetos, acesse: portal.ipiranga/sustentabilidade.\n\n\n",
+    "inventoriesId": [
+        2594,
+        2081,
+        604,
+        2878,
+        3201,
+        3488,
+        3909,
+        4323,
+        4629,
+        5332,
+        5910,
+        6931,
+        8116
+    ],
+    "logoId": "6c26a734-e3e9-4d91-8387-2926485b1209",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 4114,
+    "name": "Karina Plásticos",
+    "about": "A Karina é uma das maiores especialistas na produção de compostos do mercado mundial. Pioneira no país e referência em seu segmento há mais de 45 anos, prima por encontrar soluções tecnológicas que atendam às necessidades de seus clientes.\n\nSeus produtos e infraestrutura estão em conformidade com as mais rigorosas normas e legislações nacionais e internacionais que regem a produção de Compostos de PVC, Especialidades Poliolefínicas, Masterbatch e Bioplásticos Compostáveis. \n\nSomos líderes no mercado brasileiro de compostos de PVC, possuímos alta capacidade produtiva, laboratório tecnológico de ponta e atendemos clientes no mercado brasileiro e internacional. Temos compromisso com a inovação, sustentabilidade e desenvolvimento de novos produtos.",
+    "inventoriesId": [
+        5339,
+        5338,
+        5777,
+        6765,
+        7875
+    ],
+    "logoId": "efcb2855-aae1-4810-b369-08e1f121cd24",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

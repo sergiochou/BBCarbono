@@ -1,0 +1,45 @@
+{
+    "id": 1450,
+    "name": "Construtora Camargo Correa",
+    "about": "A Construtora Camargo Corrêa conduz seus negócios alinhada aos princípios da sustentabilidade e gera valor aos profissionais, acionistas, clientes, operação, negócio e comunidade. A empresa monitora o desempenho sustentável de seus empreendimentos, promovendo as bases para o desenvolvimento social e o respeito ao meio natural através do sistema de Gestão Socioambiental.A construtora criou ainda mecanismos, como o incentivo e a disseminação consistentes de boas práticas, soluções ambientais e sociais responsáveis que, ao apresentarem bons resultados em uma obra, são automaticamente incorporadas ao sistema de gestão.",
+    "inventoriesId": [
+        2703,
+        1778,
+        616,
+        3007
+    ],
+    "logoId": "1d44a0c1-e5a8-4398-bd56-20667a39a266",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

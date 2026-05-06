@@ -1,0 +1,40 @@
+{
+    "id": 5126,
+    "name": "CASA DOS VENTOS",
+    "about": "Sobre a Casa dos Ventos\n\nSomos referência em energia renovável e protagonista na transição energética do Brasil. Com quase duas décadas de atuação, temos conhecimento em todos os elos da cadeia do setor e trabalhamos para que nossos clientes tenham redução de custos e atinjam suas metas de emissão de forma eficiente e sustentável.\n\nPara avançar em nossa posição de relevância no setor, possuímos, conjuntamente com empresas do grupo, o maior portfólio de projetos eólicos e solares do País, com aproximadamente 33,4 GW de capacidade. Aceleramos nosso crescimento por meio da joint venture com a TotalEnergies, uma das maiores empresas de energia do mundo, e nos tornamos o veículo exclusivo de renováveis da multinacional no país.\n\nSomos signatários do Pacto Global da ONU e trabalhamos de forma alinhada aos 17 Objetivos de Desenvolvimento Sustentável (ODS) e às melhores práticas de ESG; preservamos os biomas locais e desenvolvemos projetos sociais nas comunidades em que estamos presentes, de modo a contribuirmos para impulsionar o Brasil rumo a uma economia de baixo carbono.",
+    "inventoriesId": [
+        6636,
+        7678,
+        9136
+    ],
+    "logoId": "adc4666a-ce09-2d24-9919-3a1319a2c294",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

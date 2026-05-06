@@ -1,0 +1,100 @@
+{
+    "id": 589,
+    "name": "Braskem",
+    "about": "A Braskem é uma empresa petroquímica global, orientada para o ser humano e com olhar para o futuro, que cultiva relacionamentos sólidos e tem o propósito de melhorar a vida das pessoas criando as soluções sustentáveis da química e do plástico.\nAtualmente, somos a sexta maior petroquímica do mundo em capacidade de produção de resinas\ntermoplásticas, com 40 unidades industriais distribuídas entre Brasil, Estados Unidos, Alemanha e México. Também somos líderes e pioneiros na produção de biopolímeros feitos à base de etanol da cana-de-açúcar em escala industrial e a maior produtora de resinas termoplásticas das Américas. \nNa Braskem, acreditamos que a inovação é o melhor caminho para se estabelecer uma nova relação com o planeta e gerar impacto positivo para a sociedade. É por meio dela que alavancamos o valor de nosso negócio e, por isso, integramos em nossa estratégia o pilar de inovação. Seguimos consolidando o nosso compromisso com a economia circular e a neutralidade de carbono.",
+    "inventoriesId": [
+        37,
+        2154,
+        2484,
+        449,
+        1630,
+        2924,
+        3157,
+        3506,
+        3899,
+        4202,
+        4740,
+        5429,
+        5818,
+        7084,
+        8687
+    ],
+    "logoId": "519286d7-9910-400e-8d92-5f846d978c82",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

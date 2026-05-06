@@ -1,0 +1,30 @@
+{
+    "id": 8728,
+    "name": "Bem Brasil Alimentos ",
+    "about": "Somos a Bem Brasil, oficialmente registrada como Bem Brasil Alimentos S/A, uma empresa de capital fechado que atua nos segmentos de food service e varejo, atualmente líder no mercado de batatas pré-fritas congeladas. Nossa sede fica na cidade de Araxá e temos outra unidade fabril em Perdizes, ambas na região do Alto Paranaíba de Minas Gerais. Setenta por cento da nossa matéria-prima tem origem nas plantações dos sócios da Companhia – os irmãos Celso Roquetto, João Emílio Rocheto e José Paulo Rocheto –, e os 30% restantes, de fornecedores parceiros.\n\nIniciamos nossas atividades em dezembro de 2006 com o objetivo de marcar presença com um produto bastante comum no food service, mas até então pouco explorado no varejo. Fomos a primeira empresa brasileira de produção de batatas pré-fritas congela\u0002das e petiscos e, em 2024, completamos 18 anos com orgulho por termos conquistado a confiança e a preferência de consumidores e do mercado.",
+    "inventoriesId": [
+        8391
+    ],
+    "logoId": "f5d5b17e-cb46-06d9-5038-3a19dd0462d9",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

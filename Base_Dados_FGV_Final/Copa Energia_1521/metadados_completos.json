@@ -1,0 +1,80 @@
+{
+    "id": 1521,
+    "name": "Copa Energia",
+    "about": "Nossa aspiração é liderar as mudanças da matriz energética, do Brasil para o mundo, a partir de soluções sustentáveis, confiáveis e que tragam resultados sólidos. A Copa Energia nasceu da vontade e do esforço de empreendedores em inovar de forma sustentável, valorizando a vida e oferecendo produtos e serviços que aquecem, alimentam e movem o país inteiro. Vamos construir um amanhã melhor, energizando o Brasil inteiro a partir de uma matriz mais limpa.\n\nAs nossas duas marcas, Copagaz e Liquigás, já conceituadas e consolidadas respondem juntas por cerca de 24,3% da distribuição de Gás Liquefeito de Petróleo (GLP) do Brasil. Possuem operações em 24 Estados e Distrito Federal e cerca de 90 mil colaboradores diretos e indiretos.\n\nEm qualquer lugar do Brasil onde estiverem as marcas da Copa Energia você tem a garantia de um dia a dia com mais comodidade e eficiência.\n\nSer uma empresa líder de mercado é resultado de muitos sonhos e trabalho. A Copa Energia é assim. Nasce do sonho colocado no papel pelo fundador da Copagaz, Ueze Zahran, que em 2021 se tornou realidade: a aquisição da Liquigás pela Copagaz.\n\nEsta composição faz com que as marcas da Copa Energia ocupem a liderança na oferta de engarrafamento, comercialização e distribuição de Gás Liquefeito de Petróleo (GLP) e a responsabilidade de atender cerca de 25% do mercado nacional.\n\nE da realização deste grande sonho passamos, dia após dia, para a concretização de um ainda maior: transformar o setor de gás e energia no Brasil. \n\nSomos orgulhosamente brasileiros e conhecemos profundamente as características das regiões e das pessoas. Afinal, estamos em milhares de lares e empresas desde os anos 50, quando a Copagaz foi criada na cidade de Campo Grande e a Liquigás chegou ao Brasil pelas mãos de engenheiros italianos.\n\nA Liquigás aporta à Copa Energia uma rica história de desafios e conquistas. Trouxe da Itália a tecnologia e mergulhou no espírito brasileiro ao desbravar os mais distantes locais para entregar suas soluções de energia. A Copagaz traz um histórico de confiança e preocupação com a segurança, características presentes desde o início quando distribuía apenas uma tonelada de GLP por dia, até hoje quando entrega em torno de 150 mil toneladas por mês para milhões de lares, indústrias e estabelecimentos comerciais.\n\nCopagaz e Liquigás, lado a lado, formam a Copa Energia e convergem para um mesmo objetivo: entregar GLP com qualidade e levar ainda mais segurança, confiança e eficiência para empresas e casas de todo o Brasil.",
+    "inventoriesId": [
+        2468,
+        2800,
+        3123,
+        3450,
+        3960,
+        4278,
+        4525,
+        5165,
+        5939,
+        6933,
+        8880
+    ],
+    "logoId": "a77546f1-0fe3-b500-8090-3a1b2ac5566f",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

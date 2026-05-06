@@ -1,0 +1,30 @@
+{
+    "id": 9197,
+    "name": "COMBUSTECH ",
+    "about": "A Combustech é uma empresa de engenharia especialista em combustão industrial e em engenharia de processos à altas temperaturas. Completamos 25 anos  e ao longo deste período atendemos clientes em vários segmentos industriais como cimento e cal, papel e celulose,  químico e petroquímico, caldeiras e indústrias de processamento mineral como níquel, alumina e minério de ferro, agronegócio, indústria de alimentos e bebidas, moda e vestuário, energia dentre outras.\nDesde 2017 atuamos na área de consultoria ambiental de sustentabilidade, onde desenvolvemos projetos para grandes empresas brasileiras na transformação sustentável de seus modelos de negócios.\n\nServiços e Soluções\n1)- Soluções de engenharia\nFornecimento de queimadores de alta eficiência, estudos de eficiência energéticas, projetos para mitigação de gases de efeito estufa através da troca de combustíveis e otimização de processos energéticos.\n2)- Soluções Digitais\nFerramenta web-based para o cálculo automático de inventário de GEE , GRI e indicadores ESG. \nModalidade SAAS (Software as a Service) hospedada na Amazon\nFerramenta integra Gestão de Sustentabilidade de unidades com gestão corporativa. \nAutomação para coleta e validação de dados ESG\nInterface fácil e intuitiva \nFlexibilidade e escalabilidade para indicadores ESG\nArmazenamento de evidências e conformidade com requisitos de auditoria\nSegurança de dados fornecidas pela Amazon web service  e conformidade com lei geral de proteção dos dados\nDiferentes frameworks como GRI, SASB, TCFD dentre outros\nSuporte de especialistas em ESG com vasta experiência em sustentabilidade e atendimento ao cliente\nEntrada única de dados pelos usuários e cálculos automáticos dos indicadores com base na inteligência acoplada ao sistema, desenvolvida pelos engenheiros da Combustech.\n3)- Serviços de Carbono e Biodiversidade\nInventário de GEE\nPlano de transição climática\nAvaliação de riscos e oportunidades climáticas\nPreenchimento de questionário CDP\nAnálises de GAPS nas normas IFRS S1 e S2\nImplementação das normas IFRS S1 e S2\nWorkshop e treinamento nas normas IFRS S1 e S2\nMetas baseadas na ciência\nPlanos de gestão da biodiversidade\nAnálise de GAPS TNFD\nImplementação TNFD\nMetas baseadas na natureza\n4)-Serviços de Sustentabilidade\nEstratégia de Sustentabilidade\nRelatórios de sustentabilidade\nRelato integrado\nRelatórios IFRS S1 e S2\nElaboração de Cases para participação em premiações de sustentabilidade\nDupla Materialidade\n5)- Due diligence Ambiental\nDue diligence ambiental para processos de fusão e aquisição\nAvaliação do impacto de passivos ambientais no EV da empresa\n6)- Licenciamento Ambiental\nicenciamento de fábricas greenfield\nLicenciamento de fábricas brownfield\nLicenciamento de resíduos sólidos urbanos\n\n",
+    "inventoriesId": [
+        8961
+    ],
+    "logoId": "05551959-3d6e-a180-14a0-3a1a1f0a64bf",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

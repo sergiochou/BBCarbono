@@ -1,0 +1,35 @@
+{
+    "id": 5372,
+    "name": "2W",
+    "about": "Somos pioneiros na revolução da energia sustentável, com o compromisso de capacitar as pequenas e médias empresas (PMEs) por meio do acesso a energia mais barata e a soluções de sustentabilidade. Entendemos profundamente os desafios enfrentados pelas PMEs, desde a redução de custos operacionais até o cumprimento de normas regulatórias e a implementação de práticas ambientais responsáveis.\n \nNossa gama de serviços abrange desde a migração de contratos de fornecimento de energia limpa através de consultoria especializada para transição energética, permitindo às PMEs não só diminuir sua pegada ecológica mas também otimizar seus custos e alcançar economia duradoura.\n \nComprometida com a propagação da inovação no setor e o avanço de um futuro sustentável, a 2W está ao lado das PMEs na construção de um amanhã mais verde e próspero. Venha conosco nesta jornada em direção a uma era de energia acessível e ambientalmente consciente.",
+    "inventoriesId": [
+        6398,
+        6855
+    ],
+    "logoId": "32954b03-781e-4309-8b77-33bbdb7c34eb",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

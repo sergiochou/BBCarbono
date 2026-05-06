@@ -1,0 +1,50 @@
+{
+    "id": 3236,
+    "name": "I Care Brasil",
+    "about": "A I Care é uma empresa de consultoria em estratégia ambiental cuja ambição é acompanhar organizações públicas e privadas na sua transição ambiental, alterando o paradigma de organizações com alta “pegada ambiental” para uma organização com forte “produtividade ambiental”. \n\nA empresa combina expertise em estratégia ambiental e gerenciamento de projetos (e.g. desenvolvimento e avaliação de políticas públicas, assistência em gerenciamento de projetos) com habilidades técnicas (e.g. ferramentas de avaliação de impacto ambiental, inventários de carbono, análises de ciclo de vida).\n\nA I Care se mobiliza em torno de quatro fatores-chave de sucesso:\n\n    - Uma visão estratégica do meio ambiente, tanto no nível das estratégias empresariais quanto de políticas públicas;\n    - Uma capacidade de inovação que se traduz pelo desenvolvimento de novas ferramentas e métodos;\n    - O desejo de transversalização e integração de competências e especialidades, tanto técnicas quanto econômicas;\n    - Uma visão 360°, tanto no nível de abordagem (da análise regional à análise de produtos), quanto ao nível dos clientes (de empresas ao setor público).\n\nEstruturada em três áreas de especialização - clima, finanças sustentáveis e biodiversidade -, a I Care oferece serviços inovadores para apoiar a transição ambiental e energética para todos os tipos de atores: instituições públicas (ministérios, estados, agências, autoridades locais), empresas privadas e investidores (investidores institucionais, fundos de pensão, companhias de seguros, gestores de ativos, bancos). \n\nNossa forte cultura internacional, apoiada pelas habilidades linguísticas de nossos consultores (francês, inglês, alemão, espanhol, italiano, português, árabe) nos proporciona a capacidade de conduzir projetos internacionais. Nossa experiência, conhecida e reconhecida internacionalmente, nos permitiu concluir mais de mil projetos em mais de vinte países nos últimos anos. \n\nNossa missão é ajudar a criar um mundo em que as pessoas, empresas e governos sejam conscientes sobre seu impacto e suas responsabilidades, se reconheçam como parte integrante da biodiversidade terrestre e assumam o protagonismo na transição ambiental e climática da sociedade para um modelo mais resiliente, equitativo e justo para todos.",
+    "inventoriesId": [
+        4510,
+        5009,
+        6612,
+        7755,
+        8894
+    ],
+    "logoId": "21d878f0-ca64-bc50-e9c9-3a190a2cba83",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

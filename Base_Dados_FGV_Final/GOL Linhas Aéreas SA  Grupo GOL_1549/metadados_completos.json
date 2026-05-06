@@ -1,0 +1,100 @@
+{
+    "id": 1549,
+    "name": "GOL Linhas Aéreas SA - Grupo GOL",
+    "about": "A GOL é uma das principais companhias aéreas do Brasil, integrante do Grupo Abra, fundada em 2001 com o propósito de democratizar o transporte aéreo. Atua por meio de alianças internacionais e acordos de codeshare e interline, ampliando a conectividade de seus clientes. Oferece uma experiência de viagem diferenciada, o programa de fidelidade Smiles, serviços de manutenção aeronáutica por meio da Aerotech e soluções de transporte de cargas no Brasil e no exterior pela GOLLOG.",
+    "inventoriesId": [
+        339,
+        58,
+        2576,
+        2014,
+        1614,
+        2783,
+        3267,
+        3631,
+        3977,
+        4353,
+        4688,
+        5717,
+        6263,
+        7288,
+        9039
+    ],
+    "logoId": "8809fef5-3d59-456c-9edf-ffb53ee0d9be",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

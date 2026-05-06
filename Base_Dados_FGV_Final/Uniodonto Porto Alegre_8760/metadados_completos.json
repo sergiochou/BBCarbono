@@ -1,0 +1,30 @@
+{
+    "id": 8760,
+    "name": "Uniodonto Porto Alegre",
+    "about": "Há mais de 49 anos promovendo saúde bucal com excelência, a Uniodonto Porto Alegre é a maior operadora de planos odontológicos do Sul do país. Fundada em 1975, atua em 68 municípios gaúchos, incluindo a capital, com uma rede de 516 dentistas cooperados e mais de 110 mil clientes de planos. \n \nComo cooperativa odontológica, oferece planos acessíveis e atendimento personalizado, com a qualidade de uma consulta particular. O beneficiário escolhe seu dentista cooperado e é atendido em consultórios particulares, com hora marcada. \n \nAlém disso, a Uniodonto dispõe de pronto atendimento 24h em Porto Alegre, disponível para beneficiários e para a comunidade. Atualmente, conta também com 60 mil clientes de prestação de serviço e 61 colaboradores. ",
+    "inventoriesId": [
+        8625
+    ],
+    "logoId": "07b89db4-74a7-aafa-a7b1-3a19e2a3e04c",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

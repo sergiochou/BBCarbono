@@ -1,0 +1,40 @@
+{
+    "id": 5836,
+    "name": "ACO CEARENSE INDUSTRIAL",
+    "about": null,
+    "inventoriesId": [
+        6733,
+        7852,
+        9186
+    ],
+    "logoId": "200dcbb6-b887-52aa-6234-3a1a42c7f670",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

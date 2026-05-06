@@ -1,0 +1,30 @@
+{
+    "id": 8676,
+    "name": "GREEN STUDIO",
+    "about": "🌱 Green Studio®: Pioneiros em Soluções Sustentáveis para um Futuro Mais Verde\n\nFundado em 2010, o Green Studio® se destaca como uma força visionária na indústria de Arquitetura & Engenharia, onde a inovação encontra a sustentabilidade para desenhar o amanhã. Com mais de 15.000.000m² de obras gerenciadas, nosso legado é construído sobre a excelência projetual, a integração tecnológica e um compromisso inabalável com o meio ambiente.\n\nNosso Compromisso:\n\nInovação em Engenharia: Nossa equipe multidisciplinar integra as mais avançadas técnicas de construção e monitoramento energético para entregar não apenas edificações, mas soluções que definem a vanguarda do setor.\nLiderança em Sustentabilidade: Especializados em certificações LEED, EDGE, WELL, FITWELL E OUTRAS.  Somos agentes de mudança, acelerando a transição para práticas de construção sustentáveis globalmente.\nExcelência e Eficiência: Comprometidos com a eficiência energética e o conforto ambiental, nossos projetos são sinônimos de redução de impacto, custo operacional e manutenção.\nImpacto Positivo: Nosso trabalho vai além das paredes que construímos – ele é um reflexo da nossa responsabilidade com as comunidades e o planeta.\nReconhecimentos:\n\n✅ Green Flag pela Avetta: Reconhecimento internacional em sustentabilidade e responsabilidade corporativa.\n✅ Homologados pela Low Carbon Business Action: Expertise técnica para uma economia de baixo carbono.\n✅ Membro Silver do USGBC: Comprometidos com a construção sustentável e a comunidade global.\n✅ Premiados pelo Latin American Quality Institute: Excelência em gestão empresarial e alinhamento aos ODS da ONU.\n\nNo Green Studio®, cada projeto é uma oportunidade para redefinir o padrão do que significa ser verde no mundo da arquitetura e engenharia. Somos mais do que uma empresa – somos um movimento em direção a um futuro onde cada edifício é parte da solução climática.\n\nJunte-se a nós em nossa jornada para construir um mundo mais sustentável.\n",
+    "inventoriesId": [
+        9293
+    ],
+    "logoId": "09ebaeca-82ad-8335-3317-3a19c3b83d59",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

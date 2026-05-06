@@ -1,0 +1,40 @@
+{
+    "id": 3803,
+    "name": "CCB Brasil",
+    "about": "O China Construction Bank (CCB), com sede em Pequim, é um dos principais bancos comerciais de grande escala na China. Com ações negociadas nas bolsas de Xangai e Hong Kong e valor de mercado de US$ 158,5 bilhões, o banco atende uma carteira de 739 milhões de clientes e ocupa a quarta posição entre as maiores instituições financeiras do mundo, de acordo com o ranking internacional da revista Forbes (2021).\r\nFundado em 1954 com o objetivo de dar suporte ao desenvolvimento do país, o Banco conta com 14.356 pontos de atendimento e 352.588 colaboradores, atendendo centenas de milhões de clientes pessoais e corporativos. A Instituição possui subsidiárias em diversos setores, incluindo gestão de fundos, leasing financeiro, trust, seguros, pensão e banco de investimento, e possui mais de 200 entidades no exterior, cobrindo 31 países e regiões.\r\nEm 2014, o Conglomerado chegou ao Brasil por meio do CCB Brasil, subsidiária que nasceu com o propósito de apoiar o fluxo de comércio exterior entre Brasil e China e ser a operação-âncora do Conglomerado em toda a América Latina. \r\nO China Construction Bank (Brasil) Banco Múltiplo S/A é uma Sociedade Anônima Fechada com operação no Brasil e nas Ilhas Cayman. Sua sede está localizada em São Paulo, capital, e possui nove agências: São Paulo (SP), Ribeirão Preto (SP), Rio de Janeiro (RJ), Belo Horizonte (MG), Curitiba (PR), Blumenau (SC), Brasília (DF), Aldeota (CE) e uma agência internacional em Grand Cayman.            \r\nO desenvolvimento e a publicação do Inventário de Gases de Efeito Estufa (GEE) constitui uma das principais formas da Instituição demonstrar seu posicionamento empresarial, a transparência e de relatar os avanços das iniciativas. É também uma maneira de prestar contas ao público de relacionamento, ao mercado e à sociedade em geral sobre a atuação e as práticas do Banco.",
+    "inventoriesId": [
+        5034,
+        5936,
+        6770
+    ],
+    "logoId": "26c3c925-1b57-4b69-a3cd-ffb45981b6d7",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

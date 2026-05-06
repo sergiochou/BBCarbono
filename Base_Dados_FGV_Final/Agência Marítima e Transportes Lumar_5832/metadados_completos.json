@@ -1,0 +1,40 @@
+{
+    "id": 5832,
+    "name": "Agência Marítima e Transportes Lumar",
+    "about": "Iniciou as suas atividades em 16/12/2002, a partir da união de três obstinados empreendedores, sendo dois deles mulheres. Decididos a serem líderes de mercado, definiram suas ações com foco na construção de uma empresa capaz de fornecer soluções de logística e apoio marítimo e portuário de maneira ampla, atendendo de forma completa e competente todas as demandas de seus clientes. Desta forma, disponibilizaria aos mesmos, tempo e energia para que se dedicassem às suas atividades. A LUMAR é uma empresa especializada na prestação de serviços de apoio marítimo e afretamento de embarcações, para prospecção e produção de petróleo e gás  e apoio logístico.",
+    "inventoriesId": [
+        6729,
+        7666,
+        8828
+    ],
+    "logoId": "fd40da6c-7bbe-4951-82ed-b520e7582f9f",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8633,
+    "name": "ONCOCLÍNICAS&CO",
+    "about": "A Oncoclinicas&CO é resultado de uma iniciativa pioneira em gestão e administração de\nserviços oncológicos.\nFundado pelo oncologista clínico Bruno Ferrari em 2010, na cidade de Belo Horizonte, ao\nlongo destes anos acumulou grandes conquistas em tratamentos para o câncer e, hoje, é\nconsiderado um dos maiores e mais respeitados grupos de oncologia, hematologia,\nradioterapia e genômica da América Latina.\nComo líder no segmento oncológico do país, tem como vantagens competitivas: uma\nequipe altamente especializada, multidisciplinar e uma abordagem médica inovadora; um\nhistórico comprovado de M&A com oportunidades contínuas significativas no mercado; um\nmodelo de negócios flexível e ágil, criando vários caminhos para o crescimento.\nNa essência do Oncoclinicas&CO, o paciente é o centro de tudo. É para ele que buscamos os\nmais avançados tratamentos e o mais alto nível de qualidade e segurança. É por ele que\ntrabalhamos e nos dedicamos, diariamente, a oferecer um atendimento integral e\nmultidisciplinar, sempre com foco no tratamento individualizado.\nPara alcançar excelência em toda a nossa linha de cuidados, contamos com um corpo clínico\naltamente qualificado, com equipes multidisciplinares que incluem enfermagem, farmácia,\nnutrição, psicologia e estomatologia, entre outros, e com profissionais capacitados e\ncomprometidos em acolher o paciente e seus familiares com integridade, proximidade e\nresponsabilidade.",
+    "inventoriesId": [
+        8293
+    ],
+    "logoId": "4b18373b-b8ef-991b-2848-3a19b2e0f8e1",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

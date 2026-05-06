@@ -1,0 +1,30 @@
+{
+    "id": 2453,
+    "name": "ColOff®",
+    "about": "ColOff Industrial. Nosso objetivo é identificar e solucionar os GAP s no mercado de produtos e serviços de saúde. Pesquisa, desenvolvimento e inovação (P,D&I) e fabricação de produtos sustentáveis e descartáveis de uso médico, hospitalar, cirúrgico e laboratorial: Dispositivos Médicos, Kits Diagnósticos, Acessórios, Produtos Pré-Analíticos e Point-of-Care (POCT). Utiliza plástico verde e celulose certificada FSC™ - Manejo Florestal Responsável, estimulando o Mecanismo de Desenvolvimento Limpo e a redução da emissão de gases de efeito estufa (GEE) e a captura de CO².",
+    "inventoriesId": [
+        3070
+    ],
+    "logoId": "9b99cb11-2e28-4fb6-80e4-cc97c8ce3033",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

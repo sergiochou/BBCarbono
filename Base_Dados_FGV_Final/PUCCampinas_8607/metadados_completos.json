@@ -1,0 +1,30 @@
+{
+    "id": 8607,
+    "name": "PUC-Campinas",
+    "about": "A Pontifícia Universidade Católica de Campinas completa 85 anos em 2026 e é reconhecida pela formação de jovens em todas as áreas do conhecimento, por sua extensão e pela sua produção científica. Sua missão coloca a formação integral da pessoa humana e a construção de uma sociedade justa e fraterna como valores centrais. Entre seus princípios institucionais, destaca-se o compromisso com o desenvolvimento sustentável, em suas dimensões ambiental e econômico-financeira, orientado por processos contínuos de inovação e gestão responsável.\n\nA Instituição figura entre as melhores universidades privadas do Brasil em rankings nacionais e internacionais de referência, como o UI GreenMetric World University Ranking, o QS Latin America & The Caribbean University Ranking, o Times Higher Education Latin America Ranking e o Ranking Universitário Folha de São Paulo.  Essa trajetória evidencia a capacidade da PUC-Campinas de aliar sua sólida tradição ao mundo contemporâneo, com seus desafios e transformações, tendo a sustentabilidade como um fundamento que integra ciência, conhecimento e tecnologia.",
+    "inventoriesId": [
+        8599
+    ],
+    "logoId": "a977d4af-1bb7-e3ee-c5c2-3a199506bfa2",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

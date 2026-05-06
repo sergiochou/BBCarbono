@@ -1,0 +1,30 @@
+{
+    "id": 6121,
+    "name": "CAIXA Assistência",
+    "about": "A CAIXA Assistência tem como objetivo principal democratizar o acesso a serviços de Assistência 24 horas, com uma abordagem simples e focada no bem-estar de todos. Através de diversos produtos, como o Rapidex, oferece soluções como autossocorro, reboque e troca de pneus para carros, reboque para motos, encanador e eletricista para casa, proporcionando tranquilidade e comodidade para você e sua família. O Rapidex Mulher oferece assistência e cuidados específicos para mulheres, enquanto o Rapidex MEI oferece as melhores soluções para os negócios. Além disso, o Rapidex do Bem se destaca por destinar 1% da arrecadação para organizações sem fins lucrativos que prestam suporte a vítimas de desastres naturais.\n\nCom uma equipe comprometida com a qualidade e eficiência, a CAIXA Assistência garante estar 24 horas ao seu lado, pronta para atender às necessidades de seus clientes. Seja em emergências ou para garantir o bom funcionamento de seus negócios, a empresa está sempre presente, oferecendo um serviço ágil e confiável. Com um olhar voltado para o cuidado com as pessoas e a comunidade, a Caixa Assistência não só fornece assistência, mas também contribui para causas sociais importantes, reforçando seu compromisso com o bem-estar coletivo.\n",
+    "inventoriesId": [
+        6959
+    ],
+    "logoId": "bab50580-0101-49e1-08c8-3a1a242579d3",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

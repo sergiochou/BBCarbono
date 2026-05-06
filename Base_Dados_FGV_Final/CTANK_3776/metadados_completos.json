@@ -1,0 +1,30 @@
+{
+    "id": 3776,
+    "name": "C-TANK",
+    "about": "A C-TANK® é uma Empresa de Limpeza Offshore e Onshore situada no Rio de Janeiro que oferece as melhores soluções em limpeza industrial para diversos mercados, entre eles: óleo e gás, petroquímica, mineração, papel e celulose, siderurgia e indústrias alimentícias em geral.\r\n\r\nEntendemos a importância de manter o local de trabalho limpo, seguro e saudável e por isso nossa Empresa de Limpeza Offshore e Onshore conta com uma equipe de excelência para a prestação de serviços de limpeza de tanques, limpeza de dutos de ar condicionado, tratamento de superfícies, pintura industrial, serviços de inspeção e gerenciamento de resíduos.\r\n\r\nSomos uma empresa brasileira sediada no município de Niterói, Rio de Janeiro que atua em todo território nacional e todas nossas soluções seguem às recomendações da ANVISA e Ministério da Saúde.",
+    "inventoriesId": [
+        5066
+    ],
+    "logoId": "f3c4ab9f-8b58-4e99-b9d9-763baa782c1b",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

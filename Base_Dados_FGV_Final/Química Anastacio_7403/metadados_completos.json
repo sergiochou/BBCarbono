@@ -1,0 +1,35 @@
+{
+    "id": 7403,
+    "name": "Química Anastacio ",
+    "about": "A Química Anastacio é a maior distribuidora de matéria prima e ingredientes do Brasil e uma das maiores da América Latina, com centros de distribuição estrategicamente localizados e representando cerca de 400 fornecedores globais.\n\nSeu objetivo é transformar oportunidades em resultados sustentáveis, promovendo conexões que impulsionam o crescimento conjunto. A empresa atua em diversos segmentos industriais — de cosméticos e saúde humana até agronegócios e tintas — oferecendo uma linha completa de matérias-primas.\n\nCom foco em qualidade, agilidade, competitividade e comprometimento, a Química Anastacio busca continuamente ampliar seu portfólio e atender às necessidades de seus clientes, alinhando sua operação à responsabilidade socioambiental e às práticas de sustentabilidade.\n",
+    "inventoriesId": [
+        7107,
+        9071
+    ],
+    "logoId": "ecf0079b-6285-1c38-4e3d-3a12b7c49a08",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

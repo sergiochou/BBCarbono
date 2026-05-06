@@ -1,0 +1,40 @@
+{
+    "id": 1950,
+    "name": "Embraer",
+    "about": null,
+    "inventoriesId": [
+        1742,
+        1729,
+        1718
+    ],
+    "logoId": "de97408a-4fc1-4518-8369-fd3dd4fd0f6f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1157,
+    "name": "CERAN",
+    "about": null,
+    "inventoriesId": [
+        3600,
+        3823,
+        4187,
+        4607,
+        5006,
+        5851,
+        6862,
+        7871
+    ],
+    "logoId": "b5e7aae5-d900-405c-b6d6-5338d5be03e2",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

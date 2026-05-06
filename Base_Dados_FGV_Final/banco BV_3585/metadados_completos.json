@@ -1,0 +1,50 @@
+{
+    "id": 3585,
+    "name": "banco BV",
+    "about": "Um dos maiores bancos privados do Brasil\n\nSomos um dos maiores bancos privados do Brasil, conforme o ranking do Banco Central\nEm nosso DNA, nós do banco BV S.A. temos a união de uma das maiores instituições financeiras da América Latina, o Banco do Brasil, e um dos maiores conglomerados do mundo, a Votorantim.\n\nEssa união nos permite fazer mais e melhor, além de garantir que sejamos um banco digital multiprodutos com soluções inovadoras em todos os segmentos em que atuamos: conta, cartões, empréstimo e financiamento para pessoas físicas, seguros e assistências, investidores institucionais, veículos, Corporate & Investment Banking, Asset Management e Private Banking.",
+    "inventoriesId": [
+        4741,
+        5101,
+        6328,
+        7555,
+        9192
+    ],
+    "logoId": "d0a4d03e-fdaa-4ea9-9962-4faae821c8c4",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

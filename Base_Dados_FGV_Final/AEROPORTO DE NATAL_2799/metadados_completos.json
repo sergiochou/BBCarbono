@@ -1,0 +1,30 @@
+{
+    "id": 2799,
+    "name": "AEROPORTO DE NATAL",
+    "about": "Controlada pela Corporación América S/A, a Inframerica é a atual administradora dos Aeroportos de Brasília e Natal. Uma das maiores operadoras aeroportuárias do mundo, a holding argentina tem ampla experiência no setor com dezenas de concessões pela América Latina e Europa, além de atuar em mercados altamente competitivos como os setores de agroindústria, energia, infraestrutura e tecnologia, entre outros.\r\n\r\nCom todo o know how na área de Aeroportos, a Corporación integrou o Consórcio Inframerica com o objetivo de disputar as concessões dos Terminais aéreos brasileiros.\r\n\r\nEm agosto de 2011, vitoriosa no 1º leilão de concessões do país, a Inframerica passou a ser responsável pela construção, manutenção e exploração do Aeroporto Internacional de São Gonçalo do Amarante, na região metropolitana de Natal, por um período de 28 anos, tornando-o o 1º Aeroporto brasileiro 100% privatizado.  \r\n\r\nQuase seis meses depois, em um novo leilão realizado no início de 2012, o Consórcio arrematou também o Aeroporto Internacional de Brasília - Presidente Juscelino Kubitscheck, onde detém 51% de participação na concessão para operar, reformar e ampliar o sítio aeroportuário brasiliense por 25 anos.\r\n\r\nDiferentemente do Terminal potiguar, em Brasília, a Infraero é sócia da Inframerica e mantém 49% de participação na concessão.\r\n\r\nNos quatro primeiros anos (de 2012 a 2015), a Inframerica já investiu mais de R$2 bilhões nos dois Aeroportos, aumentando a capacidade, o conforto e a eficiência destes importantes Terminais aéreos brasileiros.",
+    "inventoriesId": [
+        3838
+    ],
+    "logoId": "d270b63d-4e69-4adf-94b8-ab7c460b6350",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 20,
+        "acronym": "RN",
+        "name": "Rio Grande do Norte"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

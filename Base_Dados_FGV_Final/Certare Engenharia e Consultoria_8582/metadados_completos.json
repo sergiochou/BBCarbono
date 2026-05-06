@@ -1,0 +1,30 @@
+{
+    "id": 8582,
+    "name": "Certare Engenharia e Consultoria",
+    "about": null,
+    "inventoriesId": [
+        8503
+    ],
+    "logoId": "b6d379f6-15d4-ed52-116a-3a197111c5ee",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

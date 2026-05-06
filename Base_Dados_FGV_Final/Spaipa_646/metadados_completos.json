@@ -1,0 +1,30 @@
+{
+    "id": 646,
+    "name": "Spaipa",
+    "about": null,
+    "inventoriesId": [
+        660
+    ],
+    "logoId": "4069bc5f-59a6-46c7-9e80-c86fe2983ab4",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

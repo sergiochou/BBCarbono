@@ -1,0 +1,30 @@
+{
+    "id": 8248,
+    "name": "Grupo Euro17",
+    "about": null,
+    "inventoriesId": [
+        8041
+    ],
+    "logoId": "23a591ea-ade3-45c8-d530-3a17edbab22d",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

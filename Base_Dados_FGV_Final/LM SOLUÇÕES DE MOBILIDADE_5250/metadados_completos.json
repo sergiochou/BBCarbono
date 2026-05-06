@@ -1,0 +1,40 @@
+{
+    "id": 5250,
+    "name": "LM SOLUÇÕES DE MOBILIDADE ",
+    "about": "Há mais de 40 anos trabalhamos com foco em ser a melhor solução de mobilidade para pessoas e empresas. A LM Frotas nasceu na Bahia através da veia empreendedora do seu fundador, Luiz Mendonça Filho, que transformou a empresa em uma das principais referências no setor, com atuação em todo o Brasil.\r\n\r\nEm 2022 demos um grande passo rumo a expansão das nossas operações, através da combinação de negócios com a Volkswagen Financial Services, passamos a ser parte do Grupo Volkswagen. Além da experiência e domínio da operação, tão característica da LM ao longo dos anos, temos a segurança e a solidez de uma das marcas mais valiosas do mundo.\r\n\r\nHoje com a LM Soluções de Mobilidade oferecemos produtos e serviços totalmente personalizados para atender a necessidade de cada cliente, seja em terceirização de frotas, assinatura de veículos, venda de seminovos, aluguel para motorista de aplicativo ou mesmo assinatura de caminhões.\r\n\r\nCom a LM, levamos pessoas e negócios de um lugar para outro com qualidade e eficiência, atributos que são os maiores desafios da mobilidade no Brasil.",
+    "inventoriesId": [
+        6262,
+        6983,
+        8120
+    ],
+    "logoId": "a683440e-cbf4-4907-852c-4a0864a072cd",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1539,
+    "name": "Fundação Planetário da Cidade do Rio de Janeiro (Gávea)",
+    "about": "A Fundação Planetário da Cidade do Rio de Janeiro é um órgão da Prefeitura da Cidade do Rio de Janeiro, localizado neste Município. Tem como Missão difundir a Astronomia e ciências afins, integrando Ciência, Educação e Cultura de forma inovadora. A Visão 2022 da Fundação Planetário inclui a busca permanente de inovação e sustentabilidade. Suas diversas atividades são distribuídas em duas Unidades localizadas nos bairros da Gávea e de Santa Cruz. Destacam-se as sessões de cúpula, exposições de experimentos interativos, observações em telescópios, cursos e palestras. \r\n\r\nUNIDADE GÁVEA:\r\nInaugurado em 19 de novembro de 1970, o Planetário da Gávea foi ampliado em 1998, com a inauguração do Museu do Universo. \r\nEste conjunto arquitetônico, implantado sobre terreno de 13.278 m2 e com 10.051 m2 de área construída, abriga a sede administrativa da Fundação e as principais estruturas de atendimento ao público e promoção de eventos: \r\n- ambientes de exposições e experimentos interativos, auditório, biblioteca e salas de atividades, totalizando 2.280 m2;\r\n- Cúpula Carl Sagan, com capacidade para 260 espectadores; \r\n- Cúpula Galileu Galilei, com capacidade para 90 espectadores.\r\n\r\nO Planetário da Gávea abriga ainda órgãos da Administração Municipal e permissionários cujas atividades estão fora do controle operacional da Fundação Planetário. Funcionaram em 2016:\r\n- Centro de Convivência de Idosos Maria Haydée;\r\n- Teatro Municipal Maria Clara Machado;\r\n- Boate Zero Zero;\r\n- Estacionamento Sun Guard;\r\n- Restaurante La Nave;\r\n- Bar 2EMais.\r\n\r\nUNIDADE SANTA CRUZ:\r\nO Planetário de Santa Cruz, inaugurado em 2008, está localizado no Parque Cidade das Crianças Leonel Brizola.\r\nO edifício, com 1.653 m2 de área construída, abriga salão de exposição, auditório e setor administrativo, e a cúpula D. Pedro II, com capacidade de 90 espectadores. \r\n\r\nMaiores detalhes sobre a Fundação Planetário: ver http://www.planetariodorio.com.br/. Os relatórios executivos dos Inventários de Emissões de GEE da Fundação Planetário estão disponíveis no seguinte local: http://www.planetariodorio.com.br/planetario-sustentavel/",
+    "inventoriesId": [
+        2582,
+        2040,
+        2028,
+        2808,
+        3131
+    ],
+    "logoId": "59c2127b-1712-46d0-98c6-45a0e895e108",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

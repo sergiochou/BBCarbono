@@ -1,0 +1,40 @@
+{
+    "id": 5332,
+    "name": "GRUPO ROVEMA",
+    "about": "A Central Administração e Participações é uma empresa de estatuto societário denominada holding, que conglomera 16 empresas sendo estas: \r\n\r\nFAZENDA RIO MADEIRA S/A - FARM,  AUTOVEMA MOTORS COMERCIO DE CAMIONETAS LTDA, ROVEMA VEICULOS E MAQUINAS LTDA, AUTOVEMA VEICULOS LTDA, PORTAL DE NEGOCIOS E DISTRIBUIDORA DE PNEUS E PECAS LTDA, SUSTENNUTRI NUTRIÇAO ANIMAL LTDA, ROVEMA ENERGIA S/A, UZZIENERGY COMERCIALIZADORA DE ENERGIA LTDA, DISCOVERPAY ADMINISTRADORA DE CARTÕES E PAGAMENTOS LTDA, ROVEMA LOCADORA DE VEICULOS LTDA, UZZIPAY INSTITUICAO DE PAGAMENTO S/A e UZZIENERGY COMERCIALIZADORA DE ENERGIA LTDA.\r\n ",
+    "inventoriesId": [
+        6374,
+        7041,
+        8434
+    ],
+    "logoId": "6ccb1c48-ec64-40df-baa5-76d3274e5665",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 22,
+        "acronym": "RO",
+        "name": "Rondônia"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

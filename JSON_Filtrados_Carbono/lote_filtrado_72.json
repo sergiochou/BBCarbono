@@ -1,0 +1,565 @@
+[
+    {
+        "empresa_pasta": "Renovias Concessionaria SA_1633",
+        "id_fgv": 1633,
+        "nome_oficial": "Renovias Concessionaria S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 1504.63,
+                    "emissoes_escopo_2": 273.626,
+                    "emissoes_escopo_3": 8152.407,
+                    "total_emissoes": 9930.663,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 1301.525,
+                    "emissoes_escopo_2": 291.652,
+                    "emissoes_escopo_3": 607.249,
+                    "total_emissoes": 2200.426,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RFR Reciclagem_8050",
+        "id_fgv": 8050,
+        "nome_oficial": "RFR Reciclagem",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 2826.141,
+                    "emissoes_escopo_2": 142.06,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2968.201,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,٫esgoto,٫atividades٫de٫gestão٫de٫resíduos٫e٫descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RG LOG  Matriz São Paulo_1141",
+        "id_fgv": 1141,
+        "nome_oficial": "RG LOG - Matriz São Paulo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 24065.516,
+                    "emissoes_escopo_2": 1.401,
+                    "emissoes_escopo_3": 86.384,
+                    "total_emissoes": 24153.301,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 14778.299,
+                    "emissoes_escopo_2": 18.997,
+                    "emissoes_escopo_3": 4983.794,
+                    "total_emissoes": 19781.09,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 19004.111,
+                    "emissoes_escopo_2": 30.704,
+                    "emissoes_escopo_3": 5458.764,
+                    "total_emissoes": 24493.579,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 22848.963,
+                    "emissoes_escopo_2": 97.548,
+                    "emissoes_escopo_3": 15461.796,
+                    "total_emissoes": 38408.307,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 33992.496,
+                    "emissoes_escopo_2": 97.548,
+                    "emissoes_escopo_3": 16192.334,
+                    "total_emissoes": 50282.378,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 25556.176,
+                    "emissoes_escopo_2": 249.394,
+                    "emissoes_escopo_3": 5161.801,
+                    "total_emissoes": 30967.371,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Plantio de Seringueiras",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2012",
+                "Inventário 2012 - RG LOG - Matriz São Paulo",
+                "RG LOG LOGÍSTICA E TRANSPORTE LTDA",
+                "Nome fantasia: RG LOG - Matriz São Paulo",
+                "CNPJ: 10.213.051/0001-55",
+                "Setor econômico: Transporte, armazenagem e correio",
+                "Subsetor: Transporte terrestre",
+                "Endereço: Estrada Turística do Jaraguá - 2989 - RG LOG - Jaraguá - São Paulo - SP - 05161-"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RHI Magnesita_8190",
+        "id_fgv": 8190,
+        "nome_oficial": "RHI Magnesita",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 741241.108,
+                    "emissoes_escopo_2": 7688.598,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 748929.706,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 636352.152,
+                    "emissoes_escopo_2": 6666.496,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 643018.648,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RIO ALTO ENERGIAS RENOVAVEIS SA_4943",
+        "id_fgv": 4943,
+        "nome_oficial": "RIO ALTO ENERGIAS RENOVAVEIS S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 9416.277,
+                    "emissoes_escopo_2": 6.048,
+                    "emissoes_escopo_3": 44.244,
+                    "total_emissoes": 9466.569,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 7272.888,
+                    "emissoes_escopo_2": 5.953,
+                    "emissoes_escopo_3": 54.429,
+                    "total_emissoes": 7333.27,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade٫e٫gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RIO PARANAPANEMA ENERGIA_836",
+        "id_fgv": 836,
+        "nome_oficial": "RIO PARANAPANEMA ENERGIA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 588.248,
+                    "emissoes_escopo_2": 16.59,
+                    "emissoes_escopo_3": 2235.308,
+                    "total_emissoes": 2840.146,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 608.167,
+                    "emissoes_escopo_2": 21.479,
+                    "emissoes_escopo_3": 2012.478,
+                    "total_emissoes": 2642.124,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 566.973,
+                    "emissoes_escopo_2": 2.886,
+                    "emissoes_escopo_3": 1733.308,
+                    "total_emissoes": 2303.167,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RL Higiene_2072",
+        "id_fgv": 2072,
+        "nome_oficial": "RL Higiene",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 1.93,
+                    "emissoes_escopo_3": 122.3,
+                    "total_emissoes": 124.23,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 11.28,
+                    "emissoes_escopo_2": 4.97,
+                    "emissoes_escopo_3": 79.34,
+                    "total_emissoes": 95.59,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 30.558,
+                    "emissoes_escopo_2": 2.635,
+                    "emissoes_escopo_3": 71.863,
+                    "total_emissoes": 105.056,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 35.559,
+                    "emissoes_escopo_2": 5.71,
+                    "emissoes_escopo_3": 69.019,
+                    "total_emissoes": 110.288,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 34.773,
+                    "emissoes_escopo_2": 8.419,
+                    "emissoes_escopo_3": 85.857,
+                    "total_emissoes": 129.049,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 39.991,
+                    "emissoes_escopo_2": 11.75,
+                    "emissoes_escopo_3": 83.957,
+                    "total_emissoes": 135.698,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 12.962,
+                    "emissoes_escopo_2": 10.624,
+                    "emissoes_escopo_3": 71.062,
+                    "total_emissoes": 94.648,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 2.942,
+                    "emissoes_escopo_2": 6.947,
+                    "emissoes_escopo_3": 69.778,
+                    "total_emissoes": 79.667,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 3.789,
+                    "emissoes_escopo_2": 6.947,
+                    "emissoes_escopo_3": 77.842,
+                    "total_emissoes": 88.578,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 2.063,
+                    "emissoes_escopo_2": 5.803,
+                    "emissoes_escopo_3": 44.861,
+                    "total_emissoes": 52.727,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 16.166,
+                    "emissoes_escopo_2": 8.656,
+                    "emissoes_escopo_3": 95.459,
+                    "total_emissoes": 120.281,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 5.771,
+                    "emissoes_escopo_2": 3.338,
+                    "emissoes_escopo_3": 68.112,
+                    "total_emissoes": 77.221,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 15.001,
+                    "emissoes_escopo_2": 3.275,
+                    "emissoes_escopo_3": 81.65,
+                    "total_emissoes": 99.926,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;٫reparação٫de٫veículos٫automotores٫e٫motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RodOil_4856",
+        "id_fgv": 4856,
+        "nome_oficial": "RodOil",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 5266.634,
+                    "emissoes_escopo_2": 7.19,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5273.824,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Rumo SA_2930",
+        "id_fgv": 2930,
+        "nome_oficial": "Rumo S.A.",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 923581.406,
+                    "emissoes_escopo_2": 2309.3,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 925890.706,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 957486.548,
+                    "emissoes_escopo_2": 2264.647,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 959751.195,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 950756.192,
+                    "emissoes_escopo_2": 2418.378,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 953174.57,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 895366.192,
+                    "emissoes_escopo_2": 2163.981,
+                    "emissoes_escopo_3": 577514.517,
+                    "total_emissoes": 1475044.69,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 881421.155,
+                    "emissoes_escopo_2": 7503.6,
+                    "emissoes_escopo_3": 863791.674,
+                    "total_emissoes": 1752716.429,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 981114.508,
+                    "emissoes_escopo_2": 2632.175,
+                    "emissoes_escopo_3": 264468.277,
+                    "total_emissoes": 1248214.96,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1008861.809,
+                    "emissoes_escopo_2": 1429.373,
+                    "emissoes_escopo_3": 662443.673,
+                    "total_emissoes": 1672734.855,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,٫armazenagem٫e٫correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ruy de Mello Miller Advocacia_1648",
+        "id_fgv": 1648,
+        "nome_oficial": "Ruy de Mello Miller Advocacia",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.479,
+                    "emissoes_escopo_2": 1.457,
+                    "emissoes_escopo_3": 13.606,
+                    "total_emissoes": 16.542,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Pequena Central Hidrelétrica Garganta da Jararaca"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

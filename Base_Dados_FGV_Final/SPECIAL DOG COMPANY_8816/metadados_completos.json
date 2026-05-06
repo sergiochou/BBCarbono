@@ -1,0 +1,30 @@
+{
+    "id": 8816,
+    "name": "SPECIAL DOG COMPANY",
+    "about": "A   Special Dog Company    nasceu em fevereiro de 2001 na cidade de Santa Cruz do Rio Pardo, interior de São Paulo. Com o desejo de alimentar cães e gatos com a alta qualidade e o carinho que eles merecem, rapidamente se tornou   uma das maiores indústrias do segmento no Brasil. \n\nAtualmente, a marca atua em mais de 38 mil pontos de vendas em 9   estados brasileiros e no Distrito Federal, além de exportação    para países da América do Sul, América Central, América do Norte, África e Ásia.\n\nCom o objetivo de proporcionar maior eficiência logística às operações, a empresa possui quatro centros de distribuição, em Curitiba/PR, Extrema/MG, Cuiabá/MT e Uberaba/MG.  \n\nReferência por aliar a excelência dos produtos e serviços com a valorização de seus colaboradores, a Special Dog Company é constantemente reconhecida como uma das   Melhores Empresas para se Trabalhar no Brasil.",
+    "inventoriesId": [
+        8801
+    ],
+    "logoId": "976b6554-f9c9-55d3-60ef-3a19fc5e482a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

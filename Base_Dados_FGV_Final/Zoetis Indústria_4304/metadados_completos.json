@@ -1,0 +1,45 @@
+{
+    "id": 4304,
+    "name": "Zoetis Indústria",
+    "about": null,
+    "inventoriesId": [
+        5612,
+        5854,
+        6935,
+        8189
+    ],
+    "logoId": "888c860d-2615-4c04-b2a5-7bd71a7b4f13",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

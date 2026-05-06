@@ -1,0 +1,85 @@
+{
+    "id": 568,
+    "name": "ELDORADO BRASIL CELULOSE S/A",
+    "about": "Eldorado Brasil – Compromisso com a excelência e a sustentabilidade\n\nFundada em 2010, a Eldorado Brasil é reconhecida como uma das maiores e mais modernas produtoras de celulose de eucalipto do mundo, com um time de mais de 5 mil colaboradores.\n\nA Companhia administra uma base florestal de mais de 436 mil hectares, sendo aproximadamente 296 mil hectares com florestas plantadas e cerca de 102 mil hectares destinados à conservação ambiental.\n\nSua planta industrial está localizada em Três Lagoas (MS) e tem capacidade produtiva de até 1,83 milhão de toneladas de celulose por ano. A sede administrativa fica em São Paulo (SP), com escritórios comerciais estrategicamente posicionados na Áustria (atendendo Europa, África e Oriente Médio), China (Ásia), Estados Unidos (América do Norte) e também em São Paulo (América Latina).\n\nA Eldorado Brasil opera em sete portos brasileiros: Santos (SP), Jundiaí (SP), Paranaguá (PR), Itapoá (SC), Navegantes (SC), Itajaí (SC) e Imbituba (SC), refletindo sua forte presença no mercado internacional. Hoje, a celulose produzida pela Companhia é exportada para mais de 40 países, em todos os continentes.\n\nEsse desempenho é resultado do compromisso da Eldorado com a inovação, a tecnologia de ponta e a produção responsável, aliando eficiência industrial à conservação ambiental. Nosso time altamente qualificado é a força que impulsiona uma operação de excelência, conectada às melhores práticas de sustentabilidade, fortalecidas com a continua adesão ao sistema publico de emissões do GHG Protocol, reforçando nossa transparência e responsabilidade climática.",
+    "inventoriesId": [
+        2292,
+        2348,
+        2768,
+        3299,
+        3624,
+        3806,
+        4168,
+        4553,
+        5148,
+        5982,
+        7385,
+        8685
+    ],
+    "logoId": "13cbb878-8c74-4381-8fc1-9907b620d0a3",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

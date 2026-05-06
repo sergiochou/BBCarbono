@@ -1,0 +1,50 @@
+{
+    "id": 2482,
+    "name": "Real Transportadora Eireli",
+    "about": null,
+    "inventoriesId": [
+        3225,
+        3531,
+        4119,
+        4201,
+        4974
+    ],
+    "logoId": "0256f950-ad5c-48d2-8419-5a4e061f530b",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

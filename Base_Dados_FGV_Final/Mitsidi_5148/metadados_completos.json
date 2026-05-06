@@ -1,0 +1,40 @@
+{
+    "id": 5148,
+    "name": "Mitsidi",
+    "about": "A Mitsidi é uma empresa de pesquisa, consultoria e soluções em Mudanças Climáticas com foco em eficiência energética, uma das poucas empresas privadas classificadas como um ThinkTank em energia. Situada no Canadá e no Brasil, a Mitsidi, em seus quase 10 anos de história, possui um portfólio com projetos em mais de 30 países. Composta por uma equipe multidisciplinar, possui forte experiência nos setores de energia e carbono e é especializada em pesquisa, tratamento de dados, análise e síntese. A Mitsidi fornece assessoria aos setores público e privado, consumidores finais (edifícios e indústria), organismos internacionais e fundos multilaterais. Desta forma, está agora estabelecida como uma das mais influentes consultorias energéticas.",
+    "inventoriesId": [
+        6399,
+        7512,
+        8462
+    ],
+    "logoId": "34c19e9a-da71-41f3-aa9c-505312dc579a",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

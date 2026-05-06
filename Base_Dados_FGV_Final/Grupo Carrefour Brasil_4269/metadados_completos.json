@@ -1,0 +1,50 @@
+{
+    "id": 4269,
+    "name": "Grupo Carrefour Brasil",
+    "about": "O Grupo Carrefour Brasil ocupa a liderança no setor varejista nacional, sendo o único com atuação em todos os estados do país e no Distrito Federal. Seu propósito é garantir o acesso a alimentos de qualidade a preços justos, atendendo consumidores de diferentes perfis e regiões. \n\nA sede administrativa da empresa está localizada em Barueri, São Paulo, e suas ações são negociadas no segmento Novo Mercado da B3 sob o ticker CRFB3. A companhia integra o Grupo\nCarrefour S.A., multinacional francesa com capital aberto na Bolsa de Valores de Paris.\n\nEm 2025, o Grupo Carrefour Brasil completará 50 anos de atuação no Brasil. Ao longo de cinco\ndécadas, a companhia foi pioneira no formato de hipermercados, inaugurando sua primeira  unidade em 1975. Desde então, impulsionado por uma estratégia contínua de crescimento e expansão, consolidou-se como a principal rede de varejo e um dos maiores empregadores do setor privado no país.\n\nAtualmente, as diversas bandeiras do Grupo, que incluem hipermercados, atacarejos, clubes de\ncompras e lojas de proximidade, recebem cerca de 60 milhões de clientes em suas unidades\nfísicas mensalmente. Esse desempenho torna o Brasil o segundo mercado mais relevante para\na controladora Carrefour S.A. no cenário global, ficando atrás apenas da França.\n\nPara mais informações, consulte nosso Relatório Anual de Sustentabilidade: https://api.mziq.com/mzfilemanager/v2/d/32539bbc-7be4-42e1-a485-98a052dc3a81/d6456036-793d-b025-4113-8afef5b972f0?origin=2\n",
+    "inventoriesId": [
+        5626,
+        5627,
+        6671,
+        6877,
+        8641
+    ],
+    "logoId": "b3da8089-741c-1c41-1007-3a19fffd0e55",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

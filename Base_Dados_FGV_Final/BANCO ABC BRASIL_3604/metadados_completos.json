@@ -1,0 +1,50 @@
+{
+    "id": 3604,
+    "name": "BANCO ABC BRASIL ",
+    "about": "O Banco ABC Brasil é uma instituição financeira múltipla, fundada em 1989, especializada em concessão de crédito e oferta de soluções financeiras para empresas de médio e grande portes dos mais diversos setores da economia. Estamos habilitados a operar nas carteiras comercial, financeira, de investimentos, crédito imobiliário, recuperação de crédito, câmbio, corretagem de seguros e comercialização de energia. \n\nComo uma sociedade anônima de capital aberto, estamos listados no Nível 2 de Governança Corporativa da B3, a bolsa de valores de São Paulo, no Brasil, desde 2007. Estamos estruturados como um partnership de gestão local, com o suporte de um controlador internacional, o Arab Banking Corporation (Bank ABC), instituição sediada no Bahrein. Com a matriz sediada na capital paulista, estamos presentes em 50 cidades brasileiras. No exterior, temos uma agência em Georgetown, nas Ilhas Cayman. \n\nAtualmente, integramos os seguintes índices da B3: IBRA, SMLL, IDIV, IGC, ITAG, IGCT e o Índice Carbono Eficiente (ICO2), que reúne companhias comprometidas com práticas de gestão voltadas à redução das emissões de gases de efeito estufa (GEE).\n\nNossa atuação em ESG é orientada  pela Política de Responsabilidade Social, Ambiental e Climática (PRSAC) e pela estratégia de evolução do Banco ABC Brasil, apoiada por um plano de ação estruturado. Esse plano tem como objetivo preparar a organização para os desafios socioambientais e climáticos e consolidá-la como um agente de transformação positiva em toda a cadeia de valor.",
+    "inventoriesId": [
+        4814,
+        5108,
+        5920,
+        7136,
+        8913
+    ],
+    "logoId": "c3c86725-d2b1-d32f-e552-3a12d14375af",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6119,
+    "name": "BDO RCS AUDITORES INDEPENDENTES - SOCIEDADE SIMPLES LIMITADA",
+    "about": "Somos a quinta maior empresa de auditoria e consultoria do país, líder no middle market e a maior do setor com capital nacional. Conta com mais de 2.000 profissionais e 28 escritórios. Em 2024, obteve um faturamento de R$ 450 milhões. Faz parte da rede BDO, presente em 164 países e com mais de 120 mil profissionais distribuídos em 1.800 escritórios. Em 2024, a BDO registrou globalmente um faturamento de US$ 15 bilhões.\n\nNo Brasil, é representada pela RCS, empresa fundada em 2001 por Raul Corrêa da Silva que em 2009 se fundiu com a Tufani, Reis e Soares e passou a representar a Crowe Horwarth. Àquela altura havia se tornado a sétima maior empresa do setor no país. Dois anos mais tarde, em 2011, passou a representar a BDO no Brasil, se tornando, em seguida, a quinta maior firma de auditoria e consultoria do país.\n\nAo longo desses últimos 13 anos, a BDO RCS adquiriu empresas e cresceu organicamente aumentando a distância para a quinta colocada e se consolidando como a maior do setor no país com capital nacional.\n\nA BDO oferece soluções com foco no middle market, como serviços de Transaction Advisory Services (Due Diligence), Valuation; Fusões e Aquisições (M&A); Alocação do Preço de Compra (PPA), Painéis dinâmicos (BI) de Controle de Resultados e Custos; Apuração de Haveres, Planejamento Estratégico; Laudos de Incorporação; Sucessão Familiar; Fraudes, Investigações e Disputas (FID); Risk Advisory Services (RAS); Auditoria de Demonstrações Contábeis; Assessoria Tributária; Assessoria ao Expatriado; e Administração Contábil, Fiscal, Financeira e Trabalhista. \n",
+    "inventoriesId": [
+        7069,
+        8052
+    ],
+    "logoId": "abf2f8a4-9e79-f89b-843d-3a1315b4599c",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7190,
+    "name": "GRUPO FORMITEX",
+    "about": "O Grupo Formitex é uma holding 100% brasileira que administra indústrias que atuam nos principais segmentos da economia brasileira, dentre eles podemos destacar papel, química, laminados e logística.\n\nHá mais de 50 anos, o Grupo Formitex ajuda a transformar a indústria brasileira com qualidade, tecnologia e desenvolvimento sustentável. Além do reconhecimento nacional e internacional sobre suas operações, o Grupo Formitex também tem como foco o compromisso com o meio ambiente e a sociedade. Ciente da sua importante contribuição para o desenvolvimento do Brasil e do mercado de trabalho, o Grupo Formitex está sempre em busca de aperfeiçoamento dos processos e, consequentemente, melhores resultados para todos.",
+    "inventoriesId": [
+        7030,
+        9063
+    ],
+    "logoId": "15496ffc-4a96-217d-6f8d-3a1251aed148",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

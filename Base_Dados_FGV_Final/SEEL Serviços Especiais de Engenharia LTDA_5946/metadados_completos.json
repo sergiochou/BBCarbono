@@ -1,0 +1,35 @@
+{
+    "id": 5946,
+    "name": "SEEL Serviços Especiais de Engenharia LTDA",
+    "about": "Somos uma construtora voltada à Infraestrutura e Geotecnia, com 30 anos de experiência no atendimento a grandes empresas e indústrias brasileiras, com foco nos segmentos de Logística de Transportes (composto por concessões rodoviárias e ferroviárias, bem como engenharia portuária e marítima), Obras de Mineração, Energia, Petróleo e Gás e Saneamento.",
+    "inventoriesId": [
+        7380,
+        8731
+    ],
+    "logoId": "77a84e4c-718b-437c-8b04-1aca4b51b7a2",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

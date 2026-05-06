@@ -1,0 +1,55 @@
+{
+    "id": 761,
+    "name": "SulAmérica Seguros, Previdência e Investimentos",
+    "about": "A SulAmérica atua nos ramos de seguro saúde e odontológico, automóveis e outros ramos elementares, seguros de vida e acidentes pessoais, gestão de ativos, previdência privada e capitalização.\r\n\r\nNo ano de 2017, a SulAmérica contribuiu com o acesso à saúde para mais de 3 milhões de vidas, viabilizando mais de 70 milhões de atendimentos médicos e odontológicos. Na carteira de Automóveis e Ramos Elementares, que inclui os seguros patrimoniais, foram mais de 1,9 milhão de clientes protegidos por mais de 2 milhões de chamadas recebidas para a assistência 24h e cerca de 20 mil reparos automotivos por mês. Os seguros de Vida e Acidentes Pessoais protegeram mais de 2,8 milhões de vidas no ano. Os ativos sob gestão na área de Investimentos e as reservas de Previdência contribuem para o investimento em infraestrutura, agricultura, indústria e serviços, gerando empregos e contribuindo com a economia do país.\r\n\r\nNo aspecto financeiro, as receitas operacionais da Companhia atingiram R$ 18,2 bilhões, sendo R$ 17,4 bilhões de prêmios de seguros. Em 31 de dezembro de 2017, a SulAmérica Investimentos tinha R$ 38,3 bilhões em ativos sob gestão, e as reservas de previdência totalizaram R$ 6,2 bilhões.\r\n\r\nCom aproximadamente 5 mil funcionários, seus negócios são realizados por meio de uma ampla e diversificada rede de distribuição que inclui mais de 30 mil corretores independentes, além de parcerias com mais de 20 instituições financeiras de varejo, que adicionam à SulAmérica 16 mil pontos de venda. Seu impacto indireto se expande para mais de 30 mil prestadores entre hospitais, clínicas médicas e odontológicas, laboratórios, oficinas para reparo automotivo, guinchos e demais serviços de assistência 24 horas.\r\n\r\nA SulAmérica vem investindo no tema sustentabilidade desde 2009 quando da criação de um comitê e área de Sustentabilidade Empresarial. Desde então, a Companhia vem se destacando no mercado segurador brasileiro, sendo a primeira seguradora a utilizar a metodologia GRI para reporte de indicadores socioambientais em 2008 e, mais recentemente, como uma das seguradoras signatárias fundadoras e conselheira da iniciativa dos Princípios para Sustentabilidade em Seguros (PSI) do Programa das Nações Unidas para o Meio Ambiente para Instituições Financeiras (UNEP FI).",
+    "inventoriesId": [
+        1860,
+        2364,
+        551,
+        2784,
+        3208,
+        3530
+    ],
+    "logoId": "c78cc720-5e12-4dbd-a0ee-fda0c155c74a",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

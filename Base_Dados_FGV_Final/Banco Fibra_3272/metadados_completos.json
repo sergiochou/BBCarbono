@@ -1,0 +1,60 @@
+{
+    "id": 3272,
+    "name": "Banco Fibra",
+    "about": "O Fibra é um banco B2B, focado nos segmentos Corporate, Agro e PMEs, que oferece soluções com precisão e muita velocidade, priorizando a segurança e o conhecimento a partir de um atendimento ágil e humanizado, em um ambiente de confiança e transparência.",
+    "inventoriesId": [
+        4635,
+        4632,
+        4634,
+        5484,
+        5895,
+        6936,
+        8895
+    ],
+    "logoId": "bcb5852b-7ac0-4590-828f-3c772e343d60",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

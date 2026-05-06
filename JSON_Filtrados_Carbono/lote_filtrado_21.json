@@ -1,0 +1,499 @@
+[
+    {
+        "empresa_pasta": "CiT Software SA_4957",
+        "id_fgv": 4957,
+        "nome_oficial": "Ci&T Software S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 34.11,
+                    "emissoes_escopo_2": 69.667,
+                    "emissoes_escopo_3": 700.656,
+                    "total_emissoes": 804.433,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 5.87,
+                    "emissoes_escopo_2": 36.422,
+                    "emissoes_escopo_3": 1118.807,
+                    "total_emissoes": 1161.099,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação▶e▶comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Terrus Carbon Coffee",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Instituto Totum Nome da OI: Ci&T Software S/A",
+                "Nome do responsável pelo inventário: Gabriela dos Santos",
+                "Nome do verificador líder: Claudio Silva"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Citi_383",
+        "id_fgv": 383,
+        "nome_oficial": "Citi",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1037.632,
+                    "emissoes_escopo_2": 953.474,
+                    "emissoes_escopo_3": 7265.224,
+                    "total_emissoes": 9256.33,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 529.733,
+                    "emissoes_escopo_2": 4012.502,
+                    "emissoes_escopo_3": 3959.421,
+                    "total_emissoes": 8501.656,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1694.68,
+                    "emissoes_escopo_2": 2726.325,
+                    "emissoes_escopo_3": 5227.783,
+                    "total_emissoes": 9648.788,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2024.145,
+                    "emissoes_escopo_2": 1881.536,
+                    "emissoes_escopo_3": 8082.842,
+                    "total_emissoes": 11988.523,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1238.045,
+                    "emissoes_escopo_2": 1511.972,
+                    "emissoes_escopo_3": 5415.929,
+                    "total_emissoes": 8165.946,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 609.405,
+                    "emissoes_escopo_2": 1017.725,
+                    "emissoes_escopo_3": 2644.545,
+                    "total_emissoes": 4271.675,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Citrosuco_1666",
+        "id_fgv": 1666,
+        "nome_oficial": "Citrosuco",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 373006.48,
+                    "emissoes_escopo_2": 34403.0,
+                    "emissoes_escopo_3": 382649.08,
+                    "total_emissoes": 790058.56,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 386226.0,
+                    "emissoes_escopo_2": 37351.0,
+                    "emissoes_escopo_3": 1005782.89,
+                    "total_emissoes": 1429359.89,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,▶pecuária,▶produção▶florestal,▶pesca▶e▶aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CJF_4513",
+        "id_fgv": 4513,
+        "nome_oficial": "CJF",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Administração‑pública,‑defesa‑e‑seguridade‑social",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 142.278,
+                    "emissoes_escopo_2": 78.491,
+                    "emissoes_escopo_3": 258.313,
+                    "total_emissoes": 479.082,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 67.845,
+                    "emissoes_escopo_2": 77.134,
+                    "emissoes_escopo_3": 426.354,
+                    "total_emissoes": 571.333,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CLI_8143",
+        "id_fgv": 8143,
+        "nome_oficial": "CLI",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1330.57,
+                    "emissoes_escopo_2": 1039.268,
+                    "emissoes_escopo_3": 1558872.136,
+                    "total_emissoes": 1561241.974,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Clia Pouso Alegre_7497",
+        "id_fgv": 7497,
+        "nome_oficial": "Clia Pouso Alegre",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 151.311,
+                    "emissoes_escopo_2": 10.288,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 161.599,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CMIN_924",
+        "id_fgv": 924,
+        "nome_oficial": "CMIN",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 158985.128,
+                    "emissoes_escopo_2": 23248.357,
+                    "emissoes_escopo_3": 70251.636,
+                    "total_emissoes": 252485.121,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 129176.331,
+                    "emissoes_escopo_2": 24996.263,
+                    "emissoes_escopo_3": 279180.035,
+                    "total_emissoes": 433352.629,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 161486.75,
+                    "emissoes_escopo_2": 20895.059,
+                    "emissoes_escopo_3": 407341.575,
+                    "total_emissoes": 589723.384,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias‑extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 156114.757,
+                    "emissoes_escopo_2": 20769.874,
+                    "emissoes_escopo_3": 40269239.727,
+                    "total_emissoes": 40446124.358,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CMM OFFSHORE BRASIL LTDA_3849",
+        "id_fgv": 3849,
+        "nome_oficial": "CMM OFFSHORE BRASIL LTDA",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 5844.632,
+                    "emissoes_escopo_2": 0.356,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5844.988,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3404.822,
+                    "emissoes_escopo_2": 0.08,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3404.902,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 8949.213,
+                    "emissoes_escopo_2": 0.265,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 8949.478,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2025,
+                "descricao": "á a desenvolver um projeto de carbono neutro e investirá em campanhas para diminuição de impactos ambientais (exemplo projetos de replantio) ate 2025."
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CMOC Brasil_6016",
+        "id_fgv": 6016,
+        "nome_oficial": "CMOC Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 263082.953,
+                    "emissoes_escopo_2": 14814.923,
+                    "emissoes_escopo_3": 4580.36,
+                    "total_emissoes": 282478.236,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 146509.893,
+                    "emissoes_escopo_2": 13734.822,
+                    "emissoes_escopo_3": 9515.087,
+                    "total_emissoes": 169759.802,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 146131.035,
+                    "emissoes_escopo_2": 19827.762,
+                    "emissoes_escopo_3": 11951.872,
+                    "total_emissoes": 177910.669,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "icodereduçãodeemissõesdecurto(2030),médio(2040)elongoprazo (2050)doanobasede2022paraatingiraneutralidadedeemissões. 4.4 Informações sobre contratos co"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CNEC WorleyParsons Engenharia SA_1918",
+        "id_fgv": 1918,
+        "nome_oficial": "CNEC WorleyParsons Engenharia SA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 28.76,
+                    "emissoes_escopo_2": 37.19,
+                    "emissoes_escopo_3": 1781.16,
+                    "total_emissoes": 1847.11,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 27.14,
+                    "emissoes_escopo_2": 16.54,
+                    "emissoes_escopo_3": 1689.59,
+                    "total_emissoes": 1733.27,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 29.99,
+                    "emissoes_escopo_2": 31.85,
+                    "emissoes_escopo_3": 1447.13,
+                    "total_emissoes": 1508.97,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

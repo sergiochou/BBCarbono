@@ -1,0 +1,30 @@
+{
+    "id": 8574,
+    "name": "CNP SEGUROS HOLDING BRASIL SA",
+    "about": "A CNP Seguros Holding Brasil, é uma sociedade entre a CNP Assurances, uma seguradora\nlíder em seguros pessoais na França, com atuação em toda Europa e Brasil e a\nCaixa Seguridade, responsável por consolidar todas as atividades nos ramos de seguros,\ncapitalização, previdência complementar aberta, consórcios, corretagem e atividades\nafins da Caixa Econômica Federal, maior banco público do Brasil.\n\nAtualmente, administramos os negócios da Caixa Seguradora por meio de uma valiosa carteira de produtos que inclui o seguro habitacional e a plataforma digital Youse, primeira de seguros 100% online do País. Contamos também com o Instituto CNP Brasil como um braço de atuação social.\nEm relação as operações, a Caixa Seguradora é líder no mercado brasileiro, com cerca de 32,6% de market share no seguro habitacional. \n\nConheça mais sobre as operações da CSH no site: https://www.cshbrasil.com.br/\n\n",
+    "inventoriesId": [
+        8149
+    ],
+    "logoId": "4a85571b-3ba3-19fc-ea04-3a194cf7b5c2",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

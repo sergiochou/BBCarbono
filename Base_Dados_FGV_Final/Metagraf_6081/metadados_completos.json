@@ -1,0 +1,35 @@
+{
+    "id": 6081,
+    "name": "Metagraf",
+    "about": "A Metagraf é uma indústria gráfica fundada em 1994 e especializada na produção de embalagens. Oferece soluções econômicas e inteligentes para a proteção e acondicionamento dos mais variados tipos de produtos.\n\nCom a alta tecnologia empregada, proporciona às embalagens alto desempenho no manuseio, transporte e diferenciada apresentação no ponto de venda. Nossa engenharia desenvolve cada produto de acordo com a necessidade do cliente, primando sempre pelo melhor resultado.",
+    "inventoriesId": [
+        6966,
+        6937
+    ],
+    "logoId": "6df05052-9910-461d-856e-3a1fd02ece62",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

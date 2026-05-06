@@ -1,0 +1,30 @@
+{
+    "id": 8340,
+    "name": "CTA",
+    "about": "A CTA – Continental Tobaccos Alliance opera a comercialização de tabacos produzidos nos três estados do sul do Brasil: Paraná (PR), Rio Grande do Sul (RS) e Santa Catarina (SC).\n\nSua operação abrange a contratação de produtores integrados, assistência técnica, compra de tabaco, beneficiamento, armazenagem e comercialização para o mercado interno ou exportação.\n\nA CTA industrializa Tabaco Estufa Virgínia, Tabaco Galpão Burley e Tabaco Galpão Comum, entregues nas seguintes apresentações: Strips (lâmina destalada mecanicamente), Hand Strips (lâmina destalada manualmente), Loose Leaf (folhas soltas), Butted Loose Leaf (folhas soltas capochadas), Wrappers (capas para charutos), Bundles (folhas manocadas), Tabaco fermentado, Stem (talos) e Small Lâmina / Fines (lâmina menor / lâmina fina).\n\nDesempenhando um papel estratégico para a cadeia de tabaco nacional, a empresa se torna um elo de geração de valor entre os produtores e os clientes. \n\nPor meio do seu sistema integrado, oferece aos produtores uma ampla assistência técnica e inúmeros programas nos pilares social, ambiental e agronômico, atuando em qualquer oportunidade de melhoria que se reflita em um potencial incremento de renda e qualidade de vida.\n\nPara a cadeia produtiva do tabaco, a empresa contribui para a evolução setorial nos parâmetros ESG*, passando por critérios como a erradicação do trabalho infantil, a promoção dos direitos humanos, da segurança dos trabalhadores, de boas práticas de manejo e da preservação do meio ambiente.\n\nNo nível regional, a CTA realiza um relevante impacto e influência na economia local e na comunidade, onde são desenvolvidas parcerias e projetos sociais voltados à preservação ambiental, inclusão, educação e necessidades essenciais, como segurança e saúde. \n\nTodas as partes interessadas são consideradas no planejamento estratégico dos negócios, desenhando alternativas de potencialização dos impactos positivos, da gestão de riscos e do mapeamento de oportunidades de melhoria.",
+    "inventoriesId": [
+        8620
+    ],
+    "logoId": "6c55b714-b663-4cff-6e06-3a1a06850b64",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

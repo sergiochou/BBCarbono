@@ -1,0 +1,35 @@
+{
+    "id": 2354,
+    "name": "Portonave",
+    "about": "Primeiro terminal portuário privado de contêineres implantado no Brasil, a Portonave – Terminais Portuários de Navegantes S/A chegou ao final de 2023, pelo terceiro ano consecutivo, como o porto que mais movimenta contêineres na Região Sul do Brasil. Além de escoar parte da produção nacional, bem como de outros países da América do Sul, a Portonave recebe cargas de diversas regiões do mundo. Assim, contribui de forma expressiva para as exportações e importações\nbrasileiras e, consequentemente, para o dinamismo da balança comercial. Também é propulsora do desenvolvimento local na região em que está inserida, principalmente no Vale do Itajaí, onde emprega 1,1 mil profissionais diretos e 5,5 mil indiretos e promove diversas iniciativas socioambientais.\nAtualmente, a Portonave possui área total de 400 mil m², sendo cerca de 360 mil m² de área alfandegada, dividida em três berços de atracação, em um cais linear de 900m, com capacidade estática de armazenagem de 30 mil TEUs (unidade de medida equivalente a um contêiner de 20 pés).\nAinda que, ao longo dos anos, os cenários mudem e o contexto nos desafie, a Portonave acredita que no potencial de transformar, positivamente, o setor e a comunidade nos quais estamos inseridos. É por isso que declaramos que movimentamos mais que contêineres, com foco no equilíbrio entre crescimento econômico, preservação ambiental e desenvolvimento social.",
+    "inventoriesId": [
+        7461,
+        8821
+    ],
+    "logoId": "7a60b748-3161-7982-b0ce-3a12bd13db77",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

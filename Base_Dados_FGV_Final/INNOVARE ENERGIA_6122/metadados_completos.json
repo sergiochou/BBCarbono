@@ -1,0 +1,35 @@
+{
+    "id": 6122,
+    "name": "INNOVARE ENERGIA",
+    "about": "Fundada em 2019, a Innovare Comercializadora de Energia tem como objetivo trazer ao seus clientes produtos e serviços exclusivos na área de consultoria, gestão, compra/venda de energia e sustentabilidade, voltado à redução de custos. Com equipe técnica regulatória especializada, para atender a quaisquer necessidade do cliente.",
+    "inventoriesId": [
+        6886,
+        8940
+    ],
+    "logoId": "5803d7f3-72c8-1693-ebd0-3a122355626b",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

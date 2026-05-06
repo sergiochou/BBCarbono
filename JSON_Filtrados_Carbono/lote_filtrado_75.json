@@ -1,0 +1,452 @@
+[
+    {
+        "empresa_pasta": "SEBRAESC_4240",
+        "id_fgv": 4240,
+        "nome_oficial": "SEBRAE/SC",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 71.585,
+                    "emissoes_escopo_2": 41.601,
+                    "emissoes_escopo_3": 179.707,
+                    "total_emissoes": 292.893,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 328.556,
+                    "emissoes_escopo_2": 16.783,
+                    "emissoes_escopo_3": 476.335,
+                    "total_emissoes": 821.674,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 63.878,
+                    "emissoes_escopo_2": 17.026,
+                    "emissoes_escopo_3": 370.791,
+                    "total_emissoes": 451.695,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SEEL Serviços Especiais de Engenharia LTDA_5946",
+        "id_fgv": 5946,
+        "nome_oficial": "SEEL Serviços Especiais de Engenharia LTDA",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 3939.04,
+                    "emissoes_escopo_2": 1.945,
+                    "emissoes_escopo_3": 27314.719,
+                    "total_emissoes": 31255.704,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SEFAC_3839",
+        "id_fgv": 3839,
+        "nome_oficial": "SEFAC",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1043.263,
+                    "emissoes_escopo_2": 790.834,
+                    "emissoes_escopo_3": 15.626,
+                    "total_emissoes": 1849.723,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 391.597,
+                    "emissoes_escopo_2": 217.429,
+                    "emissoes_escopo_3": 46728.766,
+                    "total_emissoes": 47337.792,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1241.805,
+                    "emissoes_escopo_2": 151.422,
+                    "emissoes_escopo_3": 285.143,
+                    "total_emissoes": 1678.37,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade٫e٫gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SENAI  Departamento Regional de São Paulo_5290",
+        "id_fgv": 5290,
+        "nome_oficial": "SENAI - Departamento Regional de São Paulo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 1522.847,
+                    "emissoes_escopo_2": 1397.852,
+                    "emissoes_escopo_3": 8640.792,
+                    "total_emissoes": 11561.491,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SENAI EMPRESA_5605",
+        "id_fgv": 5605,
+        "nome_oficial": "SENAI EMPRESA",
+        "estado": "MS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 44.118,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.75,
+                    "total_emissoes": 44.868,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 31.02,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1.112,
+                    "total_emissoes": 32.132,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 31.463,
+                    "emissoes_escopo_2": 0.761,
+                    "emissoes_escopo_3": 0.88,
+                    "total_emissoes": 33.104,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Serena Energia_3282",
+        "id_fgv": 3282,
+        "nome_oficial": "Serena Energia",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 224.478,
+                    "emissoes_escopo_2": 12.003,
+                    "emissoes_escopo_3": 117.312,
+                    "total_emissoes": 353.793,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 18625.196,
+                    "emissoes_escopo_2": 50.493,
+                    "emissoes_escopo_3": 463.773,
+                    "total_emissoes": 19139.462,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 14194.501,
+                    "emissoes_escopo_2": 14.687,
+                    "emissoes_escopo_3": 2962.194,
+                    "total_emissoes": 17171.382,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3185.293,
+                    "emissoes_escopo_2": 14.772,
+                    "emissoes_escopo_3": 4010.884,
+                    "total_emissoes": 7210.949,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade٫e٫gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SERPRO SEDE_5974",
+        "id_fgv": 5974,
+        "nome_oficial": "SERPRO SEDE",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Informação\u0002e\u0002comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 1214.947,
+                    "emissoes_escopo_2": 2134.015,
+                    "emissoes_escopo_3": 70.234,
+                    "total_emissoes": 3419.196,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 878.796,
+                    "emissoes_escopo_2": 3927.921,
+                    "emissoes_escopo_3": 32.317,
+                    "total_emissoes": 4839.034,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 1012.047,
+                    "emissoes_escopo_2": 1370.349,
+                    "emissoes_escopo_3": 351.136,
+                    "total_emissoes": 2733.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação٫e٫comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SERVMAR SERVIÇOS TÉCNICOS AMBIENTAIS LTDA_3110",
+        "id_fgv": 3110,
+        "nome_oficial": "SERVMAR SERVIÇOS TÉCNICOS AMBIENTAIS LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 231.398,
+                    "emissoes_escopo_2": 38.464,
+                    "emissoes_escopo_3": 129.82,
+                    "total_emissoes": 399.682,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 262.067,
+                    "emissoes_escopo_2": 23.895,
+                    "emissoes_escopo_3": 14.992,
+                    "total_emissoes": 300.954,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sesc Minas_8393",
+        "id_fgv": 8393,
+        "nome_oficial": "Sesc Minas",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras٫atividades٫de٫serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "SESI_1096",
+        "id_fgv": 1096,
+        "nome_oficial": "SESI",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Serviços de assistência social sem alojamento",
+                    "emissoes_escopo_1": 2.28,
+                    "emissoes_escopo_2": 23.65,
+                    "emissoes_escopo_3": 609.02,
+                    "total_emissoes": 634.95,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Serviços de assistência social sem alojamento",
+                    "emissoes_escopo_1": 15.11,
+                    "emissoes_escopo_2": 54.47,
+                    "emissoes_escopo_3": 669.12,
+                    "total_emissoes": 738.7,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

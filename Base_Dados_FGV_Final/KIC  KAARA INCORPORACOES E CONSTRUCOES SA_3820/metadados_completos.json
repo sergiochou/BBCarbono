@@ -1,0 +1,45 @@
+{
+    "id": 3820,
+    "name": "KIC - KAARA INCORPORACOES E CONSTRUCOES S/A",
+    "about": "A Mota Machado iniciou os seus trabalhos em 1968, num escritório no Centro de Fortaleza. A Construtora planejava a construção de casas isoladas, sendo esta sua principal atividade até o ano de 1975. Hoje, a Mota Machado está presente nas capitais Fortaleza, São Luís e Teresina, construindo empreendimentos residenciais e comerciais, somando mais de três milhões de metros quadrados construídos e entregues. A busca constante por inovação, tecnologia e sofisticação com sustentabilidade orientam a qualidade das obras, e a satisfação dos clientes desafia a empresa a continuar como referência no mercado imobiliário. Essas premissas norteiam para que projetos sustentáveis – financeiramente, socialmente e ambientalmente – sejam desenvolvidos com transparência, segurança e ética.",
+    "inventoriesId": [
+        5244,
+        5858,
+        7196,
+        8317
+    ],
+    "logoId": "9d71b32a-5841-bc33-74b4-3a1323c12734",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

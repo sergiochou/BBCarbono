@@ -1,0 +1,45 @@
+{
+    "id": 4338,
+    "name": "Aviagen",
+    "about": "Sobre a Aviagen\n\nDesde 1923, a Aviagen tem sido a empresa global preferida em genética avícola, com a missão de ajudar seus clientes – produtores mundiais de carne de frango – a fornecer uma proteína saudável e sustentável para suas comunidades em constante crescimento. Aplicando seus valores corporativos de “Breeding Sustainability”, a Aviagen implementa ferramentas que promovem a produção comercial de frangos com foco no meio ambiente e na responsabilidade social, além do benefício econômico dos produtores, ao mesmo tempo em que promove o rendimento, a saúde e o bem-estar das aves.\nPara satisfazer as diversas demandas de mercado, a Aviagen oferece um completo portfólio de reprodutoras sob as marcas Arbor Acres®, Indian River® e Ross®. O Rowan Range® e o Specialty Males® têm como objetivo o crescimento mais lento e outros nichos específicos de mercado. A sede da Aviagen fica em Huntsville, no estado americano do Alabama, e detém operações no Reino Unido, Europa, Turquia, América Latina, Índia, Austrália, Nova Zelândia, África e Estados Unidos, além de joint ventures na Ásia. A empresa tem aproximadamente 8.000 colaboradores e atende a clientes em 100 países.\n\nPara mais informações, visite Aviagen.com ou siga a Aviagen no LinkedIn\n",
+    "inventoriesId": [
+        5641,
+        6618,
+        7527,
+        9010
+    ],
+    "logoId": "8347901a-19c7-4b11-bd9a-e93d551b5658",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

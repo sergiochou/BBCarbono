@@ -1,0 +1,55 @@
+{
+    "id": 2927,
+    "name": "Grupo Protege",
+    "about": "O Grupo Protege iniciou suas atividades em 1971 na cidade de São Paulo. Desde sua inauguração e durante toda a década de 70, consolidou-se nos serviços de vigilância, alocação de mão de obra especializada, operações de transporte de valores, processamento de numerário, guarda e custódia de valores, entre outros.\r\nA partir da década de 80 a empresa iniciou sua expansão para outras regiões do território nacional, marcando presença nos principais centros econômicos do país.\r\nHoje o Grupo Protege está entre as maiores prestadoras de serviços do Brasil, aliando qualidade e tecnologia nas atividades realizadas, além de um contínuo investimento no aperfeiçoamento de seus profissionais.",
+    "inventoriesId": [
+        4198,
+        4573,
+        5654,
+        5888,
+        7684,
+        9142
+    ],
+    "logoId": "5126d0e3-9243-4dfe-8e90-3535ba342212",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

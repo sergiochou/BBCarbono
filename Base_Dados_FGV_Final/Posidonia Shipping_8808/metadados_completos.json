@@ -1,0 +1,30 @@
+{
+    "id": 8808,
+    "name": "Posidonia Shipping",
+    "about": null,
+    "inventoriesId": [
+        8937
+    ],
+    "logoId": "fe085566-e7eb-4fd6-3b02-3a1a201e6fea",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

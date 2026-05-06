@@ -1,0 +1,35 @@
+{
+    "id": 5978,
+    "name": "Dunlop Pneus",
+    "about": "Um dos maiores fabricantes de pneus do mundo, o Grupo Sumitomo Rubber Industries é uma empresa global com sede no Japão e mais de 400 anos de história. Composto por mais de 33 empresas associadas em diversos segmentos, o grupo está presente em vários países, incluindo o Brasil, onde opera sob a Sumitomo Rubber do Brasil.\n\nNo Brasil, a Sumitomo Rubber detém as marcas Dunlop, Falken e Sumitomo, produzindo e comercializando pneus para veículos de passeio, vans, SUVs, picapes, caminhões, ônibus e motocicletas. A Dunlop se destaca por sua trajetória de inovação, iniciada com a invenção do primeiro pneu pneumático em 1888 por John Boyd Dunlop, um marco que revolucionou o transporte no mundo.\n\nA fábrica da Dunlop em Fazenda Rio Grande (PR), na região metropolitana de Curitiba, é a mais moderna do país e referência em tecnologia e eficiência, com processos adaptados às necessidades dos consumidores brasileiros. Inaugurada em outubro de 2013, a unidade recebeu um investimento total de R$ 2,45 bilhões, impulsionado por três ciclos de expansão de capacidade produtiva. O aporte mais recente, superior a R$ 1 bilhão, foi anunciado em 2021 e concluído no final de 2024, reforçando o compromisso da empresa com o desenvolvimento local.\n\nÚnica fábrica no Brasil a utilizar a exclusiva tecnologia TAIYO (Sun) System, um processo de produção sem emendas nas partes de borracha que garante maior precisão e segurança. Atualmente, gera mais de 2.000 empregos diretos e mantém forte atuação social na comunidade local.\n\nPautada por uma atuação responsável com o planeta, a sociedade e os consumidores, a Sumitomo Rubber do Brasil tem o ESG embutido em seu modelo de negócios. A empresa busca ampliar seu impacto positivo por meio de iniciativas sustentáveis e de responsabilidade social, promovendo o desenvolvimento econômico e social da região, e concentrando seus esforços na busca por soluções que reduzam as emissões de Gases de Efeito Estufa, sempre alinhada às metas corporativas internas, aos objetivos de seus clientes e às demandas da sociedade.\n\nA história da Sumitomo Rubber no Brasil é marcada pela inovação, tecnologia e compromisso com a qualidade, consolidando-se como uma referência no setor de pneus e contribuindo para o crescimento do mercado automotivo nacional.\n",
+    "inventoriesId": [
+        6811,
+        8604
+    ],
+    "logoId": "420c23fa-5783-a3e0-093a-3a20848dde23",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

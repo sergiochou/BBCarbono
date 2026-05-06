@@ -1,0 +1,40 @@
+{
+    "id": 4577,
+    "name": "ENERGIZZI ENERGIAS DO BRASIL",
+    "about": "Criada em 2017, com o objetivo de atuar estrategicamente nas áreas de energia de maneira ampla e diversificada, envolvendo a indústria de óleo e gás e de geração de energias convencionais e renováveis. A Energizzi Energias do Brasil atua de forma integrada nos segmentos de Exploração e Produção de petróleo, além de estudos técnicos e de viabilidade econômica para indústria de energia renovável. \r\n\r\nA empresa possui hoje os campos de Santana e Vale do Quiricó, ambos situados no estado da Bahia.\r\n",
+    "inventoriesId": [
+        6160,
+        7307,
+        8891
+    ],
+    "logoId": "e27fe299-50ea-43cc-8bea-5d047e56b722",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

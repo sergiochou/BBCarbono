@@ -1,0 +1,50 @@
+{
+    "id": 3282,
+    "name": "Serena Energia",
+    "about": "Serena is a Brazilian renewable energy company that operates across the entire clean energy generation cycle — from the development, construction, and management of power plants to sharing prosperity with end users. Our digital energy comes from the best wind and solar resources in the country, harnessing nature’s potential to deliver sustainable, high-quality power with no unnecessary burden on the environment.\n\nWith a diversified and resilient portfolio located in regions with the best climate conditions across the Americas, Serena delivers energy with excellence, low risk, and strong returns. In February 2025, our portfolio includes 2,801.2 MW in operation, 2.5 MW under construction, and a development pipeline totaling 6,540.8 MW.\n\nSustainability is at the core of our operations. We adopt state-of-the-art clean technologies to support the energy transition and ensure a reliable, long-term energy supply. Serena is constantly investing to be a source of limitless clean energy, creating a true cycle of prosperity — from nature to stakeholders.\n\nLearn more at https://srna.co/. ",
+    "inventoriesId": [
+        4583,
+        5090,
+        5870,
+        7229,
+        9237
+    ],
+    "logoId": "d8e3642e-4d4f-a1f2-a8c7-3a12f07b77e5",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

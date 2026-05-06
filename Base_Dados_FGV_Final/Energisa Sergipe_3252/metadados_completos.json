@@ -1,0 +1,30 @@
+{
+    "id": 3252,
+    "name": "Energisa Sergipe",
+    "about": null,
+    "inventoriesId": [
+        4691
+    ],
+    "logoId": "bb50a8e2-0914-43e1-977b-3c68a9133d82",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 26,
+        "acronym": "SE",
+        "name": "Sergipe"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

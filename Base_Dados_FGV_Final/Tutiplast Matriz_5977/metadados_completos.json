@@ -1,0 +1,35 @@
+{
+    "id": 5977,
+    "name": "Tutiplast Matriz",
+    "about": "Manufatura, montagem e Pintura de peças injetadas em resinas termoplásticas.",
+    "inventoriesId": [
+        6887,
+        9011
+    ],
+    "logoId": "b9f36b75-42b9-8e05-2e7d-3a11d15c7503",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

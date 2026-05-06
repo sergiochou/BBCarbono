@@ -1,0 +1,30 @@
+{
+    "id": 3173,
+    "name": "Green Farm",
+    "about": "O Projeto Green Farm CO2FREE realiza treinamento para aumentar a capacidade de inventário de GEE para empresas, eventos e cidades, incluindo treinamento on-line, para que empresas e cidades participantes possam coletar dados, processar e produzir relatórios. Tem registro independente na www.pnbsae.com.br. Compensa / neutraliza os inventários de GEE das empresas com créditos de carbono florestal das atividades de projetos da Fazenda Porto Bonito. O projeto canaliza recursos de empresas para implementar e promover usos integrados da terra. Ao implementar atividades de reflorestamento e projeto de PFM em uma região de 99% de conversão de terras, busca aumentar a resiliência do Corredor Internacional de Biodiversidade da Bacia do Rio Paraná (uma das maiores do país e do planeta) promovendo a abordagem da Infraestrutura Verde ao planejamento da paisagem e um mecanismo de remuneração para serviços ecossistêmicos.O projeto inclui uma série de atividades sociais para aumentar a escala e a sustentabilidade ao longo do tempo, que trabalham para fortalecer a governança local.",
+    "inventoriesId": [
+        4370
+    ],
+    "logoId": "ae29d865-764a-4cc8-8a82-7b8aea0825dd",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

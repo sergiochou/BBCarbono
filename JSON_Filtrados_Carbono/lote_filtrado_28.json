@@ -1,0 +1,578 @@
+[
+    {
+        "empresa_pasta": "CTG BRASIL_1232",
+        "id_fgv": 1232,
+        "nome_oficial": "CTG BRASIL",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 491.243,
+                    "emissoes_escopo_2": 23.509,
+                    "emissoes_escopo_3": 2733.81,
+                    "total_emissoes": 3248.562,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 604.256,
+                    "emissoes_escopo_2": 28.037,
+                    "emissoes_escopo_3": 1898.668,
+                    "total_emissoes": 2530.961,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 443.216,
+                    "emissoes_escopo_2": 23.494,
+                    "emissoes_escopo_3": 2059.584,
+                    "total_emissoes": 2526.294,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1604.511,
+                    "emissoes_escopo_2": 81.122,
+                    "emissoes_escopo_3": 3123.021,
+                    "total_emissoes": 4808.654,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1113.286,
+                    "emissoes_escopo_2": 219.547,
+                    "emissoes_escopo_3": 528.191,
+                    "total_emissoes": 1861.024,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 885.874,
+                    "emissoes_escopo_2": 399.189,
+                    "emissoes_escopo_3": 472.895,
+                    "total_emissoes": 1757.958,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 802.848,
+                    "emissoes_escopo_2": 132.056,
+                    "emissoes_escopo_3": 847.12,
+                    "total_emissoes": 1782.024,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1459.007,
+                    "emissoes_escopo_2": 11.645,
+                    "emissoes_escopo_3": 800.833,
+                    "total_emissoes": 2271.485,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CTR Itaboraí_1477",
+        "id_fgv": 1477,
+        "nome_oficial": "CTR Itaboraí",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 25501.044,
+                    "emissoes_escopo_2": 2.24,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 25503.284,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Plantio de 90.000 mudas de espécies nativas."
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CVC BRASIL_4876",
+        "id_fgv": 4876,
+        "nome_oficial": "CVC BRASIL",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 51.531,
+                    "emissoes_escopo_2": 26.389,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 77.92,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CYRELA COMMERCIAL PROPERTIES_2895",
+        "id_fgv": 2895,
+        "nome_oficial": "CYRELA COMMERCIAL PROPERTIES",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 1453.45,
+                    "emissoes_escopo_2": 1568.882,
+                    "emissoes_escopo_3": 121.97,
+                    "total_emissoes": 3144.302,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CYRELA_9190",
+        "id_fgv": 9190,
+        "nome_oficial": "CYRELA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 1049.692,
+                    "emissoes_escopo_2": 244.142,
+                    "emissoes_escopo_3": 136540.22,
+                    "total_emissoes": 137834.054,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Câmara de Comercialização de Energia Elétrica  CCEE_5453",
+        "id_fgv": 5453,
+        "nome_oficial": "Câmara de Comercialização de Energia Elétrica - CCEE",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 0.032,
+                    "emissoes_escopo_2": 11.086,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 11.118,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 0.031,
+                    "emissoes_escopo_2": 6.343,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6.374,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Círculo LTDA_4224",
+        "id_fgv": 4224,
+        "nome_oficial": "Círculo LTDA",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1159.842,
+                    "emissoes_escopo_2": 1773.92,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2933.762,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 868.517,
+                    "emissoes_escopo_2": 588.276,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1456.793,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 561.931,
+                    "emissoes_escopo_2": 817.113,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1379.044,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Danone Ltda_1199",
+        "id_fgv": 1199,
+        "nome_oficial": "Danone Ltda.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 22262.08,
+                    "emissoes_escopo_2": 2408.17,
+                    "emissoes_escopo_3": 295656.77,
+                    "total_emissoes": 320327.02,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 16681.392,
+                    "emissoes_escopo_2": 1645.868,
+                    "emissoes_escopo_3": 304162.91,
+                    "total_emissoes": 322490.17,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4029.416,
+                    "emissoes_escopo_2": 3682.823,
+                    "emissoes_escopo_3": 387280.571,
+                    "total_emissoes": 394992.81,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3994.164,
+                    "emissoes_escopo_2": 6944.664,
+                    "emissoes_escopo_3": 409156.07,
+                    "total_emissoes": 420094.898,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4792.852,
+                    "emissoes_escopo_2": 10654.261,
+                    "emissoes_escopo_3": 379190.902,
+                    "total_emissoes": 394638.015,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3498.491,
+                    "emissoes_escopo_2": 9484.199,
+                    "emissoes_escopo_3": 307230.456,
+                    "total_emissoes": 320213.146,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3213.115,
+                    "emissoes_escopo_2": 6940.307,
+                    "emissoes_escopo_3": 381046.987,
+                    "total_emissoes": 391200.409,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Dasa_4002",
+        "id_fgv": 4002,
+        "nome_oficial": "Dasa",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 21704.471,
+                    "emissoes_escopo_2": 8044.69,
+                    "emissoes_escopo_3": 343.702,
+                    "total_emissoes": 30092.863,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 28398.376,
+                    "emissoes_escopo_2": 23731.0,
+                    "emissoes_escopo_3": 18806.28,
+                    "total_emissoes": 70935.656,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 32077.811,
+                    "emissoes_escopo_2": 8153.646,
+                    "emissoes_escopo_3": 34508.749,
+                    "total_emissoes": 74740.206,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 28570.052,
+                    "emissoes_escopo_2": 4468.53,
+                    "emissoes_escopo_3": 41417.911,
+                    "total_emissoes": 74456.493,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto Metano Lages",
+                "Date: 07 July 2022",
+                "Reference: VC/0645/2022",
+                "VOLUNTARY Presented to:",
+                "CDM Project 0268: Lages Methane Avoidance Project",
+                "CANCELLATION",
+                "Reason for cancellation:",
+                "CERTIFICATE Voluntary Cancellation of Certified Emission Reductions (CERs) from the CDM Project 0268: Lages",
+                "Methane Avoidance Project, made by Lages Bioenergética, fully owned by ENGIE Brasil Energia, on",
+                "behalf of DIAGNÓSTICOS DA AMÉRICA S.A., to offset CO2 emissions related to the reported GHG"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Deloitte_184",
+        "id_fgv": 184,
+        "nome_oficial": "Deloitte",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 54.234,
+                    "emissoes_escopo_2": 461.309,
+                    "emissoes_escopo_3": 5885.724,
+                    "total_emissoes": 6401.267,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 13.902,
+                    "emissoes_escopo_2": 603.548,
+                    "emissoes_escopo_3": 4984.585,
+                    "total_emissoes": 5602.035,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 115.825,
+                    "emissoes_escopo_2": 475.178,
+                    "emissoes_escopo_3": 6621.892,
+                    "total_emissoes": 7212.895,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 54.995,
+                    "emissoes_escopo_2": 298.308,
+                    "emissoes_escopo_3": 6392.293,
+                    "total_emissoes": 6745.596,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 78.269,
+                    "emissoes_escopo_2": 304.812,
+                    "emissoes_escopo_3": 5885.675,
+                    "total_emissoes": 6268.756,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 4.117,
+                    "emissoes_escopo_2": 234.759,
+                    "emissoes_escopo_3": 4631.181,
+                    "total_emissoes": 4870.057,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 2.546,
+                    "emissoes_escopo_2": 155.862,
+                    "emissoes_escopo_3": 4286.457,
+                    "total_emissoes": 4444.865,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.817,
+                    "emissoes_escopo_2": 73.915,
+                    "emissoes_escopo_3": 1052.964,
+                    "total_emissoes": 1128.696,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.668,
+                    "emissoes_escopo_2": 112.466,
+                    "emissoes_escopo_3": 322.772,
+                    "total_emissoes": 436.906,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 103.548,
+                    "emissoes_escopo_2": 50.354,
+                    "emissoes_escopo_3": 1445.96,
+                    "total_emissoes": 1599.862,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "te que tem como meta chegar a Net Zero, engajar profissionais e clientes e ter práticas e politicas internas nas questões ambientais até 2030. No Bras"
+            },
+            "status": "sucesso"
+        }
+    }
+]

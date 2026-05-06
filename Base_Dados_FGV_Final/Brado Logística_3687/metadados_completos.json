@@ -1,0 +1,50 @@
+{
+    "id": 3687,
+    "name": "Brado Logística",
+    "about": "Fundada em 2011, a Brado se destaca como líder no setor de transporte multimodal de cargas em contêineres no Brasil. Combinando eficientemente longas distâncias ferroviárias com trechos mais curtos em rodovias, a empresa oferece soluções logísticas abrangentes.\n\nSediada em Curitiba, Paraná, a Brado é especializada na movimentação de contêineres e cargas diversas, conectando os principais centros de produção e consumo do país. A empresa planeja e executa operações que integram inteligentemente diferentes modais de transporte, como ferrovias e rodovias, com uma extensa rede nacional de terminais, armazéns e portos.\n\nA Brado possui uma robusta infraestrutura própria, que inclui 18 locomotivas, mais de 1.070 vagões—dos quais 298 são do tipo double stack—, 4.700 contêineres, incluindo 90 de 53 pés, 35 empilhadeiras, 2 pórticos elétricos e 18 reach stackers. \n\nQuadro resumo dos serviços logísticos customizados:  \n\nTRANSPORTE MULTIMODAL DE CARGAS: Os corredores de atuação da Brado combinam distâncias curtas via caminhão e distâncias longas via trem, atendendo ao mercado interno e aos fluxos de exportação e importação.\n\nOPERAÇÃO DE TERMINAIS: A Brado emprega uma rede própria de terminais e terminais  e de terceiros para prestar serviços como carga e descarga de containers, conexões. , multimodais, energização de cargas refrigeradas, reparos e lavagem de containers.\n\nGESTÃO DE DIFERENTES TIPOS DE CARGA: A movimentação multimodal de mercadorias e é realizada em três diferentes tipos de contêineres: reefer (container com equipamento próprio de refrigeração), dry (destinado a cargas gerais, totalmente fechado por meio de duas portas padrão) e isotank (permite o transporte de cargas liquidas).\n\nARMAZENAGEM E CROSSDOCKING: A empresa conta com áreas de transbordo e armazenagem, que dão suporte a operações direcionadas a todos os tipos de mercado.",
+    "inventoriesId": [
+        4962,
+        5622,
+        5823,
+        6803,
+        8996
+    ],
+    "logoId": "7ae4c884-4c4c-4eab-bf29-e00e891e4087",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

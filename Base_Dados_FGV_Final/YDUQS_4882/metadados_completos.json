@@ -1,0 +1,40 @@
+{
+    "id": 4882,
+    "name": "YDUQS",
+    "about": "Somos a Yduqs Participações S.A., um dos maiores grupos de tecnologia e serviços de educação do Brasil, com o propósito de impulsionar a qualidade e transformar o ensino superior no país. Com sede no Rio de Janeiro (RJ) e mais de 54 anos de experiência, oferecemos um portfólio diversificado de instituições e modalidades de ensino, desde cursos técnicos, graduações e pós-graduações até programas de educação executiva em todas as regiões brasileiras.\nCom uma sólida integração à cultura digital, desenvolvemos metodologias, conteúdos e soluções que garantem uma educação superior de qualidade para mais de 1,3 milhão de alunos de todas as classes sociais. Nossa abordagem é pautada na qualidade, escalabilidade, inovação, inclusão e personalização, sempre adaptando o ensino às necessidades e realidades de cada estudante. Nosso portfólio educacional é composto pelas marcas: Estácio, Ibmec, IDOMED, Wyden e Damásio. Operamos também as edtechs HardWork Medicina e Grupo Q (plataforma com as marcas Qconcursos, Folha Dirigida, OPX e Prisma). Além da EnsineMe, dedicada ao desenvolvimento de metodologias, conteúdos digitais, plataformas e tecnologias específicas para a educação.\n",
+    "inventoriesId": [
+        6048,
+        7029,
+        8556
+    ],
+    "logoId": "8484e9f5-0556-43cf-a68e-18c6ad6c79bb",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

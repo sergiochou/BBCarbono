@@ -1,0 +1,70 @@
+{
+    "id": 1272,
+    "name": "LATAM Airlines Brasil",
+    "about": "A LATAM Airlines Group S.A. é o maior grupo de companhias aéreas da América Latina e um dos maiores do mundo. A LATAM é o grupo de companhias aéreas mais sustentável de toda a América e o quinto no mundo, segundo a Avaliação de Sustentabilidade Corporativa (CSA) da S&P Global de dezembro de 2025.\n\nPossui subsidiárias no Brasil, Chile, Colômbia, Equador, Paraguai e Peru, com destinos para América do Sul, América Central e Caribe, América do Norte, Europa, África e Oceania. O grupo conta com uma ampla rede de destinos — 163, considerando operações de passageiros e cargas —, frequências de voo diversificadas e múltiplas possibilidades de conexão. A LATAM Brasil (TAM S.A.), subsidiária do grupo no país, foi criada a partir da associação entre LAN Airlines e TAM Linhas Aéreas, em 2012. Em 2024, a LATAM Brasil contava com 20.347 funcionários e uma frota de 152 aeronaves (LATAM, 2024). Para este inventário, sua estrutura está dividida em três unidades operacionais: LATAM Airlines Brasil, LATAM MRO e LATAM Cargo.\n\nEm 2021, o Grupo LATAM apresentou sua Estratégia de Sustentabilidade, baseada em quatro pilares: Mudança Climática, Gestão Ambiental, Economia Circular e Valor Compartilhado. Essa estratégia visa minimizar o impacto ambiental e gerar valor social, ambiental e econômico nos países onde opera. \n\n A LATAM visa impulsionar o desenvolvimento sustentável na América do Sul, preservar a cultura, a biodiversidade e a riqueza natural dos destinos dos seus voos. A empresa está comprometida com o enfrentamento dos desafios sociais, ambientais e de crescimento econômico da atualidade e, para isso, persegue objetivos ambiciosos, como a gestão integral da sua pegada de carbono, a transição para um modelo de economia circular e a contribuição concreta às comunidades situadas em locais de difícil acesso.\n\nPara mais informações, acesse o relatório corporativo do Grupo LATAM disponível em: https://www.latamairlinesgroup.net/pt-pt/financial-information/annual-reports",
+    "inventoriesId": [
+        2585,
+        1993,
+        2787,
+        3181,
+        3483,
+        3952,
+        6251,
+        7147,
+        8498
+    ],
+    "logoId": "8bc2cdee-e7fb-4630-ae42-7343d09a8523",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

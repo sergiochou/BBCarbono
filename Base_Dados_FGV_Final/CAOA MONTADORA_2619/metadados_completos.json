@@ -1,0 +1,45 @@
+{
+    "id": 2619,
+    "name": "CAOA MONTADORA ",
+    "about": "Um novo marco de desenvolvimento no coração do Brasil. Inaugurada em 2007, a CAOA Montadora está estrategicamente localizada no Distrito Agroindustrial de Anápolis (DAIA), em Goiás, para escoamento da produção para uma emergente cadeia produtiva. É resultado de um investimento inicial de R$1.2 bilhão, com capital 100% próprio. São mais de 174.000m2 de área construída, e 1.500.000m2 de área total, com alta tecnologia, inovação, qualidade e sustentabilidade em todos os setores. Desde 2017, duas gigantes internacionais, a Hyundai e a CAOA CHERY, passaram a dividir a mesma estrutura, trazendo mais produtividade e mais riqueza para o Brasil. E desde então, a produção da nossa fábrica em Anápolis não para de crescer, com novos investimentos sendo planejados ano a ano.\r\nA CAOA Montadora atua no seguimento de montagem de veículos automotores e utilitários, no qual, tecnologia, qualidade e respeito ao meio ambiente é o foco. A fábrica tem alta complexidade e flexibilidade, sendo amplamente robotizada e conta com colaboradores extremamente cuidadosos e talentosos. O volume total de produção é dividido em modelos diferentes, e o Centro de Pesquisa e Eficiência Energética de Anápolis é a prova de que a qualidade e tecnologia são levadas a sério na organização. ",
+    "inventoriesId": [
+        3695,
+        6368,
+        7659,
+        9026
+    ],
+    "logoId": "27a8661a-a229-ff01-1ce6-3a1b4096d4a7",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

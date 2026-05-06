@@ -1,0 +1,60 @@
+{
+    "id": 2622,
+    "name": "Sagres",
+    "about": "A Sagres iniciou suas atividades em 2002, com foco estratégico na área de operações portuárias, armazenagem de cargas, agenciamento marítimo, logística nacional e internacional, além da locação de equipamentos e prestação de serviços industriais. Com um modelo competitivo e orientado à geração de valor, a empresa concentra suas operações no Porto de Rio Grande, expandindo também sua atuação para três terminais fluviais no estado do Rio Grande do Sul.\n\nA partir de 2010, a Sagres passou a contar com a participação do Grupo Ultramar, do Chile, fortalecendo sua estrutura e ampliando sua presença no mercado. Atualmente, integra um conjunto de empresas e marcas no Brasil, com destaque para a Sagres Agenciamentos Marítimos e a Rochamar. Em conjunto, essas empresas garantem ampla cobertura e sinergia na prestação de serviços, com mais de 20 escritórios distribuídos ao longo da costa brasileira.\n\nCom metas de crescimento ambiciosas, a Sagres orienta suas atividades pelos pilares de Segurança, Sustentabilidade e Eficiência Operacional. Como diferencial competitivo, adota um sistema de gestão integrada baseado em certificações como ISO 14001, ISO 45001 e Trace, aplicadas em todas as suas unidades de negócio.\n\nAlém disso, a empresa reafirma seu compromisso com as comunidades do entorno, promovendo projetos de responsabilidade socioambiental voltados à inclusão social e à geração de renda.\n\nSua missão é desenvolver soluções e serviços confiáveis em logística portuária, pautados em uma cultura de sustentabilidade e boas práticas. Sua visão é ser reconhecida como uma parceira de excelência na prestação de serviços logísticos portuários. Seus valores são: segurança, compromisso, excelência, foco no cliente e alegria.",
+    "inventoriesId": [
+        3455,
+        3996,
+        4394,
+        4969,
+        5247,
+        7463,
+        9099
+    ],
+    "logoId": "075be365-15d6-4bd4-8fe1-0df34ec5713c",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

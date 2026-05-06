@@ -1,0 +1,65 @@
+{
+    "id": 1034,
+    "name": "Ticket ",
+    "about": "A Ticket é uma plataforma completa de benefícios - incluindo flexíveis - para alimentação, transporte, premiações, bem-estar, educação, home office, antecipação salarial e cultura. Protagonista na transformação digital de seu setor, tem orgulho de estar lado a lado dos trabalhadores brasileiros há 49 anos e atende empresas com diferentes realidades, tamanhos e perfis corporativos, conectando o mundo do trabalho a soluções que promovem qualidade de vida e eficiência em gestão de benefícios.\n\nSão mais de 7 milhões de pessoas trabalhadoras beneficiadas, 130 mil empresas-clientes e 800 mil estabelecimentos credenciados. Com inovação movendo suas pessoas e negócios, sempre colocando o cliente no centro, desenvolve soluções que apoiam e facilitam o dia a dia de seus públicos, para além dos benefícios convencionais, a exemplo da recente aquisição da RB Serviços, que passa a ser uma unidade de transportes da marca, fortalecendo sua atuação em vale-transporte; e também com o TicketConecta, da GOintegro Edenred, que reúne soluções de engajamento para empresas e enriquece a cultura organizacional, fortalecendo seu amplo portfólio de soluções e benefícios corporativos.\n\nA Ticket é uma marca da Edenred, plataforma global e digital de serviços e meios de pagamento que atua como companheira de todas as horas para pessoas trabalhadoras, empresas e comerciantes. Líder em seu segmento, conecta mais de 60 milhões de usuários, mais de 2 milhões de estabelecimentos e 1 milhão de empresas clientes, em 45 países.\n\nSaiba mais:\nSite: https://www.ticket.com.br/\nFacebook: https://www.facebook.com/ticketservicos\nYouTube: https://www.youtube.com/user/ticketservicos\nLinkedIn: https://www.linkedin.com/company/ticketservicos\nInstagram: https://www.instagram.com/ticket_servicos/\nTwitter: https://twitter.com/ticket_servicos\nTikTok: https://www.tiktok.com/@ticket_servicos",
+    "inventoriesId": [
+        17,
+        2619,
+        1628,
+        596,
+        2830,
+        3207,
+        3613,
+        3794
+    ],
+    "logoId": "17e8a63e-3086-8ed9-d834-3a1a0c090a20",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

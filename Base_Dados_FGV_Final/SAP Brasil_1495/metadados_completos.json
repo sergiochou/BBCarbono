@@ -1,0 +1,35 @@
+{
+    "id": 1495,
+    "name": "SAP Brasil ",
+    "about": null,
+    "inventoriesId": [
+        43,
+        1634
+    ],
+    "logoId": "1f39e987-72c3-46b9-8399-53b54f17ee34",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

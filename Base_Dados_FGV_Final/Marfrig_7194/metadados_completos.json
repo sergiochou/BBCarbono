@@ -1,0 +1,35 @@
+{
+    "id": 7194,
+    "name": "Marfrig",
+    "about": "A Marfrig é líder global na produção de hambúrgueres e uma das maiores empresas de proteína bovina do mundo, em capacidade. Dedica-se à produção de alimentos de alto valor agregado à base de proteína animal, basicamente bovina, e de opções variadas, prontas para o consumo, como vegetais congelados, ovinos, peixes e molhos.\n\nÉ uma das companhias de alimentos mais internacionalizadas e diversificadas, seus produtos estão presentes em mais de 100 países. São cerca de 30 mil colaboradores em 19 unidades produtivas bovinas, 10 centros de distribuição e comerciais e espalhadas por quatro continentes.\n\nOutra frente na qual a Marfrig se destaca é na produção e comercialização de itens à base de proteína vegetal, a partir do Brasil. É a primeira empresa no país a atuar nesse nicho em escala comercial para o food service. Nessa atividade, mantém acordo exclusivo com a norte-americana Archer Daniels Midland Company (ADM), que inclusive deu origem à PlantPlus Foods, criada em 2020. Resultado de joint venture entre as duas companhias, a PlantPlus Foods produz e comercializa alimentos de base vegetal por meio de canais de varejo e das redes food service nas Américas do Sul e do Norte.​​",
+    "inventoriesId": [
+        7309,
+        8385
+    ],
+    "logoId": "8c69ab0c-2725-7b86-d062-3a12fbd114f5",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

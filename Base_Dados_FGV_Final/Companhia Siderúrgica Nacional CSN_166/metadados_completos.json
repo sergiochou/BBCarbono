@@ -1,0 +1,85 @@
+{
+    "id": 166,
+    "name": "Companhia Siderúrgica Nacional (CSN)",
+    "about": "A CSN é uma empresa brasileira, com sede em São Paulo (SP), posicionada como um dos mais eficientes complexos siderúrgicos integrados do mundo. A Companhia iniciou sua atividade em 1941, durante o Estado Novo, por decreto do então Presidente da República, Getúlio Vargas, e seu aço viabilizou a implantação das primeiras indústrias nacionais, núcleo do atual parque fabril brasileiro. Desde 1993, quando foi privatizada pelo Governo Federal, veio diversificando seus negócios. Atualmente, com mais de 80 anos de história, alia tradição e inovação a uma trajetória de crescimento nos setores de siderurgia, mineração, cimento, logística e energia. A empresa de capital aberto com mais de 25.000 funcionários, cujas ações são negociadas na Bolsa de Valores de São Paulo (B3) e na NYSE, é altamente integrada, atuando em toda a cadeia produtiva do aço, desde a extração do minério de ferro, até a produção e comercialização de bobinas, folhas metálicas, perfis e embalagens de aço, incluindo participações em ferrovias, terminais portuários e geração de energia. \r\n",
+    "inventoriesId": [
+        2327,
+        2206,
+        2845,
+        3265,
+        3633,
+        4061,
+        4300,
+        4636,
+        5022,
+        6135,
+        6967,
+        8228
+    ],
+    "logoId": "aef388d6-b8e0-4ce3-b773-dc76089c4a42",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

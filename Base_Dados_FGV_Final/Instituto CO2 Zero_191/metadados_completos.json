@@ -1,0 +1,50 @@
+{
+    "id": 191,
+    "name": "Instituto CO2 Zero",
+    "about": "O Instituto CO2 Zero é uma OSCIP - Organização da Sociedade Civil de Interesse Público, sem fins lucrativos, e tem como finalidade, promover, apoiar e desenvolver ações no interesse da sociedade para a defesa, preservação, conservação, recuperação do meio ambiente,  manutenção da qualidade de vida do ser humano e da sustentabilidade, através de projetos de caráter científico, pesquisa e inovação, consultorias, gestão de reciclagem, capacitação e educação ambiental, atividades relacionadas a crédito de carbono, compensação das emissões de Gases de Efeito Estufa – GEE. Somos especialistas no desenvolvimento de Inventário de GEE - Gases de Efeito Estufa de eventos, corporativo e industrial, gestão de adaptação e mitigação, e projetos em abordagens de REDD+. Maiores informações em nosso site: www.co2zero.eco.br  ",
+    "inventoriesId": [
+        2581,
+        2231,
+        509,
+        3045,
+        3350
+    ],
+    "logoId": "4a45ee2a-777e-4a20-b44b-f1865c24a5ee",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

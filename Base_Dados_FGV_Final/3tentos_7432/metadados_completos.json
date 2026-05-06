@@ -1,0 +1,35 @@
+{
+    "id": 7432,
+    "name": "3tentos ",
+    "about": "A Três Tentos Agroindustrial S.A. é uma companhia brasileira de capital aberto, fundada em 1995, que atua de forma integrada no setor do agronegócio.Desenvolve suas atividades ao longo da cadeia de valor agrícola, oferecendo soluções completas ao produtor rural, desde a comercialização de insumos e assistência técnica até a originação de grãos, processamento industrial, produção de biocombustíveis e soluções financeiras.\n\n",
+    "inventoriesId": [
+        7103,
+        8172
+    ],
+    "logoId": "4fdcaf00-496d-da33-cb46-3a1fd07ea033",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

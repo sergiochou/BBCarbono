@@ -1,0 +1,50 @@
+{
+    "id": 4241,
+    "name": "Grupo Nexxees",
+    "about": "Somos uma holding atuante nos mercados financeiro, mercantil, de saúde e de logística. E, desde 1992, temos como diretriz incentivar, com apoio e integração de outros agentes transformadores, o crescimento econômico responsável e a transformação social por meio de nossas empresas, investidas e do nosso Instituto, o Instituto Nexxera.\r\n\r\nComprometidos com os princípios ESG, procuramos adotar práticas ambientalmente conscientes, promover a diversidade em suas operações e incentivar a manutenção de altos padrões de governança corporativa. Garantimos também a inclusão, o desenvolvimento sustentável e o apoio à sociedade por meio de programas e iniciativas de impacto social.\r\n\r\nNós, do Grupo Nexxees, buscamos aproximar pessoas, empresas e sociedade para redefinir o futuro.",
+    "inventoriesId": [
+        5444,
+        5443,
+        5804,
+        7304,
+        9135
+    ],
+    "logoId": "296d41a6-5fe1-4d8b-ac17-4f474a59c696",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

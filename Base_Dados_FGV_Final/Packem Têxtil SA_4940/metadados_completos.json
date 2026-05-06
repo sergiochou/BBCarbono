@@ -1,0 +1,40 @@
+{
+    "id": 4940,
+    "name": "Packem Têxtil S.A.",
+    "about": "A Packem, fundada em 1998 com sede em Aurora, Santa Catarina, é uma empresa privada que se destaca na produção de embalagens de ráfia de alta qualidade. Nosso foco é atender indústrias que valorizam a excelência na relação com seus clientes, oferecendo produtos que garantem segurança e o cumprimento de acordos. Embora sejamos uma empresa jovem, nossa equipe traz mais de 20 anos de experiência no setor.\n\nNossa principal atividade é a produção e comercialização de contentores flexíveis (big bags). Fabricados a partir de fibras sintéticas (ráfia) de PET ou polipropileno, nossos big bags são amplamente utilizados para o transporte e acondicionamento de diversos materiais, como fertilizantes, sementes, minérios, químicos e petroquímicos.\n\nA Packem orgulha-se de ser pioneira no mercado brasileiro como a primeira indústria a produzir big bags de PET 100% reciclados e recicláveis. Esse pioneirismo contribui significativamente para a economia circular, recuperando toneladas de resíduos plásticos que seriam descartados na natureza e beneficiando diretamente inúmeras famílias envolvidas na coleta de sucata.\n\nCom uma equipe de mais de 1.000 colaboradores, a Packem opera em 06 unidades de produção: 04 em Santa Catarina, 01 em Minas Gerais e 01 no Rio Grande do Sul. Além disso, contamos com 01 Centro de Distribuição e armazenamento, 02 escritórios comerciais, localizados em Curitiba, Brasil, e Santiago, Chile, para atender nossos clientes de forma abrangente.",
+    "inventoriesId": [
+        6050,
+        6941,
+        8888
+    ],
+    "logoId": "3ea45989-adcf-4aea-a14f-970176a706bb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

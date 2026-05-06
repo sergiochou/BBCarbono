@@ -1,0 +1,40 @@
+{
+    "id": 1554,
+    "name": "ICTSI Rio Brasil 1",
+    "about": "Nossa história começou em 1998. De lá para cá, já movimentamos 4,7 milhões de TEUs e investimos mais de R$ 500 milhões em obras, equipamentos e sistemas de última geração, ampliando em cerca de 70% nossa capacidade operacional.\nEsse avanço nos permite operar com eficiência e segurança os maiores navios que escalam a costa brasileira, o que nos garantiu a renovação da concessão até 2048.\nA sustentabilidade e a responsabilidade social sempre estiveram em nosso DNA. Somos reconhecidos como empresa “Parceira da Natureza” e fomos o primeiro terminal portuário da Costa Leste da América do Sul certificado como “Neutro de Carbono”, resultado de práticas sustentáveis e uso de equipamentos modernos — como nossos 12 RTGs elétricos, que garantem mais de 50% de energia renovável nas operações de manuseio vertical.\nCom a área alfandegada expandida de 136 mil m² para 193 mil m² e a reativação do ramal ferroviário interno, ampliamos nossa capacidade de atendimento aos hubs de importação e exportação. Oferecemos soluções completas para movimentação de contêineres, cargas reefer, cargas de projeto e mercadorias classificadas pelo IMDG Code, com áreas de segregação e armazenagem específicas.\nContamos com o apoio logístico da iTracker (vazios, unitização e pré-stacking de exportação) e do CLIA Pouso Alegre, que complementam nosso portfólio para atender diferentes setores do comércio exterior e da distribuição nacional.\nDesde 2020, somos Rio Brasil Terminal — uma nova marca, com a mesma paixão por servir. Fazemos parte do maior operador portuário independente do mundo, a ICTSI, presente em 32 terminais, em 19 países.\nCombinando tradição, inovação e compromisso, entregamos mais do que serviços: oferecemos soluções logísticas inteligentes, que agregam valor à sua operação.",
+    "inventoriesId": [
+        6157,
+        7195,
+        8311
+    ],
+    "logoId": "11e6f812-92dc-4c99-b850-1df24706fb7f",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

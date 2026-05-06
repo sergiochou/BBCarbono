@@ -1,0 +1,70 @@
+{
+    "id": 837,
+    "name": "VIXPar",
+    "about": "A Divisão Logística do Grupo Águia Branca, formada pelas marcas VIX, Autoport, Servicarga, Let's, EBEC e V1, consolidou nas últimas cinco décadas seu posicionamento no mercado brasileiro – atuando com ética, respeito, inovação, segurança, eficiência e parceria junto a seus clientes. \nOfertando soluções logísticas customizadas, eficientes, inovadoras e seguras, a VIXPar é uma empresa com mais de 50 anos de experiência e comprometimento com a excelência, inovação, segurança operacional e sustentabilidade. E foram esses tradicionais pilares que nos trouxeram reconhecimento por todo o Brasil e Mercosul.\nAtuamos com um portfólio amplo de atividades para atender à todas as necessidades de nossos clientes, dentre elas: Logística Dedicada, Logística Automotiva, Gestão e Terceirização de Frota e Mobilidade, além da comercialização de veículos leves e pesados seminovos.\nCom mais de 11 mil colaboradores altamente qualificados espalhados pelas nossas mais de 100 bases operacionais, bem como uma frota de equipamentos moderna e conservada por meio de rigorosos padrões de manutenção, focamos na qualidade e excelência na prestação de serviços, entregando aos clientes operações inteligentes e eficientes, bem como os melhores índices de segurança do mercado, um fator absolutamente crítico e diferencial ao lidar com operações industriais de elevado grau de risco.\nNorteado pelo propósito “Mover o mundo com excelência e respeito às pessoas”, trabalhamos com valores sólidos como a ética, o compromisso com os melhores resultados, a contínua busca pela superação, foco prioritário na segurança e o respeito que transforma nossas relações comerciais em relações humanas e duradouras.\nA VIXPar também estimula a melhoria contínua dos processos e atividades, a partir do uso das ferramentas da Qualidade. As oportunidades de melhorias são avaliadas e reconhecidas. Além disso, dedicamos esforço com a preservação do meio ambiente através de projetos que vão desde a coleta seletiva de resíduos, geração de energia fotovoltaica, gestão atmosférica, de resíduos sólidos e gestão de efluentes.\nO Grupo Águia Branca: O que começou com uma pequena empresa de ônibus nascida em 1946 no município de Colatina, no Espírito Santo, tornou-se um dos maiores grupos empresariais do setor de transportes e logística do país e deu origem à VIXPar. O grupo atua nos serviços de transporte rodoviário, logística e comércio de veículos.",
+    "inventoriesId": [
+        649,
+        2562,
+        2155,
+        1623,
+        57,
+        5143,
+        6697,
+        7204,
+        9040
+    ],
+    "logoId": "247d99aa-2fff-253f-8bc4-3a12ecf8ab0a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 5440,
+    "name": "JFRS",
+    "about": "A Justiça Federal do Rio Grande do Sul é uma Instituição de primeira instância do Poder Judiciário.",
+    "inventoriesId": [
+        6536,
+        6467,
+        7862,
+        7860,
+        7863,
+        9083
+    ],
+    "logoId": "b756d387-4c5f-48cd-b96f-ed0165b036b4",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

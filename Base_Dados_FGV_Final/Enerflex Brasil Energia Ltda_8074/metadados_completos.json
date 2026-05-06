@@ -1,0 +1,35 @@
+{
+    "id": 8074,
+    "name": "Enerflex Brasil Energia Ltda",
+    "about": "A Enerflex é uma empresa global que fornece soluções integradas para o setor de energia, com foco em gás natural, transição energética e tratamento de água. Fundada em 1980 e sediada em Calgary, Canadá, a Enerflex oferece uma ampla gama de serviços e produtos, incluindo compressão, processamento, refrigeração, tratamento de água e produção de eletricidade para o setor de petróleo e gás. \n\nA empresa é conhecida por sua expertise em engenharia, fabricação, instalação e manutenção de equipamentos, bem como por seu compromisso com a sustentabilidade e as práticas ambientais, sociais e de governança (ESG). A Enerflex opera em mais de 20 países e conta com uma força de trabalho global de mais de 4800 pessoas, dedicando-se a apoiar seus clientes com soluções inovadoras e eficientes, transformando energia para um futuro sustentável.\n\nCom uma presença consolidada no mercado brasileiro, a Enerflex emprega mais de 300 profissionais qualificados e colabora estreitamente com seus clientes para promover a transição energética e a implementação de tecnologias avançadas para compressão e processamento de gás natural, tratamento de água e produção de eletricidade. A empresa continua a expandir suas operações no Brasil, alinhada à visão global de transformar energia para um futuro sustentável.",
+    "inventoriesId": [
+        7803,
+        8939
+    ],
+    "logoId": "f407d244-eb5c-b017-827e-3a132a286837",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

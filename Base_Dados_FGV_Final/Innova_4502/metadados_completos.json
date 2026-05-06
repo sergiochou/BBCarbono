@@ -1,0 +1,40 @@
+{
+    "id": 4502,
+    "name": "Innova",
+    "about": "A Videolar-Innova S/A é uma sociedade anônima de capital fechado com fins lu¬crativos, com sede na Avenida Torquato Tapajós, nº 5.555, Tarumã, Manaus (AM). \nSomos uma empresa brasileira, petroquímica e fabricante de transformados plásticos. Na área petroquímica, atuamos no segmento de produtos estirênicos, fabricando o etilbenzeno (EB), o monômero de estireno (SM) e os poliestirenos uso geral (GPPS), alto impacto (HIPS), expansível (EPS), ECO-PS® e PS-3D.\nNa área da transformação plástica, fabricamos os filmes de polipropileno biorien¬tado (BOPP), laminados em bobinas de poliestireno (PS) e polipropileno (PP), bem como tampas plásticas para garrafas PET de águas minerais, sucos e refrigerantes. Nossos produtos estão no centro da economia e da cadeia produtiva.\nNossas fábricas estão situadas estrategicamente: duas em Manaus (Amazonas) e uma em Triunfo (Rio Grande do Sul). Sempre próximas dos clientes, indústrias de norte a sul do país, e atingindo o mundo. No Escritório Central, em Alphaville, Barueri (São Paulo) estão as áreas comercial e administrativa.\n",
+    "inventoriesId": [
+        6081,
+        7001,
+        8231
+    ],
+    "logoId": "80efe2c0-ec40-4882-a49c-7bb8819929d1",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

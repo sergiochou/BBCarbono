@@ -1,0 +1,35 @@
+{
+    "id": 2098,
+    "name": "ACHE LABORATÓRIOS S/A",
+    "about": null,
+    "inventoriesId": [
+        2674,
+        3043
+    ],
+    "logoId": "a75ca86f-cb45-4083-9622-3e6af5dc8131",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

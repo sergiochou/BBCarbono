@@ -1,0 +1,30 @@
+{
+    "id": 8706,
+    "name": "CESAR",
+    "about": "Somos o maior centro de inovação e conhecimento do Brasil. Somos uma escola, um laboratório de experimentação, um centro de pesquisa e desenvolvimento, um venture builder… nós existimos para impactar positivamente o mundo desde 1996, revolucionando o ecossistema local por meio da inovação e tecnologia de ponta. Impulsionados pela determinação de resolver os desafios mais críticos da sociedade, partimos para mudar a sociedade e transformar realidades a partir do conhecimento. Atuamos de forma integrada com tecnologia da informação, aceleração de negócios e educação. Nossos serviços e objetivos são sempre guiados para evoluir empresas, startups e pessoas.",
+    "inventoriesId": [
+        8979
+    ],
+    "logoId": "b74246ba-f33f-aa92-e74b-3a19d6990bb2",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

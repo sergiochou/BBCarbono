@@ -1,0 +1,35 @@
+{
+    "id": 3,
+    "name": "Universidade Regional Integrada do Alto Uruguai e das Missões ",
+    "about": "A URI - Erechim é uma universidade que promove o ensino, a pesquisa e a extensão como transformadores da realidade, através de um projeto integrado que propicia o desenvolvimento regional, a ciência e a tecnologia, levando em conta o indivíduo, o saber e a verdade como princípios básicos; é comunitária porque se origina da necessidade e do anseio da população que se associa na consecução de objetivos comuns; é democrática em sua gestão, pois não defende interesses de grupos ou corporações e não pertence a grupos ou pessoas; é associativa porque as operações efetuadas em conjunto resultam em melhor qualidade de suas ações; é cooperativa porque busca o bem comum.\r\n\r\nAssim, além do conhecimento universal inerente à instituição universitária, a Universidade Regional Integrada do Alto Uruguai e das Missões, caracteriza-se pela capacidade de conhecer, refletir e transformar a realidade regional.",
+    "inventoriesId": [
+        2092,
+        570
+    ],
+    "logoId": "94e3adb7-a848-4853-9438-45281970f8c0",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 9082,
+    "name": "Desenvolve SP",
+    "about": "A Desenvolve SP é a agência de fomento do Estado de São Paulo, criada em 2009 e vinculada à Secretaria de Desenvolvimento Econômico com atuação no apoio a micro, pequenas e médias empresas (MPMEs) e prefeituras com o objetivo de reduzir desigualdades sociais e promover o desenvolvimento sustentável.\nEm suas operações, a Desenvolve SP prioriza investimentos com impacto positivo, destacando projetos que contribuam para a mitigação de mudanças climáticas, eficiência energética e saneamento, além de ações que promovam a geração de emprego, renda e a qualidade de vida.",
+    "inventoriesId": [
+        8909
+    ],
+    "logoId": "1114730f-057a-e72e-d43b-3a1a0ac5499f",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

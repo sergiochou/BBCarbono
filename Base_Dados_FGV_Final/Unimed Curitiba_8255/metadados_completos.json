@@ -1,0 +1,30 @@
+{
+    "id": 8255,
+    "name": "Unimed Curitiba",
+    "about": "Com a maior rede credenciada do estado do Paraná, a Unimed Curitiba\npossui mais de 5 mil médicos cooperados, mais de 50 hospitais, mais de 240\nclínicas de especialidades médicas, mais de 80 unidades laboratoriais de análises\nclínicas (sendo mais de 20 próprias – Unimed Laboratório) e 3 bancos de sangue\ncredenciados para disponibilizar bolsas para os hospitais que não possuem banco\npróprio.\nAo todo, são mais de 600 mil clientes e mais de 2 mil colaboradores que\ncompartilham de valores focados na atenção às pessoas, empatia, inovação,\npromoção à saúde e sustentabilidade econômica, social e ambiental. Todos esses\nprincípios traduzem o orgulho de cuidar que a cooperativa traz em seu DNA.",
+    "inventoriesId": [
+        8196
+    ],
+    "logoId": "7a422cf0-0682-1d68-d55d-3a1811891281",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

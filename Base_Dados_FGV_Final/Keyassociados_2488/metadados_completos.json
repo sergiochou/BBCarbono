@@ -1,0 +1,30 @@
+{
+    "id": 2488,
+    "name": "Keyassociados",
+    "about": "Keyassociados, fundada em 1997, fornece soluc¸o~es em sustentabilidade que maximizam a performance econo^mica, social e ambiental de seus clientes. \r\n\r\nAs soluções incluem a estruturação e implementação dos modelos de negócio que integram fatores de ESG, gestão de desempenho de sustentabilidade tanto de corporações quanto dos fundos de investimento, bem como advisory em mudanças climáticas e riscos relacionados.\r\n\r\nOs trabalhos da Keyassociados focam nos projetos com geração de valor compartilhado nas seguintes áreas:\r\n\r\n- Valoração de desempenho social e ambiental\r\n- Integração de fatores ESG nos processos de investimento\r\n- Gestão e softwares para responsabilidade social\r\n- Cadeia de valor responsável\r\n- Inovação, cleantech & tecnologias sociais \r\n- Modelos de negócio sustentáveis e redesign dos processos de gestão\r\n- Gestão e análise das informações ESG\r\n- Mecanismos de inovação financeira para gestão de impactos socioambientais (ex: Green Bonds)\r\n- Comunicação efetiva em Sustentabilidade (SASB, IIRC, GRI, etc)\r\n- Quantificação e mitigação de riscos climáticos",
+    "inventoriesId": [
+        3263
+    ],
+    "logoId": "c4a2174c-ccf1-4a84-bf6b-a5fc62d24b56",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

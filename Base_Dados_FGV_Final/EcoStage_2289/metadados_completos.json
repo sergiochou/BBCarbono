@@ -1,0 +1,40 @@
+{
+    "id": 2289,
+    "name": "EcoStage",
+    "about": "A EcoStage é uma empresa de desenvolvimento de software que nasceu com o objetivo de oferecer a centros de pesquisa, organizações não governamentais e instituições tecnologias inovadoras para lidar com os complexos desafios para alcançar o desenvolvimento sustentável no Brasil.",
+    "inventoriesId": [
+        3060,
+        3310,
+        3457
+    ],
+    "logoId": "f3a0f872-985d-4fb4-b2a8-21b0b6bef0f1",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

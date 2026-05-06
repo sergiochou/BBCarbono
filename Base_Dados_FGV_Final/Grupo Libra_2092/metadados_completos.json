@@ -1,0 +1,35 @@
+{
+    "id": 2092,
+    "name": "Grupo Libra",
+    "about": "O Grupo Libra é um dos maiores operadores portuários e de logística de comércio exterior do Brasil, com 100% de capital nacional, sob o controle acionário da família Borges Torrealba. Com mais 3 mil colaboradores, que juntos trabalham para o sólido crescimento da organização, a empresa oferece soluções completas de forma integrada com todos os modais de transporte: portuário, rodoviário, ferroviário e aéreo.\r\nCom sede na cidade de São Paulo, o grupo é dividido em três unidades de negócios que atuam de maneira integrada: \r\nLibra Terminais - um dos maiores operadores de contêineres do Brasil, com unidades em Santos e no Rio de Janeiro; Libra Logística - armazenagem, movimentação, transporte e distribuição de cargas; Libra Aeroportos - operando o Aeroporto Internacional de Cabo Frio. Juntos, estes três negócios formam a Libra Infraestrutura. \r\nJá a Libra Participações reúne investimentos em outras empresas que atuam em setores diversificados, como a CNA, no segmento de transporte fluvial; a Olivares de Quepu, com a produção de azeite extra virgem de alta qualidade; e a Libra Imobiliária, responsável pela gestão dos imóveis pertencentes ao Grupo.\r\nOs negócios são baseados nos princípios de ética e de sustentabilidade, por meio de relações construtivas e que promovem o crescimento de todos que se relacionam conosco. O Grupo Libra acredita na harmonia com o meio ambiente, que valoriza a vida, as pessoas e melhora a sociedade. É dessa forma que cria, inova e faz a diferença nos setores em que atua.",
+    "inventoriesId": [
+        2495,
+        1840
+    ],
+    "logoId": "2f1dff88-c82b-4cab-91b4-16d723240c04",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

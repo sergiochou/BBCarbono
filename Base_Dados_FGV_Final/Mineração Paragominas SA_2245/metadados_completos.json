@@ -1,0 +1,40 @@
+{
+    "id": 2245,
+    "name": "Mineração Paragominas S.A.",
+    "about": null,
+    "inventoriesId": [
+        6283,
+        7642,
+        8968
+    ],
+    "logoId": "b0498737-c647-4137-8b85-0777b5d0610b",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

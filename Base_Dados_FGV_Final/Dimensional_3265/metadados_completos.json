@@ -1,0 +1,50 @@
+{
+    "id": 3265,
+    "name": "Dimensional",
+    "about": "A Dimensional Engenharia atua nas mais diversas áreas da Engenharia, focada em obras de médio e grande porte, bem como no ramo de Desenvolvimento Imobiliário com a visão de que é possível construir moradias de forma socialmente justa, ambientalmente correta e economicamente viável, com diferenciais tecnológicos em todo o ciclo de vida do empreendimento e amparada nas melhores práticas, garantindo a qualidade e durabilidade de suas obras.\r\n\r\nSeus fundamentos empresariais são a qualidade dos serviços prestados e a competência técnica e os valores essenciais da organização são a dedicação ao trabalho, o cumprimento dos contratos, a ênfase no planejamento e a integridade.\r\n\r\nO propósito da empresa é colaborar com a construção de uma nação forte e competitiva, com mais oportunidades e menos desigualdades, focada no desenvolvimento sustentável. \r\n\r\nNesses mais de 25 anos desde a sua fundação, a Dimensional criou uma cultura organizacional forte, desenvolveu uma equipe coesa e competente, obteve certificações, ganhou prêmios e realizou obras complexas e emblemáticas, sendo reconhecida pela seriedade, esmero e capacidade técnica.\r\n\r\nAo longo desses anos a empresa arregimentou uma frota própria com aproximadamente 300 equipamentos de médio e grande portes, monitorados em tempo real, com telemetria, através de um Centro de Controle Operacional localizado em sua sede.\r\n\r\nCom elevados investimentos em inovação, palavras como BIM (Building Information Modeling), Aerofotogrametria, Realidade Virtual (VR), Realidade Aumentada (AR), Computação na Nuvem, Assinatura Digital, Drones (VANT), Inteligência Artificial, Telemetria, Startups e Business Intelligence são parte do vocabulário cotidiano da empresa e já se transformaram em importantes ferramentas de trabalho.\r\n\r\nA empresa possui vocação para a construção sustentável CERTIFICADA, possuindo em seu portfólio uma das primeiras obras do Brasil com o Selo CASA AZUL da Caixa Econômica Federal e uma das construções com o Selo AQUA HQE da Fundação Vanzollini, bem como está construindo as três primeiras casas com certificação ambiental do Rio de Janeiro, do Green Building Council (GBC Brasil). Uma delas, a Casa Cave, inclusive foi finalista na categoria melhor Projeto ESG de um dos mais conceituados prêmios do setor, o GRI Awards 2022, bem como foi vencedora do Prêmio Destaque ADEMI-RJ 2022 na categoria construção com responsabilidade social.\r\n\r\nEm consonância ao tripé Dedicação, Inovação e Integridade, com responsabilidade socioambiental, que rege a sua atuação empresarial, e com o objetivo de tornar sua operação a cada dia mais sustentável, a Dimensional aborda o tema de mudanças climáticas com real comprometimento na busca de diminuir a geração de Gases de Efeito Estufa (GEE). É uma das 11 construtoras do Brasil a divulgar publicamente o inventário de Gases de Efeito Estufa (GEE) de todas as suas operações no âmbito do Programa GHG Protocol da Fundação Getúlio Vargas desde 2020, sendo a única do Rio de Janeiro a remeter um inventário completo com verificação de auditoria independente.\r\n\r\nFoi três vezes vencedora (edições 2020, 2021 e 2022) do Prêmio INOVAINFRA da Revista O Empreiteiro e a segunda colocada no Prêmio de Responsabilidade Social da Câmara Brasileira da Indústria da Construção (CBIC) de 2021. \r\n\r\nCom essa visão e atuação, tornou-se referência em ESG (Environmental, Social & Governance – ambiental, social e governança) entre as médias empresas de construção. \r\nAlém disso, a Dimensional Engenharia possui certificação Nível A do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H) e Sistema de Gestão da Qualidade (SGQ) em conformidade com a ISO 9001. É signatária também do Pacto pela Integridade e Contra a Corrupção do Instituto ETHOS, do qual também é associada.\r\n\r\nA Dimensional faz parte ainda das principais associações setoriais, tais como o Sinduncon-Rio e a ADEMI-RJ, bem como é integrante do Green Building Council Brasil, além de ter capacidade financeira e técnica – GERIC para operação junto à Caixa Econômica Federal.",
+    "inventoriesId": [
+        4816,
+        5270,
+        6028,
+        7579,
+        8151
+    ],
+    "logoId": "33dd4e63-31de-431b-9984-1c537155766c",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

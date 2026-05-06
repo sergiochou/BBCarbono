@@ -1,0 +1,30 @@
+{
+    "id": 8374,
+    "name": "CREA - PA",
+    "about": "O Crea-PA é uma autarquia federal, criada no dia 23 de abril de 1934, criado para fiscalizar  o exercício das profissões de Engenheiros, Agrônomos, Geólogos, Geógrafos, Meteorologistas, Tecnólogos e Técnicos de Segundo Grau das modalidades mencionadas, dotada de personalidade jurídica de direito público, com sede Belém e jurisdição em todo o Estado defendendo a sociedade no que diz respeito à qualidade, ética e, principalmente, coibindo a prática do exercício ilegal dessas profissões.\nExerce o papel institucional de primeira e segunda instância, orienta e fiscaliza o exercício profissional, verificando e valorizando o exercício legal e ético das profissões do Sistema Confea/Crea, tendo como missão regulamentar, fiscalizar e orientar o exercício profissional da Engenharia, Agronomia e Geociências, realizando ações em defesa da sociedade\n",
+    "inventoriesId": [
+        9276
+    ],
+    "logoId": "f2eb0736-1df1-499b-2363-3a18efe69c0d",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

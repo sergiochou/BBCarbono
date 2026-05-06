@@ -1,0 +1,45 @@
+{
+    "id": 3868,
+    "name": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",
+    "about": "Somos a Mills Locação, Serviços e Logística S.A., uma sociedade anônima de capital aberto listada no Novo Mercado da B3. Com mais de 70 anos de atuação, operamos com segurança, confiança, qualidade e abrangência, sendo referência nacional em locação de equipamentos e soluções de engenharia. Pioneiros na locação de plataformas elevatórias no Brasil, possuímos a maior frota de plataformas elevatórias da América Latina e somos a maior locadora de formas e escoramentos do país. Desde 2022, atuamos também com máquinas pesadas (Linha Amarela) e, desde 2024, com soluções de Intralogística, consolidando nosso modelo multiprodutos.\nNossa trajetória nasceu em um modelo que hoje é reconhecido como uma das bases da sustentabilidade: a economia do compartilhamento. O modelo de locação reduz a extração de matéria-prima, diminui emissões ao evitar a produção desnecessária de novos equipamentos e estende a vida útil dos ativos, contribuindo para operações mais eficientes e de menor impacto ambiental. A sustentabilidade é parte da nossa crença empresarial e está integrada às decisões e práticas da companhia.\nSomos uma Empresa B certificada, comprometida com os mais altos padrões de governança, impacto socioambiental, ética e transparência, o que reforça nossa visão de longo prazo e nosso papel na construção de um modelo de negócios mais inclusivo, responsável e regenerativo. Também possuímos metas de descarbonização aprovadas pela Science Based Targets initiative (SBTi), alinhadas à limitação do aquecimento global, fortalecendo nossa estratégia climática e nossa atuação como parceiro da transição para operações de menor emissão.\nTemos o compromisso de reduzir os riscos climáticos e os impactos ambientais das nossas atividades, ampliando o uso de energia limpa, diminuindo a geração de resíduos, otimizando o consumo de recursos naturais e expandindo soluções de menor emissão para nossos clientes. Entre nossas iniciativas estão reuso de água, recuperação de baterias, transição energética, aquisição de equipamentos elétricos e híbridos e maior eficiência operacional em nossas filiais.\nNossa governança integra sustentabilidade, gestão de riscos, inovação e disciplina de capital. A atualização recente da matriz de materialidade reforça nossa capacidade de identificar riscos e oportunidades relevantes, orientar decisões estratégicas e fortalecer a resiliência do negócio e das cadeias produtivas com as quais nos relacionamos. Essa visão se conecta aos nossos compromissos sociais, como a meta de atingir 100% de Salário Digno, e reforça os pilares de segurança, inclusão e ética.\nCom presença nacional, portfólio diversificado e uma cultura guiada pelo Código-Fonte, seguimos avançando em nossa jornada de sustentabilidade com foco em gerar valor econômico, social e ambiental de forma integrada. Nossa atuação busca apoiar clientes na transição para operações mais seguras, eficientes e de menor impacto climático, contribuindo para um sistema econômico mais equilibrado e orientado ao futuro.",
+    "inventoriesId": [
+        5306,
+        6131,
+        7246,
+        8674
+    ],
+    "logoId": "c926ee67-367f-4197-bd42-e64cd351ad36",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

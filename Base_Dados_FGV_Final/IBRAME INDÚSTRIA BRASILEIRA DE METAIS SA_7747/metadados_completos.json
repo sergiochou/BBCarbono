@@ -1,0 +1,35 @@
+{
+    "id": 7747,
+    "name": "IBRAME INDÚSTRIA BRASILEIRA DE METAIS S/A   ",
+    "about": "Fundado em 1957, o Grupo Ibrame é amplamente reconhecido por sua sólida tradição nacional e excelência técnica, com um compromisso inabalável com a sustentabilidade. A empresa se destaca no setor pela alta produtividade e pela adoção de tecnologias avançadas nos processos de fundição e laminação dos metais Cobre e Alumínio. Este compromisso com a inovação se reflete na especialização do grupo na transformação de matérias-primas de metais não ferrosos, abrangendo tanto a forma bruta quanto a reciclada. Nosso propósito é ser a melhor, mais respeitada, sustentável e confiável companhia de metais não ferrosos da América Latina, sempre alinhados aos mais altos padrões de qualidade e responsabilidade ambiental.",
+    "inventoriesId": [
+        7531,
+        9030
+    ],
+    "logoId": "166b30c6-8811-05f3-9ad5-3a1314f7190a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

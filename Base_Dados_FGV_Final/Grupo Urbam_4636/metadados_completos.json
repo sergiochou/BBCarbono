@@ -1,0 +1,40 @@
+{
+    "id": 4636,
+    "name": "Grupo Urbam",
+    "about": "Grupo Urbam é empresa de coleta e tratamento de resíduos no município do Rio de Janeiro. O grupo é formado por 3 empresas: Urbam, Kioto Ambiental e Bioclean , onde as empresas Urbam e Kioto Ambiental são empresas de coleta de resíduos e a Bioclean é a empresa de tratamento de resíduo biológicos por meio de autoclavagem. ",
+    "inventoriesId": [
+        5856,
+        7114,
+        9095
+    ],
+    "logoId": "00fed5f9-b593-4e34-a91b-e236570b2a9c",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

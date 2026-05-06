@@ -1,0 +1,45 @@
+{
+    "id": 4141,
+    "name": "CerradinhoBio",
+    "about": null,
+    "inventoriesId": [
+        5369,
+        6492,
+        7582,
+        8406
+    ],
+    "logoId": "c0adf68c-cce1-4d52-a7ba-94b704f19bd9",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

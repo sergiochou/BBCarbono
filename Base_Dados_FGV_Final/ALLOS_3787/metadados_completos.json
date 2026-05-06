@@ -1,0 +1,45 @@
+{
+    "id": 3787,
+    "name": "ALLOS",
+    "about": "A ALLOS é a maior administradora de shopping centers do Brasil, com um portfólio formado por shoppings presentes nas cinco regiões do país. A companhia é full service: atua desde o planejamento e desenvolvimento do projeto até o gerenciamento da estrutura, gestão financeira, comercial, jurídica e operacional de shopping centers.",
+    "inventoriesId": [
+        5014,
+        5921,
+        6806,
+        8023
+    ],
+    "logoId": "5e20da55-1dda-1ae4-a197-3a11d011decf",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

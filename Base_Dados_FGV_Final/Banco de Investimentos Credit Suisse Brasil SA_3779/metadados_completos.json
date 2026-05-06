@@ -1,0 +1,35 @@
+{
+    "id": 3779,
+    "name": "Banco de Investimentos Credit Suisse (Brasil) S.A",
+    "about": "O Credit Suisse foi fundado em Zurique, na Suíça, em 1856. Com operações em mais de 50 países, nossa estratégia está fundamentada na liderança em gestão de fortunas, nas capacidades especializadas de banco de investimentos e na forte presença em nosso mercado original.  \r\n\r\nNo Brasil, oferecemos uma linha completa e sob medida de produtos, serviços e soluções financeiras por meio das nossas divisões de Wealth Management, Investment Bank e Real Estate Asset Management. Além disso, somos o único banco global com mais de 60 anos no País, onde também construímos valor duradouro, atendendo nossos clientes com cuidado e espírito empreendedor.\r\n\r\nA nossa franquia brasileira é considerada o melhor Private Bank do Brasil pela Euromoney (2018, 2021 e 2022) – atuação que inclui diversas frentes como gestão de riquezas, serviços de family office, gestão de fundos de investimento, além de outras soluções e estruturas exclusivas. Nos últimos anos, somos também uma das maiores corretoras em negociação de ações no Brasil e um dos bancos de investimento mais importantes da América Latina, com uma plataforma que inclui operações de abertura de capital, fusão e aquisição, operações de dívida, entre outros.\r\n",
+    "inventoriesId": [
+        5024,
+        5828
+    ],
+    "logoId": "a8723a62-756d-4572-8b46-a5eaa1851058",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

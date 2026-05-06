@@ -1,0 +1,30 @@
+{
+    "id": 3256,
+    "name": "Energisa Rondônia",
+    "about": null,
+    "inventoriesId": [
+        4751
+    ],
+    "logoId": "bd164076-3992-40ac-bf2c-26285fd4f1c0",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 22,
+        "acronym": "RO",
+        "name": "Rondônia"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,85 @@
+{
+    "id": 2053,
+    "name": "Ocyan",
+    "about": "Somos uma fornecedora do setor de óleo e gás e novas energias com grande expertise e excelência técnica. Contamos com uma cultura forte, além de compromissos sérios de curto, médio e longo prazo na agenda ESG que permeiam a segurança de nossas operações e pessoas, relacionamento com as comunidades em que atuamos, diversidade, neutralidade de carbono e energia limpa.\n\nAtuamos com soluções para a indústria offshore nas áreas de produção de petróleo, por meio da joint-venture Altera&Ocyan; serviços de construção submarina e descomissionamento offshore,  manutenção e serviços offshore, e além disso, também atuamos na revitalização de malha de gás por meio do Consórcio Ocyan&Mota-Engil. Possuímos uma participação acionária minoritária na Foresea, empresa do segmento de perfuração offshore e avançamos em estudos e projetos relacionados a novos serviços e energias, tecnologias e Corporate Venture Capital.",
+    "inventoriesId": [
+        2015,
+        2291,
+        2837,
+        3186,
+        3721,
+        3978,
+        4279,
+        4952,
+        5075,
+        6267,
+        7323,
+        8920
+    ],
+    "logoId": "1a1d6ce1-a0dd-4d24-bdbc-d69c15dca087",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

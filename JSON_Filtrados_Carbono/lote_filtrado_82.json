@@ -1,0 +1,626 @@
+[
+    {
+        "empresa_pasta": "TESC_6156",
+        "id_fgv": 6156,
+        "nome_oficial": "TESC",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 615.561,
+                    "emissoes_escopo_2": 232.668,
+                    "emissoes_escopo_3": 58.464,
+                    "total_emissoes": 906.693,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TGG_4525",
+        "id_fgv": 4525,
+        "nome_oficial": "TGG",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte,\u0002armazenagem\u0002e\u0002correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 868.576,
+                    "emissoes_escopo_2": 1453.469,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2322.045,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 776.146,
+                    "emissoes_escopo_2": 552.366,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1328.512,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1216.532,
+                    "emissoes_escopo_2": 569.702,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1786.234,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Thomson Multimídia_63",
+        "id_fgv": 63,
+        "nome_oficial": "Thomson Multimídia",
+        "estado": "AM",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 50.15,
+                    "emissoes_escopo_2": 173.55,
+                    "emissoes_escopo_3": 31962.19,
+                    "total_emissoes": 32185.89,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ticket Log_1769",
+        "id_fgv": 1769,
+        "nome_oficial": "Ticket Log",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 502.05,
+                    "emissoes_escopo_2": 24.95,
+                    "emissoes_escopo_3": 497.41,
+                    "total_emissoes": 1024.41,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 810.328,
+                    "emissoes_escopo_2": 19.431,
+                    "emissoes_escopo_3": 642.614,
+                    "total_emissoes": 1472.373,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 549.625,
+                    "emissoes_escopo_2": 33.261,
+                    "emissoes_escopo_3": 600.979,
+                    "total_emissoes": 1183.865,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 327.214,
+                    "emissoes_escopo_2": 72.534,
+                    "emissoes_escopo_3": 613.785,
+                    "total_emissoes": 1013.533,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 317.084,
+                    "emissoes_escopo_2": 99.341,
+                    "emissoes_escopo_3": 641.215,
+                    "total_emissoes": 1057.64,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 301.679,
+                    "emissoes_escopo_2": 234.262,
+                    "emissoes_escopo_3": 441.076,
+                    "total_emissoes": 977.017,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 334.318,
+                    "emissoes_escopo_2": 291.682,
+                    "emissoes_escopo_3": 1070.191,
+                    "total_emissoes": 1696.191,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 291.588,
+                    "emissoes_escopo_2": 272.786,
+                    "emissoes_escopo_3": 1074.456,
+                    "total_emissoes": 1638.83,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 151.736,
+                    "emissoes_escopo_2": 232.301,
+                    "emissoes_escopo_3": 1285.068,
+                    "total_emissoes": 1669.105,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "e) verificado?",
+                "Compensação de 1.024 tCO2e através da compra de créditos de carbono.",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2011",
+                "Inventário 2011 - Ticket Log",
+                "Ticket Soluções HDFGT S.A",
+                "Nome fantasia: Ticket Log",
+                "CNPJ: 03.506.307/0001-57",
+                "Setor econômico: Atividades financeiras, de seguros e serviços relacionados",
+                "Subsetor: Atividades financeiras, de seguros e serviços relacionados"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ticket_1034",
+        "id_fgv": 1034,
+        "nome_oficial": "Ticket ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 9.42,
+                    "emissoes_escopo_2": 156.0,
+                    "emissoes_escopo_3": 1152.23,
+                    "total_emissoes": 1317.65,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 19.009,
+                    "emissoes_escopo_2": 187.688,
+                    "emissoes_escopo_3": 1054.046,
+                    "total_emissoes": 1260.743,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 147.843,
+                    "emissoes_escopo_2": 370.658,
+                    "emissoes_escopo_3": 3494.913,
+                    "total_emissoes": 4013.414,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 91.094,
+                    "emissoes_escopo_2": 323.061,
+                    "emissoes_escopo_3": 3063.504,
+                    "total_emissoes": 3477.659,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 303.13,
+                    "emissoes_escopo_2": 258.152,
+                    "emissoes_escopo_3": 1618.086,
+                    "total_emissoes": 2179.368,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 332.617,
+                    "emissoes_escopo_2": 152.401,
+                    "emissoes_escopo_3": 830.624,
+                    "total_emissoes": 1315.642,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 307.07,
+                    "emissoes_escopo_2": 166.749,
+                    "emissoes_escopo_3": 695.398,
+                    "total_emissoes": 1169.217,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 217.871,
+                    "emissoes_escopo_2": 122.336,
+                    "emissoes_escopo_3": 1095.674,
+                    "total_emissoes": 1435.881,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TIGRE_2805",
+        "id_fgv": 2805,
+        "nome_oficial": "TIGRE",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3796.692,
+                    "emissoes_escopo_2": 8811.191,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12607.883,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3900.739,
+                    "emissoes_escopo_2": 8559.51,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12460.249,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4839.272,
+                    "emissoes_escopo_2": 7835.989,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12675.261,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5875.599,
+                    "emissoes_escopo_2": 15737.783,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 21613.382,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4246.814,
+                    "emissoes_escopo_2": 4888.299,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9135.113,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3281.556,
+                    "emissoes_escopo_2": 4476.639,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7758.195,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TIM SA_214",
+        "id_fgv": 214,
+        "nome_oficial": "TIM S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 3035.0,
+                    "emissoes_escopo_2": 14680.0,
+                    "emissoes_escopo_3": 18244.0,
+                    "total_emissoes": 35959.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 1484.56,
+                    "emissoes_escopo_2": 10130.31,
+                    "emissoes_escopo_3": 24426.573,
+                    "total_emissoes": 36041.443,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 1214.756,
+                    "emissoes_escopo_2": 24374.812,
+                    "emissoes_escopo_3": 16870.939,
+                    "total_emissoes": 42460.507,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 2591.472,
+                    "emissoes_escopo_2": 38775.61,
+                    "emissoes_escopo_3": 18390.732,
+                    "total_emissoes": 59757.814,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 2195.452,
+                    "emissoes_escopo_2": 65564.927,
+                    "emissoes_escopo_3": 39605.961,
+                    "total_emissoes": 107366.34,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 10151.873,
+                    "emissoes_escopo_2": 70054.68,
+                    "emissoes_escopo_3": 42266.188,
+                    "total_emissoes": 122472.741,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 4991.77,
+                    "emissoes_escopo_2": 50637.983,
+                    "emissoes_escopo_3": 32173.43,
+                    "total_emissoes": 87803.183,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 4719.042,
+                    "emissoes_escopo_2": 66615.829,
+                    "emissoes_escopo_3": 35513.454,
+                    "total_emissoes": 106848.325,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 13972.801,
+                    "emissoes_escopo_2": 51986.678,
+                    "emissoes_escopo_3": 37803.258,
+                    "total_emissoes": 103762.737,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 5132.285,
+                    "emissoes_escopo_2": 53805.929,
+                    "emissoes_escopo_3": 29352.579,
+                    "total_emissoes": 88290.793,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 5472.745,
+                    "emissoes_escopo_2": 38717.254,
+                    "emissoes_escopo_3": 18945.713,
+                    "total_emissoes": 63135.712,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 4395.45,
+                    "emissoes_escopo_2": 51355.228,
+                    "emissoes_escopo_3": 8199.411,
+                    "total_emissoes": 63950.089,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 7022.294,
+                    "emissoes_escopo_2": 15346.023,
+                    "emissoes_escopo_3": 4353.607,
+                    "total_emissoes": 26721.924,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação▶e▶comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "ientais de longo prazo: → Ser Carbono neutro (tCO2e, escopos 1 e 2) : -100% até 2030 → Aumentar o desempenho em Ecoeficiência no tráfego de dados* (bi"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TIXLOG_9180",
+        "id_fgv": 9180,
+        "nome_oficial": "TIXLOG ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "TJGO_8213",
+        "id_fgv": 8213,
+        "nome_oficial": "TJGO",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administraçãopública,defesaeseguridadesocial",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "TJMSP_8665",
+        "id_fgv": 8665,
+        "nome_oficial": "TJMSP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 17.401,
+                    "emissoes_escopo_2": 18.963,
+                    "emissoes_escopo_3": 19.251,
+                    "total_emissoes": 55.615,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

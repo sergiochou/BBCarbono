@@ -1,0 +1,35 @@
+{
+    "id": 6160,
+    "name": "Piccini Divisão Agrícola",
+    "about": "A relação da família Piccini com a agricultura tem origem no estado do Paraná, onde desde a década de 70 a família cultiva terras. A história dos negócios do Grupo Piccini no Mato Grosso iniciou em 1980, quando Joci Piccini, um dos membros e líder do grupo, pisou em terras mato-grossenses. Junto com os irmãos Hilario, Talêmico, Roque, Henrique, Vitorio, Luiz Jorge, Ênio, iniciaram em Mato Grosso o desenvolvimento da agricultura, a venda de Materiais de Construção, Máquinas, Combustível e armazenagem de grãos.\nEm 1981, os filhos de Victório Pedro Piccini e Iracema Maria Picolotto Piccini, plantaram a primeira lavoura em Lucas do Rio Verde-MT, em uma área de 300 hectares na Fazenda Três Pinheiros.\nA divisão Agrícola do Grupo Piccini está organizada em três áreas de negócio: Piccini Fazendas, Piccini Armazéns Gerais, e Piccini Agropecuária.\nO Grupo Piccini cultiva hoje 17 fazendas distribuídas em 13 municípios mato-grossenses, além da fazenda “mãe” localizada no município de Renascença estado do Paraná. Ao todo são mais de 82 mil hectares de lavoura de soja, além de 50 mil hectares de milho safrinha e em torno de 5.000 hectares de algodão. A mesma área que se cultiva a soja de setembro a fevereiro, também são cultivados milho de janeiro a maio (milho safrinha) e de algodão de janeiro a outubro. \nNascidos em família com tradição na agricultura paranaense, os irmãos Piccini cultivam juntos terras mato-grossenses há mais de 38 anos.\nInicialmente, a sociedade do grupo Piccini foi composta pelos oito irmãos Piccini. Na última década os filhos dos sócios fundadores, foram admitidos como sócios na atividade agrícola bem como nas outras empresas do grupo. \nA gestão dos negócios do grupo é decidida pelo Conselho de Administração, composto pelo grupo de sócios fundadores, e executada pelos Comitês Executivos de cada divisão de negócios, que comportar os novos integrantes da sociedade bem como outros profissionais das áreas de negócio.\nEm questões ambientais as medidas se concentram no respeito a legislação vigente no estado, recuperação de áreas degradas, utilização de resíduos e destino adequado ao lixo acumulado pelo processo produtivo.\nInserido entre os maiores produtores de grãos do país, o Grupo Piccini sabe que o correto não é apenas crescer, mas sim planejar o crescimento com responsabilidade e sustentabilidade econômica, ambiental e social e humano.",
+    "inventoriesId": [
+        7317,
+        8972
+    ],
+    "logoId": "bf289a36-6a1c-f99c-2468-3a1242e513b3",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

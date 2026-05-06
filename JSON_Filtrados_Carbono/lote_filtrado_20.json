@@ -1,0 +1,542 @@
+[
+    {
+        "empresa_pasta": "CERAN_1157",
+        "id_fgv": 1157,
+        "nome_oficial": "CERAN",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 47.387,
+                    "emissoes_escopo_2": 0.179,
+                    "emissoes_escopo_3": 46.319,
+                    "total_emissoes": 93.885,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 58.129,
+                    "emissoes_escopo_2": 0.058,
+                    "emissoes_escopo_3": 80.016,
+                    "total_emissoes": 138.203,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 64.561,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 28.375,
+                    "total_emissoes": 92.936,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 40.915,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 39.931,
+                    "total_emissoes": 80.846,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 49.412,
+                    "emissoes_escopo_2": 0.008,
+                    "emissoes_escopo_3": 51.831,
+                    "total_emissoes": 101.251,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 51.342,
+                    "emissoes_escopo_2": 0.001,
+                    "emissoes_escopo_3": 67.189,
+                    "total_emissoes": 118.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 177.309,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 170.67,
+                    "total_emissoes": 347.979,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CerradinhoBio_4141",
+        "id_fgv": 4141,
+        "nome_oficial": "CerradinhoBio",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 120280.054,
+                    "emissoes_escopo_2": 4443.693,
+                    "emissoes_escopo_3": 301976.438,
+                    "total_emissoes": 426700.185,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 125501.218,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 373400.894,
+                    "total_emissoes": 498902.112,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 113469.635,
+                    "emissoes_escopo_2": 3518.02,
+                    "emissoes_escopo_3": 355147.925,
+                    "total_emissoes": 472135.58,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Certare Engenharia e Consultoria_8582",
+        "id_fgv": 8582,
+        "nome_oficial": "Certare Engenharia e Consultoria",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 32.914,
+                    "emissoes_escopo_2": 2.537,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 35.451,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CESAR_8706",
+        "id_fgv": 8706,
+        "nome_oficial": "CESAR",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesprofissionais,científicasetécnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "CESBE_7361",
+        "id_fgv": 7361,
+        "nome_oficial": "CESBE",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 3577.554,
+                    "emissoes_escopo_2": 5479.047,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9056.601,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CGN Brasil Energia e Participações SA_3098",
+        "id_fgv": 3098,
+        "nome_oficial": "CGN Brasil Energia e Participações S.A. ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 102.723,
+                    "emissoes_escopo_2": 14.267,
+                    "emissoes_escopo_3": 1237.393,
+                    "total_emissoes": 1354.383,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 1528.177,
+                    "emissoes_escopo_2": 13.542,
+                    "emissoes_escopo_3": 559.856,
+                    "total_emissoes": 2101.575,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 5879.807,
+                    "emissoes_escopo_2": 46.45,
+                    "emissoes_escopo_3": 237.29,
+                    "total_emissoes": 6163.547,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 6708.365,
+                    "emissoes_escopo_2": 14.666,
+                    "emissoes_escopo_3": 388.499,
+                    "total_emissoes": 7111.53,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 12585.323,
+                    "emissoes_escopo_2": 15.538,
+                    "emissoes_escopo_3": 403.457,
+                    "total_emissoes": 13004.318,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras▶atividades▶de▶serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CIDADE CENTER NORTE_4328",
+        "id_fgv": 4328,
+        "nome_oficial": "CIDADE CENTER NORTE",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 163.787,
+                    "emissoes_escopo_2": 1420.178,
+                    "emissoes_escopo_3": 3477.541,
+                    "total_emissoes": 5061.506,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 1264.63,
+                    "emissoes_escopo_2": 468.85,
+                    "emissoes_escopo_3": 2850.867,
+                    "total_emissoes": 4584.347,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 388.593,
+                    "emissoes_escopo_2": 482.753,
+                    "emissoes_escopo_3": 3976.319,
+                    "total_emissoes": 4847.665,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 471.731,
+                    "emissoes_escopo_2": 682.773,
+                    "emissoes_escopo_3": 6492.103,
+                    "total_emissoes": 7646.607,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CIELO_268",
+        "id_fgv": 268,
+        "nome_oficial": "CIELO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 619.461,
+                    "emissoes_escopo_2": 91.913,
+                    "emissoes_escopo_3": 9183.394,
+                    "total_emissoes": 9894.768,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1564.174,
+                    "emissoes_escopo_2": 285.495,
+                    "emissoes_escopo_3": 11616.475,
+                    "total_emissoes": 13466.144,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1383.931,
+                    "emissoes_escopo_2": 287.396,
+                    "emissoes_escopo_3": 12899.132,
+                    "total_emissoes": 14570.459,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1861.901,
+                    "emissoes_escopo_2": 499.521,
+                    "emissoes_escopo_3": 14761.494,
+                    "total_emissoes": 17122.916,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 3778.475,
+                    "emissoes_escopo_2": 498.068,
+                    "emissoes_escopo_3": 11045.256,
+                    "total_emissoes": 15321.799,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2533.642,
+                    "emissoes_escopo_2": 398.52,
+                    "emissoes_escopo_3": 13850.668,
+                    "total_emissoes": 16782.83,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1894.201,
+                    "emissoes_escopo_2": 477.158,
+                    "emissoes_escopo_3": 16593.009,
+                    "total_emissoes": 18964.368,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2700.461,
+                    "emissoes_escopo_2": 333.558,
+                    "emissoes_escopo_3": 22000.573,
+                    "total_emissoes": 25034.592,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 4239.365,
+                    "emissoes_escopo_2": 395.667,
+                    "emissoes_escopo_3": 42033.069,
+                    "total_emissoes": 46668.101,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1739.322,
+                    "emissoes_escopo_2": 270.436,
+                    "emissoes_escopo_3": 43111.898,
+                    "total_emissoes": 45121.656,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CIL  Construtora Aterpa MMartins SA_185",
+        "id_fgv": 185,
+        "nome_oficial": "CIL - Construtora Aterpa MMartins SA",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 37.543,
+                    "emissoes_escopo_2": 0.072,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 37.615,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Cipalam  Soluções em Aço  LI_3793",
+        "id_fgv": 3793,
+        "nome_oficial": "Cipalam  Soluções em Aço - LI",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8598.446,
+                    "emissoes_escopo_2": 2469.634,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 11068.08,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 12689.469,
+                    "emissoes_escopo_2": 580.194,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 13269.663,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

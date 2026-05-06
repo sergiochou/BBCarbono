@@ -1,0 +1,30 @@
+{
+    "id": 8275,
+    "name": "ECOGEN",
+    "about": "A Ecogen tem atuação destacada na oferta de serviços de eficiência energética e de geração de utilidades, proporcionando soluções sustentáveis customizadas que viabilizam a descarbonização e a transição energética de seus clientes.",
+    "inventoriesId": [
+        8170
+    ],
+    "logoId": "4ed16646-bc5a-4bc1-32f3-3a189274d775",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,110 @@
+{
+    "id": 1421,
+    "name": "Organização Bradesco",
+    "about": "O Banco Bradesco foi fundado em 1943 como um banco comercial sob o nome de Banco Brasileiro de Descontos S.A. Em 1948, iniciamos um período de intensa expansão, que fez com que nos tornássemos o maior banco comercial do setor privado no Brasil no final da década de 60. Expandimos nossas atividades em todo o país durante a década de 70, conquistando mercados brasileiros urbanos e rurais. Em 1988, incorporamos nossas subsidiárias de financiamento imobiliário, banco de investimento e financiadora, tornando-nos um banco múltiplo, e mudamos nossa denominação para Banco Bradesco S.A.\r\n\r\n",
+    "inventoriesId": [
+        338,
+        9,
+        2359,
+        1839,
+        1577,
+        1543,
+        1525,
+        2932,
+        3178,
+        3615,
+        3795,
+        4273,
+        4604,
+        5526,
+        5834,
+        7124,
+        8591
+    ],
+    "logoId": "da4f9497-f402-4909-9a35-6b455a64f85a",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 3966,
+    "name": "BRK",
+    "about": "A BRK Participações S.A., empresa privada de saneamento presente em 13 Estados e mais de 100 municípios, opera por meio de 23 Sociedades de Propósito Específico (SPEs), sob o modelo de concessão pública, Parceria Público-Privada (PPP) e prestação de serviço. A BRK atua no segmento de saneamento, com prestação serviços de tratamento e abastecimento de água, além da coleta e tratamento de esgoto, com investimentos na expansão de suas operações e na melhoria contínua do desempenho operacional, direcionados para a universalização desses serviços no Brasil. Ao final de 2024, empregava 6.117 funcionários, que garantem o desenvolvimento das comunidades onde atua e a melhoria contínua da qualidade de vida de cerca de 16 milhões de habitantes.",
+    "inventoriesId": [
+        5311,
+        6449,
+        7578,
+        8793
+    ],
+    "logoId": "bdc88ed7-a815-4139-a438-21102b81a41c",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

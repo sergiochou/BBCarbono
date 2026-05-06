@@ -1,0 +1,35 @@
+{
+    "id": 7449,
+    "name": "ALGÁS",
+    "about": "A ALGÁS foi criada em 2 de setembro de 1993 e possui a concessão para prestação do serviços público de distribuição de gás canalizado no Estado de Alagoas. Atua nos segmentos residencial, comercial, industrial e veicular.",
+    "inventoriesId": [
+        8696,
+        8515
+    ],
+    "logoId": "3bbeb312-9603-8bb6-4b31-3a1a0173346b",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 2,
+        "acronym": "AL",
+        "name": "Alagoas"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

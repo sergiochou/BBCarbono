@@ -1,0 +1,30 @@
+{
+    "id": 8343,
+    "name": "TECBAN",
+    "about": null,
+    "inventoriesId": [
+        9273
+    ],
+    "logoId": "bdbd0d08-171f-3c57-c6d2-3a1a34cc2625",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

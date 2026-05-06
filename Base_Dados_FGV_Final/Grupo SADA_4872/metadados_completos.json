@@ -1,0 +1,40 @@
+{
+    "id": 4872,
+    "name": "Grupo SADA",
+    "about": "As empresas do Grupo SADA se destacam em diversos setores da economia, oferecendo produtos e serviços de alta qualidade, personalizados para cada cliente, e se tornaram referência em várias áreas de atuação.\r\n\r\nAo diversificar seus negócios, o Grupo SADA se transformou em um conglomerado de empresas, com um portfólio que abrange o transporte e logística, com grandes empresas estrategicamente localizadas próximo às principais montadoras e portos do Brasil e de outros países da América Latina. A empresa é reconhecida como uma referência na América Latina em transportes e armazenagem, sendo pioneira no desenvolvimento do modal marítimo para o transporte de veículos novos através da cabotagem.\r\n\r\nCom presença de Norte a Sul, o Grupo SADA não apenas atua nos setores de transporte, logística e armazenagem, mas também na indústria e comércio, fabricando componentes automotivos, peças para o ramo ferroviário, e atendendo os mercados de mineração e cimento. Além disso, a empresa opera no setor de serviços, com projetos de exportação e importação, bem como no comércio de veículos leves e pesados, oferecendo assistência técnica, oficina, peças e acessórios.\r\n\r\nO Grupo SADA também se dedica ao setor de bioenergia, investindo em soluções sustentáveis, como a produção de etanol, açúcar e cogeração de energia através de suas usinas, acompanhado por esforços de reflorestamento, abrangendo uma área de cerca de 11 mil hectares. Além disso, o Grupo possui uma presença significativa no setor de comunicação, sendo o maior conglomerado de mídia de Minas Gerais.\r\n\r\nA empresa valoriza o poder do esporte e apoia mais de 300 crianças através de projetos sociais, mostrando seu compromisso em ser relevante para a sociedade em várias esferas de atuação.",
+    "inventoriesId": [
+        6385,
+        7680,
+        9001
+    ],
+    "logoId": "2dbbffa9-b342-4fbb-beac-3fbbe9f5b035",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 636,
+    "name": "Allegro Participações SA",
+    "about": "Holding de instituições não-financeiras.\r\n\r\nGestão de produtos e serviços inovadores.",
+    "inventoriesId": [
+        45,
+        1593,
+        1559
+    ],
+    "logoId": "3e14836f-3309-496d-ae42-652f88d3e317",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

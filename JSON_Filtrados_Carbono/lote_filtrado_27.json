@@ -1,0 +1,518 @@
+[
+    {
+        "empresa_pasta": "COSIMAT_4665",
+        "id_fgv": 4665,
+        "nome_oficial": "COSIMAT",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 47434.228,
+                    "emissoes_escopo_2": 2082.941,
+                    "emissoes_escopo_3": 9377.46,
+                    "total_emissoes": 58894.629,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 61829.92,
+                    "emissoes_escopo_2": 799.72,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 62629.64,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 24100.978,
+                    "emissoes_escopo_2": 751.757,
+                    "emissoes_escopo_3": 8702.436,
+                    "total_emissoes": 33555.171,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CPFL ENERGIA_1077",
+        "id_fgv": 1077,
+        "nome_oficial": "CPFL ENERGIA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 29135.94,
+                    "emissoes_escopo_2": 111168.63,
+                    "emissoes_escopo_3": 11163.036,
+                    "total_emissoes": 151467.606,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 71996.568,
+                    "emissoes_escopo_2": 271968.705,
+                    "emissoes_escopo_3": 13906.966,
+                    "total_emissoes": 357872.239,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 74953.73,
+                    "emissoes_escopo_2": 377854.82,
+                    "emissoes_escopo_3": 8749.2,
+                    "total_emissoes": 461557.75,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 91915.256,
+                    "emissoes_escopo_2": 535392.002,
+                    "emissoes_escopo_3": 10310.398,
+                    "total_emissoes": 637617.656,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 93834.488,
+                    "emissoes_escopo_2": 490222.096,
+                    "emissoes_escopo_3": 15807.825,
+                    "total_emissoes": 599864.409,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 230971.834,
+                    "emissoes_escopo_2": 381176.914,
+                    "emissoes_escopo_3": 3716.151,
+                    "total_emissoes": 615864.899,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 346507.582,
+                    "emissoes_escopo_2": 423391.851,
+                    "emissoes_escopo_3": 12481.834,
+                    "total_emissoes": 782381.267,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 293415.076,
+                    "emissoes_escopo_2": 346892.459,
+                    "emissoes_escopo_3": 11703.339,
+                    "total_emissoes": 652010.874,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 263189.498,
+                    "emissoes_escopo_2": 358805.82,
+                    "emissoes_escopo_3": 30845.2,
+                    "total_emissoes": 652840.518,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 217353.769,
+                    "emissoes_escopo_2": 290609.424,
+                    "emissoes_escopo_3": 11896.597,
+                    "total_emissoes": 519859.79,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 121379.571,
+                    "emissoes_escopo_2": 593114.526,
+                    "emissoes_escopo_3": 381014.905,
+                    "total_emissoes": 1095509.002,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 115062.372,
+                    "emissoes_escopo_2": 203332.776,
+                    "emissoes_escopo_3": 311648.941,
+                    "total_emissoes": 630044.089,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 245411.713,
+                    "emissoes_escopo_2": 218635.678,
+                    "emissoes_escopo_3": 309053.559,
+                    "total_emissoes": 773100.95,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 90175.423,
+                    "emissoes_escopo_2": 309807.758,
+                    "emissoes_escopo_3": 258978.515,
+                    "total_emissoes": 658961.696,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Compensação do Escopo 1 do Grupo CPFL Energia",
+                "Nome da entidade",
+                "Nome do Reduções Quantidade O projeto foi O projeto verificado foi",
+                "compradora ou",
+                "projeto vendidas? reduzida (tCOe) verificado? verificado a partir do padrão",
+                "receptora 2",
+                "MDL - Energias Sim The Tokyo Electric Power",
+                "Renováveis Co",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2012"
+            ],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "ssões de todos os escopos até 2030 e, a partir de 2025, nos tornarmos carbono neutro, compensando nossas emissões de forma voluntária a partir de 2025"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CREA  PA_8374",
+        "id_fgv": 8374,
+        "nome_oficial": "CREA - PA",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 54.525,
+                    "emissoes_escopo_2": 1.127,
+                    "emissoes_escopo_3": 46.021,
+                    "total_emissoes": 101.673,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CREASP_2890",
+        "id_fgv": 2890,
+        "nome_oficial": "CREA-SP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 3.892,
+                    "emissoes_escopo_2": 68.964,
+                    "emissoes_escopo_3": 73.808,
+                    "total_emissoes": 146.664,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 4.203,
+                    "emissoes_escopo_2": 68.17,
+                    "emissoes_escopo_3": 26.011,
+                    "total_emissoes": 98.384,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 8.816,
+                    "emissoes_escopo_2": 86.683,
+                    "emissoes_escopo_3": 344.921,
+                    "total_emissoes": 440.42,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 8.327,
+                    "emissoes_escopo_2": 69.37,
+                    "emissoes_escopo_3": 476.175,
+                    "total_emissoes": 553.872,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 434.83,
+                    "emissoes_escopo_2": 23.41,
+                    "emissoes_escopo_3": 133.14,
+                    "total_emissoes": 591.38,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Doação de mudas nativas em Olímpia.",
+                "Plantio de mudas nativas compensatório em São Pedro.",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2020",
+                "Inventário 2020 - CREA-SP",
+                "Conselho Regional de Engenharia e Agronomia do Estado de",
+                "São Paulo",
+                "Nome fantasia: CREA-SP",
+                "CNPJ: 60.985.017/0001-77",
+                "Setor econômico: Atividades profissionais, científicas e técnicas"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CRESOL_8807",
+        "id_fgv": 8807,
+        "nome_oficial": "CRESOL",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 434.483,
+                    "emissoes_escopo_2": 3.065,
+                    "emissoes_escopo_3": 5436.356,
+                    "total_emissoes": 5873.904,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CSI Governamental_8341",
+        "id_fgv": 8341,
+        "nome_oficial": "CSI Governamental",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 12.783,
+                    "emissoes_escopo_2": 0.096,
+                    "emissoes_escopo_3": 9.489,
+                    "total_emissoes": 22.368,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CTA_8340",
+        "id_fgv": 8340,
+        "nome_oficial": "CTA",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "CTANK_3776",
+        "id_fgv": 3776,
+        "nome_oficial": "C-TANK",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 6.211,
+                    "emissoes_escopo_2": 5.374,
+                    "emissoes_escopo_3": 25.529,
+                    "total_emissoes": 37.114,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CTC  Centro de Tecnologia Canavieira_5575",
+        "id_fgv": 5575,
+        "nome_oficial": "CTC - Centro de Tecnologia Canavieira",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 787.03,
+                    "emissoes_escopo_2": 150.28,
+                    "emissoes_escopo_3": 2070.167,
+                    "total_emissoes": 3007.477,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 737.388,
+                    "emissoes_escopo_2": 163.15,
+                    "emissoes_escopo_3": 272.754,
+                    "total_emissoes": 1173.292,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶profissionais,▶científicas▶e▶técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CTE  Centro de Tecnologia de Edificações_1438",
+        "id_fgv": 1438,
+        "nome_oficial": "CTE - Centro de Tecnologia de Edificações",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 8.04,
+                    "emissoes_escopo_3": 1210.0,
+                    "total_emissoes": 1218.04,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 12.815,
+                    "emissoes_escopo_3": 415.814,
+                    "total_emissoes": 428.629,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 0.012,
+                    "emissoes_escopo_2": 4.259,
+                    "emissoes_escopo_3": 108.596,
+                    "total_emissoes": 112.867,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Compensações Voluntárias na realização de eventos externos",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2014",
+                "Inventário 2014 - CTE - Centro de Tecnologia de Edificações",
+                "CENTRO DE TECNOLOGIA DE EDIFICAÇÕES",
+                "Nome fantasia: CTE - Centro de Tecnologia de Edificações",
+                "CNPJ: 64.030.638/0001-58",
+                "Setor econômico: Construção",
+                "Subsetor: Construção",
+                "Endereço: Rua Álvaro Rodrigues - 182 - Cj. 153 - Brooklin - São Paulo - SP - 04582-000"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

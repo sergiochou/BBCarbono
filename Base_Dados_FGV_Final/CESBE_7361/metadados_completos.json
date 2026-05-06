@@ -1,0 +1,35 @@
+{
+    "id": 7361,
+    "name": "CESBE",
+    "about": "O Grupo CESBE reúne as empresas CESBE Engenharia, ativos proprietários no setor de energia e outras companhias nos setores ambiental, saneamento e imobiliário. A CESBE Engenharia atua há quase 80 anos na construção em diversos segmentos, como energia renovável, linhas de transmissão, plantas industriais, sistemas de saneamento, edificações, ferrovias, rodovias e vias urbanas. Com sede em Curitiba, acumula mais de 1.100 obras executadas para cerca de 300 clientes. Os ativos no setor de energia do Grupo incluem duas PCHS (CN Energia e Turvo Energia) e duas linhas de transmissão (Assú e Guaíra) em operação.",
+    "inventoriesId": [
+        7059,
+        8386
+    ],
+    "logoId": "4b50ddba-aeed-e55a-aa23-3a1b3f50d2a8",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,75 @@
+{
+    "id": 2441,
+    "name": "Copersucar S.A.",
+    "about": "A Copersucar S.A. é a maior comercializadora de açúcar e de etanol do mundo. A companhia, criada em 2008, é uma plataforma integrada que conecta a produção agrícola, a venda de alimentos e energia renovável, serviços logísticos e outras atividades necessárias para atender clientes em todos os continentes. Seu modelo de negócio único combina a oferta em larga escala de produtos de alta qualidade com uma plataforma integrada de logística, transporte, armazenamento e comercialização, no Brasil e no mercado internacional.\nAtualmente, detém a comercialização exclusiva do açúcar e do etanol produzidos pelas 38 usinas sócias integrantes da Cooperativa de Produtores de Cana-de-açúcar, Açúcar e Álcool do Estado de São Paulo. No Brasil, conta com três terminais para armazenagem e transbordo de açúcar no estado de São Paulo: o maior deles é o Terminal Açucareiro Copersucar (TAC), localizado em Santos; e mais dois terminais multimodais localizados nas cidades de Ribeirão Preto e São José do Rio Preto.\nNo mercado internacional do açúcar contamos com a Alvean, líder global na comercialização de açúcar, que em 2021 passa a ser controlada 100% pela Copersucar. A Alvean atua de forma independente e com uma estrutura própria de governança. Por meio de um acordo comercial, a empresa adquire 100% do açúcar que a Copersucar destina ao mercado externo, realizando a sua venda e distribuição para os clientes.\nNo mercado internacional do etanol contamos com a Eco-Energy, controlada 100% pela Copersucar, que atua nos Estados Unidos com a comercialização e distribuição de etanol e outras soluções direcionadas para uma economia de baixo carbono.\nEm 2021, fortalecendo nossa estratégia de crescimento da plataforma integrada de negócios, a Evolua Etanol foi criada em parceria com a Vibra Energia (antiga Petrobras Distribuidora), tornando-se a maior trading  do biocombustível do Brasil como uma plataforma aberta para produtores e distribuidoras.\nPautada pela Sustentabilidade, a Copersucar atua sistematicamente em uma plataforma de negócios para difundir os impactos positivos do uso de energia renovável, biocombustíveis e alimento natural e saudável para o Brasil e o mundo.",
+    "inventoriesId": [
+        3067,
+        3436,
+        3652,
+        3916,
+        4392,
+        4765,
+        5115,
+        6414,
+        7467,
+        8491
+    ],
+    "logoId": "f8b089bd-80df-27dd-59c0-3a15c674a8aa",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

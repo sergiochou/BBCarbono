@@ -1,0 +1,40 @@
+{
+    "id": 1446,
+    "name": "Grupo Index",
+    "about": "O Grupo Index possui uma longa história de sucesso na promoção de soluções nas áreas florestal e ambiental, para empresas em todo o Brasil.\nEssa história teve início em 1971 quando, o Professor Antônio Albino Ramos criou a Confal Consultoria Florestal Brasileira, empresa mais antiga do ramo ainda em atuação no país.\nApós décadas de atuação em todo o território brasileiro e ter criado um nome que se tornou referência junto a diferentes gerações de empresas, os diretores da Confal decidiram por dar continuidade e escrever um novo capítulo nessa história de conquistas, com a criação do Grupo Index, o qual incorpora as empresas Index Florestal, Index Ambiental, MapForest, Geobots e Arvor Business.\nO Grupo Index promove uma nova forma de gestão, focada na inclusão da sustentabilidade em todos os seus projetos. Compartilhando recursos e conhecimento entre as empresas associadas e parceiras é possível minimizar custos e maximizar resultados para seus clientes e para o meio ambiente.",
+    "inventoriesId": [
+        2310,
+        2791,
+        8194
+    ],
+    "logoId": "11aa664f-ddf6-4c7d-9def-6d7fc7d801d9",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8292,
+    "name": "Grupo BTZ",
+    "about": "Satisfazer pessoas em todo o mundo com qualidade e eficiência é o propósito do Grupo Btz, um complexo empresarial com mais de 30 anos atuando no segmento de alimentos à base de proteína animal e agronegócio.\n\nFormado por pessoas comprometidas e engajadas, o Grupo Btz começou com a fundação da empresa Jaguafrangos em 1992, em Jaguapitã (PR), pelos irmãos Sidnei Donizete Bottazzari e Paulo Sérgio Botazzari. A operação, que iniciou com 50 colaboradores e com abate de 1000 aves/dia, hoje é composta por mais de 7 mil pessoas e sua produção ultrapassa a marca de 350 mil toneladas de proteína a cada ano.\n\nCom unidades produtivas e filiais nos estados do Paraná, Santa Catarina e São Paulo, o Grupo Btz atua em todo o Brasil e também no exterior, levando seus produtos e marcas a mais de 50 países.\n\nHá 30 anos nutrindo a vida e contribuindo com a prosperidade social, o Grupo Btz se pauta em valores como solidez e integridade para crescer e evoluir com seus clientes, parceiros e colaboradores, tornando-se cada vez mais referência em qualidade e segurança alimentar.",
+    "inventoriesId": [
+        8337
+    ],
+    "logoId": "b8c2a48d-654d-db6c-c9c8-3a189c6a1467",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

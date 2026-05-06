@@ -1,0 +1,40 @@
+{
+    "id": 5401,
+    "name": "Portobello Grupo",
+    "about": "O Portobello Grupo (PBG S.A.), com sede em Tijucas, Santa Catarina, é líder no mercado brasileiro de revestimentos cerâmicos e um protagonista global no setor, com presença em mais de 60 países e capacidade produtiva superior a 45 milhões de m² anuais.\n\nSeu modelo de negócios integrado conecta indústria, mercado e cliente, materializando a inovação em soluções que atendem às demandas do consumidor final. Essa integração é potencializada pela transformação digital, que ocupa um papel estratégico nas operações do Grupo. A digitalização não só aprimora processos internos, como também cria novas oportunidades de negócios, reforçando a conexão com os clientes e parceiros. Por meio do conceito de plataforma de negócios, o Portobello Grupo se posiciona como um ecossistema adaptável, capaz de agregar valor, ampliar mercados e impulsionar o crescimento sustentável.\n\nComo empresa de capital aberto no segmento Novo Mercado da B3, o Portobello Grupo segue rigorosos padrões de governança corporativa, com suporte de um Conselho de Administração e comitês como os de Sustentabilidade, Ética, Estratégia, Fiscal e de Auditoria.\n\nA sustentabilidade é outro pilar fundamental, com o Grupo sendo signatário do Pacto Global da ONU e alinhando suas metas aos Objetivos de Desenvolvimento Sustentável (ODS), promovendo práticas responsáveis em Meio Ambiente, Trabalho, Direitos Humanos e Combate à Corrupção. Além disso, como membro do Conselho de Administração da ANFACER, o Portobello Grupo contribui ativamente para o desenvolvimento do setor no Brasil e no mundo, reforçando sua liderança em inovação, digitalização e sustentabilidade.",
+    "inventoriesId": [
+        6592,
+        7743,
+        9216
+    ],
+    "logoId": "047d07b4-1e66-4ad0-a0c2-a3b152fc18db",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

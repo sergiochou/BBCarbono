@@ -1,0 +1,30 @@
+{
+    "id": 7499,
+    "name": "Bom Jesus Agropecuária e ABJ Comércio",
+    "about": "",
+    "inventoriesId": [
+        7910
+    ],
+    "logoId": "b64eda8b-d928-77e3-76ac-3a12e1034317",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

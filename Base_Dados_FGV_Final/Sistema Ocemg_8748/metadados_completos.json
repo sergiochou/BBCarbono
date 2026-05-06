@@ -1,0 +1,30 @@
+{
+    "id": 8748,
+    "name": "Sistema Ocemg",
+    "about": "O Sistema Ocemg é formado pela junção de duas importantes instituições: o Sindicato e Organização das Cooperativas do Estado de Minas Gerais (Ocemg), órgão de representação política, sindical-patronal e de defesa do cooperativismo no Estado; e o Serviço Nacional de Aprendizagem do Cooperativismo de Minas Gerais (Sescoop-MG), responsável pelas atividades de formação profissional, monitoramento e promoção social das diversas cooperativas de Minas. A Ocemg ainda integra a Federação dos Sindicatos das Cooperativas dos Estados de Alagoas, Bahia, Espírito Santo, Minas Gerais e Santa Catarina (Fecoop-Sulene).\nPronto para atuar em benefício do crescimento e desenvolvimento do cooperativismo mineiro, o Sistema proporciona orientação e apoio para a gestão eficiente do setor, oferecendo cursos, treinamentos, palestras e seminários que integram e fortalecem as sociedades cooperativas.\nEm 2025 a Ocemg completa 55 anos de história e o Sescoop/MG 25 anos de atividades. O resultado é um Sistema consolidado e de credibilidade que abrange um universo aproximado de 800 cooperativas dos mais diversos ramos e mais de 3,2 milhões de cooperados.\nO Sistema Ocemg também se destaca pelo protagonismo em ações voltadas à sustentabilidade e à responsabilidade socioambiental. Como parte desse compromisso, publica pela primeira vez seu inventário de emissões de Gases de Efeito Estufa (GEE) no Registro Público de Emissões do Programa Brasileiro GHG Protocol. A iniciativa reforça a transparência, a gestão ambiental e o alinhamento do cooperativismo mineiro às melhores práticas nacionais e internacionais de combate às mudanças climáticas.",
+    "inventoriesId": [
+        8484
+    ],
+    "logoId": "e382d693-5952-5c02-832c-3a19e15bc1d4",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

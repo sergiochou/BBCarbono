@@ -1,0 +1,30 @@
+{
+    "id": 8271,
+    "name": "Schulz S.A.",
+    "about": "A Schulz S.A. é uma empresa brasileira, com sede em Joinville (SC), que se destaca globalmente como fornecedora de produtos fundidos, usinados, pintados e montados para subsistemas automotivos, além de oferecer soluções em ar comprimido e equipamentos para uso doméstico e industrial.\nA Schulz Automotiva, unidade de negócios voltada ao segmento automotivo pesado global, atua há mais de 30 anos e é reconhecida pela qualidade na produção de peças e componentes. Como a segunda maior fundição com usinagem integrada do Brasil em seu setor, tornou-se referência mundial na fundição de ferro nodular e cinzento, usinagem, pintura e montagem. Atendendo aos mais altos padrões de qualidade, fornece soluções para fabricantes e montadoras de veículos comerciais pesados, incluindo caminhões, ônibus, máquinas agrícolas e equipamentos de construção civil.",
+    "inventoriesId": [
+        7894
+    ],
+    "logoId": "20fd3844-4200-fafb-81b6-3a1884168030",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

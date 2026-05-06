@@ -1,0 +1,30 @@
+{
+    "id": 8267,
+    "name": "Caramuru Alimentos S/A ",
+    "about": "A Caramuru Alimentos S.A. figura entre as 100 maiores empresas do agronegócio brasileiro, com atuação consolidada no processamento de soja, milho e girassol. Reconhecida por seu compromisso com a sustentabilidade e a geração de valor compartilhado, a companhia promove impactos positivos junto a colaboradores, clientes, parceiros e comunidades. Seu modelo de negócios está estruturado em cinco pilares estratégicos: Originação, Logística Integrada, Commodities Diferenciadas, Biocombustíveis e Produtos de Consumo, reforçando sua posição como referência em práticas empresariais confiáveis e sustentáveis no setor.\nCom presença nos estados de Goiás, Paraná, Mato Grosso, São Paulo, Pará e Amapá, a Caramuru atua na industrialização de grãos, na exportação de derivados, na logística integrada e na produção de biodiesel e etanol de soja. Destaca-se, ainda, na comercialização de commodities diferenciadas, especialmente produtos não transgênicos (NGMO) certificados, destinados a mercados internacionais exigentes, como Alemanha, Noruega, Estados Unidos e China.\nA matriz localizada em Itumbiara (GO) configura-se como um dos principais polos de processamento de milho da companhia. A unidade é responsável pela produção de óleo e farelo de milho, além de itens diferenciados, como milho pré-cozido e pipoca. Também realiza o processamento de derivados de soja, incluindo óleo refinado e Proteína Concentrada de Soja (SPC), ampliando a competitividade da empresa no segmento de commodities de maior valor agregado. Desde 2017, opera um sistema de cogeração de energia elétrica a partir de biomassa, promovendo maior eficiência energética e autossuficiência operacional.\nInaugurada em 1975, a unidade de Itumbiara passou por sucessivas expansões de infraestrutura e capacidade produtiva. Em 2022, a Caramuru fortaleceu sua atuação estratégica com a implantação de uma nova planta de SPC GMO, voltada ao fornecimento de insumos para rações agrícolas nos mercados da América do Sul e do Sudeste Asiático. Tal investimento evidencia o compromisso contínuo da companhia com a inovação, a eficiência operacional e o desenvolvimento sustentável no agronegócio brasileiro.\n",
+    "inventoriesId": [
+        7882
+    ],
+    "logoId": "2d9dd7fd-0ab1-a5b9-1276-3a18828a88bb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

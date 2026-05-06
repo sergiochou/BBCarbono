@@ -1,0 +1,30 @@
+{
+    "id": 8274,
+    "name": "Banestes",
+    "about": "O Banestes S.A. - Banco do Estado do Espírito Santo (B3: BEES3, BEES4) -, sociedade anônima de capital aberto e de economia mista criada em 1937, é um banco múltiplo controlado pelo estado do Espírito Santo. Detém a maior rede bancária do estado do Espírito Santo. É a única instituição bancária com agências em todos os 78 municípios capixabas. ",
+    "inventoriesId": [
+        8396
+    ],
+    "logoId": "73bcc7b1-7936-0ac4-c82a-3a1b6352b269",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

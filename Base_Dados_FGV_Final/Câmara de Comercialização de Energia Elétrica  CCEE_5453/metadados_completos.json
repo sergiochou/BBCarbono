@@ -1,0 +1,35 @@
+{
+    "id": 5453,
+    "name": "Câmara de Comercialização de Energia Elétrica - CCEE",
+    "about": "Talvez você nem tenha percebido, mas a Câmara de Comercialização de Energia Elétrica - CCEE está ao seu lado todos os dias. É o nosso trabalho que garante que a eletricidade chegue até a sua residência, ao seu escritório, ao seu comércio. \r\n\r\nNós integramos geradores, distribuidores, comercializadores e consumidores. Estamos presentes em cada etapa e garantimos as condições para que a energia elétrica seja negociada. Por isso, a CCEE é a grande facilitadora do mercado energético.\r\n\r\nDesde que a Instituição nasceu, em 1999, ainda com outro nome (Asmae), conquistamos uma enorme credibilidade junto aos agentes do mercado, às autoridades públicas e associações representativas do setor. O índice de satisfação de nossos clientes aumenta continuamente. Esse reconhecimento é fruto do trabalho diário de centenas de colaboradores especializados, extremamente qualificados e sempre em busca de inovações. \r\n\r\nA CCEE é a casa do mercado, pois aqui que todos se encontram, dialogam e evoluem seus negócios. \r\n\r\nInvestimos em tecnologias, nas relações pessoais e no conhecimento técnico. Operamos o mercado comercial e gerimos bilhões de reais em recursos, garantindo a liquidez dos negócios e a sustentabilidade do setor.\r\n\r\nTemos um olhar permanente para o amanhã, procurando entregar cada vez mais serviços de qualidade e propor soluções e aperfeiçoamentos para o setor elétrico. Nós olhamos para o horizonte e apontamos o caminho. Venha conosco para o futuro!",
+    "inventoriesId": [
+        6584,
+        7259
+    ],
+    "logoId": "9a87e0d1-30d0-4d6a-a0a1-b72525609c71",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8158,
+    "name": "CDSS",
+    "about": "Administração portuária ",
+    "inventoriesId": [
+        8839
+    ],
+    "logoId": "c0d42ff4-aaba-d3a8-34f2-3a1492c11b32",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4544,
+    "name": "Engemon Engenharia e Telecomunicações",
+    "about": "A Engemon é um grupo pioneiro no mercado de Engenharia e Construção corporativa que, desde 1990, colabora e pavimenta momentos importantes na história de muitas empresas por meio de projetos que unem soluções inteligentes e permanentes, engenharia multidisciplinar – que chamamos de Engenharia 360, otimização de prazos, gastos e recursos, além de atendimento personalizado.\r\n\r\nCom unidades de negócios especializadas em Engenharia, Construção, Operação e Manutenção e também Tecnologia (com a Engemon IT, empresa do grupo), nosso compromisso é estar sempre presente - seja em fases específicas do projeto ou de forma completa, da concepção e reengenharia a execução e operação. \r\n\r\nNossas ações são orientadas por princípios e valores que respeitam as particularidades de cada cliente, e valoriza seus respectivos negócios com soluções inteligentes. Compromisso, responsabilidade, competência, inovação e ética estão na base de nossa política de atuação.\r\n\r\nÉ claro que tamanha excelência não se conquista sem a ajuda de profissionais altamente qualificados em cada etapa do processo. No total, somos mais de 1.000 especialistas dedicados e prontos para atuar de forma proativa e eficiente frente aos desafios e às necessidades dos nossos clientes.\r\n\r\nAo longo dos anos, já colocamos de pé mais de 700.000 m², distribuídos por todo o território nacional e em obras dos mais variados portes.",
+    "inventoriesId": [
+        5762,
+        6324,
+        7031,
+        8750
+    ],
+    "logoId": "c03260b2-a402-47c8-be3f-3ad1fc6a0a84",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

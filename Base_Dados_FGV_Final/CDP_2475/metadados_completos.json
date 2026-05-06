@@ -1,0 +1,30 @@
+{
+    "id": 2475,
+    "name": "CDP",
+    "about": "O CDP é uma organização internacional sem fins lucrativos que provê um sistema global único para que as empresas e cidades meçam, divulguem, gerenciem e compartilhem informações vitais sobre o meio ambiente. O CDP trabalha com as forças do mercado, incluindo 767 investidores institucionais, para motivar as companhias e as cidades a divulgarem seus impactos no meio ambiente, assim como suas ações para reduzi-los. Atualmente, o CDP possui o maior volume de informações sobre mudanças climáticas e água do planeta e procura colocar estes insights na pauta das decisões estratégicas, dos investidores e das decisões políticas. Os dados reportados aqui serão do nosso escritório regional que atua na América Latina.",
+    "inventoriesId": [
+        3445
+    ],
+    "logoId": "8c5f88a5-1448-4e84-bc71-4cecaadbbfd2",
+    "sector": {
+        "id": 21,
+        "name": "Organismos internacionais e outras instituições extraterritoriais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7461,
+    "name": "EXPOCANNABIS BRASIL",
+    "about": null,
+    "inventoriesId": [
+        7207,
+        8618
+    ],
+    "logoId": "b3482ea7-987a-3131-51a9-3a12d6d4a583",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

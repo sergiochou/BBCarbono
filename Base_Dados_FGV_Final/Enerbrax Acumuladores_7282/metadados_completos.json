@@ -1,0 +1,35 @@
+{
+    "id": 7282,
+    "name": "Enerbrax Acumuladores",
+    "about": "Localizada em Bauru, a Enerbrax Acumuladores produz e comercializa, desde 2005, as baterias Route, baterias de chumbo-ácido do tipo VRLA (Valve Regulated Lead Acid) para motocicletas e motocicletas aquáticas.\nDesde o início, a empresa persegue a excelência e seu principal objetivo é fornecer produtos de qualidade cuidando, sobretudo, das questões voltadas à segurança de seus colaboradores, consumidores e do meio ambiente.",
+    "inventoriesId": [
+        7668,
+        8193
+    ],
+    "logoId": "00b09ccf-7543-3867-572c-3a15e66489f7",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

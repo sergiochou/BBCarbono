@@ -1,0 +1,30 @@
+{
+    "id": 3258,
+    "name": "Alsol",
+    "about": null,
+    "inventoriesId": [
+        4739
+    ],
+    "logoId": "4be3d094-94f4-4c6c-ba1b-1a1756093611",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

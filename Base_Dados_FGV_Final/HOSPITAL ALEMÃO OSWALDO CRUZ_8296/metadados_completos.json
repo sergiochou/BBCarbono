@@ -1,0 +1,30 @@
+{
+    "id": 8296,
+    "name": "HOSPITAL ALEMÃO OSWALDO CRUZ",
+    "about": "Com 128 anos de história, o Hospital Alemão Oswaldo Cruz é um centro de alta complexidade em cuidados hospitalares, com perfil filantrópico, unidades distribuídas no estado de São Paulo e posição de referência em medicina. O propósito de Servir à Vida reflete a trajetória da Instituição e se traduz em um modelo de assistência que reúne diagnóstico, tratamento, reabilitação, educação, pesquisa, saúde integral, inovação e promoção de impacto no ecossistema de saúde do País. Para isso, o Hospital conta com a parceria e confiança de seus 3.820 colaboradores, além de um corpo clínico especializado com 5.315 médicos e odontólogos em cadastro ativo. \nAs atividades do Hospital se distribuem nos pilares de Saúde Privada; Educação, Pesquisa, Inovação e Saúde Digital; e Sustentabilidade e Responsabilidade Social. \nNo primeiro, uma atuação sólida em dezenas de especialidades – Oncologia, Aparelho Digestivo, Neurologia, Cardiologia, Ortopedia, Urologia e Nefrologia, entre outras – é assegurada por infraestrutura de ponta, por meio das unidades Paulista e Campo Belo, em São Paulo Capital. Já a frente de conhecimento se estrutura por meio da formação técnica, superior e de pós-graduação e dos centros de pesquisa e inovação em saúde, também situados na capital paulista. A fim de retribuir à sociedade brasileira o acolhimento dado aos imigrantes de língua alemã que o fundaram, o Hospital Alemão Oswaldo Cruz também atua na promoção do impacto no sistema brasileiro de saúde. Por meio do Instituto Social Hospital Alemão Oswaldo Cruz, atua em Santos (SP), na administração do Complexo Hospitalar dos Estivadores e do Ambulatório Médico de Especialidades Dr. Nelson Teixeira (AMBESP). Além disso, em parceria com o Ministério da Saúde, integra o grupo de seis instituições de saúde de reconhecida excelência vinculadas ao Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde (Proadi-SUS), que finalizou em 2023 mais um triênio de colaboração.",
+    "inventoriesId": [
+        8921
+    ],
+    "logoId": "c2efc4ab-a7a8-ed3d-0916-3a18a35aeae8",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

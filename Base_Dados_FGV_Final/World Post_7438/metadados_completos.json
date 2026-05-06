@@ -1,0 +1,35 @@
+{
+    "id": 7438,
+    "name": "World Post",
+    "about": "Com 34 anos de experiência, a WORLD POST é uma das principais referências no Brasil em envelopes de segurança e embalagens especiais. Localizada em Santana de Parnaíba (SP), a organização conta com mais de 704 colaboradores e uma estrutura industrial moderna com 52 mil m² de área total, unindo inovação, qualidade e responsabilidade socioambiental.\n\nA World Post atende diversos segmentos — como e-commerce, logística, varejo e instituições financeiras — com soluções personalizadas, desenvolvidas para garantir alto desempenho técnico, segurança e menor impacto ambiental.\n\nReconhecida por sua atuação responsável, a World Post possui certificações como a ISO 9001, ISO 14001, ISO 16001, ISO 45001, FSC® e RCS, e participa de iniciativas globais como o Pacto Global da ONU, o Programa Brasileiro GHG Protocol e o The Climate Pledge, reforçando seu compromisso com a sustentabilidade e a excelência operacional.",
+    "inventoriesId": [
+        7106,
+        8443
+    ],
+    "logoId": "5acc1983-e3be-ebaa-c186-3a19e65f0722",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

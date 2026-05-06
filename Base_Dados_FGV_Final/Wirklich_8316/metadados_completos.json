@@ -1,0 +1,30 @@
+{
+    "id": 8316,
+    "name": "Wirklich",
+    "about": "A Wirklich atua no mercado de injeção de plásticos e seu foco principal é a inovação. A Wirklich é movida pelo desafio de encontrar soluções eficientes para substituir materiais como metal e borracha em plástico. Em 2025 a Wirklich completa 20 anos de fundação.",
+    "inventoriesId": [
+        8796
+    ],
+    "logoId": "56969765-4ae2-7f68-82af-3a18b79a85c0",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

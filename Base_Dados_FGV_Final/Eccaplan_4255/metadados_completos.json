@@ -1,0 +1,30 @@
+{
+    "id": 4255,
+    "name": "Eccaplan",
+    "about": "A Eccaplan é uma Consultoria Ambiental que desenvolve e implementa estratégias, produtos e serviços que viabilizam a geração de valor através de práticas socioambientais inovadoras, principalmente através da gestão de resíduos e da contabilização e neutralização de carbono.",
+    "inventoriesId": [
+        5475
+    ],
+    "logoId": "54119acc-9d3e-41a7-868e-1f4721159bc8",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7215,
+    "name": "GEOGAS",
+    "about": "A GEOGAS é uma empresa 100% brasileira que nasceu com a vocação para prestar soluções inovadoras para mercado de gás natural.\nNossas soluções em descarbonização englobam Serviços de Esvaziamento de Gasodutos Minimizando as purgas de gás para a atmosfera; Compressores para injeção de CO2 e Soluções em Biometano e Bio-LNG;\nJá nossas soluções em instalações de gás natural englobam EPC e O&M de Unidades de Processamento e Transferência de Petróleo, Gás e Derivados (UPGN), Estações de Compressão, Gasodutos Terrestres, Sistema de Medição de Gás (Pontos de Entrega),  Soluções de GNL e Regaseificação.",
+    "inventoriesId": [
+        7322,
+        8272
+    ],
+    "logoId": "e0abdd17-7239-6db8-d4da-3a12667ab806",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

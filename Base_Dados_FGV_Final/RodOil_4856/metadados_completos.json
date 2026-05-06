@@ -1,0 +1,30 @@
+{
+    "id": 4856,
+    "name": "RodOil",
+    "about": "A Rodoil teve início em 2006, em Caxias do Sul, no Rio Grande do Sul. Desde o começo, trabalhamos para construir uma relação de confiança com os clientes e fornecedores, pois entendemos que o nosso combustível é muito mais que uma fórmula química que coloca veículos em movimento.\r\n\r\nQuanto mais longa é a estrada, mais experiência ganhamos para saber exatamente o que queremos, aonde desejamos chegar e amadurecer nossas escolhas. Assim, nos tornamos a maior distribuidora regional de combustíveis do sul do país, com presença em sete estados: Rio Grande do Sul, Santa Catarina, Paraná, São Paulo, Mato Grosso, Minas Gerais e Goiás.\r\n\r\nContamos com 29 bases operacionais estrategicamente localizadas para garantir a distribuição ágil e a entrega rápida dos nossos combustíveis. Atendemos o consumidor final, a partir da rede bandeirada, postos de bandeira branca, TRR e congêneres. Sempre tendo como premissa a proximidade, a agilidade nas decisões e a eficiência logística.",
+    "inventoriesId": [
+        6064
+    ],
+    "logoId": "d0ef9c85-8065-480c-8645-61d1cd172b96",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

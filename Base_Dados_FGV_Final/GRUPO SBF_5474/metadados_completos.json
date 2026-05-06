@@ -1,0 +1,40 @@
+{
+    "id": 5474,
+    "name": "GRUPO SBF",
+    "about": "O Grupo SBF é composto pela Centauro, FISIA (Distribuidora oficial Nike do Brasil) e pela SBF Ventures. Essa última foi desenvolvida em 2021 para abrigar as novas unidades de negócio estrategicamente incorporadas ao nosso ecossistema, são elas: a NWB, a OneFan, a X3M e a FitDance.\r\n\r\nOferecemos diversas experiências e serviços que acompanham nossos clientes por toda a sua jornada esportiva, criando uma conexão desde o momento da escolha dos produtos até a atividade física, transformando e fortalecendo a relação das pessoas com o seu esporte do coração. Para isso, marcamos presença no mundo do esporte por meio da produção de eventos, inovação em plataformas digitais, criação de conteúdo exclusivo e, claro, no varejo de artigos esportivos. Movimentar é nosso esporte, por isso,\r\nnos conectamos com a jornada do praticante e entusiasta e trabalhamos para oferecer produtos, serviços e experiências para impulsionar seu engajamento com atividades esportivas. ",
+    "inventoriesId": [
+        6434,
+        7819,
+        7961
+    ],
+    "logoId": "79351a5c-37a1-325c-9f46-3a1329e86ea5",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

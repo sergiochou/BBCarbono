@@ -1,0 +1,45 @@
+{
+    "id": 4305,
+    "name": "DENSO DO BRASIL LTDA",
+    "about": "DENSO DO BRASIL LTDA (DNBR)  - Unidades de Curitiba/PR, Santa Bárbara d'Oeste/SP, Betim/MG e Goiana/PE e DENSO Industrial da Amazônia (DNAZ) - Unidade de Manaus (AM).",
+    "inventoriesId": [
+        5597,
+        6213,
+        7754,
+        8323
+    ],
+    "logoId": "a31ff32b-f21b-460e-967c-8d4e4a7ffddf",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

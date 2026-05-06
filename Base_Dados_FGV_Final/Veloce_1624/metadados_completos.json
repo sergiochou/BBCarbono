@@ -1,0 +1,50 @@
+{
+    "id": 1624,
+    "name": "Veloce",
+    "about": "Fundada em 2009, a Veloce Logística é uma empresa do Grupo Mitsui, uma das maiores companhias do mundo, presente em 69 países e com mais de 40 mil empregados. Líder no transporte rodoviário de cargas entre Brasil e Argentina, a Veloce também presta serviços em toda a cadeia logística, como milk run, cross docking, movimentação interna, gestão de armazenagem, controle de embalagens, logística reversa, transportes doméstico e internacional e documentação internacional. \r\n\r\nA Veloce conta com 500 funcionários, 475 carretas tipo sider, 300 parceiros de transporte e 20 bases operacionais entre Brasil e Argentina. \r\n\r\n",
+    "inventoriesId": [
+        85,
+        2494,
+        2226,
+        1637,
+        620
+    ],
+    "logoId": "330bc99a-06e1-45d2-82b8-cd97081f1054",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

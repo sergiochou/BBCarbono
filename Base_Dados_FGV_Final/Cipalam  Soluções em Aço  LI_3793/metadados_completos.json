@@ -1,0 +1,45 @@
+{
+    "id": 3793,
+    "name": "Cipalam  Soluções em Aço - LI",
+    "about": "A história da Cipalam – Soluções em Aço, origina-se dos anos 60, na antiga Empresa de Perfilados NMF. EM 1985, foi adquirida por um grupo de pioneiros da região do Vale do Aço, a Família Drumond Alves, formando a CIPALAM - Companhia Ipatinguense de Laminação (nome dado em homenagem à cidade de Ipatinga). Desde então, a CIPALAM vem atuando na produção de barras e perfis laminados (cantoneira, barra quadrada, barra chata e barra redonda) que podem ser empregados em vários segmentos, como na construção civil, na indústria mecânica estrutural, entre outros. São duas Unidades Industriais na região do Vale do Aço (MG): a Unidade Iguaçu, situada no Bairro Iguaçu, em Ipatinga, que possui a Fábrica de Perfis e Barras (com capacidade de produção de 7.500 toneladas/mês) . A Unidade Paraíso, no Bairro do Bom Sucesso em Santana do Paraíso (com capacidade de produção de 15 mil toneladas/mês) e vem sendo preparada para novos projetos da empresa que contribuirão para oferecermos, cada vez mais, as melhores soluções em aço.\nA Cipalam tem um compromisso de responsabilidade com a qualidade de vida das comunidades onde está inserida, além da preservação constante com o meio ambiente. Fundamental também é a preocupação com a segurança, a saúde, o desenvolvimento de seus profissionais. A experiência de mercado, assim como a trajetória de crescimento nos últimos anos, contribui de maneira significativa para que a empresa atinja seus objetivos, evoluindo e crescendo com foco no futuro sustentável de suas ações. Modificamos o nosso negócio, ao ampliarmos nosso mix de produtos para oferecer aos clientes soluções em aço mais adequadas para cada perfil. Nosso propósito é trabalhar com EXCELÊNCIA, oferecendo aos nossos clientes produtos de QUALIDADE, garantindo a SEGURANÇA dos nossos colaboradores e parceiros.",
+    "inventoriesId": [
+        5026,
+        5859,
+        7177,
+        8520
+    ],
+    "logoId": "18069c68-9cb0-4660-998e-3fc75239642c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

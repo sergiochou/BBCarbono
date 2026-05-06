@@ -1,0 +1,30 @@
+{
+    "id": 4691,
+    "name": "Prefeitura Municipal de São Gonçalo do Amarante ",
+    "about": null,
+    "inventoriesId": [
+        6376
+    ],
+    "logoId": "b00ffa4a-eb05-4e67-8125-3f58604f65d2",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 20,
+        "acronym": "RN",
+        "name": "Rio Grande do Norte"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

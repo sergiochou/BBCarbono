@@ -1,0 +1,35 @@
+{
+    "id": 7465,
+    "name": "A.W. FABER CASTELL S.A.",
+    "about": "Fundada em 1761, na Alemanha, a Faber-Castell é líder mundial na produção de EcoLápis – lápis fabricado a partir de madeira de reflorestamento. O Brasil, onde está presente desde 1930, representa a maior operação mundial da companhia, que mantém três fábricas locais e o equivalente a 11 mil campos de futebol de florestas cultivadas no país, que garantem matéria-prima para até 2 bilhões de lápis produzidos por ano. O que reforça a atuação transparente e sustentável da empresa nos aspectos social, ambiental e econômico.   \n \nCom produtos distribuídos em milhares de pontos de vendas do varejo no Brasil e exportação para mais de 20 países, a Faber-Castell Brasil se destaca pela combinação única da tradição e qualidade de seus produtos e serviços, que há décadas servem como ferramentas para despertar a criatividade na vida das pessoas. A empresa mantém um vasto portfólio de instrumentos de escrita escolares, artísticos e profissionais incluindo: EcoLápis de cor e grafite, canetinhas hidrográficas, canetas esferográficas, apontadores, borrachas, lapiseiras, kits criativos, além de uma linha de luxo.\n\nA Faber-Castell faz parte dos líderes do setor, destaca por seu compromisso com a sustentabilidade em todas as suas operações. Com uma abordagem voltada para a responsabilidade ambiental e social, a empresa implementou em diversas ações e iniciativas sustentáveis ao longo dos anos. Destacam-se o uso de insumo certificado, como madeira proveniente de florestas sustentáveis, a redução do consumo de água e energia em suas fábricas, e a implementação de programas de reciclagem e gestão de resíduos.\n\nAlém disso, a Faber-Castell tem investido em projetos de educação ambiental e responsabilidade social, contribuindo para o desenvolvimento sustentável das comunidades onde atua. Esses esforços refletem o compromisso da empresa em promover práticas sustentáveis.",
+    "inventoriesId": [
+        7802,
+        8226
+    ],
+    "logoId": "4dadd464-6215-bb08-fb4d-3a1328ac023e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

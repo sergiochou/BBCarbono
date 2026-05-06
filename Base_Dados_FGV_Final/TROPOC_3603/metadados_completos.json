@@ -1,0 +1,50 @@
+{
+    "id": 3603,
+    "name": "TROPOC",
+    "about": "A TROPOC (Produtos Tropicais de Castanhal Ltda.) é uma empresa que atua na compra e comercialização de pimenta do reino desde 1973. Conta com alta tecnologia industrial para a limpeza, classificação e esterilização de seus produtos, garantindo os mais altos padrões de qualidade e segurança dos alimentos exigidos pelo mercado internacional.",
+    "inventoriesId": [
+        4904,
+        5629,
+        6709,
+        7221,
+        8959
+    ],
+    "logoId": "0c777232-8c5e-7bee-ce6f-3a1b453c7bfb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

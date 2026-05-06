@@ -1,0 +1,505 @@
+[
+    {
+        "empresa_pasta": "PALMEIRA AMBIENTAL_3798",
+        "id_fgv": 3798,
+        "nome_oficial": "PALMEIRA AMBIENTAL",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1057.456,
+                    "emissoes_escopo_2": 18.361,
+                    "emissoes_escopo_3": 1033.062,
+                    "total_emissoes": 2108.879,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1266.921,
+                    "emissoes_escopo_2": 7.324,
+                    "emissoes_escopo_3": 783.681,
+                    "total_emissoes": 2057.926,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1679.308,
+                    "emissoes_escopo_2": 7.522,
+                    "emissoes_escopo_3": 486.904,
+                    "total_emissoes": 2173.734,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1328.818,
+                    "emissoes_escopo_2": 9.984,
+                    "emissoes_escopo_3": 1279.872,
+                    "total_emissoes": 2618.674,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto Energia Renovável: hidrelétrica Teles Pires",
+                "CDM ENERGIA RENOVÁVEL: TELES PIRES HIDROPOWER",
+                "ENERGIA RENOVÁVEL: HIDRELÉTRICA TELES PIRES",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2022",
+                "Inventário 2022 - PALMEIRA AMBIENTAL",
+                "PALMEIRA AMBIENTAL LTDA",
+                "Nome fantasia: PALMEIRA AMBIENTAL",
+                "CNPJ: 82.528.324/0001-61",
+                "Setor econômico: Água, esgoto, atividades de gestão de resíduos e descontaminação"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Paranoá_3765",
+        "id_fgv": 3765,
+        "nome_oficial": "Paranoá",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 0.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2530.661,
+                    "emissoes_escopo_2": 367.806,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2898.467,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Patrus Transportes_622",
+        "id_fgv": 622,
+        "nome_oficial": "Patrus Transportes",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 35020.352,
+                    "emissoes_escopo_2": 315.851,
+                    "emissoes_escopo_3": 69.719,
+                    "total_emissoes": 35405.922,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 38046.482,
+                    "emissoes_escopo_2": 76.387,
+                    "emissoes_escopo_3": 145.215,
+                    "total_emissoes": 38268.084,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Arvorecer",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2013",
+                "Inventário 2013 - Patrus Transportes",
+                "Patrus Transportes Urgentes Ltda",
+                "Nome fantasia: Patrus Transportes",
+                "CNPJ: 17.463.456/0013-24",
+                "Setor econômico: Transporte, armazenagem e correio",
+                "Subsetor: Transporte, armazenagem e correio",
+                "Endereço: Rua José Afonso Barbosa Melo - 145 - - CINCO - Contagem - MG - 32010-100"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pedro II  Soluções em Usinagem_5972",
+        "id_fgv": 5972,
+        "nome_oficial": "Pedro II - Soluções em Usinagem",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17.293,
+                    "emissoes_escopo_2": 7.096,
+                    "emissoes_escopo_3": 38.902,
+                    "total_emissoes": 63.291,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17.317,
+                    "emissoes_escopo_2": 7.096,
+                    "emissoes_escopo_3": 11.593,
+                    "total_emissoes": 36.006,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PepsiCo do Brasil Ltda_1653",
+        "id_fgv": 1653,
+        "nome_oficial": "PepsiCo do Brasil Ltda",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 79276.41,
+                    "emissoes_escopo_2": 1800.07,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 81076.48,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 101833.55,
+                    "emissoes_escopo_2": 4187.12,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 106020.67,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PETROBAHIA_7212",
+        "id_fgv": 7212,
+        "nome_oficial": "PETROBAHIA",
+        "estado": "BA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 104.402,
+                    "emissoes_escopo_2": 47.764,
+                    "emissoes_escopo_3": 16988.042,
+                    "total_emissoes": 17140.208,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;❖reparação❖de❖veículos❖automotores❖e❖motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Petrobras_356",
+        "id_fgv": 356,
+        "nome_oficial": "Petrobras",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 50867890.77,
+                    "emissoes_escopo_2": 405290.11,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 51273180.88,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 50949836.99,
+                    "emissoes_escopo_2": 608524.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 51558360.99,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 53204206.12,
+                    "emissoes_escopo_2": 662627.63,
+                    "emissoes_escopo_3": 283943612.0,
+                    "total_emissoes": 337810445.75,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 49186062.0,
+                    "emissoes_escopo_2": 883509.15,
+                    "emissoes_escopo_3": 511538348.0,
+                    "total_emissoes": 561607919.15,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias\u0002extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 62929509.366,
+                    "emissoes_escopo_2": 374788.65,
+                    "emissoes_escopo_3": 477700919.25,
+                    "total_emissoes": 541005217.266,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 65650523.187,
+                    "emissoes_escopo_2": 357531.885,
+                    "emissoes_escopo_3": 456801773.199,
+                    "total_emissoes": 522809828.271,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 60342899.694,
+                    "emissoes_escopo_2": 285875.587,
+                    "emissoes_escopo_3": 431648541.302,
+                    "total_emissoes": 492277316.583,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 58304894.6,
+                    "emissoes_escopo_2": 269862.935,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 58574757.535,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 55127689.7,
+                    "emissoes_escopo_2": 213143.156,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 55340832.856,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 61062002.1,
+                    "emissoes_escopo_2": 434037.9,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 61496040.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 47362307.7,
+                    "emissoes_escopo_2": 156299.762,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 47518607.462,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 45658651.111,
+                    "emissoes_escopo_2": 8244.355,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 45666895.466,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Petrovina sementes_7210",
+        "id_fgv": 7210,
+        "nome_oficial": "Petrovina sementes",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 23900.95,
+                    "emissoes_escopo_2": 274.934,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 24175.884,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,❖pecuária,❖produção❖florestal,❖pesca❖e❖aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PICCADILLY COMPANY_4680",
+        "id_fgv": 4680,
+        "nome_oficial": "PICCADILLY COMPANY",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 250.984,
+                    "emissoes_escopo_2": 199.307,
+                    "emissoes_escopo_3": 1046.657,
+                    "total_emissoes": 1496.948,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 204.868,
+                    "emissoes_escopo_2": 203.5,
+                    "emissoes_escopo_3": 2593.072,
+                    "total_emissoes": 3001.44,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias❖de❖transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Fundão-Santa Clara Energetic Complex Project (FSCECP)",
+                "ALIDATION EPORT",
+                "FUNDÃO-SANTA CLARA",
+                "ENERGETIC COMPLEX",
+                "PROJECT (FSCECP)",
+                "R N . BVQI/BRA/2006-16",
+                "EPORT O",
+                "REVISION NO. 03a",
+                "BUREAU VERITAS CERTIFICATION",
+                "ALIDATION EPORT"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Piccini Divisão Agrícola_6160",
+        "id_fgv": 6160,
+        "nome_oficial": "Piccini Divisão Agrícola",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 137864.374,
+                    "emissoes_escopo_2": 103.515,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 137967.889,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,❖pecuária,❖produção❖florestal,❖pesca❖e❖aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

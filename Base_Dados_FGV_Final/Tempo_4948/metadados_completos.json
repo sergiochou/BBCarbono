@@ -1,0 +1,35 @@
+{
+    "id": 4948,
+    "name": "Tempo",
+    "about": "Tempo é o player definitivo para o mercado de serviços no Brasil.\n\nSomos líderes nos segmentos de atuação – Assistências e Conveniências – temos como nossos clientes as principais seguradoras, montadoras de veículos, bancos, financeiras e varejistas do país, consolidando a distribuição de serviços, através dos canais B2B e B2B2C.\nSomos fortemente preocupados com a qualidade e a missão de entregar sempre experiências positivas. Para isso, contamos com uma robusta infraestrutura tecnológica bem como parceiros altamente qualificados que se conectam através de uma plataforma desenvolvida in-house, ou que contam com a engrenagem das soluções mais reconhecidas de mercado.",
+    "inventoriesId": [
+        6153,
+        7020
+    ],
+    "logoId": "8ab78472-528e-4b99-bbdf-dd44d9b0b042",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

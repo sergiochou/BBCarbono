@@ -1,0 +1,65 @@
+{
+    "id": 104,
+    "name": "Fundação FHC",
+    "about": "Sem fins lucrativos e apartidária, a Fundação FHC foi criada por Fernando Henrique Cardoso ao deixar a Presidência da República. A Fundação tem um duplo propósito: preservar e disponibilizar os arquivos de Ruth e de Fernando Henrique Cardoso e produzir e disseminar conhecimento sobre os desafios do desenvolvimento e da democracia no Brasil, em sua relação com o mundo. Ao enfrentar esses desafios, busca: Identificá-los, debatê-los e propor caminhos para superá-los; Promover o intercâmbio entre atores sociais, políticos e intelectuais; Estimular o compromisso com a política democrática; Ampliar o interesse sobre temas da agenda pública. Para cumprir os seus objetivos, realiza exposições, eventos educativos, debates interdisciplinares, estudos e publicações.",
+    "inventoriesId": [
+        2357,
+        2770,
+        3109,
+        3622,
+        3870,
+        4306,
+        4971,
+        5608
+    ],
+    "logoId": "0807325c-c34f-4b84-abb7-c4702a174df5",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

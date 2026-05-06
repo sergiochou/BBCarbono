@@ -1,0 +1,55 @@
+{
+    "id": 3136,
+    "name": "Inter",
+    "about": "A Inter&Co é uma holding constituída nas Ilhas Cayman e registrada na Securities and Exchange Commission (SEC) dos Estados Unidos e na Comissão de Valores Mobiliários (CVM) do Brasil. Suas ações classe A são negociadas na Nasdaq e dão lastro para BDRs (Brazilian Depositary Receipts) Nível 2 listados na B3. As avenidas de negócios do grupo Inter estão organizadas em subsidiárias operacionais da Inter&Co, dentre elas o Banco Inter.\n\nA Inter&Co adota uma abordagem de governança comprometida não só com a conformidade com os regulamentos que lhe são aplicáveis, mas também com a adoção das melhores práticas recomendadas pelo mercado. Por meio de seus órgãos de governança, como o Conselho de Administração e seus comitês, a Inter&Co incorpora os princípios de sustentabilidade ambiental, responsabilidade social e governança (ESG) na análise de riscos e oportunidades de negócio, buscando garantir a proteção dos interesses dos acionistas, clientes e demais stakeholders.\n\nA liderança da empresa se compromete com uma cultura de governança baseada em transparência, prestação de contas, integridade, responsabilidade social e sustentabilidade. A Inter&Co busca atender aos parâmetros regulatórios dos mercados em que atua, seguindo as regras da Nasdaq, as normas  aplicáveis a emissores estrangeiros registrados na U.S. Securities and Exchange Commission (SEC) e na Comissão de Valores Mobiliários (CVM) (categoria A), e os regulamentos da B3 aplicáveis a emissores com programa de BDRs Nível 2.",
+    "inventoriesId": [
+        4357,
+        4508,
+        5085,
+        6595,
+        7593,
+        9253
+    ],
+    "logoId": "ec8e0cd0-5e01-31f3-d2f0-3a1218fe5cbf",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

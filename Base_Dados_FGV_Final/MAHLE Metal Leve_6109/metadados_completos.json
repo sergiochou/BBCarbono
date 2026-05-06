@@ -1,0 +1,35 @@
+{
+    "id": 6109,
+    "name": "MAHLE Metal Leve",
+    "about": "A MAHLE é uma importante parceira internacional de desenvolvimento e fornecedora de soluções para a indústria automotiva, com clientes nos setores de automóveis de passageiros e veículos comerciais. O Grupo MAHLE foi fundado em 1920 e atua em três áreas estratégicas relevantes para a mobilidade neutra em carbono: eletrificação, gerenciamento térmico e motores de combustão interna altamente eficientes e limpos, incluindo o uso de hidrogênio e biocombustíveis.\nNosso objetivo é tornar a mobilidade mais eficiente, ecológica e confortável. Com intuito de acompanhar ativamente a transformação da indústria e moldar a mobilidade futura, o Grupo MAHLE se posicionou claramente para o futuro oferecendo aos clientes soluções atraentes, competitivas e sustentáveis em todos os principais mercados globais e para todos os tipos de powertrain, concentrando nos produtos onde temos ou podemos expandir nossa posição de liderança no mercado.\nSempre fiel à missão do Grupo “Eficiência em Movimento”, criamos soluções para obter o máximo de energia possível, do combustível ao armazenamento de energia elétrica das aplicações móveis - tanque ou bateria - minimizando as perdas de eficiência.\nHoje, um em cada dois veículos no mundo está equipado com componentes MAHLE. Além disso, nossos produtos são instalados em aplicações estacionárias, máquinas móveis, aplicações marítimas e transporte ferroviário.\nA sustentabilidade sempre fez parte da nossa identidade. A ligação entre proteção ambiental, boa governança corporativa e economia tornou-se um fator de sucesso. Assim como colocamos um foco maior em toda a cadeia de valor em mobilidade sustentável, nossos parceiros de negócios estão cada vez mais interessados em nossa gestão de sustentabilidade e solicitando insights sobre como consideramos o meio ambiente e aspectos sociais em nossas atividades.\nA MAHLE tem como compromisso equilibrar o avanço tecnológico com a preservação do futuro da humanidade, garantindo que nossas práticas empresariais impulsionem uma mobilidade cada vez mais eficiente e sustentável. Por isso, ampliamos nossa visão e estabelecemos o objetivo expressivo de tornar a MAHLE uma empresa Net Zero até 2040. Para alcançar essa meta, temos impulsionadores estratégicos para orientar nossos projetos e nos guiar nessa jornada.\n",
+    "inventoriesId": [
+        7064,
+        8197
+    ],
+    "logoId": "cdbdcd36-04ad-f9d8-a982-3a121ccf9be6",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

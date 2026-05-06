@@ -1,0 +1,452 @@
+[
+    {
+        "empresa_pasta": "Universidade Regional Integrada do Alto Uruguai e das Missões_3",
+        "id_fgv": 3,
+        "nome_oficial": "Universidade Regional Integrada do Alto Uruguai e das Missões ",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 145.706,
+                    "emissoes_escopo_2": 75.878,
+                    "emissoes_escopo_3": 519.231,
+                    "total_emissoes": 740.815,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 205.06,
+                    "emissoes_escopo_2": 115.58,
+                    "emissoes_escopo_3": 148.715,
+                    "total_emissoes": 469.355,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Urbano Alimentos_7760",
+        "id_fgv": 7760,
+        "nome_oficial": "Urbano Alimentos ",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 30205.135,
+                    "emissoes_escopo_2": 3305.668,
+                    "emissoes_escopo_3": 35206.083,
+                    "total_emissoes": 68716.886,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Urbem_8253",
+        "id_fgv": 8253,
+        "nome_oficial": "Urbem",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 124.584,
+                    "emissoes_escopo_2": 105.382,
+                    "emissoes_escopo_3": 303228.587,
+                    "total_emissoes": 303458.553,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Usiminas_3268",
+        "id_fgv": 3268,
+        "nome_oficial": "Usiminas",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6159866.71,
+                    "emissoes_escopo_2": 106208.334,
+                    "emissoes_escopo_3": 18959.339,
+                    "total_emissoes": 6285034.383,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7056009.66,
+                    "emissoes_escopo_2": 241096.084,
+                    "emissoes_escopo_3": 15329.857,
+                    "total_emissoes": 7312435.601,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5879313.26,
+                    "emissoes_escopo_2": 73118.183,
+                    "emissoes_escopo_3": 17145.776,
+                    "total_emissoes": 5969577.219,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "USINA AÇUCAREIRA S MANOEL SA_2955",
+        "id_fgv": 2955,
+        "nome_oficial": "USINA AÇUCAREIRA S. MANOEL S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 212791.924,
+                    "emissoes_escopo_2": 155.81,
+                    "emissoes_escopo_3": 5229.79,
+                    "total_emissoes": 218177.524,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 223044.278,
+                    "emissoes_escopo_2": 144.794,
+                    "emissoes_escopo_3": 5614.514,
+                    "total_emissoes": 228803.586,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 133905.944,
+                    "emissoes_escopo_2": 143.491,
+                    "emissoes_escopo_3": 25832.991,
+                    "total_emissoes": 159882.426,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 131050.684,
+                    "emissoes_escopo_2": 228.334,
+                    "emissoes_escopo_3": 40918.161,
+                    "total_emissoes": 172197.179,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 120808.522,
+                    "emissoes_escopo_2": 91.649,
+                    "emissoes_escopo_3": 26082.615,
+                    "total_emissoes": 146982.786,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 136612.671,
+                    "emissoes_escopo_2": 84.152,
+                    "emissoes_escopo_3": 35796.04,
+                    "total_emissoes": 172492.863,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Usina Siderúrgica Atlas SA_4664",
+        "id_fgv": 4664,
+        "nome_oficial": "Usina Siderúrgica Atlas S/A",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 49548.211,
+                    "emissoes_escopo_2": 348.9,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 49897.111,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Usinas Itamarati SA_7996",
+        "id_fgv": 7996,
+        "nome_oficial": "Usinas Itamarati S.A.",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 141381.075,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 14350.141,
+                    "total_emissoes": 155731.216,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "USJ Açúcar e Álcool SA_874",
+        "id_fgv": 874,
+        "nome_oficial": "USJ Açúcar e Álcool SA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 162612.56,
+                    "emissoes_escopo_2": 347.01,
+                    "emissoes_escopo_3": 21.17,
+                    "total_emissoes": 162980.74,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 186955.3,
+                    "emissoes_escopo_2": 305.55,
+                    "emissoes_escopo_3": 21.17,
+                    "total_emissoes": 187282.02,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Vale_819",
+        "id_fgv": 819,
+        "nome_oficial": "Vale",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 8391217.15,
+                    "emissoes_escopo_2": 305830.66,
+                    "emissoes_escopo_3": 590089.11,
+                    "total_emissoes": 9287136.92,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 13996478.14,
+                    "emissoes_escopo_2": 840715.97,
+                    "emissoes_escopo_3": 71144087.41,
+                    "total_emissoes": 85981281.52,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 11457648.812,
+                    "emissoes_escopo_2": 313806.008,
+                    "emissoes_escopo_3": 255067438.899,
+                    "total_emissoes": 266838893.719,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 11406260.292,
+                    "emissoes_escopo_2": 613001.744,
+                    "emissoes_escopo_3": 217018177.426,
+                    "total_emissoes": 229037439.462,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 8605428.067,
+                    "emissoes_escopo_2": 709316.174,
+                    "emissoes_escopo_3": 218622953.729,
+                    "total_emissoes": 227937697.97,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 8486952.52,
+                    "emissoes_escopo_2": 1137956.04,
+                    "emissoes_escopo_3": 243616531.48,
+                    "total_emissoes": 253241440.04,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 9118413.214,
+                    "emissoes_escopo_2": 1191476.34,
+                    "emissoes_escopo_3": 252496010.967,
+                    "total_emissoes": 262805900.521,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 8895146.223,
+                    "emissoes_escopo_2": 805063.855,
+                    "emissoes_escopo_3": 302129331.386,
+                    "total_emissoes": 311829541.464,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Valid_6159",
+        "id_fgv": 6159,
+        "nome_oficial": "Valid",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "id": 2237,
+    "name": "SONEL",
+    "about": null,
+    "inventoriesId": [
+        3071
+    ],
+    "logoId": "8d72cb1a-b121-47a4-a710-3c6e5820af47",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

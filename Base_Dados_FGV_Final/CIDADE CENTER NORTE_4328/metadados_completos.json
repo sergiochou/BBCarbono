@@ -1,0 +1,45 @@
+{
+    "id": 4328,
+    "name": "CIDADE CENTER NORTE",
+    "about": "Somos a Cidade Center Norte, um dos mais importantes complexos de negócios da América Latina, com empresas de capital fechado que fazem parte do Grupo Baumgart. Nossa história, iniciada em 1984, reflete a visão empreendedora da Família Baumgart, que identificou a oportunidade de investir no primeiro shopping center da Zona Norte da capital paulista, o Shopping Center Norte, oferecendo opções de lazer e oportunidade de renda aos moradores do entorno. Três anos depois, passamos a operar também o Lar Center, primeiro shopping temático de decoração e design do Brasil, e, no início dos anos de 1990, inauguramos o Expo Center Norte, um dos maiores e mais versáteis espaços para feiras e eventos da América do Sul. Os três empreendimentos compõem um robusto modelo de negócios em que cada parte se complementa: os shoppings dão apoio à infraestrutura dos eventos, recebendo visitantes e expositores, ao passo em que o Expo Center Norte intensifica o movimento dos shoppings. Para além dos nossos negócios, buscamos melhorar a qualidade de vida e a renda dos moradores da Zona Norte de São Paulo. ",
+    "inventoriesId": [
+        5646,
+        6494,
+        7354,
+        9118
+    ],
+    "logoId": "ddad4ff8-96b2-89cd-1557-3a12fbf7d3a6",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

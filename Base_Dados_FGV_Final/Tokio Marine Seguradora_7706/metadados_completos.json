@@ -1,0 +1,35 @@
+{
+    "id": 7706,
+    "name": "Tokio Marine Seguradora",
+    "about": "A Tokio Marine Seguradora S.A. está em operação no Brasil desde 1959. \nA Companhia é subsidiária da Tokio Marine Holdings, o mais antigo conglomerado securitário japonês, e um dos maiores grupos do setor do mundo. \nA Seguradora coloca à disposição do mercado nacional um amplo portfólio de soluções para Pessoas Físicas e Jurídicas, por meio de uma estrutura de mais de 60 unidades de atendimento distribuídas pelo Brasil. Em 2025, o faturamento totalizou R$ 14,6 bilhões, acima dos R$ 13,4 bilhões registrados em 2024. Desse montante, R$ 7,9 bilhões retornaram à sociedade por meio do pagamento de indenizações, evidenciando o papel social do seguro. Pelo terceiro ano consecutivo, a Tokio Marine recebeu a nota máxima, AAA.br, com perspectiva estável, da agência de classificação de risco Moody’s Local. ",
+    "inventoriesId": [
+        7794,
+        8369
+    ],
+    "logoId": "c0c6000d-6a2e-9810-fe87-3a1320354129",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

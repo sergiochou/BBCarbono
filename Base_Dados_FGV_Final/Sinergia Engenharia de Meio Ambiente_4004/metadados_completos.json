@@ -1,0 +1,45 @@
+{
+    "id": 4004,
+    "name": "Sinergia Engenharia de Meio Ambiente",
+    "about": "Somos uma empresa que atua de forma completa na prestação de serviços ambientais, para atender às necessidades dos clientes quando o assunto se trata de aumentar os índices ESG das organizações,  mais especificamente atuando em 5 eixos, são eles: Regulatório (Solicitações de Licenças e Autorizações Ambientais; Prestação de serviços de Assessorias Ambientais em Indústrias e Monitoramento Ambiental de Obras); Mudanças Climáticas (Gestão de Carbono – ingee inovação sustentável; Elaboração de Inventário de Emissões de Gases de Efeito Estufa Corporativo; Descarbonização; Consultoria personalizada para SBTi); Controle da Poluição (Elaboração de Planos de Gerenciamento de Resíduos (PGRCC, PGRS, PGRSS); Laudo de Ruído Ambiental; Estudos Ambientais: Plano de Controle Ambiental (PCA), Estudo de Impacto de Vizinhança (EIV), Estudo de Impacto Ambiental (EIA)/Relatório de Impacto Ambiental (RIMA), entre outros); Sustentabilidade Corporativa (Relatório Anual de Sustentabilidade; Implantação de Sistema de Gestão Ambiental (ABNT NBR ISSO 14.0001); Consultoria CDP); Treinamentos (Palestras e Ações de Educação Ambiental; Participação em SIPATMA).\n\nEmpresa fundada há mais de 10 anos por 3 mulheres, Engenheiras Ambientais.\n\nTemos como propósito potencializar a sustentabilidade como modelo de negócio de nossos clientes e nossa missão é entregar projetos e serviços que visem potencializar a sustentabilidade e impactar positivamente a sociedade. Neste sentido, visamos ser referência como ferramenta estratégica na promoção da sustentabilidade e desenvolvimento do país. \n\nNossos valores são: Sinergia – Integridade – Excelência – Inovação – Sustentabilidade.\n",
+    "inventoriesId": [
+        5205,
+        5991,
+        7344,
+        8555
+    ],
+    "logoId": "8bb016e2-f295-4063-8404-16d4c050411c",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4641,
+    "name": "Prio",
+    "about": "A incessante busca pela eficiência é uma força motriz para a PRIO, que prioriza não apenas a geração de valor aos seus acionistas, mas sobretudo a redução significativa do impacto ambiental de suas operações. Através de uma metodologia própria, encaramos como inegociável assegurar o bem-estar e a segurança do nosso time. Além disso, acreditamos na importância de dividir as nossas conquistas com as comunidades onde estamos presentes, e para tanto, desenvolvemos e apoiamos uma série de iniciativas e ações positivas.",
+    "inventoriesId": [
+        5874,
+        5873,
+        7013,
+        8422
+    ],
+    "logoId": "4b6b6f1c-e542-453b-8b8f-f54c42d394c8",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

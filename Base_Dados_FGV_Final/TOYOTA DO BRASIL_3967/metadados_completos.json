@@ -1,0 +1,45 @@
+{
+    "id": 3967,
+    "name": "TOYOTA DO BRASIL",
+    "about": "A chegada da Toyota no Brasil é um dos capítulos mais importantes na história da montadora e sua expansão global. Aqui foi instalada a primeira operação da empresa fora do Japão, com a produção do modelo Landcruiser na pioneira fábrica de São Paulo, em 1958. A partir de 1962, a linha de produção foi transferida para a nova planta, de São Bernardo do Campo, e ali iniciou a fabricação do veículo que iria entrar para história do mercado automobilístico brasileiro: o Bandeirante.\r\n\r\nA década de 90 trouxe o início das importações de outros modelos e um novo momento na história da Toyota do Brasil. Nesse período, foi formada a rede nacional de concessionárias e inaugurada a segunda fábrica no país, na cidade de Indaiatuba. Ali, em 1998, a Toyota estabeleceu outro marco da indústria automobilística nacional: o início da produção do lendário Corolla no Brasil. Os anos seguintes foram de crescimento constante no país e integração com a América Latina, consolidada em 2005 com a inauguração do centro de distribuição de Guaíba, no Rio Grande do Sul, que serve de porta de entrada para as picapes Hilux e SW4 produzidas na fábrica argentina de Zarate. Levando adiante sua política de sustentabilidade, em 2012 a Toyota inaugurou em Sorocaba a primeira ecofactory do país, projetada para reduzir ao máximo o impacto da produção no meio ambiente, onde são fabricados os modelos Etios.\r\n\r\nAgora, mais um capítulo dessa história começa a ser escrito. Em 14 de fevereiro de 2014 foi lançada a pedra fundamental da nova fábrica de Porto Feliz, em São Paulo, que irá produzir motores para os modelos Etios e Corolla. O resultado de todos esses anos de atuação no Brasil é o maior orgulho de uma montadora que se preocupa em primeiro lugar com a qualidade e respeito aos clientes: o maior índice de satisfação entre as montadoras do país",
+    "inventoriesId": [
+        5138,
+        5775,
+        7055,
+        8444
+    ],
+    "logoId": "5494bdcb-7bb5-4096-9b05-10129c3f2668",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

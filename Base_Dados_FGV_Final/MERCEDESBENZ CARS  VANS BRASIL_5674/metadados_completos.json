@@ -1,0 +1,45 @@
+{
+    "id": 5674,
+    "name": "MERCEDES-BENZ CARS & VANS BRASIL",
+    "about": "Nossa história teve início há mais de um século, na Alemanha, e traduz o primeiro capítulo da motorização veicular no mundo.  Os protagonistas, Gottlieb Daimler e Karl Benz construíram paralelamente os primeiros automóveis motorizados do mundo.  Somos reconhecidos pelo pioneirismo na invenção do automóvel em 1886, e temos orgulho por ter em nossa história a primeira pilota de testes do mundo, Bertha Benz.\nNo ano de 2020, seguindo a estratégia global do Grupo Daimler AG, separamos nossas unidades de negócios de Automóveis e Vans das divisões de Caminhões e Ônibus, criando então a Mercedes-Benz Cars & Vans Brasil.  Desde então, estamos expandindo de forma consistente, investindo em tecnologia, novos conceitos de mobilidade e conectividade inteligente de nossos veículos, além do foco em ações de inclusão, diversidade e responsabilidade social.\nA Mercedes-Benz é considerada a marca automotiva de luxo mais valiosa do mundo, segundo o estudo da Interbrand 2023 e, no segmento de Large Vans com a Mercedes-Benz Sprinter, oferecendo o portfólio mais completo do mercado com cerca de 100 configurações possíveis e ampla rede de concessionários.  E claro, de todos os nossos clientes e fãs, que fazem parte desta história de sucesso.",
+    "inventoriesId": [
+        6643,
+        6650,
+        7291,
+        9296
+    ],
+    "logoId": "3556cd38-7ddf-4b0f-9c9c-d8026009c2f1",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

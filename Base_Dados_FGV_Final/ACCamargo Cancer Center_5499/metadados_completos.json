@@ -1,0 +1,40 @@
+{
+    "id": 5499,
+    "name": "A.C.Camargo Cancer Center",
+    "about": "Fundado em 1953, o A.C.Camargo Cancer Center é uma Instituição privada sem fins lucrativos voltada à assistência integrada e de alta complexidade, ao ensino e à pesquisa científica, oferecendo serviços de oncologia para a rede privada de saúde e para o Sistema Único de Saúde (SUS).",
+    "inventoriesId": [
+        6466,
+        7674,
+        8389
+    ],
+    "logoId": "3a69d4dd-688d-9152-e11d-3a131fc8215e",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

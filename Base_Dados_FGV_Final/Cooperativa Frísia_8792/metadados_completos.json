@@ -1,0 +1,30 @@
+{
+    "id": 8792,
+    "name": "Cooperativa Frísia",
+    "about": "QUEM SOMOS\nA Frísia é uma das pioneiras no cooperativismo brasileiro, sendo a primeira cooperativa de produção a surgir no Paraná e a segunda em todo o país. Com quase cem anos de história, nos dedicamos a oferecer soluções integradas para os setores agrícola, pecuário e florestal, sempre buscando impulsionar o desenvolvimento sustentável e a prosperidade dos nossos cooperados. Ao longo dessa trajetória, acumulamos um vasto conhecimento sobre as atividades que desempenhamos, consolidando nossa posição como agente de transformação e crescimento para as regiões onde atuamos. Fazemos parte de um sistema que reúne 1.077 cooperados e 1.256 colaboradores.\nNOSSA HISTÓRIA\nAo longo dos nossos 99 anos de história, o pioneirismo, a excelência e a geração de prosperidade na comunidade marcam a trajetória da Frísia.\nMISSÃO\nDisponibilizar produtos e serviços de excelência, de forma a gerar resultado sustentável a cooperados e parceiros\nVISÃO\nSer referência no cooperativismo com excelência e sustentabilidade.\nVALORES\nFidelidade\nResponsabilidade\nIntercooperação\nSustentabilidade\nIntegridade\nAtitude\nONDE ESTAMOS\nA sede da Frísia está localizada em Carambeí, no Paraná, Estado onde está concentrada\na maior parte das nossas operações, contando com 938 cooperados. Desde 2016, expandimos nossas atividades para o Tocantins, onde hoje temos 139 cooperados.",
+    "inventoriesId": [
+        8697
+    ],
+    "logoId": "d60b3a15-49f1-b4c0-91e4-3a19eba37da9",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8126,
+    "name": "Baluarte",
+    "about": "Na Baluarte Cultura transformamos pessoas e geramos impacto social positivo para um mundo com mais equidade. Através de parcerias multissetoriais e práticas sustentáveis alinhadas à Agenda 2030 da ONU, realizamos programas e projetos de cultura e educação e prestamos consultoria para empresas, institutos e projetos. Somos empresa B certificada desde 2015, signatárias do Pacto Global desde 2017 e, em quase 20 anos de existência, conseguimos mobilizar 340 milhões de reais para 805 iniciativas de impacto social em todos os estados brasileiros. Nosso trabalho já alcançou mais de 30 milhões de pessoas, gerou 88 mil empregos e neutralizou mais de 150 toneladas de CO2e. ",
+    "inventoriesId": [
+        8371
+    ],
+    "logoId": "bd563ff7-5a22-aac9-5943-3a185aef4f7c",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

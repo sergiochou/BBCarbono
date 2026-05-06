@@ -1,0 +1,40 @@
+{
+    "id": 4584,
+    "name": "Kincaid",
+    "about": "Fundado em 1932, somos um dos mais tradicionais escritórios de advocacia do Brasil, com valores baseados na integridade, transparência, ética e respeito.\r\n\r\nFornecemos serviços jurídicos em todas as nossas áreas de atuação, agregando valor aos negócios dos clientes, atendendo suas demandas específicas, com soluções exclusivas baseadas em conhecimentos sólidos do Direito, contribuindo de forma significativa para a estratégia do negócio e para o crescimento empresarial.\r\n\r\nNossa prática multidisciplinar nasceu da experiência em comércio internacional, que se expandiu para diversos setores e áreas como: Marítimo, Tributário e Aduaneiro, Societário, Contencioso e Arbitragem, Seguro e Resseguro, Portos e Infraestrutura, Energia, Óleo e Gás, Ambiental, Trabalhista, Aviação, Compliance, Ferroviário e Setor Público.",
+    "inventoriesId": [
+        6038,
+        7464,
+        8522
+    ],
+    "logoId": "93abd884-3dd6-4d1f-ac24-432d4517ff4e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

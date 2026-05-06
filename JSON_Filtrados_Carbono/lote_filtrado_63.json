@@ -1,0 +1,586 @@
+[
+    {
+        "empresa_pasta": "NIP do Brasil_5979",
+        "id_fgv": 5979,
+        "nome_oficial": "NIP do Brasil",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 401.416,
+                    "emissoes_escopo_2": 3.476,
+                    "emissoes_escopo_3": 84.653,
+                    "total_emissoes": 489.545,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades\u0002profissionais,\u0002científicas\u0002e\u0002técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NISSIN FOODS DO BRASIL LTDA_8119",
+        "id_fgv": 8119,
+        "nome_oficial": "NISSIN FOODS DO BRASIL LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 40745.787,
+                    "emissoes_escopo_2": 1751.054,
+                    "emissoes_escopo_3": 140935.013,
+                    "total_emissoes": 183431.854,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento\u0002e\u0002alimentação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NIVEA_2090",
+        "id_fgv": 2090,
+        "nome_oficial": "NIVEA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 857.615,
+                    "emissoes_escopo_2": 105.011,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 962.626,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 899.243,
+                    "emissoes_escopo_2": 270.015,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1169.258,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 618.135,
+                    "emissoes_escopo_2": 362.411,
+                    "emissoes_escopo_3": 1766.289,
+                    "total_emissoes": 2746.835,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 581.767,
+                    "emissoes_escopo_2": 502.91,
+                    "emissoes_escopo_3": 11679.65,
+                    "total_emissoes": 12764.327,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 518.177,
+                    "emissoes_escopo_2": 448.602,
+                    "emissoes_escopo_3": 88159.296,
+                    "total_emissoes": 89126.075,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 634.862,
+                    "emissoes_escopo_2": 281.831,
+                    "emissoes_escopo_3": 44199.301,
+                    "total_emissoes": 45115.994,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 658.481,
+                    "emissoes_escopo_2": 343.98,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1002.461,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 805.297,
+                    "emissoes_escopo_2": 310.866,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1116.163,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 763.679,
+                    "emissoes_escopo_2": 540.129,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1303.808,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 840.472,
+                    "emissoes_escopo_2": 374.73,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1215.202,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 32.184,
+                    "emissoes_escopo_2": 907.63,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 939.814,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 1089.523,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1089.523,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 1026.212,
+                    "emissoes_escopo_2": 16.752,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1042.964,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 1093.633,
+                    "emissoes_escopo_2": 21.458,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1115.091,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Norsul_3555",
+        "id_fgv": 3555,
+        "nome_oficial": "Norsul",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 93329.34,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 93329.34,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 78944.189,
+                    "emissoes_escopo_2": 31.014,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 78975.203,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 76162.792,
+                    "emissoes_escopo_2": 11.807,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 76174.599,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 141967.8,
+                    "emissoes_escopo_2": 12.115,
+                    "emissoes_escopo_3": 90581.934,
+                    "total_emissoes": 232561.849,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,\u0002armazenagem\u0002e\u0002correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto REDD+ Jari/Pará",
+                "Certificate of Verified Carbon Unit",
+                "(VCU) Retirement",
+                "Project name:",
+                "VCU serial number:",
+                "Additional Certifications:",
+                "Additional details on this retirement can be found on the Verra Registry.",
+                "PoweredbyAPX",
+                "Certificate of Verified Carbon Unit",
+                "(VCU) Retirement"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Norte Energia_4111",
+        "id_fgv": 4111,
+        "nome_oficial": "Norte Energia",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 644.988,
+                    "emissoes_escopo_2": 57.395,
+                    "emissoes_escopo_3": 3362.897,
+                    "total_emissoes": 4065.28,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 2710.467,
+                    "emissoes_escopo_2": 24.709,
+                    "emissoes_escopo_3": 2943.313,
+                    "total_emissoes": 5678.489,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1384.814,
+                    "emissoes_escopo_2": 19.678,
+                    "emissoes_escopo_3": 9814.817,
+                    "total_emissoes": 11219.309,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade\u0002e\u0002gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NovaAgri_4254",
+        "id_fgv": 4254,
+        "nome_oficial": "NovaAgri",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1199.931,
+                    "emissoes_escopo_2": 428.625,
+                    "emissoes_escopo_3": 90424.638,
+                    "total_emissoes": 92053.194,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1065.297,
+                    "emissoes_escopo_2": 218.906,
+                    "emissoes_escopo_3": 233297.703,
+                    "total_emissoes": 234581.906,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 871.668,
+                    "emissoes_escopo_2": 246.617,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1118.285,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,\u0002pecuária,\u0002produção\u0002florestal,\u0002pesca\u0002e\u0002aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "em 50% até 2030 e alcançar a neutralidade até 2050. Para isso, não mede esforços em projetos que favoreçam a melhor gestão de suas"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NOVO NORDISK PRODUCAO FARMACEUTICA DO BRASIL LTDA_4130",
+        "id_fgv": 4130,
+        "nome_oficial": "NOVO NORDISK PRODUCAO FARMACEUTICA DO BRASIL LTDA.",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 0.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1189.447,
+                    "emissoes_escopo_2": 4061.993,
+                    "emissoes_escopo_3": 60523.931,
+                    "total_emissoes": 65775.371,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1247.65,
+                    "emissoes_escopo_2": 1388.236,
+                    "emissoes_escopo_3": 2896.591,
+                    "total_emissoes": 5532.477,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 565.96,
+                    "emissoes_escopo_2": 1314.357,
+                    "emissoes_escopo_3": 1364.798,
+                    "total_emissoes": 3245.115,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NSL Confinamento e Estação de PréEmbarque EPE_5039",
+        "id_fgv": 5039,
+        "nome_oficial": "NSL Confinamento e Estação de Pré-Embarque (EPE)",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1774.736,
+                    "emissoes_escopo_2": 3.789,
+                    "emissoes_escopo_3": 892.337,
+                    "total_emissoes": 2670.862,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 21257.448,
+                    "emissoes_escopo_2": 5.377,
+                    "emissoes_escopo_3": 6945.589,
+                    "total_emissoes": 28208.414,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Nubank_3654",
+        "id_fgv": 3654,
+        "nome_oficial": "Nubank",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 44.783,
+                    "emissoes_escopo_2": 103.598,
+                    "emissoes_escopo_3": 4350.782,
+                    "total_emissoes": 4499.163,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 9.135,
+                    "emissoes_escopo_2": 150.153,
+                    "emissoes_escopo_3": 4669.619,
+                    "total_emissoes": 4828.907,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 67.328,
+                    "emissoes_escopo_2": 77.641,
+                    "emissoes_escopo_3": 12363.939,
+                    "total_emissoes": 12508.908,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 23.086,
+                    "emissoes_escopo_2": 116.51,
+                    "emissoes_escopo_3": 12171.438,
+                    "total_emissoes": 12311.034,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades\u0002financeiras,\u0002de\u0002seguros\u0002e\u0002serviços\u0002relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "NUCLEO ENGENHARIA CONSULTIVA SA_6103",
+        "id_fgv": 6103,
+        "nome_oficial": "NUCLEO ENGENHARIA CONSULTIVA S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 73.781,
+                    "emissoes_escopo_2": 4.337,
+                    "emissoes_escopo_3": 287.377,
+                    "total_emissoes": 365.495,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 19.477,
+                    "emissoes_escopo_2": 6.834,
+                    "emissoes_escopo_3": 287.125,
+                    "total_emissoes": 313.436,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

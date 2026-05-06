@@ -1,0 +1,55 @@
+{
+    "id": 383,
+    "name": "Citi",
+    "about": null,
+    "inventoriesId": [
+        624,
+        25,
+        2063,
+        2283,
+        3059,
+        3328
+    ],
+    "logoId": "bbf0dab5-0b2d-4f38-afa4-f742c50212d8",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

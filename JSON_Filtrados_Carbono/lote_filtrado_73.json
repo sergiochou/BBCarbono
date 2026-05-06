@@ -1,0 +1,673 @@
+[
+    {
+        "empresa_pasta": "SAAM Towage Brasil SA_3774",
+        "id_fgv": 3774,
+        "nome_oficial": "SAAM Towage Brasil S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 34107.466,
+                    "emissoes_escopo_2": 95.59,
+                    "emissoes_escopo_3": 7983.038,
+                    "total_emissoes": 42186.094,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 33767.404,
+                    "emissoes_escopo_2": 38.8,
+                    "emissoes_escopo_3": 8319.304,
+                    "total_emissoes": 42125.508,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 42894.281,
+                    "emissoes_escopo_2": 35.528,
+                    "emissoes_escopo_3": 10641.395,
+                    "total_emissoes": 53571.204,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,٫armazenagem٫e٫correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SABESP_4596",
+        "id_fgv": 4596,
+        "nome_oficial": "SABESP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1884783.36,
+                    "emissoes_escopo_2": 117068.796,
+                    "emissoes_escopo_3": 51440.921,
+                    "total_emissoes": 2053293.077,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1728773.959,
+                    "emissoes_escopo_2": 101480.043,
+                    "emissoes_escopo_3": 400164.999,
+                    "total_emissoes": 2230419.001,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,▶esgoto,▶atividades▶de▶gestão▶de▶resíduos▶e▶descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sagres_2622",
+        "id_fgv": 2622,
+        "nome_oficial": "Sagres",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2283.325,
+                    "emissoes_escopo_2": 47.345,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2330.67,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2839.411,
+                    "emissoes_escopo_2": 43.85,
+                    "emissoes_escopo_3": 717919.675,
+                    "total_emissoes": 720802.936,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2961.801,
+                    "emissoes_escopo_2": 39.945,
+                    "emissoes_escopo_3": 219.9,
+                    "total_emissoes": 3221.646,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2885.118,
+                    "emissoes_escopo_2": 30.454,
+                    "emissoes_escopo_3": 152.5,
+                    "total_emissoes": 3068.072,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3100.647,
+                    "emissoes_escopo_2": 54.654,
+                    "emissoes_escopo_3": 197.214,
+                    "total_emissoes": 3352.515,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2045.133,
+                    "emissoes_escopo_2": 365.795,
+                    "emissoes_escopo_3": 283730.12,
+                    "total_emissoes": 286141.048,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,٫armazenagem٫e٫correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Samarco_822",
+        "id_fgv": 822,
+        "nome_oficial": "Samarco",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 1629276.84,
+                    "emissoes_escopo_2": 25596.0,
+                    "emissoes_escopo_3": 1362.65,
+                    "total_emissoes": 1656235.49,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 1859742.96,
+                    "emissoes_escopo_2": 78788.32,
+                    "emissoes_escopo_3": 1643.66,
+                    "total_emissoes": 1940174.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 1837072.216,
+                    "emissoes_escopo_2": 45628.736,
+                    "emissoes_escopo_3": 4091.394,
+                    "total_emissoes": 1886792.346,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 1743577.0,
+                    "emissoes_escopo_2": 101125.94,
+                    "emissoes_escopo_3": 27178806.361,
+                    "total_emissoes": 29023509.301,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 1712179.622,
+                    "emissoes_escopo_2": 154730.571,
+                    "emissoes_escopo_3": 28294018.015,
+                    "total_emissoes": 30160928.208,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 2033558.547,
+                    "emissoes_escopo_2": 319263.544,
+                    "emissoes_escopo_3": 31823456.276,
+                    "total_emissoes": 34176278.367,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias\u0002extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 9417.638,
+                    "emissoes_escopo_2": 9366.175,
+                    "emissoes_escopo_3": 246814.557,
+                    "total_emissoes": 265598.37,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 695457.954,
+                    "emissoes_escopo_2": 94932.583,
+                    "emissoes_escopo_3": 343385.532,
+                    "total_emissoes": 1133776.069,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 675283.353,
+                    "emissoes_escopo_2": 34150.262,
+                    "emissoes_escopo_3": 350371.64,
+                    "total_emissoes": 1059805.255,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 747897.288,
+                    "emissoes_escopo_2": 35907.737,
+                    "emissoes_escopo_3": 451152.87,
+                    "total_emissoes": 1234957.895,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2010",
+                "Inventário 2010 - Samarco",
+                "Samarco Mineração S. A.",
+                "Nome fantasia: Samarco",
+                "CNPJ: 16.628.281/0001-61",
+                "Setor econômico: Indústrias extrativas",
+                "Subsetor: Indústrias extrativas",
+                "Endereço: Rua Paraíba - 1122 - 9 e 10 andares - Funcionários - Belo Horizonte - MG -"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SAMSUNG DA AMAZÔNIA_3792",
+        "id_fgv": 3792,
+        "nome_oficial": "SAMSUNG DA AMAZÔNIA",
+        "estado": "AM",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 60474.3,
+                    "emissoes_escopo_2": 8065.131,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 68539.431,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 58414.154,
+                    "emissoes_escopo_2": 2882.709,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 61296.863,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 79834.375,
+                    "emissoes_escopo_2": 2456.871,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 82291.246,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias٫de٫transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA_4667",
+        "id_fgv": 4667,
+        "nome_oficial": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2454.409,
+                    "emissoes_escopo_2": 763.941,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3218.35,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1013.049,
+                    "emissoes_escopo_2": 627.639,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1640.688,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias٫de٫transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SANCHES TRANSPORTES_8726",
+        "id_fgv": 8726,
+        "nome_oficial": "SANCHES TRANSPORTES",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1074.9,
+                    "emissoes_escopo_2": 1.83,
+                    "emissoes_escopo_3": 43.012,
+                    "total_emissoes": 1119.742,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SANDVIK JUNDIAI_3825",
+        "id_fgv": 3825,
+        "nome_oficial": "SANDVIK JUNDIAI",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio;\u0002reparação\u0002de\u0002veículos\u0002automotores\u0002e\u0002motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 213.878,
+                    "emissoes_escopo_2": 45.88,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 259.758,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 233.928,
+                    "emissoes_escopo_2": 13.903,
+                    "emissoes_escopo_3": 654.884,
+                    "total_emissoes": 902.715,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sanepar_1183",
+        "id_fgv": 1183,
+        "nome_oficial": "Sanepar",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 394994.28,
+                    "emissoes_escopo_2": 13932.34,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 408926.62,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 393279.32,
+                    "emissoes_escopo_2": 29772.95,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 423052.27,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 586639.52,
+                    "emissoes_escopo_2": 17784.06,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 604423.58,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 638228.76,
+                    "emissoes_escopo_2": 42031.85,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 680260.61,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 802121.538,
+                    "emissoes_escopo_2": 62781.679,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 864903.217,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1035087.384,
+                    "emissoes_escopo_2": 92222.697,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1127310.081,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 866299.359,
+                    "emissoes_escopo_2": 84230.13,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 950529.489,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1159775.495,
+                    "emissoes_escopo_2": 56285.089,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1216060.584,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 979363.033,
+                    "emissoes_escopo_2": 65012.132,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1044375.165,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1093944.179,
+                    "emissoes_escopo_2": 52020.414,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1145964.593,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1111368.04,
+                    "emissoes_escopo_2": 55109.502,
+                    "emissoes_escopo_3": 3811.126,
+                    "total_emissoes": 1170288.668,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1022960.5,
+                    "emissoes_escopo_2": 43869.55,
+                    "emissoes_escopo_3": 14031.599,
+                    "total_emissoes": 1080861.649,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1016529.39,
+                    "emissoes_escopo_2": 92666.0,
+                    "emissoes_escopo_3": 10496.629,
+                    "total_emissoes": 1119692.019,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 954234.686,
+                    "emissoes_escopo_2": 32385.41,
+                    "emissoes_escopo_3": 51018.19,
+                    "total_emissoes": 1037638.286,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 915761.569,
+                    "emissoes_escopo_2": 30339.633,
+                    "emissoes_escopo_3": 78615.479,
+                    "total_emissoes": 1024716.681,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,٫esgoto,٫atividades٫de٫gestão٫de٫resíduos٫e٫descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Santa Angela_9416",
+        "id_fgv": 9416,
+        "nome_oficial": "Santa Angela",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 1669.653,
+                    "emissoes_escopo_2": 143.942,
+                    "emissoes_escopo_3": 2387.898,
+                    "total_emissoes": 4201.493,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

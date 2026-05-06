@@ -1,0 +1,40 @@
+{
+    "id": 9190,
+    "name": "CYRELA",
+    "about": "A Cyrela Brazil Realty S.A. Empreendimentos e Participações é uma Companhia de capital\naberto, fundada na cidade de São Paulo em 1962, onde está localizada a sua sede. \nCom o propósito de transformar as cidades e o jeito de viver, gerar valor fazendo o\nbem, a Cyrela busca ser mais para o cliente, entregando-lhe um conceito diferenciado de\nprodutos imobiliários, marcados pela inovação, qualidade, segurança, sustentabilidade e o\nbem-estar na fruição dos imóveis que constrói em todos os segmentos onde atua. Dentro do Grupo Cyrela, temos três marcas que representam diferentes perfis de clientes e momentos de vida, sempre com o compromisso com a qualidade, a confiança e a realização de sonhos. As marcas Cyrela, Living e Vivaz.\nAtualmente, a Companhia se dedica à atividade de incorporação imobiliária, com foco em São Paulo, Rio de Janeiro e no Sul do Brasil.\n\n",
+    "inventoriesId": [
+        8897,
+        8982,
+        8989
+    ],
+    "logoId": "5b4c3d95-6f2d-f960-b7d3-3a1a127180eb",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

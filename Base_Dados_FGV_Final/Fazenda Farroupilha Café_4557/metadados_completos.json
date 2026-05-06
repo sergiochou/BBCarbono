@@ -1,0 +1,30 @@
+{
+    "id": 4557,
+    "name": "Fazenda Farroupilha Café",
+    "about": "No dia 24 de maio de 1976, o jovem Inácio Carlos Urban, na época com 25 anos, chegava em Patos de Minas vindo da cidade de Não Me Toque/RS. Trazendo consigo a determinação, força de vontade e o sonho de produzir em larga escala para alimentar o mundo, foi precisamente na região do Cerrado Mineiro no Alto Paranaíba que se inicia a história do Grupo Farroupilha. Em terras até então consideradas inférteis, Inácio conseguiu prosperar e fazer parte da mudança do agronegócio nesta região.\r\n\r\nAtualmente com 47 anos e em processo de sucessão familiar com a entrada dos filhos Erika Urban Rodrigues e Fernando Urban, o Grupo Farroupilha se estrutura através de uma gestão colaborativa, valorizando sempre o potencial humano e o desenvolvimento de seus processos através da tecnologia e o uso responsável de recursos. É através da visão de vanguarda que a empresa entrega ao mercado uma produção diversificada que conta com algodão, café, milho, trigo, soja, semente de soja, ervilha, tomate e touros com genética de excelência para melhoramento de rebanhos.\r\n\r\nFazenda Farroupilha Café – João Pinheiro/MG\r\n\r\nCom capacidade produtiva média de 50 sacas por hectares, foi adquirida pela excelente localização para produção de cafés especiais. Nas últimas safras apresentou cafés com bebidas diferenciadas e de alta pontuação.",
+    "inventoriesId": [
+        5832
+    ],
+    "logoId": "b1b02ee6-f4cf-4767-b6ac-a6a861168dca",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

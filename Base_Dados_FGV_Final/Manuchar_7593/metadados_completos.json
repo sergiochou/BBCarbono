@@ -1,0 +1,35 @@
+{
+    "id": 7593,
+    "name": "Manuchar",
+    "about": "A Manuchar, com sede em Antuérpia, Bélgica, é uma distribuidora líder de produtos químicos em mercados emergentes. Complementamos nosso negócio de Distribuição de Produtos Químicos com Serviços de Trade Internacional em aço, polímeros e diversas outras matérias-primas.\n\nMovimentamos 4,0 milhões de toneladas métricas de mercadorias, gerando 2,4 bilhões de dólares em vendas. Nossas operações locais estão em mais de 40 países e 160 localidades. A Manuchar emprega 2.800 profissionais em todo o mundo.\n\nPresentes no Brasil há 30 anos, somos uma das distribuidoras de produtos químicos mais bem conceituadas e reconhecidas mundialmente no fornecimento de matéria primas para mercados como agrícola, alimentício, construção civil, couro, home care, nutrição animal, mineração, óleo e gás, papel e celulose, personal care, têxtil, tratamento de água, vidraria entre diversos outros.\n\nCom Escritórios Comerciais e Centros de Distribuição localizados estrategicamente em cidades portuárias, temos a experiência e os recursos necessários para assegurar a satisfação dos nossos clientes através da qualidade e segurança dos serviços que promovemos em todo o país.",
+    "inventoriesId": [
+        7473,
+        9163
+    ],
+    "logoId": "b18c0fd6-acb0-7184-dcf9-3a12fadd6526",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

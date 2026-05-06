@@ -1,0 +1,30 @@
+{
+    "id": 9088,
+    "name": "HARMAN DA AMAZÔNIA",
+    "about": "HARMAN desenvolve soluções que permitem um estilo de vida conectado para casa, carros, palcos e empresas através de produtos de áudio líderes, sistemas de infotenimento, software e serviços conectados.",
+    "inventoriesId": [
+        8829
+    ],
+    "logoId": "84f6af45-fe73-7283-5fbf-3a1a0b818ea8",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

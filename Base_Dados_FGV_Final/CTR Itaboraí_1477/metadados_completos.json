@@ -1,0 +1,30 @@
+{
+    "id": 1477,
+    "name": "CTR Itaboraí",
+    "about": null,
+    "inventoriesId": [
+        94
+    ],
+    "logoId": "c0fdeed8-cdd6-4d2f-b422-648a4e796f12",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

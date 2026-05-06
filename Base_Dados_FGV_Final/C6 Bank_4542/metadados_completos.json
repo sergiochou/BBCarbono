@@ -1,0 +1,40 @@
+{
+    "id": 4542,
+    "name": "C6 Bank",
+    "about": "Disponível em aplicativo e sem agências físicas, o Banco C6 S.A. vem transformando a vida financeira das pessoas. Nossos clientes, pessoas físicas e jurídicas, contam com um banco completo, com uma das mais diversificadas e inovadoras prateleiras de produtos entre as instituições financeiras. Nosso modelo digital e multiproduto foi concebido para atender as demandas dos mais diversos perfis de clientes.",
+    "inventoriesId": [
+        6272,
+        7813,
+        8455
+    ],
+    "logoId": "428db9dd-25a7-4765-8341-f183d855a488",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

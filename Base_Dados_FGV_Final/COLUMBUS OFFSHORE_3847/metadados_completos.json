@@ -1,0 +1,45 @@
+{
+    "id": 3847,
+    "name": "COLUMBUS OFFSHORE",
+    "about": "A Columbus Offshore é uma empresa de navegação genuinamente brasileira, com autorização da ANTAQ (Agência Nacional de Transportes Aquaviários) para operar embarcações de apoio marítimo, portuário e cabotagem, no segmento Óleo & Gás. Fundada em 2012, a Companhia tem como objetivo principal, investir fortemente na construção naval brasileira, fomentando a mão de obra direta e indireta, a fim de tornar-se uma das maiores armadoras brasileiras, e assim prestar serviços de excelência para operadoras no país.\n",
+    "inventoriesId": [
+        5273,
+        6599,
+        7550,
+        8885
+    ],
+    "logoId": "3663b946-36b9-4d50-60a5-3a205cd930f5",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

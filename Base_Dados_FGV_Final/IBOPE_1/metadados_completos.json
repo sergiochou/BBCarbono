@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "name": "IBOPE ",
+    "about": "Multinacional brasileira de capital privado, o IBOPE é uma das maiores empresas de pesquisa de mercado da América Latina. Há 70 anos fornece um amplo conjunto de informações e estudos sobre mídia, opinião pública, intenção de voto, consumo, marca, comportamento e mercado. \r\n\r\nAmplamente reconhecido por sua expertise e transparência, o IBOPE é verbete de dicionário no Brasil e consta como sinônimo de pesquisa, audiência e prestígio. É a única empresa latino-americana a figurar no ranking norte-americano das 25 maiores organizações globais de pesquisa (Honomichl Top 25 Global Research Organizations). \r\n\r\nO Grupo IBOPE é composto por quatro grandes negócios: IBOPE Media, IBOPE Inteligência, IBOPE Educação e IBOPE Ambiental, além de algumas parcerias estratégicas. O IBOPE Media, é responsável pelas pesquisas de mídia, investimento publicitário e hábitos de consumo. Oferece uma ampla linha de produtos que atende às necessidades de veículos de comunicação, agências de publicidade e anunciantes.  \r\n\r\nO IBOPE Inteligência atua em estudos de mercado, de comportamento, marca, opinião pública e ainda internet, auxiliando as organizações na elaboração de estratégias, nas decisões táticas e nos processos de inovação. Discute em profundidade os temas, oferecendo soluções customizadas e atrativas.\r\n\r\nJá o IBOPE Educação está presente no mercado de educação executiva, capacitando profissionais envolvidos no processo de tomada de decisões estratégicas. Integra em seus conteúdos acadêmicos informações atuais e exclusivas do Grupo, maximizando potencial das contribuições para atingimento de resultados.\r\n\r\nRecentemente foi lançado o IBOPE Ambiental, unidade de negócios que atua na área de meio ambiente com serviços voltados aos aspectos ambientais da sustentabilidade. A empresa tem sede no Brasil, mas atua nos países da América Latina e da África.\r\n\r\n",
+    "inventoriesId": [
+        20,
+        2227,
+        1611,
+        1565,
+        359
+    ],
+    "logoId": "2f1f6497-b5fa-46ff-8e4a-ebdbba205219",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7513,
+    "name": "Instituto Inhotim ",
+    "about": "O Instituto Inhotim é um museu de arte contemporânea e Jardim Botânico, localizado em Brumadinho (MG). O Inhotim é uma entidade privada, sem fins lucrativos, mantida com recursos de doações de pessoas físicas e jurídicas – diretas ou por meio das Leis Federal e Estadual de Incentivo à Cultura – , pela bilheteria e realização de eventos. Idealizado desde a década de 1980 pelo empresário mineiro Bernardo de Mello Paz, do solo ferroso de uma fazenda da região nasceu, em 2006, um dos maiores museus a céu aberto do mundo.\n\nSua localização privilegiada – entre os ricos biomas da Mata Atlântica e do Cerrado –, e as paisagens exuberantes ao longo dos 140 hectares de visitação proporcionam aos visitantes uma experiência única que mescla arte e natureza. Cerca de 1.862 obras de mais de 280 artistas, de 43 países, compõem o acervo e são exibidas ao ar livre e em galerias em meio a um Jardim Botânico com mais de 4,3 mil espécies botânicas raras, vindas de todos os continentes.",
+    "inventoriesId": [
+        7216,
+        8490
+    ],
+    "logoId": "7088b88a-f67d-a0e9-d077-3a12f127fc35",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

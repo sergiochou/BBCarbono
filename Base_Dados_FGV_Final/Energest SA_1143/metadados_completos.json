@@ -1,0 +1,35 @@
+{
+    "id": 1143,
+    "name": "Energest S.A.",
+    "about": null,
+    "inventoriesId": [
+        7533,
+        8820
+    ],
+    "logoId": "bd92bc55-b1e8-e76a-7001-3a131f247f43",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

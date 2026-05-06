@@ -1,0 +1,100 @@
+{
+    "id": 514,
+    "name": "Auren",
+    "about": "A Auren Energia S.A. foi constituída por meio da reorganização societária dos ativos de energia da Votorantim S.A. e do CPP Investments, que deu origem a uma das maiores plataformas de geração de energia renovável e comercialização do Brasil. A conclusão do processo aconteceu em 28 março de 2022, com a listagem da Companhia no Novo Mercado da B3, após a incorporação das ações da CESP à nova empresa.\n\nEm 2024,  com a conclusão da aquisição da AES Brasil Energia S.A., a Auren Energia se tornou a terceira maior geradora e a comercializadora líder de energia do Brasil. O portfólio da Companhia é 100% renovável, a partir de fontes hidrelétrica, solar e eólica, com 39 ativos e capacidade instalada\ntotal de 8,8 GW.\n\nA Auren opera com uma carteira de mais de 3.400 clientes, movimentando mais 6,2 GW médios em 2024, e um diversificado portfólio de produtos e soluções focados nas necessidades dos clientes e no investimento contínuo em inteligência de mercado e digitalização. \n\nPara mais informações sobre as operações da Auren, seu portfólio de soluções em energia elétrica e seus compromissos de sustentabilidade, consulte nosso Relatório Anual: https://ri.aurenenergia.com.br/esg/relatorio-anual-e-de-sustentabilidade-auren/\n\n",
+    "inventoriesId": [
+        300,
+        1544,
+        2458,
+        1820,
+        1578,
+        1526,
+        82,
+        2832,
+        3118,
+        3759,
+        4506,
+        5323,
+        5925,
+        7712,
+        8398
+    ],
+    "logoId": "6390d1cd-9c7c-4667-89ae-0de831ab894f",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

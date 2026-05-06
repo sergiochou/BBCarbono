@@ -1,0 +1,40 @@
+{
+    "id": 2928,
+    "name": "Unidas",
+    "about": "setor: locação de veículos\r\nsubsetor: N/A",
+    "inventoriesId": [
+        4236,
+        4589,
+        5269
+    ],
+    "logoId": "ef48400a-372a-486a-a0a7-459ae3e668f4",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

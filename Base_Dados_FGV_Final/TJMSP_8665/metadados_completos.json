@@ -1,0 +1,30 @@
+{
+    "id": 8665,
+    "name": "TJMSP",
+    "about": "Compete à Justiça Militar do Estado processar e julgar os policiais militares, nos crimes militares definidos em lei, e as ações judiciais contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, cabendo ainda decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.",
+    "inventoriesId": [
+        8347
+    ],
+    "logoId": "633fab06-4878-4e5a-12a0-3a19c3d4f147",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 3249,
+    "name": "Tegma",
+    "about": "A Tegma é uma das maiores operadoras logísticas do Brasil, responsável pela gestão logística, transporte rodoviário e armazenagem nos segmentos de veículos novos e usados, de produtos químicos, de peças e de bens de consumo. A Companhia é responsável pela logística de aproximadamente um quarto dos veículos zero quilômetro para praticamente todas as montadoras instaladas no país. A empresa tem capacidade de movimentação de até 1,2 milhão de veículos e para isso utiliza de 1,5 mil caminhões cegonha 100% rastreados, 1,7 milhão de m² de pátios e sistemas de programação de cargas que permitem o carregamento de veículos de diversas marcas em um só caminhão. Grande parte da frota utilizada para o transporte e dos pátios utilizados são de parceiros ou alugados, conforme modelo de negócio da Companhia. A Tegma também é responsável pela gestão de abastecimento de linha de produção de indústrias químicas e de eletrodomésticos, no qual utiliza armazéns e equipamentos de transportes especializados e com grau de segurança reforçado. Nesse processo não se transporta nem se armazena produtos perigosos.\r\nA Companhia é listada na B3 desde 2007 no mais alto nível de governança (Novo Mercado), com 49% das ações em circulação e conta com 1,5 mil colaboradores.",
+    "inventoriesId": [
+        4968,
+        4967,
+        5489,
+        5909,
+        7137,
+        7888
+    ],
+    "logoId": "8e14a314-d46d-46b3-896a-fa8d117cec3a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

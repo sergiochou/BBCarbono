@@ -1,0 +1,35 @@
+{
+    "id": 5089,
+    "name": "LARGO",
+    "about": "A Largo Vanádio de Maracás S.A – LVMSA é uma mineradora que possui atividade de explotação do minério magnetita titano-vanadífera, com usina hidro-metalúrgica para produção de pentóxido de vanádio (V2O5), ou Vanádio (V) equivalente e trióxido de vanádio (V2O3) e Ilmenita; além de produzir minério de ferro e piroxenito (como brita), como subprodutos do processo industrial, que possuem destinações diversas nos ramos industriais. ",
+    "inventoriesId": [
+        6596,
+        6444
+    ],
+    "logoId": "acc64223-cb7a-452b-99b3-6048bcf36268",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

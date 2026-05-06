@@ -1,0 +1,35 @@
+{
+    "id": 6158,
+    "name": "UNIVERSIDADE DO VALE DO ITAJAÍ",
+    "about": " A Universidade do Vale do Itajaí (Univali) atua no ensino, pesquisa, extensão, inovação e internacionalização, em grandes áreas do conhecimento: Escola de Ciências da Saúde; Escola de Negócios, Educação e Comunicação; Escola Politécnica; e Escola de Ciências Jurídicas e Sociais, presente em todo o litoral Centro-Norte de Santa Catarina, nos municípios de Balneário Piçarras, Itajaí, Balneário Camboriú, Tijucas, Biguaçu, São José e Florianópolis. Compreende, atualmente, um universo que conta mais de 22 mil alunos, dois colégios, 100 opções de cursos de graduação nas modalidades presenciais e a distância; 50 cursos de especialização em andamento, doze mestrados e seis doutorados; bibliotecas em todos os campi com mais de 200 mil livros, periódicos e acesso a bases de dados; mais de 500 salas de aula e 250 laboratórios. Corpo docente composto por 1.113 professores (83,46% deles mestres e doutores) e 1065 funcionários administrativos; e uma estação de rádio e TV.  Na área de pesquisa, atuam, de forma permanente, mais de 100 grupos de pesquisa, gerando produção científica e produtos inovadores que colocam a Universidade em posição de destaque em rankings internacionais. E, na extensão, atualmente, são 13 programas institucionais e 65 projetos, interferindo positivamente nas comunidades de entorno.",
+    "inventoriesId": [
+        7587,
+        8953
+    ],
+    "logoId": "0f47f0d5-aa5e-550b-c4b0-3a132969b897",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

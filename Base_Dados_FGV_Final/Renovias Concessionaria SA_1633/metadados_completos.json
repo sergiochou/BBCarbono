@@ -1,0 +1,35 @@
+{
+    "id": 1633,
+    "name": "Renovias Concessionaria S/A",
+    "about": "A Renovias iniciou suas operações em 15 de abril de 1998, com a finalidade de administrar e operar a malha viária correspondente ao lote 11 do Programa de Concessões Rodoviárias do Estado de São Paulo, que abrange as rodovias SP-215, SP-340, SP-342, SP-344 e SP-350, totalizando 345,6 quilômetros de extensão.\r\nA principal missão da concessionária, desde sua fundação, é proporcionar conforto, bom atendimento e serviços de qualidade. O compromisso de oferecer segurança aos usuários é uma meta constante. Para isso, a empresa investe em melhorias contínuas ao longo da malha viária.\r\nAlém de proporcionar viagens mais tranquilas para os usuários das rodovias, as melhorias contribuem significativamente para o desenvolvimento econômico da região. Com a modernização da malha viária, a concessionária abre caminho para a instalação de novas empresas e incentiva o crescimento da produção industrial, além do desenvolvimento do comércio e serviços. \r\n Outro estímulo ao desenvolvimento é o repasse, conforme legislação específica, de Imposto Sobre Serviços (ISS) às cidades situadas ao longo da malha viária. Agregados ao orçamento municipal, esses recursos podem se tornar melhorias revertidas à população.\r\n \r\n\r\n \r\n",
+    "inventoriesId": [
+        2429,
+        2839
+    ],
+    "logoId": "2d87ac34-3fcb-44f5-8dd7-26a06879f30f",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

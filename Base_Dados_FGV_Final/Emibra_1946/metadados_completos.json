@@ -1,0 +1,50 @@
+{
+    "id": 1946,
+    "name": "Emibra",
+    "about": "Fundada em 1974, a Emibra vem obtendo sucesso e crescimento sólido, no segmento de embalagens de Papel cartão, cartucho, cartelas e impressos promocionais graças ao conceito de seriedade no relacionamento de parceria com nossos clientes e fornecedores, bem como, pela qualidade de nossos produtos e preocupação com o Meio Ambiente.\r\nDa mesma forma, uma política de pessoal baseada em respeito mútuo e reconhecimento, têm propiciado um ambiente de confiança e comprometimento dos colaboradores da Empresa.\r\n\r\nAs transformações do ambiente externo têm criado novos cenários, cujas linhas mestras são:\r\n\r\n* Crescente pressão, dos Clientes, por qualidade em um mercado cada vez mais competitivo.\r\n* Ameaças de crescimento da concorrência, pela atratividade de investimento do capital estrangeiro em nosso mercado.\r\n* Oportunidades sinalizadas para exportação indireta de nossos produtos, incorporadas aos produtos de nossos clientes, e que depende, fundamentalmente, da relação qualidade-preço.\r\n* Respostas rápidas às alterações dos mercados, produtos, processos etc.\r\n* Mudanças comportamentais e culturais, tornaram-se condições indispensáveis para sobrevivência e não mais um fator eventual.\r\n* Preocupação com a preservação e o futuro do meio ambiente e o desenvolvimento sustentável.",
+    "inventoriesId": [
+        2328,
+        3050,
+        3420,
+        4170,
+        4965
+    ],
+    "logoId": "460fc465-22f0-4bf5-9230-bd090bd9ab85",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

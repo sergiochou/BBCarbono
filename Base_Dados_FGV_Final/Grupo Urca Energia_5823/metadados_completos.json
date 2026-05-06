@@ -1,0 +1,40 @@
+{
+    "id": 5823,
+    "name": "Grupo Urca Energia",
+    "about": "Grupo detentor das empresas de soluções energéticas, contribuindo para as estratégias de descarbonização globais.",
+    "inventoriesId": [
+        6723,
+        7831,
+        9275
+    ],
+    "logoId": "c764c08a-1e9e-4590-b2b2-037270f3fa90",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

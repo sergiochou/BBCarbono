@@ -1,0 +1,40 @@
+{
+    "id": 2487,
+    "name": "Central Sicredi PR/SP/RJ",
+    "about": "A Central Sicredi PR/SP/RJ é uma instituição financeira cooperativa que congrega 31 cooperativas de crédito com 557 unidades de atendimento, localizadas nos estados do Paraná, São Paulo e Rio de Janeiro.\r\n\r\nA Central Sicredi PR/SP/RJ integra o Grupo Sicredi, instituição financeira cooperativa, que é referência internacional pelo modelo de atuação em sistema.\r\n\r\nMais informações em: https://www.sicredi.com.br/html/ ",
+    "inventoriesId": [
+        3268,
+        3601,
+        3836
+    ],
+    "logoId": "a0b959c4-4e3d-4260-80c2-3fe47d74ff97",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

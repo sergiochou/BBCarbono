@@ -1,0 +1,35 @@
+{
+    "id": 3768,
+    "name": "CANOPÉE ",
+    "about": "Somos a Canopée, uma ClimaTech que nasceu do desejo de colocar em evidência e potencializar o que há de melhor no Brasil, contribuindo para a sustentabilidade da vida no planeta e imagem positiva do País no exterior. \r\n\r\nPromovemos soluções de mitigação e adaptação dos efeitos das alterações climáticas através de projetos socioambientais sustentáveis, de sequestro carbono, de preservação ecossistêmica e de reflorestamento, priorizando em seu escopo a geração de riqueza para as comunidades locais.\r\n\r\nNascemos no início de 2020 a partir da iniciativa de um pequeno grupo de empresários e executivos de nível internacional que decidiu juntar suas competências e experiências em prol do meio ambiente e das comunidades guardiãs que vivem nas áreas de proteção e preservação ambiental.\r\n\r\nA preocupação com o meio-ambiente e o desejo de deixar um legado para as futuras gerações, fez com que, rapidamente, a ideia se transformasse em um projeto e o projeto, em realização. A aceitação imediata da Canopée foi um resultado proveniente do profissionalismo e rigor empregados na estruturação da organização juntamente com a qualidade das parcerias firmadas.\r\n\r\nSomos referência na implementação de soluções integradas rumo à carboneutralização, temos forte atuação social e em projetos de alto impacto. \r\n\r\nAtuamos em quatro frentes:\r\n\r\nConsultoria: Quantificação de emissões de GEE e impactos ambientais;\r\n\r\nProjetos Ambientais: Administração de projetos de neutralização de carbono e geração de créditos por serviços ambientais;\r\n\r\nProjetos Sociais: Definidos conforme as necessidades e em conjunto com associações, cooperativas e atores relevantes nas áreas de influência;\r\n\r\nBioeconomia: Créditos de carbono e serviços de preservação, separadamente ou em combo.\r\n\r\nwww.canopee.com.br\r\n\r\n",
+    "inventoriesId": [
+        5087,
+        6126
+    ],
+    "logoId": "ecdbb1fe-64cb-44bc-9e0d-b019616091d7",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

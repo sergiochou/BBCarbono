@@ -1,0 +1,45 @@
+{
+    "id": 5671,
+    "name": "GNA  - GÁS NATURAL  AÇU S.A.",
+    "about": "A GNA - Gás Natural Açu é uma joint venture entre a Prumo Logística, bp, Siemens e SPIC Brasil, dedicada ao desenvolvimento e operação de projetos estruturantes e sustentáveis de energia e gás.\n\nCom sede na capital fluminense, possui, no Porto do Açu, em São João da Barra (RJ), o maior parque termelétrico a gás natural da América Latina. O projeto, em sua fase atual, compreende a duas usinas térmicas movidas a gás, a GNA I e a GNA II. A primeira começou a operar em setembro de 2021 e a segunda está iniciou a operação comercial em maio de 2025. Conjuntamente, alcançam 3 GW de capacidade instalada.\n\nPara abastecer as usinas, a GNA opera também, desde setembro de 2021, um Terminal de Regaseificação de Gás Natural Liquefeito (GNL), o primeiro de uso privado do Brasil, onde está atracada a FSRU BW Magna, embarcação responsável por armazenar e regaseificar até 21 milhões de m³ de gás natural por dia.",
+    "inventoriesId": [
+        6718,
+        6690,
+        7138,
+        8368
+    ],
+    "logoId": "b91b7426-3387-4598-9570-0a8f594d39cc",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

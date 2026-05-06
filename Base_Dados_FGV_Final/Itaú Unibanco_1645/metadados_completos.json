@@ -1,0 +1,110 @@
+{
+    "id": 1645,
+    "name": "Itaú Unibanco ",
+    "about": "O Itaú Unibanco Holding S.A é uma empresa controlada pela Itaú Unibanco Participações S.A. (IUPAR), empresa de participações que detém 51,71% de nossas ações ordinárias e, por sua vez, é controlada conjuntamente pela Itaúsa S.A., empresa de participações que detém diretamente 39,21% das nossas ações ordinárias e que tem como controladores os membros da família Egydio de Souza Aranha, e pela Companhia E. Johnston de Participações, empresa de participações que tem como controladores membros da família Moreira Salles.\nNosso capital social é representado por ações ordinárias (ITUB3) e preferenciais (ITUB4), ambas negociadas na Bolsa de Valores de São Paulo (B3 - Brasil, Bolsa, Balcão). As ações preferenciais também são negociadas na Bolsa de Nova Iorque (NYSE), na forma de recibos (ADR-ITUB). Somos o maior banco privado brasileiro em valor de mercado e a marca mais valiosa da América do Sul, avaliada em US$ 8,4 bilhões, segundo a Brand Finance 100 (2024).\nDesde 2018, trabalhamos na transição para uma economia de baixo carbono, incluindo a definição de políticas, planos de ação e medição de desempenho frente aos desafios de combate às mudanças do clima. Já compensamos 100% de nossas emissões do escopo 1. E em novembro de 2024, divulgamos nossa nova estratégia ESG, com o objetivo de em 2030, atingir a redução de 50% das emissões operacionais unificadas Escopos 1 e 2 e de 50% de Escopo 3 do Itaú Brasil (ano-base 2023). \nMantemos também nossa ambição de ser o Banco da Transição Climática dos nossos clientes com o compromisso de zerar as emissões líquidas de gases de efeito estufa (GEE) dos nossos negócios até 2050, em linha com os cenários científicos. O tema tem sido discutido e incorporado em novas regulações prudenciais do sistema financeiro, já que fatores como risco climático são reconhecidos como ameaças à estabilidade financeira global. Para isso, nosso plano passa por atividades de redução e remoção de GEE, considerando o estágio atual da tecnologia de cada setor, projeção de evolução e o necessário engajamento dos nossos clientes para estabelecerem suas metas.\n",
+    "inventoriesId": [
+        2672,
+        12,
+        617,
+        2077,
+        1581,
+        1528,
+        1547,
+        3033,
+        3324,
+        3612,
+        3970,
+        4206,
+        4537,
+        5056,
+        5999,
+        6916,
+        8163
+    ],
+    "logoId": "4a7f04f0-9aac-dc75-f870-3a1250bd9829",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

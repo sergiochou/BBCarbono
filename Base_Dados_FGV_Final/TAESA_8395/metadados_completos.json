@@ -1,0 +1,30 @@
+{
+    "id": 8395,
+    "name": "TAESA",
+    "about": "Uma das maiores empresas privadas de transmissão de energia elétrica do Brasil em termos de RAP, a TAESA é uma Sociedade Anônima de capital aberto controlada pela Companhia Energética de Minas Gerais (CEMIG) e ISA Investimentos e Participações do Brasil S.A. Sua atuação concentra-se na construção, operação e manutenção de ativos de transmissão de energia em alta tensão, garantindo o transporte de eletricidade por grandes distâncias no país e a interligação do nosso Sistema Elétrico com o da Argentina.\nSegurança, excelência, ética e sustentabilidade são princípios fundamentais que orientam todas as suas atividades. Os ativos operam com níveis de tensão variando entre 69 kV e 525 kV. A estrutura inclui um Centro de Operação do Sistema (COS), situado no Rio de Janeiro (RJ); um Centro de Operação (COS) em Garabi (RS), operando a Interligação com a Argentina; e um Centro de Monitoramento Químico (CMQ), em Brasília (DF), onde são realizadas análises de óleos mineral e hidráulico.",
+    "inventoriesId": [
+        8292
+    ],
+    "logoId": "a99db972-cf6a-34d9-f294-3a19e6745c65",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

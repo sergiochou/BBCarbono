@@ -1,0 +1,50 @@
+{
+    "id": 3243,
+    "name": "Galáxia",
+    "about": "Fundada em 2002, no Rio de Janeiro, a Galáxia Marítima S.A., é hoje uma empresa reconhecida no mercado, face à sua ampla atuação nos segmentos de apoio marítimo e portuário, atuando em território nacional, nas atividades de exploração e produção de petróleo.\nA empresa tem como princípios essenciais:\n- Missão: Atuar de maneira segura e rentável com responsabilidade social e ambiental, no segmento offshore com atividades portuária, marítima e logística.\n- Visão: Ser reconhecida pela excelência na prestação de serviços nos segmentos portuário, marítimo e logístico, no mercado nacional e internacional offshore.\n- Valores: Comprometer-se em assegurar a satisfação de seus clientes prestando serviços com qualidade, confiabilidade, eficiência, disponibilidade e segurança.",
+    "inventoriesId": [
+        4549,
+        5633,
+        6502,
+        8421,
+        8019
+    ],
+    "logoId": "7f0137e1-ab1c-b918-f90d-3a207b489579",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

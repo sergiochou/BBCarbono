@@ -1,0 +1,432 @@
+[
+    {
+        "empresa_pasta": "VAMOS LOCAÇÃO_3184",
+        "id_fgv": 3184,
+        "nome_oficial": "VAMOS LOCAÇÃO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 1187.906,
+                    "emissoes_escopo_2": 139.705,
+                    "emissoes_escopo_3": 555206.544,
+                    "total_emissoes": 556534.155,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2047.378,
+                    "emissoes_escopo_2": 420.536,
+                    "emissoes_escopo_3": 683173.638,
+                    "total_emissoes": 685641.552,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 4059.952,
+                    "emissoes_escopo_2": 178.62,
+                    "emissoes_escopo_3": 2090942.64,
+                    "total_emissoes": 2095181.212,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Vast Infraestrutura_4382",
+        "id_fgv": 4382,
+        "nome_oficial": "Vast Infraestrutura",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 37.258,
+                    "emissoes_escopo_2": 87.852,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 125.11,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 65.005,
+                    "emissoes_escopo_2": 34.408,
+                    "emissoes_escopo_3": 10724.908,
+                    "total_emissoes": 10824.321,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 104.535,
+                    "emissoes_escopo_2": 33.372,
+                    "emissoes_escopo_3": 4230.279,
+                    "total_emissoes": 4368.186,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Veloce_1624",
+        "id_fgv": 1624,
+        "nome_oficial": "Veloce",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 381.51,
+                    "emissoes_escopo_2": 287.53,
+                    "emissoes_escopo_3": 51846.36,
+                    "total_emissoes": 52515.4,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1070.086,
+                    "emissoes_escopo_2": 163.281,
+                    "emissoes_escopo_3": 55327.501,
+                    "total_emissoes": 56560.868,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 683.225,
+                    "emissoes_escopo_2": 80.404,
+                    "emissoes_escopo_3": 60368.504,
+                    "total_emissoes": 61132.133,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 700.433,
+                    "emissoes_escopo_2": 185.722,
+                    "emissoes_escopo_3": 63610.815,
+                    "total_emissoes": 64496.97,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 598.375,
+                    "emissoes_escopo_2": 103.61,
+                    "emissoes_escopo_3": 44645.987,
+                    "total_emissoes": 45347.972,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Vendemmia Logística Integrada_8664",
+        "id_fgv": 8664,
+        "nome_oficial": "Vendemmia Logística Integrada",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1228.287,
+                    "emissoes_escopo_2": 29.106,
+                    "emissoes_escopo_3": 15577085.887,
+                    "total_emissoes": 15578343.28,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Venturus_8325",
+        "id_fgv": 8325,
+        "nome_oficial": "Venturus",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 16.333,
+                    "emissoes_escopo_2": 46.634,
+                    "emissoes_escopo_3": 198.59,
+                    "total_emissoes": 261.557,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Verescence Brasil Vidros_605",
+        "id_fgv": 605,
+        "nome_oficial": "Verescence Brasil Vidros",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 42.88,
+                    "emissoes_escopo_2": 1920.84,
+                    "emissoes_escopo_3": 311.41,
+                    "total_emissoes": 2275.13,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 151.204,
+                    "emissoes_escopo_2": 695.0,
+                    "emissoes_escopo_3": 444.21,
+                    "total_emissoes": 1290.414,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 31960.029,
+                    "emissoes_escopo_2": 2456.862,
+                    "emissoes_escopo_3": 612.767,
+                    "total_emissoes": 35029.658,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 37000.45,
+                    "emissoes_escopo_2": 4791.27,
+                    "emissoes_escopo_3": 8562.87,
+                    "total_emissoes": 50354.59,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 37094.04,
+                    "emissoes_escopo_2": 6133.09,
+                    "emissoes_escopo_3": 14880.97,
+                    "total_emissoes": 58108.1,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 38865.335,
+                    "emissoes_escopo_2": 5976.917,
+                    "emissoes_escopo_3": 3716.69,
+                    "total_emissoes": 48558.942,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 34532.695,
+                    "emissoes_escopo_2": 3784.657,
+                    "emissoes_escopo_3": 4469.829,
+                    "total_emissoes": 42787.181,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "VERO_7502",
+        "id_fgv": 7502,
+        "nome_oficial": "VERO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 2092.458,
+                    "emissoes_escopo_2": 218.807,
+                    "emissoes_escopo_3": 919.957,
+                    "total_emissoes": 3231.222,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 2195.505,
+                    "emissoes_escopo_2": 566.163,
+                    "emissoes_escopo_3": 700.8,
+                    "total_emissoes": 3462.468,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Via Araucária_8598",
+        "id_fgv": 8598,
+        "nome_oficial": "Via Araucária",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Via Green_1781",
+        "id_fgv": 1781,
+        "nome_oficial": "Via Green ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.362,
+                    "emissoes_escopo_3": 5.473,
+                    "total_emissoes": 5.835,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.42,
+                    "emissoes_escopo_3": 6.192,
+                    "total_emissoes": 6.612,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Viacredi_4632",
+        "id_fgv": 4632,
+        "nome_oficial": "Viacredi",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 101.755,
+                    "emissoes_escopo_2": 347.452,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 449.207,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 101.289,
+                    "emissoes_escopo_2": 132.299,
+                    "emissoes_escopo_3": 119.543,
+                    "total_emissoes": 353.131,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 201.11,
+                    "emissoes_escopo_2": 127.163,
+                    "emissoes_escopo_3": 191.425,
+                    "total_emissoes": 519.698,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 83.049,
+                    "emissoes_escopo_2": 186.533,
+                    "emissoes_escopo_3": 337.27,
+                    "total_emissoes": 606.852,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

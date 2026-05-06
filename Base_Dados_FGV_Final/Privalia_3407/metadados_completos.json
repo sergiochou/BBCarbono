@@ -1,0 +1,40 @@
+{
+    "id": 3407,
+    "name": "Privalia",
+    "about": "No Brasil desde 2009, a Privalia, pertencente ao Grupo Veepee - presente em 13 países incluindo Brasil, Itália e Espanha - é o único Flash Sales no mercado brasileiro. Atualmente, a companhia conta com mais de 2 mil parceiros, entre marcas brasileiras e estrangeiras, voltadas para os segmentos Feminino, Masculino, Baby&Kids, Home&Decor, Viagens, entre outros. A Privalia possui uma base relevante, com mais de 11 milhões de usuários ativos no Brasil que transitam entre o site e aplicativo, ocupando o posto de líder no segmento que atua.",
+    "inventoriesId": [
+        4908,
+        5152,
+        6377
+    ],
+    "logoId": "b3dd5281-a6a8-4661-b876-c10c6d328373",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

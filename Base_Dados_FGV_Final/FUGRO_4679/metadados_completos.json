@@ -1,0 +1,40 @@
+{
+    "id": 4679,
+    "name": "FUGRO",
+    "about": "A Fugro Brasil - Serviços Submarinos e Levantamentos Ltda. é líder mundial em Geo-dados, coletando e analisando informações abrangentes sobre a terra e as estruturas construídas sobre ela. Através da aquisição integrada de dados, análise e consultoria, a FUGRO desmistifica a análise espacial de Geo-dados para auxiliar seus clientes a projetar, construir e operar seus ativos de uma maneira segura, sustentável e eficiente.\r\n\r\n",
+    "inventoriesId": [
+        6020,
+        7334,
+        8794
+    ],
+    "logoId": "e59905b4-c30a-4f9c-b72e-ceb1c6039257",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

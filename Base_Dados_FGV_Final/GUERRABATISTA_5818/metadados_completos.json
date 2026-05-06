@@ -1,0 +1,30 @@
+{
+    "id": 5818,
+    "name": "GUERRABATISTA",
+    "about": "O GB ao longo de mais de uma década de história profissional vem desenvolvendo soluções corporativas pontuais, eficientes e rentáveis para impulsionar os negócios de seus clientes ao lado de seus tomadores de decisão, a fim de tornar esta tarefa uma inovadora experiência e com uma maior amplitude de visão e caminhos.\r\n\r\nA larga experiência de nosso escritório de consultoria corporativa permite oferecer aos seus clientes de forma ágil e focada, uma gama de alternativas para viabilizar e maximizar seus projetos, permitindo assim que sejam\r\n\r\nalcançados novos modelos de negócios ou de soluções. Aprendemos com nossos clientes a pensar não somente em sua operação corporativa, mas na forma de realização de seus negócios, de maneira a contribuir significativamente para a melhoria de seu processo de gestão nas áreas de nossa expertise.\r\n\r\nO portfólio de negócios realizados, a complexidade dos casos, o atendimento global e o porte dos clientes atendidos representam o mais claro reconhecimento da competência profissional do GB.\r\n\r\nCom a análise aprofundada da amplitude dos negócios do cliente, das tendências e do cenário econômico e empresarial que está inserido, o GB tem conseguido oferecer soluções que permitem seus clientes alcançarem as melhores práticas e os melhores resultados em seus projetos.\r\n\r\nEm vista da experiência internacional detida por nossos profissionais, a metodologia empregada pelo GB no desenvolvimento dos projetos está alinhada com aquelas adotadas pelas grandes firmas nacionais e internacionais.\r\n\r\n",
+    "inventoriesId": [
+        6708
+    ],
+    "logoId": "266f1456-b032-424a-9ccf-35c293990631",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

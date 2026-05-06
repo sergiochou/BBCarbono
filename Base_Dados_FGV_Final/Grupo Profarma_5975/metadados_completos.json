@@ -1,0 +1,40 @@
+{
+    "id": 5975,
+    "name": "Grupo Profarma",
+    "about": "Fundado em 1961, o Grupo Profarma é um dos maiores players do setor farmacêutico do país, formado por duas grandes marcas do segmento: a Profarma Distribuição e a Rede d1000. A Profarma Distribuição atua na entrega de produtos farmacêuticos e de higiene e beleza. Formada pelas bandeiras Drogasmil, Farmalife, Drogarias Tamoio e Drogaria Rosário, a Rede d1000 é uma gigante do varejo farmacêutico brasileiro\n",
+    "inventoriesId": [
+        6869,
+        6866,
+        8153
+    ],
+    "logoId": "7ba9b32f-e9de-00d1-2034-3a11d0fa3ee7",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

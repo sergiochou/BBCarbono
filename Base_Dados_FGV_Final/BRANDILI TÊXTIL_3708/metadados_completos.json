@@ -1,0 +1,40 @@
+{
+    "id": 3708,
+    "name": "BRANDILI TÊXTIL",
+    "about": "Brandili é uma marca de roupa infantil com mais de 60 anos de história focada em trazer o melhor em moda infantil para meninas e meninos, seguindo as principais tendências infantis e teen com qualidade, conforto, estilo e ótimos preços. Durante a construção da nossa história, o amor pelo que fazemos, pelas crianças e pela família sempre fez parte do DNA da empresa e é materializado por meio da entrega de roupa infantil e teen alegres e confortáveis, das ações de responsabilidade social e ambiental e de uma relação muito próxima com os pais. Hoje, a Brandili possui uma grande variedade de roupas direcionadas às crianças de todas as idades, sendo uma das marcas preferidas pelas mães e pelos lojistas. Presente em mais de 67% das cidades brasileiras e em mais 25 países, a Brandili produz 15 milhões de roupas infantis ao ano",
+    "inventoriesId": [
+        5788,
+        6890,
+        8173
+    ],
+    "logoId": "2c107b2c-6c92-4026-9cb4-baae632d0f26",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

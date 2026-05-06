@@ -1,0 +1,40 @@
+{
+    "id": 4755,
+    "name": "Voltalia",
+    "about": "Fundada em França, em 2005, a Voltalia é hoje um produtor de energia e um prestador de serviços internacional. Somos especializados em soluções de energia renovável, ajudando os nossos clientes a integrar os movimentos globais de transição energética e ecológica.\n\nO nosso propósito? Melhorar o meio ambiente global, promovendo o desenvolvimento local.",
+    "inventoriesId": [
+        6119,
+        7024,
+        8301
+    ],
+    "logoId": "8c4512a7-0a83-45d0-870d-85111099de09",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

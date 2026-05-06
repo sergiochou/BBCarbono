@@ -1,0 +1,45 @@
+{
+    "id": 3319,
+    "name": "FS Fueling Sustainability",
+    "about": "A FS é a primeira produtora de etanol do Brasil 100% a partir do milho. Iniciou suas operações em 2017 e hoje, com três unidades fabris, em Lucas do Rio Verde, Sorriso e Primavera do Leste, em Mato Grosso, e escritório em São Paulo. Além do etanol, a companhia possui tecnologia de ponta para a fabricação de produtos para Nutrição Animal, óleo de milho e energia elétrica.",
+    "inventoriesId": [
+        5077,
+        5787,
+        7456,
+        9133
+    ],
+    "logoId": "789cd185-16a2-41c4-9b27-5123121f51c6",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

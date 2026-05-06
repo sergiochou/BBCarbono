@@ -1,0 +1,35 @@
+{
+    "id": 3234,
+    "name": "EMAP",
+    "about": null,
+    "inventoriesId": [
+        5166,
+        5267
+    ],
+    "logoId": "597c0df0-404e-4f13-8330-dbc458a9b96f",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 10,
+        "acronym": "MA",
+        "name": "Maranhão"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

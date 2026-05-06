@@ -1,0 +1,35 @@
+{
+    "id": 7213,
+    "name": "SG4",
+    "about": "A SG4 é uma empresa especializada no gerenciamento de riscos dos Sistemas de Gestão da Qualidade, Saúde e Segurança do Trabalho, Meio Ambiente, Responsabilidade Social e Compliance e em Serviços de Saúde e Segurança Ocupacional.\n\nAcreditamos que toda entrega deve ser baseada no pleno atendimento aos requisitos do cliente e na superação de suas expectativas. Atuamos com Consultoria, Auditoria, Treinamentos e Gestão Ocupacional, apoiando as empresas na melhoria do desempenho em gestão e obtenção de certificação em SGI.",
+    "inventoriesId": [
+        6989,
+        8117
+    ],
+    "logoId": "85d32eca-cb71-5b41-4430-3a1265ccbc10",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

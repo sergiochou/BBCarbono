@@ -1,0 +1,100 @@
+{
+    "id": 1154,
+    "name": "Honda Automóveis",
+    "about": "A produção nacional dos automóveis Honda começou em 1997, na planta localizada no município de Sumaré (SP), que atualmente, conta com 218 mil m² de área construída, em um terreno de 1.400.000 m². Há 28 anos em atividade a Honda Automóveis do Brasil se mantém atenta aos avanços de um competitivo segmento e às expectativas de um consumidor exigente. Ao longo do tempo, apostou na introdução de novos processos produtivos, no alto padrão de qualidade em cada um dos automóveis e na qualificação de seus profissionais. \nEm 2019 iniciou as operações da nova planta industrial, localizada no municio de Itirapina (SP), em uma área aproximada de 200 mil m² e produção de 170.000 veículos ano, referencia na área ambiental, com uma eficiência energética de aproximadamente 30% quando comparada a planta de Sumaré,  tendo como premissa em seu projeto de instalação e operação, a otimização de uso de materiais, agua e consequente geração de resíduos e emissões atmosféricas.\n\nComo resultado disso, evoluiu em todos os sentidos e consolidou-se como uma das principais montadoras nacionais. Além de atenderem ao mercado nacional, os automóveis brasileiros são exportados e circulam nos países da América do Sul.\n\nA Honda tem como propósito melhorar a vida das pessoas por meio de soluções de mobilidade. Acima de tudo, fazê-lo de forma a criar valores diferenciados para os diversos públicos de interesse, que sejam sustentáveis ao longo do tempo, de modo a garantir a existência da empresa a longo prazo. A criação de uma sociedade livre das emissões de carbono é uma das diretrizes cen\u0002trais da estratégia para a sustentabilidade da empresa, que tem como meta atingir a neutralidade de carbono em todos os produtos e operações corporativas até 2050. Todas as filiais da Honda no mundo possuem o compro\u0002misso com essa diretriz. \n\nPara o atingimento dessa meta, a empresa vem atuando sob o conceito Tripla Ação para Zero, com foco em três áreas:\n- NEUTRALIDADE DE CARBONO: Emissões de CO2, Zero emissões até 2050\n- ENERGIA LIMPA: 100% de utilização de energia livre de carbono até 2050\n- CIRCULAÇÃO DE RECURSOS: 100% de uso de ma\u0002teriais sustentáveis até 2050",
+    "inventoriesId": [
+        62,
+        179,
+        2351,
+        2075,
+        1601,
+        2788,
+        3163,
+        3776,
+        4112,
+        4455,
+        4970,
+        5731,
+        5898,
+        7012,
+        8201
+    ],
+    "logoId": "f9a3f510-ee97-4f21-a1a9-3a54060b8f26",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,80 @@
+{
+    "id": 18,
+    "name": "Sustainable Carbon ",
+    "about": "A Sustainable Carbon é especialista e líder na América Latina no desenvolvimento de projetos de reduções de emissões e de soluções ligadas ao gerenciamento de Gases de Efeito Estufa, GEEs.\r\n\r\nNossas soluções permitem que organizações e indivíduos conheçam e reduzam seus impactos ambientais, possibilitando o equilíbrio das emissões e contribuindo para o desenvolvimento sustentável de comunidades no mundo todo.\r\n\r\nTambém conectamos pessoas querendo fazer a diferença no mundo: empresários, desenvolvedores de projetos, empresas, ONGs, governos, associações e entusiastas de todo o mundo.\r\n\r\nFazemos isso por meio de mecanismos técnicos e inovadores aprovados pelo mercado de carbono que quantificam as reduções das emissões GEE. Estabelecendo, assim, um preço sobre esse serviço ambiental e permitindo o comércio internacional desta commodity única: o crédito de carbono.\r\n\r\nAssim, aqueles que reduzem suas emissões recebem por isso e são capazes de manter os projetos de carbono, que preservam ecossistemas ameaçados e geram desenvolvimento na região onde estão localizados.\r\n\r\nSomos especialistas no desenvolvimento de projetos de energia renovável, de substituição de combustível, compostagem, projetos de biomassa e projetos florestais.\r\n\r\nRealizamos trabalhos em quase todos os ecossistemas brasileiros. Foi assim que nos últimos anos a Sustainable Carbon entregou créditos de carbono da mais alta qualidade para compensações e hoje é a empresa líder neste segmento na América Latina.\r\n\r\nVeja abaixo nossas conquistas:\r\n\r\nSomos a empresa líder mundial em desenvolvimento de projetos para o mercado voluntário (VER), gerenciando um portfólio com mais de 50 projetos validados e mais de 16M de toneladas em reduções de emissões;\r\nPioneira no desenvolvimento de melhores práticas sustentáveis??, validamos o primeiro projeto SOCIALCARBON® em 2008 e o primeiro projeto Gold Standard para o mercado voluntário no Brasil em 2011;\r\nMais de 50 comunidades já foram beneficiadas através dos créditos de carbono gerados para o desenvolvimento sustentável;\r\nSoluções de GEEs para mais de 100 empresas em 23 países.",
+    "inventoriesId": [
+        2355,
+        2875,
+        3161,
+        3605,
+        4063,
+        4332,
+        4613,
+        5693,
+        5886,
+        7622,
+        8698
+    ],
+    "logoId": "330b9206-2ceb-53fd-dc17-3a1a056b841e",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

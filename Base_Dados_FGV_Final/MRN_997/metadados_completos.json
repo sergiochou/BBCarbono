@@ -1,0 +1,60 @@
+{
+    "id": 997,
+    "name": "MRN",
+    "about": "Extraímos e beneficiamos a bauxita, uma rocha avermelhada que é a matéria-prima do alumínio. Com segurança e compromisso socioambiental, abastecemos o mercado nacional e internacional com um produto de excelente qualidade, que contribui para o desenvolvimento da região onde atuamos e do Brasil como um todo.\r\nNossa produção anual gira em torno de 12 milhões de toneladas. Resultado do talento de milhares de profissionais envolvidos na extração, beneficiamento, transporte ferroviário, secagem e embarque em navios que transportam a bauxita para refinarias de três continentes.",
+    "inventoriesId": [
+        3051,
+        3294,
+        4818,
+        5317,
+        6017,
+        7652,
+        8925
+    ],
+    "logoId": "a7434133-d5cf-00b5-420f-3a13206e2e95",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

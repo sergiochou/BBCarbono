@@ -1,0 +1,544 @@
+[
+    {
+        "empresa_pasta": "PONTES INDÚSTRIA DE CERA_4582",
+        "id_fgv": 4582,
+        "nome_oficial": "PONTES INDÚSTRIA DE CERA",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 140.85,
+                    "emissoes_escopo_2": 33.31,
+                    "emissoes_escopo_3": 3202.317,
+                    "total_emissoes": 3376.477,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 172.954,
+                    "emissoes_escopo_2": 27.554,
+                    "emissoes_escopo_3": 6888.393,
+                    "total_emissoes": 7088.901,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias❖de❖transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Preservação de áreas nativas",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Intertek do Brasil Inspeções Ltda Nome da OI: PONTES INDUSTRIA DE CERA LTDA",
+                "Nome do responsável pelo inventário: Ruan Lessa",
+                "Nome do verificador líder: Marcos José Gomes Viana"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pontifícia Universidade Católica do Rio Grande do Sul  PUCRS_7462",
+        "id_fgv": 7462,
+        "nome_oficial": "Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 1717.409,
+                    "emissoes_escopo_2": 4413.367,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6130.776,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Porto de Rio Grande_4043",
+        "id_fgv": 4043,
+        "nome_oficial": "Porto de Rio Grande",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 34.447,
+                    "emissoes_escopo_2": 71.01,
+                    "emissoes_escopo_3": 184.52,
+                    "total_emissoes": 289.977,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 4631.59,
+                    "emissoes_escopo_2": 123.441,
+                    "emissoes_escopo_3": 24.864,
+                    "total_emissoes": 4779.895,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 73.785,
+                    "emissoes_escopo_2": 92.268,
+                    "emissoes_escopo_3": 3578.134,
+                    "total_emissoes": 3744.187,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Porto do Açu Operações SA_4044",
+        "id_fgv": 4044,
+        "nome_oficial": "Porto do Açu Operações S.A",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2820.294,
+                    "emissoes_escopo_2": 184.015,
+                    "emissoes_escopo_3": 4336.896,
+                    "total_emissoes": 7341.205,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2923.769,
+                    "emissoes_escopo_2": 75.963,
+                    "emissoes_escopo_3": 2281.143,
+                    "total_emissoes": 5280.875,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3381.94,
+                    "emissoes_escopo_2": 79.427,
+                    "emissoes_escopo_3": 8840.475,
+                    "total_emissoes": 12301.842,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,❖armazenagem❖e❖correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Reserva Particular do Patrimônio Natural - RPPN Caruara.",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Associação Brasileira de Normas Técnicas Nome da OI: PORTO DO ACU OPERACOES S.A.",
+                "Nome do verificador líder: Thiago Ernani Guinancio",
+                "Nome do responsável pelo inventário: Michelle Pereira"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Porto Itapoá_3657",
+        "id_fgv": 3657,
+        "nome_oficial": "Porto Itapoá",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte,\u0002armazenagem\u0002e\u0002correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 7956.178,
+                    "emissoes_escopo_2": 1172.684,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9128.862,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 9379.277,
+                    "emissoes_escopo_2": 3447.813,
+                    "emissoes_escopo_3": 73.966,
+                    "total_emissoes": 12901.056,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 10967.478,
+                    "emissoes_escopo_2": 1694.309,
+                    "emissoes_escopo_3": 152.691,
+                    "total_emissoes": 12814.478,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 11748.96,
+                    "emissoes_escopo_2": 2049.779,
+                    "emissoes_escopo_3": 353.386,
+                    "total_emissoes": 14152.125,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PORTO SA_32",
+        "id_fgv": 32,
+        "nome_oficial": "PORTO S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1792.82,
+                    "emissoes_escopo_2": 757.191,
+                    "emissoes_escopo_3": 13642.526,
+                    "total_emissoes": 16192.537,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2728.672,
+                    "emissoes_escopo_2": 1843.594,
+                    "emissoes_escopo_3": 18957.07,
+                    "total_emissoes": 23529.336,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 3226.447,
+                    "emissoes_escopo_2": 2939.275,
+                    "emissoes_escopo_3": 18386.364,
+                    "total_emissoes": 24552.086,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1048.932,
+                    "emissoes_escopo_2": 4622.501,
+                    "emissoes_escopo_3": 20779.416,
+                    "total_emissoes": 26450.849,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1253.272,
+                    "emissoes_escopo_2": 5482.849,
+                    "emissoes_escopo_3": 19856.203,
+                    "total_emissoes": 26592.324,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1600.574,
+                    "emissoes_escopo_2": 7044.96,
+                    "emissoes_escopo_3": 19179.288,
+                    "total_emissoes": 27824.822,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1041.143,
+                    "emissoes_escopo_2": 14970.042,
+                    "emissoes_escopo_3": 23137.601,
+                    "total_emissoes": 39148.786,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1757.403,
+                    "emissoes_escopo_2": 3475.607,
+                    "emissoes_escopo_3": 13969.737,
+                    "total_emissoes": 19202.747,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1945.052,
+                    "emissoes_escopo_2": 2919.733,
+                    "emissoes_escopo_3": 17169.802,
+                    "total_emissoes": 22034.587,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1768.847,
+                    "emissoes_escopo_2": 1352.615,
+                    "emissoes_escopo_3": 31620.118,
+                    "total_emissoes": 34741.58,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1196.393,
+                    "emissoes_escopo_2": 2592.277,
+                    "emissoes_escopo_3": 46966.634,
+                    "total_emissoes": 50755.304,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1154.798,
+                    "emissoes_escopo_2": 1319.68,
+                    "emissoes_escopo_3": 72301.925,
+                    "total_emissoes": 74776.403,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1853.339,
+                    "emissoes_escopo_2": 1083.522,
+                    "emissoes_escopo_3": 47170.879,
+                    "total_emissoes": 50107.74,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades❖financeiras,❖de❖seguros❖e❖serviços❖relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Porto Sudeste do Brasil_5265",
+        "id_fgv": 5265,
+        "nome_oficial": "Porto Sudeste do Brasil",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3032.144,
+                    "emissoes_escopo_2": 1974.286,
+                    "emissoes_escopo_3": 21011.949,
+                    "total_emissoes": 26018.379,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2556.0,
+                    "emissoes_escopo_2": 2482.285,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5038.285,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,❖armazenagem❖e❖correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Portobello Grupo_5401",
+        "id_fgv": 5401,
+        "nome_oficial": "Portobello Grupo",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 239951.976,
+                    "emissoes_escopo_2": 6917.648,
+                    "emissoes_escopo_3": 9586.774,
+                    "total_emissoes": 256456.398,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 215372.946,
+                    "emissoes_escopo_2": 5800.143,
+                    "emissoes_escopo_3": 298561.669,
+                    "total_emissoes": 519734.758,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 221715.858,
+                    "emissoes_escopo_2": 3753.19,
+                    "emissoes_escopo_3": 74.23,
+                    "total_emissoes": 225543.278,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Portonave_2354",
+        "id_fgv": 2354,
+        "nome_oficial": "Portonave",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 6557.616,
+                    "emissoes_escopo_2": 4188.397,
+                    "emissoes_escopo_3": 25054.499,
+                    "total_emissoes": 35800.512,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 4052.806,
+                    "emissoes_escopo_2": 2984.539,
+                    "emissoes_escopo_3": 34546.315,
+                    "total_emissoes": 41583.66,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Posidonia Shipping_8808",
+        "id_fgv": 8808,
+        "nome_oficial": "Posidonia Shipping",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,❖armazenagem❖e❖correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "id": 8268,
+    "name": "ENGIE BRASIL ENERGIA S.A.",
+    "about": "A ENGIE Brasil Energia, líder em energia renovável no país, tem um sólido compromisso com a descarbonização e com a transição para uma economia de baixo carbono. Presente em todas as regiões do Brasil, a Companhia atua de forma integrada nos segmentos de geração, transmissão, comercialização e trading de energia elétrica, além do transporte de gás natural, contribuindo de maneira estruturante para o desenvolvimento sustentável do setor energético nacional. Com uma matriz elétrica 100% proveniente de fontes limpas, renováveis e de baixa emissão desde 2023, a ENGIE Brasil Energia encerrou 2025 com 12,4 GW de capacidade instalada operada, um crescimento de 10% em relação a 2024, e um parque gerador composto por 133 usinas, majoritariamente eólicas, solares, hidrelétricas e de biomassa, além de 3.200 km de linhas de transmissão de energia em operação. Essa base operacional reflete a estratégia consistente de expansão sustentável, apoiada na construção de novos ativos renováveis e na consolidação de um portfólio alinhado às melhores práticas globais de mitigação das mudanças climáticas.",
+    "inventoriesId": [
+        8091
+    ],
+    "logoId": "9c98c37a-36d6-85f9-3514-3a18833e62fe",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

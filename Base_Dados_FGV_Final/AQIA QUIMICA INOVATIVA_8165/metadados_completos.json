@@ -1,0 +1,30 @@
+{
+    "id": 8165,
+    "name": "AQIA QUIMICA INOVATIVA",
+    "about": "Desenvolvimento, fabricação, distribuição, importação e exportação, representação e prestação de serviços de produtos químicos e congêneres para farmácias magistrais e industriais: química, cosmética, farmacêutica, alimentícia, domissanitária, derivados e afins.",
+    "inventoriesId": [
+        9240
+    ],
+    "logoId": "f5f1a23c-0978-9409-bb95-3a14cfc1ad97",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 3800,
+    "name": "Positivo Servers & Solutions - Ilhéus/BA",
+    "about": "",
+    "inventoriesId": [
+        5032
+    ],
+    "logoId": "00ec91d2-982d-4fe4-b50a-5af66b9b9aa7",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 9354,
+    "name": "Alloha Fibra",
+    "about": "Somos a Alloha Fibra, maior operadora independente de Fibra Óptica FTTH (Fiber To The Home) do Brasil e a terceira maior em número de clientes e em extensão de fibra óptica do País. A Giga + Fibra e a Giga + Empresas são as marcas comerciais da Alloha.\nContamos com uma rede de mais de 149 mil quilômetros de fibra óptica e cerca de 1,6 milhão de clientes.\n\nEm substituição ao modelo anterior, que organizava suas nove marcas comerciais em três polos regionais de atuação, o Grupo Alloha Fibra reorganizou o negócio em duas unidades: B2C, voltado para vendas diretas ao consumidor por meio da marca Giga+ Fibra, e B2B, com a Giga+ Empresas, que atenderá os clientes corporativos, governo, operadoras e outros ISPs. Juntas essas marcas conectam pessoas, ideias e negócios em mais de 864 cidades em 22 estados brasileiros em todas as regiões brasileiras.\n\nTemos um time com cerca de 4.100 colaboradores, que trabalham com o mesmo propósito de levar internet de qualidade e serviços digitais para o maior número de pessoas, contribuindo para a inclusão digital e social do Brasil.",
+    "inventoriesId": [
+        9155
+    ],
+    "logoId": "69fdc31b-1b93-a406-b4fc-3a1a2a8cd7f9",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

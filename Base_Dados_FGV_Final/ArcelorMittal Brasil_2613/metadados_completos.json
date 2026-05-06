@@ -1,0 +1,65 @@
+{
+    "id": 2613,
+    "name": "ArcelorMittal Brasil",
+    "about": "A ArcelorMittal é líder na produção de aço na América Latina, operando em sinergia com mais de 30 unidades no Brasil, Argentina e Costa Rica. No Brasil, a empresa tem unidades industriais em nove estados (Bahia, Ceará, Espírito Santo, Mato Grosso do Sul, Minas Gerais, Paraná, Rio de Janeiro, Santa Catarina e São Paulo), além de um time comercial e uma rede de distribuição e serviços cobrindo todo o país.\n\nCom uma força de trabalho com cerca de 20 mil pessoas, capacidade anual instalada de 15,5 milhões de toneladas de aço bruto e de produção de 5,1 milhões de toneladas de minério de ferro, produzimos soluções inovadoras em aços que atendem às mais rigorosas exigências das indústrias automobilística, de eletrodomésticos, naval, de energia, construção civil, agronegócio e outras. Atuamos, ainda, em áreas diversificadas como geração de energia para consumo próprio, produção de biorredutor renovável (carvão vegetal a partir de florestas de eucalipto) e tecnologia da informação.",
+    "inventoriesId": [
+        3690,
+        4102,
+        4338,
+        4960,
+        5445,
+        5793,
+        7010,
+        8893
+    ],
+    "logoId": "11741f47-2746-4de8-970c-e0c53f4c5c3b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7196,
+    "name": "Volkswagen Financial Services Brasil ",
+    "about": "A Volkswagen Financial Services é responsável pelas operações financeiras do Grupo Volkswagen em todo o mundo. No Brasil, o conglomerado é constituído pelo Banco Volkswagen, Consórcio Nacional Volkswagen com a Embracon e Volkswagen Corretora de Seguros.\nFundada em 1956, a empresa oferece produtos que facilitam o acesso a automóveis de passeio, veículos comerciais, caminhões e ônibus Volkswagen e MAN Latin America, veículos Audi e motocicletas Ducati. Entre eles estão: Financiamento, Consórcio, Seguro e Leasing Operacional/ Gestão de Frotas.\nA sede das atividades administrativas da Volkswagen Financial Ser vices está localizada na Rua Volkswagen, 291 – Jabaquara/SP. Não são realizados atendimentos presenciais neste endereço.",
+    "inventoriesId": [
+        6968,
+        8119
+    ],
+    "logoId": "efd67b85-c85e-e0af-d3a8-3a12615ec076",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

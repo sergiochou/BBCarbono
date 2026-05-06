@@ -1,0 +1,40 @@
+{
+    "id": 1017,
+    "name": "ERB - Energias Renováveis do Brasil ",
+    "about": null,
+    "inventoriesId": [
+        93,
+        584,
+        2207
+    ],
+    "logoId": "483f7e48-ea3d-44fc-939d-a123621e9574",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

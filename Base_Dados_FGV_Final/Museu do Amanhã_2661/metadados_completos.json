@@ -1,0 +1,70 @@
+{
+    "id": 2661,
+    "name": "Museu do Amanhã",
+    "about": "O Museu do Amanhã é um museu de ciências localizado na região portuária do Rio de Janeiro. É um museu de ciências diferente. Um ambiente de ideias, explorações e perguntas sobre a época de grandes mudanças em que vivemos e os diferentes caminhos que se abrem para o futuro. O Museu foi concebido pela Fundação Roberto Marinho e pertencente à Prefeitura do Rio de Janeiro. Ele foi inaugurado em dezembro de 2015 e é gerido pelo Instituto de Desenvolvimento e Gestão, Organização Social da área de cultura. \nO Museu do Amanhã oferece uma narrativa sobre como poderemos viver e moldar os próximos 50 anos. Uma jornada rumo a futuros possíveis, a partir de grandes perguntas que a Humanidade sempre se fez. De onde viemos? Quem somos? Onde estamos? Para onde vamos? Como queremos ir?\nOrientado pelos valores éticos da Sustentabilidade e da Convivência, essenciais para a nossa civilização, o Museu busca também promover a inovação, divulgar os avanços da ciência e publicar os sinais vitais do planeta. Um museu para ampliar nosso conhecimento e transformar nosso modo de pensar e agir.",
+    "inventoriesId": [
+        3724,
+        3602,
+        4072,
+        4425,
+        4618,
+        9092,
+        7885,
+        7886,
+        8108
+    ],
+    "logoId": "0c729c60-c7af-4848-97d8-48de3a87fb26",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

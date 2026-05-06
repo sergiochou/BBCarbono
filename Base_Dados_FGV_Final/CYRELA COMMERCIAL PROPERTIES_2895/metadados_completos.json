@@ -1,0 +1,30 @@
+{
+    "id": 2895,
+    "name": "CYRELA COMMERCIAL PROPERTIES",
+    "about": "A CCP (Cyrela Commercial Properties S/A) é uma das empresas líderes em desenvolvimento, comercialização e administração de imóveis comerciais no mercado brasileiro. Reconhecida por sua longa experiência no segmento de propriedades comerciais, possui um portfólio de excelente qualidade, com forte atuação nos segmentos de Edifícios Corporativos e Shopping Centers.\r\n\r\nSeus empreendimentos concentram-se no eixo Rio-São Paulo, além de outras capitais do país. O fortalecimento de alianças globais, estratégia que une know-how diferenciado e desenvolvimento de negócios integrados, garante crescimento com qualidade e sustentabilidade.\r\n\r\nA CCP apresenta recorrentemente sólidos resultados, tanto em relação a crescimento como lucratividade, fruto de uma estratégia bem planejada, que reúne conservadorismo financeiro e arrojo comercial. Derivada da Cyrela Brazil Realty S/A, sua experiência lhe garante baixa taxa de vacância e alta rentabilidade.\r\n\r\nAo lado dessa atuação ímpar no mercado imobiliário comercial, integra o Novo Mercado da Bovespa (CCPR3), comprometendo-se com seus stakeholders a seguir as melhores práticas de Governança Corporativa.\r\n\r\nEm 2007, a CCP tornou-se membro fundadora do Green Building Council Brasil (GBC Brasil), instituição que promove a construção sustentável no país e apoia a transformação de toda cadeia produtiva do setor. Todos os empreendimentos administrados pela CCP atendem a rigorosos critérios de responsabilidade socioambiental, sendo que vários desses empreendimentos estão comprometidos com a obtenção e manutenção da certificação LEED (Leadership in Energy and Environmental Design), conferido pelo U.S. Green Building Council (USGBC) e reconhecida mundialmente como parâmetro de mensuração para construções com baixo impacto ambiental e que asseguram condições saudáveis de ocupação.\r\n\r\nMISSÃO\r\n\r\n“Focamos em tornar o ambiente em que operamos mais acolhedor e agradável, através da inovação e da qualidade, para tornar a Companhia mais rentável entre os seus pares e reconhecido por seus elevados padrões éticos”.\r\n\r\nVISÃO\r\n\r\n“Ser a empresa mais admirada no setor imobiliário de renda do Brasil.”",
+    "inventoriesId": [
+        4199
+    ],
+    "logoId": "8256f308-4ca9-41f7-b2aa-aa098d2be478",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

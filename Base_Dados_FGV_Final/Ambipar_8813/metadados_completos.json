@@ -1,0 +1,30 @@
+{
+    "id": 8813,
+    "name": "Ambipar",
+    "about": "A Ambipar atua em diversos segmentos para oferecer serviços e produtos completos voltados à gestão ambiental. Em franca expansão mundial, a Ambipar respeita as regras de compliance e responsabilidade socioambiental, prezando a ética e o pronto atendimento às demandas de seus clientes. Oferecemos serviços inteligentes e expertise aos nossos clientes, para juntos superarmos os desafios da sustentabilidade. Afinal, para nós, sustentabilidade não é apenas um discurso, é nosso dia a dia.",
+    "inventoriesId": [
+        8650
+    ],
+    "logoId": "b07bcf88-7b41-2e5f-0aed-3a1a255c81e4",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

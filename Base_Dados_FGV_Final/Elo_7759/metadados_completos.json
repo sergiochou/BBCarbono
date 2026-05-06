@@ -1,0 +1,35 @@
+{
+    "id": 7759,
+    "name": "Elo",
+    "about": "A Elo começou em 2011, com cartões de débito e crédito. Desde então, expandiu para mais negócios: cartões pré-pagos e especializados, soluções customizadas para empresas, plataformas de tokenização e prevenção a fraudes, pagamentos por QR Code e NFC e consultoria de negócios para os nossos parceiros.\n\nCom tecnologia própria e local, a Elo é uma empresa 100% brasileira, ágil e flexível para atender às necessidades de quem usa nossos produtos. Fazemos isso por meio de uma rede ampla de portadores de cartão, estabelecimentos comerciais, credenciadores e emissores.\n\nA missão da Elo é impulsionar a inclusão de pagamentos digitais no Brasil, com produtos para todos os perfis de pessoas e empresas. Para todo tipo de brasileiro.\n\nPara mais informações, acesse: https://www.elo.com.br/sobre-elo/",
+    "inventoriesId": [
+        7516,
+        8271
+    ],
+    "logoId": "a9ad42ed-22a5-3ddc-b298-3a13158a504d",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

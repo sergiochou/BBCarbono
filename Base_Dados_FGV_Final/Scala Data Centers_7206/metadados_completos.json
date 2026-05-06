@@ -1,0 +1,35 @@
+{
+    "id": 7206,
+    "name": "Scala Data Centers",
+    "about": "Scala Data Centers é a plataforma latino-americana de data centers sustentáveis líder no mercado Hyperscale. Sediada no Brasil e fundada pela DigitalBridge, foi desenvolvida para atender e superar a crescente demanda por acesso digital na América Latina. A Scala conta com uma equipe altamente qualificada de mais de 1.000 profissionais e aplica uma abordagem flexível e inovadora para oferecer serviços de colocation de excepcional qualidade para clientes Hyperscale, provedores de serviços e software em nuvem e grandes empresas. Customizamos soluções estado da arte para cada cliente na construção de data centers de última geração, com alta disponibilidade, grande índice de eficiência energética e altíssima densidade. Tudo isso aliado às melhores práticas de sustentabilidade guiadas por nosso Programa ESG (Environmental, Social, Governance). Para obter mais informações, visite www.scaladatacenters.com.",
+    "inventoriesId": [
+        7061,
+        8040
+    ],
+    "logoId": "b94bc69f-fdc3-c795-c413-3a1276351f52",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

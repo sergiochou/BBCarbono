@@ -1,0 +1,30 @@
+{
+    "id": 6157,
+    "name": "COOPROESTE",
+    "about": "A Cooperativa Agropecuária do Oeste da Bahia – COOPROESTE, fundada por produtores da região, visando atender às deficiências de armazenagem agrícola, beneficiamento e comercialização de grãos, especialmente soja, milho e arroz, iniciou suas atividades em 02 de junho de 1995.\n\nA COOPROESTE, buscando o espírito cooperativista, no seu início tinha apenas 28 (vinte e oito) associados, e hoje possui 127 (cento e vinte e sete), com abrangência nos municípios da região oeste da Bahia, Barreiras, São Desidério, Formosa do Rio Preto, Riachão das Neves, Luis Eduardo Magalhães, Correntina, Jaborandi, Coribe e Cocos. Ela atua no fomento e atividades agrícolas, e vem procurando sempre aperfeiçoar o processo produtivo, inclusive na produção de sementes de Soja certificadas, como também obter os melhores preços para os produtos comercializados, focando tanto o mercado interno como o externo.\n\nAssim, pode-se constatar que a COOPROESTE se originou já bastante delineada quanto aos seus objetivos e propósitos considerando que a mesma vem se mantendo presente e consolidada no universo do agronegócio até os dias atuais.\n\n ",
+    "inventoriesId": [
+        7131
+    ],
+    "logoId": "cbb33348-4d79-31f4-f48d-3a12424ccca2",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

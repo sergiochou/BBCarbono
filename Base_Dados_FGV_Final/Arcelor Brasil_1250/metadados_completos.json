@@ -1,0 +1,30 @@
+{
+    "id": 1250,
+    "name": "Arcelor Brasil",
+    "about": null,
+    "inventoriesId": [
+        1720
+    ],
+    "logoId": "0ba667da-ed9c-4491-a4fe-7177837d75bb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

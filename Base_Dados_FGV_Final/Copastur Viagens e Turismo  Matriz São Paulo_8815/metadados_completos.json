@@ -1,0 +1,30 @@
+{
+    "id": 8815,
+    "name": "Copastur Viagens e Turismo - Matriz São Paulo",
+    "about": "Dividimos nossos serviços, marcas e produtos em experiências para vivenciar, experimentar e conectar. Tudo isso para suportar necessidades e abraçar todas as diversidades, além de garantir uma jornada completa para nossos clientes\nUsufruindo de serviços que unem benefícios e olhares diferentes, sejam a lazer ou a negócios através das marcas: Goya, Copastur Lazer e Change Programs by Copastur.\nPromovendo eventos extraordinários, momentos sensoriais e ativações variadas com as marcas: Copastur Eventos, Incentivo e Live Marketing.\nRealizando negócios sem se preocupar com as complexidades ou características específicas em viagens corporativas com a Copastur, Copastur Energy e Buffly.",
+    "inventoriesId": [
+        8598
+    ],
+    "logoId": "bb0cff9b-bb5c-a1f2-854a-3a19fc2cdfbb",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

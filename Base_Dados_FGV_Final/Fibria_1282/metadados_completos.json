@@ -1,0 +1,45 @@
+{
+    "id": 1282,
+    "name": "Fibria",
+    "about": "Suzano S/A\r\nA Suzano, empresa resultante da fusão entre a Suzano Papel e Celulose e a Fibria, tem o compromisso de ser referência global no uso sustentável de recursos naturais. Líder mundial na fabricação de celulose de eucalipto e uma das maiores fabricantes de papéis da América Latina, a companhia exporta para mais de 80 países e, a partir de seus produtos, está presente na vida de mais de 2 bilhões de pessoas. Com operações de dez fábricas, além da joint operation Veracel, possui capacidade instalada de 11 milhões de toneladas de celulose de mercado e 1,4 milhão de toneladas de papéis por ano. A Suzano tem aproximadamente 37 mil colaboradores diretos e indiretos e investe há mais de 90 anos em soluções inovadoras a partir do plantio de eucalipto, as quais permitam a substituição de matérias-primas de origem fóssil por fontes de origem renovável. A companhia possui os mais elevados níveis de Governança Corporativa da B3, no Brasil, e da New York Stock Exchange (NYSE), nos Estados Unidos, mercados onde suas ações são negociadas.\r\n\r\nOld Fibria\r\n Somos uma empresa brasileira com forte presença no mercado global de produtos florestais, a maior produtora de celulose de mercado.\r\n Investimos no cultivo de florestas como fonte renovável e sustentável de vida, para produzir riqueza e crescimento econômico, promover desenvolvimento humano e social e garantir conservação ambiental. \r\nNossa liderança é baseada na sustentabilidade de nossas operações florestais (como resultado do ciclo de colheita mais curto no Brasil, em comparação com outros grandes países produtores), a nossa tecnologia no estado-da-arte (incluindo instalações modernas e métodos de clonagem avançados), nossa alta produtividade, a nossa base de clientes e os nossos relacionamentos de longo prazo.\r\n Temos orgulho da nossa origem e dos nossos fundamentos - excelência tecnológica, liderança, compromisso com o futuro e a vitalidade da nossa terra.\r\n Tudo isso está impresso em nossa história, em nossas crenças e no aprendizado que queremos compartilhar.\r\n Nossas atividades têm por base uma área florestal de 1,092 milhão de hectares, dos quais 374 mil hectares são dedicados à conservação de ecossistemas nativos, em sete estados: Espírito Santo, Bahia, Minas Gerais, São Paulo, Mato Grosso do Sul, Rio de Janeiro e Rio Grande do Sul.\r\n Nossa força de trabalho reúne cerca de 18,3 mil profissionais, entre funcionários próprios e terceiros.\r\n Operamos 4 fábricas com capacidade produtiva de 7,25 milhões de toneladas de celulose de mercado por ano, incluindo nossa participação de 50% na Veracel (joint-operation com a Stora Enso), na Bahia.",
+    "inventoriesId": [
+        2951,
+        3256,
+        3519,
+        4028
+    ],
+    "logoId": "67f752a7-1a5b-4e7a-bbbd-f5b1f4f25038",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

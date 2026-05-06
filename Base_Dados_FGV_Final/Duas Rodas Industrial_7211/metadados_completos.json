@@ -1,0 +1,35 @@
+{
+    "id": 7211,
+    "name": "Duas Rodas Industrial",
+    "about": "A Duas Rodas é uma empresa brasileira, com atuação global, que iniciou suas atividades em 1925 com a extração de óleos essenciais das frutas brasileiras, e se tornou a principal referência em aromas no Brasil. Com uma história de quase 100 anos de sucesso, nós nos orgulhamos da nossa trajetória de evolução e pioneirismo no universo dos sabores e aromas. Através de nossa vasta experiência, definimos as estratégias para o futuro em conformidade com o propósito, missão e visão de negócio da empresa. Nossa trajetória é caracterizada por criatividade, inovação e comprometimento, e os valores da Duas Rodas respaldam nosso compromisso em fornecer produtos de alta qualidade, sempre com ética e integridade, e orientam o desenvolvimento de soluções que atendam às demandas do mercado e ofereçam experiências excepcionais aos consumidores.",
+    "inventoriesId": [
+        7113,
+        8843
+    ],
+    "logoId": "e775d735-d933-2030-1525-3a12f65fb759",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

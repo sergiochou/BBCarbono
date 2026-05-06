@@ -1,0 +1,30 @@
+{
+    "id": 8262,
+    "name": "Emisfera Agro",
+    "about": "Primeira Assessoria do Brasil, focada na elaboração, execução e venda de Créditos de Carbono REDD no Agro",
+    "inventoriesId": [
+        8505
+    ],
+    "logoId": "706484f2-b3a3-598c-c3ef-3a184f59d70b",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

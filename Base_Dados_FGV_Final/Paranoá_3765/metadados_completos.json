@@ -1,0 +1,35 @@
+{
+    "id": 3765,
+    "name": "Paranoá",
+    "about": "Fundada em 1963 com o objetivo de oferecer os melhores produtos de borracha para a indústria automobilística.\r\n\r\nAtualmente, produzimos compostos de borracha, mangueiras de direção hidráulica, combustíveis, arrefecimento, injetados, revestimento acústico e térmico de borracha, PU ou TPO.\r\n\r\nA Paranoá entende sua responsabilidade em relação ao meio ambiente, sendo assim considera importante ser uma empresa integrante do Programa Brasileiro GHG Protocol. Esperamos dessa forma contribuir de forma positiva com a mitigação dos impactos causados pelas mudanças climáticas, e com a presente e futuras gerações.",
+    "inventoriesId": [
+        9217,
+        7895
+    ],
+    "logoId": "1b396f5c-0079-4228-b591-d80d61505782",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

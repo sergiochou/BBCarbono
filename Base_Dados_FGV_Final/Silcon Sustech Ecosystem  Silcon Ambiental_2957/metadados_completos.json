@@ -1,0 +1,45 @@
+{
+    "id": 2957,
+    "name": "Silcon Sustech Ecosystem - Silcon Ambiental ",
+    "about": "A SILCON Sustech Ecosystem - Silcon Ambiental é uma empresa 100% brasileira, que desde 1994 desenvolve tecnologias e soluções para o tratamento e gerenciamento de resíduos, formando um ecossistema de negócios e atividades cada vez mais completo, em prol de um mundo sem desperdícios, transformando negócios em atividades sustentáveis.\r\n\r\nCom unidades operacionais situadas no Estado de São Paulo, dotadas de diversas tecnologias próprias para o tratamento de resíduos industriais, comerciais e hospitalares, conta com uma equipe multidisciplinar, experiente, comprometida e focada em diferentes áreas de conhecimento, para oferecer um serviço de excelência e qualidade aos seus clientes. \r\n\r\nOferece soluções que buscam continuamente a valorização de resíduos, explorando seu potencial energético, reuso e reciclagem, o controle de emissões atmosféricas, e a redução de disposição de resíduos em aterros, e mantendo sempre o cuidado com o desenvolvimento sustentável.\r\n\r\nDesde 2019, assumiu o compromisso com a Agenda 2030 e se tornou signatária do Pacto Global da ONU, atuando em prol do alcance dos Objetivos de Desenvolvimento Sustentável.",
+    "inventoriesId": [
+        4260,
+        4515,
+        5327,
+        6403
+    ],
+    "logoId": "61a45df0-d45a-4be6-95cf-1d795ca87531",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

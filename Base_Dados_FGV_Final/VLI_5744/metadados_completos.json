@@ -1,0 +1,50 @@
+{
+    "id": 5744,
+    "name": "VLI",
+    "about": "Oferecemos soluções logísticas multimodais, integrando portos, ferrovias e terminais em dez estados brasileiros, além do Distrito Federal, contemplando as regiões Norte, Nordeste, Sudeste e Centro-Oeste. Com sede em São Paulo (SP) e escritório administrativo em Belo Horizonte (MG), transportamos as riquezas do Brasil ao facilitar o escoamento de bens industrializados, siderúrgicos, minerais e do agronegócio. Por meio de ferrovias, terminais portuários e terminais integradores, promovemos a circulação de produtos industrializados (toretes, óleo diesel, etanol, gasolina, bauxita, contêineres, clínquer, cromita e sínter), produtos agrícolas e fertilizantes (milho, soja, farelo de soja, açúcar, enxofre, fosfato, cloreto de potássio e ureia) e de siderurgia e construção (fio máquina, minério de ferro, cimento, cal, bola de moinho, ferro gusa, calcário e areia). No sistema ferroviário, detemos a concessão de duas ferrovias, a Centro-Atlântica (FCA) e o tramo Norte da Ferrovia Norte-Sul (FNS). São aproximadamente 8 mil quilômetros de malha ferroviária, com operações em 5 corredores logísticos (Norte, Sudeste, Leste, Minas-Rio e Minas-Bahia). O sistema conta ainda com 8 terminais portuários, localizados em eixos estratégicos da costa brasileira, além de outros 9 terminais integradores, que conectam o carregamento e o descarregamento de produtos ao transporte ferroviário.",
+    "inventoriesId": [
+        6682,
+        7823,
+        7825,
+        7828,
+        7959
+    ],
+    "logoId": "ae4765c9-3510-4fa1-9286-85457cf70ec5",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

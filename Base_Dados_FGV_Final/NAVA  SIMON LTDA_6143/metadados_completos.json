@@ -1,0 +1,35 @@
+{
+    "id": 6143,
+    "name": "NAVA & SIMON LTDA",
+    "about": "Plantar Comércio e Representações é um grupo que atua no Segmento do Agronegócio desde 1995. Possui 8 lojas especializadas em compra e venda de Insumos Agrícolas e também atua com produção de Soja, Milho e Algodão em áreas próprias e arrendadas. Suas unidades, e Fazendas estão localizadas nos Municípios de Lucas do Rio Verde-MT, Nova Mutum-MT, Ipiranga do Norte-MT, Tapurah - MT, Sinop - MT, Sorriso - MT, Diamantino - MT e Matupá - MT.",
+    "inventoriesId": [
+        7226,
+        8445
+    ],
+    "logoId": "87b3b788-11d2-54a4-4575-3a1947cf3ee1",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

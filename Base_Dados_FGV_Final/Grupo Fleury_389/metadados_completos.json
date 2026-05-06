@@ -1,0 +1,100 @@
+{
+    "id": 389,
+    "name": "Grupo Fleury",
+    "about": "Somos o Grupo Fleury. Nossa trajetória teve início em 1926, como um laboratório de análises clínicas. Ao longo das décadas, expandimos nossa atuação e evoluímos para um modelo de negócio focado na oferta de soluções completas e integradas para toda a jornada de saúde dos pacientes. \n\nCom sede em São Paulo (SP) e atuação a nível nacional, hoje somos referência no setor de saúde no Brasil, reconhecidos pela comunidade médica e pela sociedade por nossa excelência técnica, de atendimento e gestão, além da nossa capacidade de impulsionar o setor por meio da inovação e da adoção das melhores práticas ESG. \n\nProcuramos contribuir para a sustentabilidade do sistema de saúde por meio de nossas marcas, que compõem a jornada de cuidado completa em medicina diagnóstica e centrada no paciente.  \n\nO ecossistema de saúde é composto por três avenidas de crescimento, sendo elas:\n\nMedicina Diagnóstica B2C: Unidades de atendimento físicas e serviço de atendimento móvel.\nMedicina Diagnóstica B2B: Processamento de exames em hospitais e lab-to-lab para laboratórios de diagnósticos em todo o país.\n\nNovos Elos: Infusão de Medicamentos, Ortopedia, Oftalmologia, Centro Cirúrgico Ambulatorial e Medicina Reprodutiva.\n\nEm 2024, completamos um ano do início da jornada de integração com o Grupo Pardini e, com isso, atingimos um novo nível de presença no mercado brasileiro. Com 551 unidades de atendimento em todo o país, oferecemos um portfólio completo de soluções com marcas regionais reconhecidas em diferentes segmentos. Contando com mais de 22 mil colaboradores e mais de 4 mil médicos,\nrealizando mais de 335 milhões de exames por ano. ",
+    "inventoriesId": [
+        107,
+        2447,
+        2089,
+        1064,
+        650,
+        2841,
+        3430,
+        3583,
+        4031,
+        4297,
+        4656,
+        5632,
+        5973,
+        7098,
+        8036
+    ],
+    "logoId": "efac292f-bfb8-4609-86e8-c25118e7680a",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

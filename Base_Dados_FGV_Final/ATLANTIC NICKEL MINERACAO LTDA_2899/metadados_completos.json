@@ -1,0 +1,55 @@
+{
+    "id": 2899,
+    "name": "ATLANTIC NICKEL MINERACAO LTDA",
+    "about": "Atlantic Nickel\r\n\r\nA Atlantic Nickel atua nas atividades de exploração, mineração, beneficiamento e comercialização do concentrado de níquel. A empresa integra a Appian Capital Advisory, grupo britânico com presença na América do Sul (Brasil), América do Norte (Canadá) e África (Burkina Faso e Tanzânia).\r\n\r\nA Mina Santa Rita está localizada em Itagibá (BA) e consiste em uma operação a céu aberto, simples e de baixo custo. O minério lavrado alimenta uma planta de beneficiamento localizada a 140 km do Porto de Ilhéus (BA), onde a produção é mundialmente exportada.\r\n\r\nMais Informações: http://atlanticnickel.com/\r\n\r\nAppian Capital Advisory\r\n\r\nA Appian Capital Advisory é global por sua própria natureza. Sediada em Londres, possui representantes em Johannesburg, Melbourne, Vancouver e Lima, e investimentos na américa do Norte, América Latina e África.\r\n\r\nMais Informações: https://appiancapitaladvisory.com/pt-br/\r\n\r\n",
+    "inventoriesId": [
+        4163,
+        4678,
+        5474,
+        6042,
+        7693,
+        8986
+    ],
+    "logoId": "27028e10-fe51-4ec4-bb76-b81a4dcab96e",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 5608,
+    "name": "Brasil Port Logistica Offshore e Estaleiro Naval Ltda",
+    "about": "A Base de Apoio Offshore da Brasil Port visa suprir as soluções logísticas completas para as atividades de Exploração e Produção (E&P) offshore, essencialmente nas Bacias de Campos, Espírito Santo e Santos, abrangendo o recebimento, a movimentação, o armazenamento temporário e a expedição de diversas cargas em caminhões e embarcações do tipo Offshore Supply Vessel (OSV). A base também é dotada de capacidade para pequenos reparos nas embarcações Supply, as quais são projetadas para armazenar e transportar insumos (água, combustível, fluidos de perfuração, cimento, produtos químicos e mantimentos - alimentos) bem como materiais e equipamentos (sistemas de ancoragem, árvores de natal, manifolds, entre outros) demandados nas operações de E&P de petróleo, realizadas nas unidades marítimas offshore. ",
+    "inventoriesId": [
+        6951,
+        6946,
+        8022
+    ],
+    "logoId": "8555d26c-fc2e-4305-8372-c2d39cb1876f",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

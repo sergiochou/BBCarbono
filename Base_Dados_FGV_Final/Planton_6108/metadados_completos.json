@@ -1,0 +1,35 @@
+{
+    "id": 6108,
+    "name": "Planton",
+    "about": "A Planton é uma climatech especializada em soluções para a gestão de emissões de gases de efeito estufa. Atuamos com tecnologia e dados para apoiar empresas na jornada de descarbonização, oferecendo mensuração, redução e compensação de emissões de gases de efeito estufa, com foco em transparência e rastreabilidade.",
+    "inventoriesId": [
+        6875,
+        8884
+    ],
+    "logoId": "afa7d3d3-10b9-e428-09c4-3a1219bb1f4c",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

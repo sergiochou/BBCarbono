@@ -1,0 +1,30 @@
+{
+    "id": 8535,
+    "name": "Grupo Iter ",
+    "about": "O Grupo Iter é responsável pela gestão alinhada às melhores práticas ambientais, sociais e de governança de atrativos de turismo, entretenimento e lazer, com os ativos naturais icônicos e as experiências mais inesquecíveis do país. Nossa missão é transformar o turismo brasileiro, sempre alinhado aos nossos valores:\nGeramos impacto positivo\nSuperamos as expectativas\nConstruímos experiências inesquecíveis\nBuscamos uma comunicação eficaz\nTemos sentimento de dono\n \nSomos uma empresa genuinamente brasileira, com marcas consolidadas em nosso portfólio, como o Parque Bondinho Pão de Açúcar®, inserido em sítio reconhecido como Patrimônio Mundial pela UNESCO, no Rio de Janeiro, a C2Rio, uma das maiores operadoras de turismo receptivo do Rio de Janeiro, o Parque do Caracol, um presente da Serra Gaúcha, em Canela/RS e Parque Estadual do Tainhas, uma Unidade de Conservação situada no Sul do país, uma região de natureza rústica e intocada.\n \nAmamos o turismo e queremos que todas as pessoas possam viver momentos inesquecíveis conosco. Somos incansáveis na busca pelas melhores experiências e, para desenvolvê-las, apostamos na diversidade de pessoas, ideias, talentos e perspectivas, somadas à colaboração e à coragem de explorar o novo.",
+    "inventoriesId": [
+        9195
+    ],
+    "logoId": "50c42f31-8b60-73f5-3403-3a193790e189",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

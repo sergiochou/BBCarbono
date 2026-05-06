@@ -1,0 +1,40 @@
+{
+    "id": 4759,
+    "name": "Elfa Medicamentos ",
+    "about": "Presente em todo território nacional, o Grupo Elfa é referência em distribuição de medicamentos e materiais para hospitais, clínicas e consultórios médicos e de materiais especiais e cirúrgicos, além de serviços para pesquisa clínica. Somos a única distribuidora de produtos médico-hospitalares a atuar também na área dental, tendo, ainda, soluções logísticas exclusivas como a gestão completa do estoque de grandes hospitais. Formado pela união de 21 empresas, o Grupo Elfa tem mais de 30 anos de história e mais de 2.500 colaboradores, atende a 7 mil hospitais, 250 mil clínicas e 700 planos de saúde em todo o país, sendo referência na cadeia de valor do mercado de saúde brasileiro. O Grupo Elfa é controlado por fundos do Pátria Investimentos. \nhttps://grupoelfa.com.br/",
+    "inventoriesId": [
+        6006,
+        6939,
+        8262
+    ],
+    "logoId": "baa893ff-dc41-075b-5b3d-3a126048546b",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

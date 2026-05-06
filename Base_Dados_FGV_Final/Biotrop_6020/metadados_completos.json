@@ -1,0 +1,35 @@
+{
+    "id": 6020,
+    "name": "Biotrop",
+    "about": "Atua com foco em pesquisa e desenvolvimento de soluções inovadoras, com o objetivo de contribuir para uma agricultura mais sustentável, saudável e regenerativa. Com escritório em Vinhedo (SP), fábricas em Curitiba (PR) e em Jaguariúna (SP), distribuidores em todo o país, a empresa leva ao mercado o que há de melhor no mundo em soluções biológicas e naturais.",
+    "inventoriesId": [
+        6921,
+        8518
+    ],
+    "logoId": "49123a24-e40a-a334-03ca-3a11e5843505",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

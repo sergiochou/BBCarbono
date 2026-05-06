@@ -1,0 +1,45 @@
+{
+    "id": 4632,
+    "name": "Viacredi",
+    "about": "A Viacredi atua há 73 anos oferecendo soluções financeiras, fundamentadas nos princípios cooperativistas, contribuindo para desenvolvimento econômico social das regiões em que atua. \nFiliada ao Sistema Ailos, a Viacredi possui mais de 1 milhão de cooperados e conta com 1253 lideranças cooperativistas do quadro social. Esses líderes incluem Comitês Cooperativos, cuja missão é estreitar os laços entre os cooperados e as comunidades com a cooperativa, e delegados que representam seus respectivos grupos de cooperados nas Assembleias. \nCom o propósito de unir pessoas para transformar vidas, está presente em 28 municípios de Santa Catarina e Paraná, atendendo em 110 Postos de Atendimentos com mais de 2 mil colaboradores. São mais de R$ 14 bilhões em ativos, R$ 8 bilhões em operações de crédito e mais R$ 10 bilhões em depósitos totais. \n\n",
+    "inventoriesId": [
+        5983,
+        5923,
+        7457,
+        8840
+    ],
+    "logoId": "2e0425f2-1ee4-d90a-8f92-3a1a10411222",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

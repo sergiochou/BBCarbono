@@ -1,0 +1,60 @@
+{
+    "id": 2246,
+    "name": "IFF Essências e Fragrâncias Ltda",
+    "about": null,
+    "inventoriesId": [
+        2038,
+        2497,
+        1616,
+        49,
+        566,
+        2936,
+        3257
+    ],
+    "logoId": "23f59299-9c9e-46ea-b046-1213b23df6da",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

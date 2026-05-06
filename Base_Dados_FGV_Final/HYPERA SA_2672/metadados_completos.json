@@ -1,0 +1,65 @@
+{
+    "id": 2672,
+    "name": "HYPERA S.A",
+    "about": "Fundada como Hypermarcas em 2001, com foco no mercado de bens de consumo, a Companhia se reestruturou para focar no setor farmacêutico e, a partir de 2018, assumiu a marca corporativa Hypera Pharma.\r\n\r\nNossa missão é dar acesso à saúde para a população brasileira, oferecendo produtos de alta qualidade e segurança, com investimento contínuo em inovação, crescendo de forma sustentável e com responsabilidade social.\r\n\r\nEstamos entre as maiores empresas farmacêuticas do país. Temos orgulho de ser uma Companhia 100% brasileira, levando nossos produtos para mais de 200 milhões de pessoas em todos os segmentos relevantes do varejo farmacêutico.\r\nA Hypera Pharma conta com uma operação de larga escala e baixo custo centralizada no maior complexo operacional farmacêutico da América Latina, localizado em Anápolis, no Estado de Goiás. São 120 mil m² de área construída onde atuam mais de 5.700 colaboradores. O complexo operacional possui capacidade de produzir mais de 18 bilhões de doses de sólidos, mais de 120 milhões de unidades de injetáveis e colírios, mais de 1,04 bilhão de unidades de vitaminas e mais de 300 milhões de unidades de líquidos, cremes, óleos e loções.\r\n\r\nPara suportar a constante inovação em seu negócio, a Companhia criou em 2017 o Hynova, o mais moderno centro de pesquisa farmacêutica do Brasil, que abriga uma equipe de profissionais altamente qualificados, mestres e doutores para o desenvolvimento de medicamentos, dermocosméticos e nutracêuticos, utilizando tecnologia de ponta para ser pioneira no Brasil.\r\n\r\nA Companhia conta ainda com uma ampla estrutura de vendas e distribuição com abrangência nacional. Seus produtos são distribuídos em todo o território brasileiro, diretamente a varejistas ou indiretamente, via distribuidores e atacadistas.\r\n\r\nA Hypera Pharma está listada no Novo Mercado da B3 desde 2008 e conta hoje com mais de 11,7 mil colaboradores.",
+    "inventoriesId": [
+        3640,
+        4055,
+        4156,
+        4812,
+        5322,
+        6221,
+        7412,
+        7896
+    ],
+    "logoId": "0adbdcd8-d964-4a24-bb2c-7bf78f67ad65",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

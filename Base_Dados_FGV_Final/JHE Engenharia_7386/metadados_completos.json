@@ -1,0 +1,35 @@
+{
+    "id": 7386,
+    "name": "JHE Engenharia",
+    "about": "Somos uma empresa de 30 anos de trajetória em engenharia consultiva e operações sociais, oferecendo excelência em soluções integradas, contribuímos para o desenvolvimento de setores essenciais à sociedade tais como habitação, infraestrutura e saneamento.",
+    "inventoriesId": [
+        7072,
+        8307
+    ],
+    "logoId": "63aa3edd-7739-18ab-350f-3a12b31821da",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

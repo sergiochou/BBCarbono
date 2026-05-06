@@ -1,0 +1,30 @@
+{
+    "id": 8212,
+    "name": "SUPER TERMINAIS",
+    "about": "\nO Super Terminais é um Terminal de Uso Privado (TUP), alfandegado e opera desde o dia 04 de outubro de 1996, cargas conteinerizadas, nacionais e importadas e está localizado na Rua Ponta Grossa, nº 256, bairro Colônia Oliveira Machado, possui localização estratégica às margens do Rio Negro e com acesso às principais vias das indústrias da Zona Franca de Manaus.",
+    "inventoriesId": [
+        8384
+    ],
+    "logoId": "50566b9e-859b-bf93-a729-3a175ec32443",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

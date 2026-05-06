@@ -1,0 +1,55 @@
+{
+    "id": 2917,
+    "name": "Corex Copper Brasil",
+    "about": "A Corex Copper Brasil é uma empresa de mineração moderna, global e focada em cobre, possui uma estratégia de crescimento focada na criação de valor para todos os stakeholders.\n\nChegou ao Brasil em 2026, por meio da aquisição da empresa OZ Minerals e os ativos: Mina Antas Norte na cidade de Curionópolis na região de Carajás, Pará. Mina Pedra Branca (Água Azul do Norte), projeto Santa Lúcia (Canaã dos Carajás), Pantera (Ourilândia do Norte), todos no Pará. A Corex tem compromisso com a segurança, disciplina de capital e valores que se adaptam ao ambiente em constante mudança.\n\nJuntos, geramos valor para todas as nossas partes interessadas construindo uma empresa sustentável e de sucesso para todos.\n",
+    "inventoriesId": [
+        4351,
+        4900,
+        5177,
+        6658,
+        7592,
+        8199
+    ],
+    "logoId": "967f5953-16ac-9e2f-e8e8-3a20ec5f05fb",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8599,
+    "name": "Girando Sol",
+    "about": "A Girando Sol é uma indústria de produtos de limpeza sediada em Arroio do Meio - RS e consolidada como referência no setor. Atuando em um mercado dinâmico e em constante evolução, a empresa se destaca por sua capacidade de acompanhar tendências, investir em pesquisa e inovação, e entregar soluções eficientes, com qualidade reconhecida e excelente relação custo-benefício.\nPresente nos estados do Rio Grande do Sul, Santa Catarina, Paraná, Mato Grosso e Mato Grosso do Sul, além de expandir sua atuação para diversos países por meio da exportação, a empresa produz 15 categorias de produtos, totalizando 180 itens que garantem ambientes mais saudáveis, conforto e bem-estar. \nEm contínua expansão, a empresa está ampliando sua estrutura para 35  cerca de 40 mil m², com um investimento de aproximadamente R$ 72 milhões em uma planta moderna e sustentável. O compromisso com a eficiência e a tecnologia se reflete na adoção de Boas Práticas de Produção e na integração dos princípios da Indústria 4.0, garantindo mais produtividade, flexibilidade e excelência operacional.\nCom uma equipe de 1.200 colaboradores diretos e indiretos, valoriza um ambiente de trabalho saudável e incentiva o desenvolvimento profissional, sempre focado nos melhores resultados. As práticas de gestão de pessoas são pautadas pelo respeito, pela escuta ativa e pela promoção de oportunidades, fortalecendo o engajamento e a construção de relações baseadas na confiança e no propósito.\nCom uma trajetória marcada por crescimento sólido, inovação constante e responsabilidade socioambiental, a Girando Sol reafirma seu compromisso em oferecer soluções de qualidade que fazem parte do dia a dia das pessoas, contribuindo para o bem-estar das famílias e o desenvolvimento sustentável das comunidades onde atua. A construção desse caminho é guiada por uma cultura forte, pela valorização das pessoas e pela busca contínua por excelência em tudo o que faz.\n",
+    "inventoriesId": [
+        8268,
+        8266
+    ],
+    "logoId": "58173262-588a-0ac9-3b25-3a1993c9a4ef",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

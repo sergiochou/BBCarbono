@@ -1,0 +1,35 @@
+{
+    "id": 1653,
+    "name": "PepsiCo do Brasil Ltda",
+    "about": null,
+    "inventoriesId": [
+        1744,
+        1731
+    ],
+    "logoId": "1f245674-c346-49a5-ac4c-8ef5aa78fb06",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

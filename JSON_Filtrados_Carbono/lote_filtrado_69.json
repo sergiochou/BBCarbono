@@ -1,0 +1,443 @@
+[
+    {
+        "empresa_pasta": "Posigraf_1284",
+        "id_fgv": 1284,
+        "nome_oficial": "Posigraf",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2828.126,
+                    "emissoes_escopo_2": 2990.245,
+                    "emissoes_escopo_3": 2252.098,
+                    "total_emissoes": 8070.469,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1968.58,
+                    "emissoes_escopo_2": 1981.459,
+                    "emissoes_escopo_3": 2163.073,
+                    "total_emissoes": 6113.112,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1153.634,
+                    "emissoes_escopo_2": 1319.805,
+                    "emissoes_escopo_3": 2413.501,
+                    "total_emissoes": 4886.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1068.953,
+                    "emissoes_escopo_2": 1552.47,
+                    "emissoes_escopo_3": 1390.441,
+                    "total_emissoes": 4011.864,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1225.686,
+                    "emissoes_escopo_2": 1283.816,
+                    "emissoes_escopo_3": 2322.449,
+                    "total_emissoes": 4831.951,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1147.703,
+                    "emissoes_escopo_2": 1286.645,
+                    "emissoes_escopo_3": 2869.205,
+                    "total_emissoes": 5303.553,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1719.901,
+                    "emissoes_escopo_2": 917.976,
+                    "emissoes_escopo_3": 4900.396,
+                    "total_emissoes": 7538.273,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1948.167,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 2434.737,
+                    "total_emissoes": 4382.904,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2249.786,
+                    "emissoes_escopo_2": 643.917,
+                    "emissoes_escopo_3": 4741.425,
+                    "total_emissoes": 7635.128,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Positivo Servers  Solutions  IlhéusBA_3800",
+        "id_fgv": 3800,
+        "nome_oficial": "Positivo Servers & Solutions - Ilhéus/BA",
+        "estado": "BA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 139.754,
+                    "emissoes_escopo_2": 12.563,
+                    "emissoes_escopo_3": 23.754,
+                    "total_emissoes": 176.071,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "(tCOe) verificado?",
+                "Programa Florestas do Futuro",
+                "Corrente Grande, Paiol, São Gonçalo e Várzea Alegre - 300.00 tCO2e",
+                "VERIFICATION REPORT",
+                ": VCS Version 3",
+                "V V R",
+                "ALIDATION AND ERIFICATION EPORT",
+                "ELECTRIC POWER GENERATION FROM",
+                "RENEWABLE SOURCES – BARRA DA",
+                "PACIÊNCIA, NINHO DA ÁGUIA,"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Positivo Tecnologia SA  CuritibaPR_1368",
+        "id_fgv": 1368,
+        "nome_oficial": "Positivo Tecnologia S.A. - Curitiba/PR",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 127.275,
+                    "emissoes_escopo_2": 1548.446,
+                    "emissoes_escopo_3": 2574097.797,
+                    "total_emissoes": 2575773.518,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 352.784,
+                    "emissoes_escopo_2": 1124.963,
+                    "emissoes_escopo_3": 536.184,
+                    "total_emissoes": 2013.931,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5128.975,
+                    "emissoes_escopo_2": 463.81,
+                    "emissoes_escopo_3": 827.583,
+                    "total_emissoes": 6420.368,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Positivo_923",
+        "id_fgv": 923,
+        "nome_oficial": "Positivo",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 4356.667,
+                    "emissoes_escopo_2": 5728.651,
+                    "emissoes_escopo_3": 2578268.446,
+                    "total_emissoes": 2588353.764,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 3485.115,
+                    "emissoes_escopo_2": 4032.181,
+                    "emissoes_escopo_3": 6811.726,
+                    "total_emissoes": 14329.022,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PRAGMA SOLUCOES SERVICOS E PROJETOS LTDA_6150",
+        "id_fgv": 6150,
+        "nome_oficial": "PRAGMA SOLUCOES, SERVICOS E PROJETOS LTDA",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 291.177,
+                    "emissoes_escopo_3": 33.538,
+                    "total_emissoes": 324.715,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Prefeitura Municipal de São Gonçalo do Amarante_4691",
+        "id_fgv": 4691,
+        "nome_oficial": "Prefeitura Municipal de São Gonçalo do Amarante ",
+        "estado": "RN",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 1235.677,
+                    "emissoes_escopo_2": 634.898,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1870.575,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PREVI_4160",
+        "id_fgv": 4160,
+        "nome_oficial": "PREVI",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.138,
+                    "emissoes_escopo_2": 131.013,
+                    "emissoes_escopo_3": 2916755.22,
+                    "total_emissoes": 2916886.371,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 22.782,
+                    "emissoes_escopo_2": 40.46,
+                    "emissoes_escopo_3": 2100434.56,
+                    "total_emissoes": 2100497.802,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 52.807,
+                    "emissoes_escopo_2": 36.741,
+                    "emissoes_escopo_3": 2141449.917,
+                    "total_emissoes": 2141539.465,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades❖financeiras,❖de❖seguros❖e❖serviços❖relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Prio_4641",
+        "id_fgv": 4641,
+        "nome_oficial": "Prio",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 376491.154,
+                    "emissoes_escopo_2": 38.596,
+                    "emissoes_escopo_3": 11392.654,
+                    "total_emissoes": 387922.404,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 405014.697,
+                    "emissoes_escopo_2": 12.36,
+                    "emissoes_escopo_3": 27744.246,
+                    "total_emissoes": 432771.303,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 767781.401,
+                    "emissoes_escopo_2": 14.474,
+                    "emissoes_escopo_3": 25871.632,
+                    "total_emissoes": 793667.507,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias❖extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Privalia_3407",
+        "id_fgv": 3407,
+        "nome_oficial": "Privalia",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 223.517,
+                    "emissoes_escopo_2": 103.988,
+                    "emissoes_escopo_3": 15953.385,
+                    "total_emissoes": 16280.89,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 742.411,
+                    "emissoes_escopo_2": 230.494,
+                    "emissoes_escopo_3": 8926.34,
+                    "total_emissoes": 9899.245,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 453.414,
+                    "emissoes_escopo_2": 78.754,
+                    "emissoes_escopo_3": 21401.973,
+                    "total_emissoes": 21934.141,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pro Solus_7976",
+        "id_fgv": 7976,
+        "nome_oficial": "Pro Solus",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 421.039,
+                    "emissoes_escopo_2": 3.26,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 424.299,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,❖pecuária,❖produção❖florestal,❖pesca❖e❖aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

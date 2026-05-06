@@ -1,0 +1,30 @@
+{
+    "id": 7457,
+    "name": "TOLEDO AMBIENTAL LTDA",
+    "about": "Somos uma empresa que se preocupa com o meio ambiente e que preza pelo bem estar dos colaboradores há 22 anos.\nIniciamos nossa trajetória em 1999 no município de Itaquaquecetuba e hoje temos\nfiliais nos Estados de GO, MA, MT, RS e SP, abrangendo as regiões Centro-este, Nordeste, Sul e Sudeste do território brasileiro.",
+    "inventoriesId": [
+        7203
+    ],
+    "logoId": "7339aa7e-6110-7696-15a9-3a12d651a74b",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

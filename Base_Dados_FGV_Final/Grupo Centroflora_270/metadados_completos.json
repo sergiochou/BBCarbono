@@ -1,0 +1,65 @@
+{
+    "id": 270,
+    "name": "Grupo Centroflora",
+    "about": "O Grupo Centroflora é uma indústria química que atua mundialmente na fabricação de insumos de origem vegetal destinados aos mercados farmacêutico, alimentício e cosmético. Fundada em 1957, atualmente a Centroflora conta com 04 unidades industriais além de uma unidade agrícola. Integra seu portfólio de produtos insumos farmacêuticos ativos, extratos vegetais, óleos essenciais e polpas desidratadas. Conta, também, com uma empresa de inovação em biodiversidade que propicia o desenvolvimento de novas pesquisas e produtos de origem vegetal. \r\nConta com o reconhecido Programa Parcerias para um mundo melhor que além de unir todos os elos da cadeia produtiva, garante a rastreabilidade dos insumos vegetais utilizado em seus produtos, aliado ao compromisso socioambiental, vez que são produzidos dentro de critérios orgânicos ou manejos florestais, por agricultores familiares  de pequeno porte e cooperativas e associações extrativistas.\r\n\r\n",
+    "inventoriesId": [
+        2410,
+        59,
+        1998,
+        1818,
+        1603,
+        2761,
+        3322,
+        3510
+    ],
+    "logoId": "be53ebe9-cd9c-46ca-a3bc-fd98babc2faa",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

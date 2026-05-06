@@ -1,0 +1,30 @@
+{
+    "id": 8721,
+    "name": "CENTRAL AILOS",
+    "about": "Fundada em 2002, a Central Ailos é uma cooperativa de segundo grau que integra o Sistema Ailos, composto por 13 cooperativas singulares, uma Corretora de Seguros e a própria Central. Sua principal função é prestar serviços às cooperativas filiadas, oferecendo suporte estratégico, supervisão e soluções inovadoras. \nCom sede em Blumenau/SC, a Central Ailos conta com mais de 1.600 colaboradores, atuando para fortalecer o cooperativismo de crédito e impulsionar o desenvolvimento das cooperativas e das comunidades onde estão inseridas. ",
+    "inventoriesId": [
+        8595
+    ],
+    "logoId": "ffde9f71-7093-b051-c9fa-3a1a1fe6b70a",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

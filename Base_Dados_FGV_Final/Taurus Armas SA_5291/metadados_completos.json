@@ -1,0 +1,40 @@
+{
+    "id": 5291,
+    "name": "Taurus Armas S.A.",
+    "about": "A Taurus foi fundada em novembro de 1939 e, com 84 anos de história, é hoje uma empresa reconhecida pela qualidade de seus produtos, com sólidos resultados obtidos a partir de uma operação bem estruturada e moderna. A trajetória percorrida pela Taurus mostra uma história de força e vigor – representada pelo Touro, símbolo da empresa – que a levou a se tornar a maior vendedora de armas leves do mundo. Esse sucesso é conquistado através da formação de uma inteligência de mercado bem estruturada, focando no desenvolvimento de novos materiais e produtos, agindo com flexibilidade, agilidade e eficiência. Investimentos em tecnologia, inovação e desenvolvimento de pessoas otimizam a operação da empresa, que entrega resultados com alta produtividade, baixo custo e produtos com maior valor agregado, componentes essenciais para o resultado global da companhia e consequente remuneração aos investidores e acionistas.\nCiente de suas responsabilidades ambientais, a Taurus tem como premissa a constante busca de aperfeiçoamento do sistema de gestão ambiental, contando com uma equipe capacitada e dedicada às questões ambientais que atua na gestão ambiental de todos os processos existentes na unidade de São Leopoldo (RS), além de garantir a aplicação de\nboas práticas ambientais de novos projetos. A Taurus está empenhada na implementação de ações que minimizam os impactos ambientais, como, por exemplo, atuando na conscientização junto aos seus colaboradores e em novos projetos nas áreas de resíduos, energia e gestão de efluentes. O investimento em novas tecnologias e inovação\nde processos favorece a redução na geração de resíduos, menor consumo de energia e menos utilização de recursos hídricos, itens primordiais na avaliação da empresa.\nA Taurus entende que, para traçar metas visando a redução de emissões de gases de efeito estufa (GEE), primeiramente é necessário o mapeamento das principais emissões existentes em seu processo produtivo. Desta forma, a empresa avaliou as principais fontes de contribuição na emissão de GEE considerando Escopo 1 (combustão estacionária e combustão móvel) e Escopo 2 (energia elétrica) e está iniciando as avaliações do Escopo 3 (emissões indiretas).",
+    "inventoriesId": [
+        6273,
+        7664,
+        8694
+    ],
+    "logoId": "b0fbc2e7-2146-4f6c-b89e-77ae0e1d377b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

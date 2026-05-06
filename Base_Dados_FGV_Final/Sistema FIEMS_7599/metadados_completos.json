@@ -1,0 +1,35 @@
+{
+    "id": 7599,
+    "name": "Sistema FIEMS",
+    "about": "A Federação das Indústrias do Estado de Mato Grosso do Sul trabalha pelo ambiente favorável para o desenvolvimento do setor industrial do Estado, com ações que vão desde articulações políticas para melhorar o ambiente de negócios e garantir segurança jurídica aos investimentos, passando por qualidade de vida e educação do trabalhador e de seus dependentes, além do estímulo à inovação.",
+    "inventoriesId": [
+        7360,
+        8814
+    ],
+    "logoId": "44f635e3-c540-3e5c-e791-3a1b44d0a0e9",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,85 @@
+{
+    "id": 1073,
+    "name": "Wilson Sons",
+    "about": "Uma das maiores operadoras de serviços portuários, marítimos e logísticos do Brasil, a Wilson Sons iniciou suas atividades em 1837, em Salvador, Bahia. Nesses mais de 186 anos de existência, a Companhia se estabeleceu como renomada prestadora de serviços pela competente gestão de seus negócios nos segmentos de terminais portuários, rebocagem portuária e oceânica, apoio marítimo a operações offshore, logística, agenciamento marítimo e indústria naval.\n\nSistema Portuário e Logístico\n\nÉ representado pela Wilson Sons Terminais e Wilson Sons Logística. A Wilson Sons Terminais opera dois dos principais terminais de contêineres brasileiros e e as Bases de Apoio Offshore, especializadas no apoio logístico à indústria de óleo e gás., da qual a Companhia passou a ser a única proprietária em 2010.\n\nJá a Wilson Sons Logística, atua em todas as etapas da logística da cadeia de suprimentos. Seus serviços envolvem armazenagem, movimentação interna, distribuição e transporte multimodal, por meio de soluções flexíveis e personalizadas.\n\nSistema Marítimo\n\nReúne a frota de rebocadores da Wilson Sons, o estaleiro e os serviços de agenciamento marítimo. Também faz parte do sistema marítimo da Companhia a joint venture Wilson Sons Ultratug Offshore, cujas embarcações oferecem apoio para plataformas de exploração e produção de petróleo e gás\n",
+    "inventoriesId": [
+        2720,
+        1770,
+        2937,
+        3272,
+        3707,
+        4035,
+        4366,
+        4563,
+        5519,
+        6365,
+        7484,
+        8324
+    ],
+    "logoId": "37044c61-ce85-4d10-8dad-c199f992d190",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

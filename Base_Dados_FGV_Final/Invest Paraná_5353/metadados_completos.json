@@ -1,0 +1,35 @@
+{
+    "id": 5353,
+    "name": "Invest Paraná ",
+    "about": "A Invest Paraná é a agência de atração e promoção de investimentos do Governo do Estado do Paraná, sendo um importante instrumento de apoio às empresas locais e novos investimentos. \r\n\r\nA agência atua como uma ponte entre os setores público e privado: ao prospectar investimentos e promover negócios, ajuda a gerar empregos e elevar a renda. A Invest Paraná também trabalha com iniciativas de desenvolvimento sustentável, na forma de programas especiais voltados à otimização dos recursos energéticos, fortalecimento das cadeias de valor regionais e modernização tecnológica. \r\n\r\nA nível internacional, atua na promoção de missões internacionais, representação qualificada junto a instituições financeiras e articulação com diversos parceiros como órgãos governamentais, terceiro setor e grandes indústrias. ",
+    "inventoriesId": [
+        6722,
+        6413
+    ],
+    "logoId": "4fe19674-6b79-41db-a33d-3dfb93306082",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

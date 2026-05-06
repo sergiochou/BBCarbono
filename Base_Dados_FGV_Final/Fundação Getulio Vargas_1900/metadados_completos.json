@@ -1,0 +1,95 @@
+{
+    "id": 1900,
+    "name": "Fundação Getulio Vargas",
+    "about": "A Fundação Getulio Vargas surgiu em 20 de dezembro de 1944. Seu objetivo inicial era preparar pessoal qualificado para a administração pública e privada do País. Antevendo a chegada de um novo tempo, a FGV decidiu expandir seu foco de atuação e, do campo restrito da administração, passou ao mais amplo das ciências sociais e econômicas. A instituição extrapolou as fronteiras do ensino e avançou pelas áreas da pesquisa e da informação, até converter-se em sinônimo de centro de qualidade e de excelência.\r\nA FGV oferece cursos de graduação, educação continuada, executiva, especialização, MBA, mestrado e doutorado — presenciais ou a distância. A Fundação também conta com uma rede de conveniadas em todo o país e mantém parcerias com tradicionais instituições de ensino superior estrangeiras, como Harvard e Sorbonne. \r\nA atuação da FGV no estudo, análise e elaboração de políticas públicas faz com que ela seja um reconhecido think tank, contribuindo para a inserção do Brasil no cenário internacional. Por quatro anos seguidos, a FGV foi considerada um dos 30 melhores think tanks do planeta pelo programa de Relações Internacionais da Universidade da Pensilvânia, e por dois anos consecutivos a edição internacional do The New York Times colocou a FGV entre as 100 instituições de ensino superior que formam os profissionais preferidos por empresários do mundo todo.",
+    "inventoriesId": [
+        332,
+        101,
+        1767,
+        2264,
+        2743,
+        3182,
+        3447,
+        3790,
+        4134,
+        4502,
+        5767,
+        6174,
+        6882,
+        9299
+    ],
+    "logoId": "b1f22a15-5423-4c8a-978b-c160fdf7e631",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

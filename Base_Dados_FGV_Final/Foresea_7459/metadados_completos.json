@@ -1,0 +1,35 @@
+{
+    "id": 7459,
+    "name": "Foresea",
+    "about": "Uma empresa focada em oferecer soluções em Perfuração Offshore, com expertise e excelência em afretamento e operação de sondas para águas ultraprofundas.\nCom experiência, tecnologia de última geração e compromisso com a segurança e a sustentabilidade, estamos sempre inovando ao afretar e operar plataformas e navios em escala global.\n\nhttps://www.foresea.com/",
+    "inventoriesId": [
+        7174,
+        8603
+    ],
+    "logoId": "aae4daee-b289-537b-6fa3-3a12d6c07049",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

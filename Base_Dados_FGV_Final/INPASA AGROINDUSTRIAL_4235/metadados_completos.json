@@ -1,0 +1,45 @@
+{
+    "id": 4235,
+    "name": "INPASA AGROINDUSTRIAL",
+    "about": "A Inpasa Brasil é uma biorrefinaria de grãos especializada na produção de biocombustíveis (etanol e biodiesel), DDGS (Dried Distillers Grains with Solubles) e óleo vegetal. No Brasil, nossas operações industriais estão localizadas em Sinop (MT), Nova Mutum (MT), Dourados (MS), Sidrolândia (MS) e Balsas (MA), contando com escritório em São Paulo. Utilizamos matérias-primas renováveis, geramos e consumimos energia limpa e oferecemos produtos que impulsionam a transição para uma economia de baixo carbono, contribuindo para o cumprimento das metas nacionais e internacionais de descarbonização.\n\nPara saber mais, acesse nosso site: Inpasa Brasil : https://www.inpasa.com.br/",
+    "inventoriesId": [
+        5595,
+        6047,
+        7175,
+        8037
+    ],
+    "logoId": "c50fee7d-c73a-4682-9529-f870e0eba7af",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

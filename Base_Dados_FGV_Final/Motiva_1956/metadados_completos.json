@@ -1,0 +1,85 @@
+{
+    "id": 1956,
+    "name": "Motiva",
+    "about": "A Motiva,  maior empresa de infraestrutura de mobilidade do Brasil, atua nas plataformas de Rodovias, Trilhos e Aeroportos. São 39 ativos, em 13 estados brasileiros e 16 mil colaboradores. A Companhia é responsável pela gestão e manutenção de 4.475 quilômetros de rodovias, realizando cerca de 3,6 mil atendimentos diariamente. Em Trilhos, por meio da gestão de metrôs, trens e VLT, transporta anualmente 750 milhões de passageiros. Em Aeroportos, com 17 unidades no Brasil e três no exterior, atende aproximadamente 45 milhões de clientes anualmente. Foi a primeira empresa a abrir capital no Novo Mercado da B3 e compõe há 14 anos o hall de sustentabilidade da B3. Mais em: www.motiva.com.br.",
+    "inventoriesId": [
+        2412,
+        1772,
+        444,
+        2778,
+        3241,
+        3563,
+        3863,
+        4171,
+        4647,
+        6167,
+        7413,
+        8531
+    ],
+    "logoId": "8814b013-1ecb-f309-d100-3a19b8dfb648",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

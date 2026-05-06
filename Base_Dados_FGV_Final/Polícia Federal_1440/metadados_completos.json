@@ -1,0 +1,85 @@
+{
+    "id": 1440,
+    "name": "Polícia Federal",
+    "about": "\r\nA MISSÃO DA POLÍCIA FEDERAL foi assim declarada: “Exercer as atribuições de polícia judiciária e administrativa da União, a fim de contribuir na manutenção da lei e da ordem, preservando o estado democrático de direito.”",
+    "inventoriesId": [
+        100,
+        2722,
+        2130,
+        1584,
+        1550,
+        1531,
+        569,
+        3082,
+        3368,
+        3460,
+        4094,
+        4474
+    ],
+    "logoId": "381f87e8-a3ef-4cc9-bd81-d5195b7ee644",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

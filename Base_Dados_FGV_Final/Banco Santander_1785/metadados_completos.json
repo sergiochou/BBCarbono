@@ -1,0 +1,105 @@
+{
+    "id": 1785,
+    "name": "Banco Santander",
+    "about": "Somos o Santander Brasil, a unidade brasileira do Grupo Santander, o segundo maior conglomerado financeiro da zona do euro por capitalização relativa a bolsa de valores e um dos maiores do mundo, com mais de 160 anos de trajetória. Presentes no Brasil desde 1982, oferecemos uma ampla gama de produtos e serviços que fazem parte do cotidiano dos nossos 69,5 milhões de clientes.\n\nQueremos ser o banco principal dos nossos clientes, focando em conhecê-los e permitindo que transacionem conosco quando, como e onde quiserem. Tudo isso viabilizado por ofertas cada vez mais simples e por um atendimento altamente resolutivo em todos os canais. \nTemos uma atuação completa, que passa pelo banco de varejo, focado em serviços financeiros para pessoas físicas e empresas de pequeno, médio e grande porte, e pelo banco de atacado, responsável pelo atendimento a companhias globais e por operações no mercado de capitais. Contamos, ainda, com estruturas especializadas para atuar nas áreas de seguros, investimentos e meios de pagamento.\n\nNa área de sustentabilidade, temos uma jornada de mais de 20 anos de atuação, com um histórico de pioneirismo e liderança em temas como energias renováveis, análise de risco socioambiental e microcrédito produtivo e orientado. \nPara manter o negócio em movimento, temos uma equipe formada por 55 mil profissionais com as mais diversas origens, formações e repertórios.",
+    "inventoriesId": [
+        1542,
+        103,
+        2400,
+        1909,
+        1576,
+        612,
+        2938,
+        3259,
+        3477,
+        4086,
+        4391,
+        4828,
+        5430,
+        6448,
+        6870,
+        8315
+    ],
+    "logoId": "0dd2482e-d026-48c0-9450-36f4a34248f0",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

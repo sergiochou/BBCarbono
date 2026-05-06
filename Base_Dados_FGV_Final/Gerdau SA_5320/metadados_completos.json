@@ -1,0 +1,40 @@
+{
+    "id": 5320,
+    "name": "Gerdau SA",
+    "about": "A Gerdau é a maior empresa brasileira produtora de aço. Além disso, é a maior recicladora de sucata da América Latina e, no mundo, transforma, anualmente, cerca de 10 milhões de toneladas de sucata em aço, reforçando seu compromisso com o desenvolvimento sustentável das regiões onde atua. Também é a maior produtora mundial de carvão vegetal, utilizado como biorredutor na fabricação do ferro-gusa. Este biorredutor vem das florestas plantadas da Companhia, que possui mais de 230 mil hectares de florestas em Minas Gerais. Deste total, 90 mil hectares são destinados à conservação da biodiversidade.\n\nAs ações da Gerdau estão listadas nas bolsas de valores de São Paulo (B3) e Nova Iorque (NYSE).\n\nMais informações podem ser encontradas no site oficial da Companhia: http://www.gerdau.com.br.",
+    "inventoriesId": [
+        6350,
+        7034,
+        8346
+    ],
+    "logoId": "9c7a3cfd-2eec-47d4-8694-f79c4054c84f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

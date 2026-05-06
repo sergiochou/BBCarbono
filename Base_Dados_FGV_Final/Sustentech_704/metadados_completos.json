@@ -1,0 +1,30 @@
+{
+    "id": 704,
+    "name": "Sustentech",
+    "about": "A Sustentech é uma empresa de consultoria, projeto, implementação e gestão da sustentabilidade em empreendimentos novos ou já construídos:edifícios comerciais e seus interiores, edifícios residenciais, shoppings, hospitais, hotéis, bairros, parques, arenas esportivas, obras de infraestrutura, aeroportos, data centers, etc. \r\nFundada em 2008, já são mais de 200 projetos certificados ou em processo de certificação pelos selos LEED, AQUA e PROCEL EDIFICA.\r\nReferência em sustentabilidade na construção civil, a Sustentech não se limita à consultoria para certificações, trabalhando também em projetos integrados de sustentabilidade com grande foco na eficiência energética e uso racional da água. \r\nSão mais de 60 profissionais multidisciplinares em São Paulo e Rio de Janeiro, divididos em núcleos de atuação independentes, garantindo um serviço mais especializado e efetivamente direcionado às necessidades individuais dos seus clientes. \r\nA Sustentech está presente de forma efetiva em todo território nacional e exterior, sempre mantendo um padrão diferenciado de qualidade e pessoalidade.",
+    "inventoriesId": [
+        2640
+    ],
+    "logoId": "afe3e469-c668-4abd-9091-64194a03d0c1",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

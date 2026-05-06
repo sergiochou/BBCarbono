@@ -1,0 +1,45 @@
+{
+    "id": 4048,
+    "name": "Internav",
+    "about": "O desenvolvimento da atividade de apoio marítimo como suporte das operações oceânicas no segmento da exploração de petróleo e gás, se torna cada vez mais dependente do desenvolvimento do processo de gestão de pessoas da organização, alicerçado na melhoria contínua da sua capacidade de gerenciamento.\r\nO início das atividades da INTERNAV NAVEGAÇÃO LTDA se deu em 29 de maio de 2007 quando obteve o seu Contrato Social registrado no Cartório de Pessoas Jurídicas do Rio de Janeiro. Neste mesmo ano, em 09 de outubro, pela Resolução 887, recebeu a primeira autorização da ANTAQ para operação com embarcações de até 800 HP de potência nas atividades de Apoio Marítimo e Portuário, alterados pela resolução 1242, que autorizou a operação com embarcações de qualquer potência.\r\nNo ano de 2010, a Empresa segue a sua trajetória, ampliando a sua participação no mercado “off shore” e, para tanto, obtém da PETROBRAS o Certificado de Registro e Classificação Cadastral – CRCC com o objetivo de um primeiro contrato com a estatal, bem como inicia a construção de novas embarcações no Estaleiro INACE com o propósito de renovar a sua frota e atender às novas exigências do mercado em constante evolução.\r\nA INTERNAV desenvolve as atividades de operação de apoio marítimo e portuário para as unidades marítimas operando ao longo do litoral brasileiro e de gerenciamento e suporte a essas operações.\r\nA empresa dispõe de embarcações de apoio marítimo e portuário suportadas logisticamente a partir de bases operacionais em terra.\r\nEssas embarcações visam, principalmente, oferecer apoio às atividades de exploração e produção de petróleo e gás em águas territoriais brasileiras e apoio às atividades portuárias.",
+    "inventoriesId": [
+        5266,
+        5914,
+        7213,
+        8274
+    ],
+    "logoId": "08395d8d-2797-4535-a68b-1339bfd914fb",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

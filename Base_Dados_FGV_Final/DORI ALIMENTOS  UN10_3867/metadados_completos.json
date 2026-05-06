@@ -1,0 +1,45 @@
+{
+    "id": 3867,
+    "name": "DORI ALIMENTOS - UN10",
+    "about": "Na Dori | Ferrara, Ferrero, Fox’s Burton’s Companies e The Fine Biscuits Company, somos reconhecidos e amados por pessoas de todas as gerações pela alegria que compartilhamos com elas – uma alegria feita pelas nossas pessoas. Junte-se a nós e descubra um mundo cheio de possibilidades, onde sua paixão encontrará o seu lugar.\n \nA Dori | Ferrara é uma das maiores empresas de doces e snacks do Brasil! Há mais de seis décadas, com um time de mais de 3000 colaboradores, produzimos produtos que acompanham gerações e fazem parte da história e das lembranças de milhões de famílias, com marcas icônicas como Gomets®, Yogurte 100®, Pettiz® e Disqueti®.\n \nEm 2023, iniciamos um novo capítulo ao nos tornarmos parte da Ferrara Candy Company, líder número 1 em balas e gomas nos Estados Unidos, com marcas mundialmente conhecidas como NERDS®, Brach’s®, Jelly Belly®, SweeTARTS®, Laffy Taffy®, and Trolli®. E, na França, a Carambar & Co conquistou gerações de clientes fiéis graças ao apelo atemporal de marcas icônicas de doces e chocolates, como Carambar, Lutti, Krema, Poulain, Vichy e Terry’s.\n \nCom essa união, somos mais de 9.000 colaboradores e uma rede com mais de 30 unidades, garantindo nossa presença global.\n \nAcreditamos que espalhar alegria também passa por cuidar do mundo ao nosso redor. Por isso, nossa atuação sempre foi guiada pelos princípios ESG — um compromisso que atravessa todo o nosso processo produtivo e orienta nossas decisões.\n \nDesde 2021, somos signatários do Pacto Global da ONU, reforçando nosso alinhamento com os Objetivos de Desenvolvimento Sustentável e consolidando um plano de sustentabilidade robusto, integrado e de longo prazo. Essa jornada, iniciada em 2020 com a criação do nosso Comitê de Sustentabilidade, reflete nosso jeito de fazer diferente: com responsabilidade, propósito e paixão por um futuro melhor para todos.",
+    "inventoriesId": [
+        5168,
+        6299,
+        6908,
+        8372
+    ],
+    "logoId": "4ba51494-33ea-fbc0-a9b9-3a1fcb6fc57f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

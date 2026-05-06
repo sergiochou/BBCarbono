@@ -1,0 +1,40 @@
+{
+    "id": 4693,
+    "name": "Diatom",
+    "about": "O Grupo Diatom, é uma Multinacional Brasileira consolidado no mercado por mais de 68 anos e possuindo 3 unidades localizada no Brasil:\n- [Diatom (Matriz) - cidade de Mogi das Cruzes - SP\n- Diatom - cidade de Rio de Janeiro - RJ\n- Copasil - cidade de Indaiatuba, - SP\n\nFora do Brasil o Grupo Diatom está presente no México com a sua parceira denominada Diatom Química México e também presente nos Estados Unidos com uma unidade em construção com start-up previsto para o final de 2024. \n\nDevido a crescente preocupações sobre as mudanças climáticas e mitigação desse fenômeno, o Grupo Diatom orientou diversas atividades para garantir que sua produção atenda aos requisitos nacionais e internacionais referente às emissões de Gases de Efeito Estufa e a proteção ambiental, onde dentro essas atividades está sendo realizado um estudo que objetiva quantificar o sequestro de carbono das áreas florestais da Fazenda Boa-Vista, parceira do Grupo Diatom.\n\nO Grupo Diatom atua na produção de Silicatos de Metais Alcalinos (Sódio, Potássio e Lítio), Zeólitas Sintéticas, Silicoaluminatos Sintéticos e Dióxido de Silício Precipitado (Sílica Precipitada), atendendo vários segmentos de mercado como setor de construção civil, mineração, agricultura, indústria alimentícia, personal care, bebidas, fundição, exploração de petróleo, nutrição animal, tratamento de água e efluentes, detergentes, catalisadores, químicos, tintas e pigmentos, têxteis, papel e celulose, adesivos, fertilizantes, agroquímicos, cerâmica, cosméticos, produtos de limpeza, eletrodos, óleos e lubrificantes entre diversos outros produtos de grande relevância para a sociedade.\n\nDevido a crescente preocupação sobre as mudanças climáticas e a necessidade da mitigação desse fenômeno o Grupo Diatom orientou diversas atividades para garantir que a sua produção atenda aos requisitos nacionais e internacionais referentes às emissões de Gases do Efeito Estufa (GEE) e a proteção ambiental. Entre essas atividades está a quantificação do sequestro de carbono das áreas florestais das Fazendas Boa-Vista, que é uma empresa parceira do Grupo Diatom.\n",
+    "inventoriesId": [
+        5984,
+        7000,
+        8441
+    ],
+    "logoId": "ba5a5259-fe1c-4b7e-b625-e923793fd11b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

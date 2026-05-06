@@ -1,0 +1,30 @@
+{
+    "id": 8606,
+    "name": "Grupo Lago Azul ",
+    "about": "Fundado em 2000, o Grupo Lago Azul desenvolve soluções que englobam todas as fases do Licenciamento Ambiental, os processos e tratativas no âmbito do Gerenciamento de Stakeholders e serviços na área de Gestão e Tecnologia. Nossa forma de atuação sempre esteve pautada na particularidade de cada cliente e no respeito as relações comerciais, humanas e ambientais.\n\nGuiados pela excelência em gestão e inspirados pelo nosso propósito, nosso time soma know-how técnico a um DNA inovador, com o compromisso de proporcionar aos seus projetos mais segurança e qualidade.",
+    "inventoriesId": [
+        8316
+    ],
+    "logoId": "279b250f-37eb-f3d4-c5f1-3a1994dd2d5c",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

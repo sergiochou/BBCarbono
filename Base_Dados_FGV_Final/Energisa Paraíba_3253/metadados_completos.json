@@ -1,0 +1,30 @@
+{
+    "id": 3253,
+    "name": "Energisa Paraíba",
+    "about": null,
+    "inventoriesId": [
+        4753
+    ],
+    "logoId": "02e2e9f8-4b13-4da3-b700-116d8b5ed3b0",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 15,
+        "acronym": "PB",
+        "name": "Paraíba"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

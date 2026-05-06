@@ -1,0 +1,35 @@
+{
+    "id": 2324,
+    "name": "INSTITUTO AÇÃO VERDE",
+    "about": "O Instituto Ação Verde é uma OSCIP - Organização da Sociedade Civil de Interesse Público, que busca promover o equilíbrio entre o meio ambiente, o bem-estar social e a atividade produtiva primária de Mato Grosso, atuando no fomento, implementação e certificação de ações do setor produtivo. \r\nCombinando os pilares Educação e Ação, o Instituto Ação Verde vem promovendo a recuperação e a preservação de áreas degradadas, a conservação de recursos hídricos, arborização de espaços urbanos entre outros, contribuindo dessa maneira para o fortalecimento do processo de educação ambiental e a sua consolidação, enquanto política de Estado. \r\n",
+    "inventoriesId": [
+        2801,
+        3398
+    ],
+    "logoId": "4163b237-bdb5-44b2-afff-cd1621a3c29c",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

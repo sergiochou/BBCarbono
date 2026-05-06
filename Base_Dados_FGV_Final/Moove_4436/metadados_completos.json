@@ -1,0 +1,45 @@
+{
+    "id": 4436,
+    "name": "Moove",
+    "about": "Somos a Moove, nome fantasia da Cosan Lubrificantes e Especialidades S.A. Com origem brasileira e atuação internacional, somos uma das maiores produtoras e distribuidoras de lubrificantes e óleos básicos da América do Sul, também presente na Europa e Estados Unidos.\r\nEm nossa planta no Rio de Janeiro, produzimos e distribuímos lubrificantes sob a marca Mobil para todo o território nacional, além de Argentina, Uruguai, Paraguai e Bolívia. Focada em atender todas as demandas de mercado, comercializamos lubrificantes e graxas para aplicações no segmento automotivo (veículos leves, motocicletas, caminhões, ônibus e maquinários agrícolas) e industriais, liderando a aplicação de novas tecnologias, produtos sintéticos e garantindo a produtividade, eficiência e performance dos equipamentos nos principais segmentos da indústria.\r\n No Brasil, também somos a distribuidora autorizada dos óleos básicos importados da nossa parceira estratégica ExxonMobil (Grupos I e II) e de outros players relevantes da indústria como a ERGON . Atualmente, nos destacamos pelo nosso portfólio de lubrificantes premium e pelo posto de maior importadora de óleos básicos do País. Na Europa, distribuímos lubrificantes Mobil no Reino Unido, Espanha, Portugal e França e produzimos e comercializamos lubrificantes Comma Oil e de marcas próprias em mais de 40 países da Europa e da Ásia.\r\nAlinhado com as suas prioridades estratégicas, a Moove incorpora os pilares EESG (Economics, Environmental, Social and Governance) como parte das decisões do Negócio e junto ao Grupo Cosan assumiu compromissos públicos alinhados com os objetivos de desenvolvimento sustentável (ODS) da ONU, reforçando seu compromisso a Moove se tornou signatária do Pacto Global, título que solidifica sua estrutura de Governança e revisita os processos correlacionados aos pilares Social e Ambiental.  O nosso Planejamento Estratégico inclui compromissos publicamente assumidos na pauta EESG  e metas a serem perseguidas por ações devidamente estruturadas frente aos nossos temas materiais. Parte dessa evolução, chamada aqui de Jornada EESG, partiu da revisão da nossa materialidade e incluiu a definição (e comunicação) do seu Propósito: Mover pessoas e negócios do jeito certo para todos, sendo esta  a forma como perseguimos a nossa Visão de Ser referência global em lubrificantes.",
+    "inventoriesId": [
+        5690,
+        6223,
+        7717,
+        8594
+    ],
+    "logoId": "07aacc05-cc3a-b070-0156-3a19e23ff190",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

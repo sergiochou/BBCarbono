@@ -1,0 +1,30 @@
+{
+    "id": 8478,
+    "name": "BT LOGISTICA INTEGRADA LTDA",
+    "about": null,
+    "inventoriesId": [
+        8886
+    ],
+    "logoId": "b9b5e563-4fa1-f571-299e-3a192306605a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

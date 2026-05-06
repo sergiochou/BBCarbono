@@ -1,0 +1,45 @@
+{
+    "id": 4262,
+    "name": "ALPARGATAS S.A.",
+    "about": "A Alpargatas é a maior empresa de calçados brasileira com atuação global. Com mais de 115 anos de história, é dona da Havaianas, marca de estilo de vida, líder mundial em calçados abertos, e de 49,2% da Rothy’s, marca digital norte-americana de calçados sustentáveis. Além disso, é dona da Ioasys, empresa tech de inovação e transformação digital. A Alpargatas comercializa seus produtos em mais de 120 países e atua diretamente em mais de 20 países. Com um processo produtivo verticalizado, a Alpargatas possui quatro unidades fabris no Brasil e cerca de onze mil colaboradores em todo o mundo.",
+    "inventoriesId": [
+        5528,
+        6224,
+        6979,
+        8954
+    ],
+    "logoId": "8114982a-2631-4361-8b27-b6e08cb059da",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

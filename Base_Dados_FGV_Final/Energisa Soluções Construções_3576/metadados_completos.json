@@ -1,0 +1,30 @@
+{
+    "id": 3576,
+    "name": "Energisa Soluções Construções",
+    "about": null,
+    "inventoriesId": [
+        4692
+    ],
+    "logoId": "582752fe-018e-42e4-9cc9-9d36cf801667",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

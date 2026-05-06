@@ -1,0 +1,30 @@
+{
+    "id": 1667,
+    "name": "Supergasbras",
+    "about": "Fazemos parte da SHV Energy — líder mundial na distribuição de GLP — com mais de 100 anos de experiência no setor de energia. Somos uma das principais distribuidoras nacionais com mais de 75 anos de atuação.\nSomos conhecidos por distribuir o gás que alimenta mais de 10 milhões de famílias brasileiras até em lugares que nenhuma outra energia chega. Entregamos o conhecido “gás de cozinha” (botijão de 13 kg). Além disso, também fornecemos cilindros para empilhadeiras (20kg) e instalamos tanques de diversos tamanhos em indústrias, agronegócios, restaurantes, hotéis, shoppings, lavanderias, casas, condomínios e diversos outros estabelecimento.\nEm julho de 2004, a SHV Energy, que já detinha 100% da Minasgás e 49% da nossa companhia, adquiriu os 51% das ações restantes. Assim, foi criada a SHV Gas Brasil, que trouxe toda sua expertise para o Brasil e unificou as duas marcas mantendo o nome Supergasbras.  Em nosso time, contamos com mais de 4.000 colaboradores em 20 unidades, e mais de 40 depósitos espalhados pelo país, além de possuirmos o maior e mais moderno parque engarrafador da América Latina, em Caxias, no Rio de Janeiro.  O apoio do nosso time é essencial para comercializarmos, mensalmente, cerca de 140 mil toneladas de GLP (Gás LP). Tudo isso para atender, aproximadamente, 11 mil postos de revendas, 10 milhões de famílias brasileiras e mais de 50 mil clientes industriais e comerciais em todo o país.",
+    "inventoriesId": [
+        8841
+    ],
+    "logoId": "369f3da2-2881-3006-35d6-3a18b78a1928",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

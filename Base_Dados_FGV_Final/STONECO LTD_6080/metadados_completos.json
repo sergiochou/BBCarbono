@@ -1,0 +1,35 @@
+{
+    "id": 6080,
+    "name": "STONECO LTD.",
+    "about": "Nossa missão é atender, por meio de nossas soluções financeiras e de software, com o melhor atendimento do setor, os empreendedores brasileiros, focados em micro, pequenas e médias empresas (“MPMEs”), contribuindo para transformar seus sonhos em resultados.\nAcreditamos que fomos pioneiros em desafiar o status quo no Brasil, com o objetivo de fornecer serviços financeiros com preços mais justos aos varejistas. Em 2017, nos tornamos a primeira entidade não bancária a receber autorização do Banco Central para atuar como adquirente no modelo de instituição de pagamento. Além disso, desde 2018, somos o maior adquirente comercial independente do Brasil e o quarto maior player com base no volume total no Brasil em 2023, de acordo com a ABECS (Associação Brasileira das Empresas de Cartões de Crédito e Serviços).\nIniciamos nossa jornada prestando serviços de pagamento para clientes de pequenas e médias empresas (“SMBs”) e, ao acreditarmos que havíamos desenvolvido as capacidades para atender esse segmento de mercado, buscamos nos posicionar estrategicamente para expandir tanto para outras soluções quanto para outros segmentos de clientes. ",
+    "inventoriesId": [
+        7639,
+        8105
+    ],
+    "logoId": "bf6fa79e-e591-7ada-33a6-3a12002ace99",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,65 @@
+{
+    "id": 2671,
+    "name": "ENVISION INDUSTRIA DE PRODUTO ELETRONICO LTDA",
+    "about": "\n",
+    "inventoriesId": [
+        3639,
+        4079,
+        4473,
+        4530,
+        5687,
+        6130,
+        7846,
+        8465
+    ],
+    "logoId": "05976af5-185c-4b13-a230-d1103f6f9362",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

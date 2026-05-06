@@ -1,0 +1,416 @@
+[
+    {
+        "empresa_pasta": "Concais_9045",
+        "id_fgv": 9045,
+        "nome_oficial": "Concais ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras▶atividades▶de▶serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "CONCESSÃO METROVIÁRIA DO RIO DE JANEIRO SA_8125",
+        "id_fgv": 8125,
+        "nome_oficial": "CONCESSÃO METROVIÁRIA DO RIO DE JANEIRO S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 31517.101,
+                    "emissoes_escopo_2": 10048.82,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 41565.921,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Condomínio Edifício Residencial Porto di Nucci_2118",
+        "id_fgv": 2118,
+        "nome_oficial": "Condomínio Edifício Residencial Porto di Nucci",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 7.416,
+                    "emissoes_escopo_2": 0.335,
+                    "emissoes_escopo_3": 3.276,
+                    "total_emissoes": 11.027,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 1.205,
+                    "emissoes_escopo_2": 0.732,
+                    "emissoes_escopo_3": 4.914,
+                    "total_emissoes": 6.851,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CONFEDERAÇÃO BRASILEIRA DE VOLEIBOL_7721",
+        "id_fgv": 7721,
+        "nome_oficial": "CONFEDERAÇÃO BRASILEIRA DE VOLEIBOL",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 94.972,
+                    "emissoes_escopo_2": 16.909,
+                    "emissoes_escopo_3": 3327.962,
+                    "total_emissoes": 3439.843,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Artes,▶cultura,▶esporte▶e▶recreação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Constellation_7588",
+        "id_fgv": 7588,
+        "nome_oficial": "Constellation",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 15878.706,
+                    "emissoes_escopo_2": 21.072,
+                    "emissoes_escopo_3": 256777.901,
+                    "total_emissoes": 272677.679,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CONSTRUTORA BARBOSA MELLO SA_2621",
+        "id_fgv": 2621,
+        "nome_oficial": "CONSTRUTORA BARBOSA MELLO S.A.",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 34266.812,
+                    "emissoes_escopo_2": 46.05,
+                    "emissoes_escopo_3": 22492.04,
+                    "total_emissoes": 56804.902,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 49419.31,
+                    "emissoes_escopo_2": 61.15,
+                    "emissoes_escopo_3": 57988.533,
+                    "total_emissoes": 107468.993,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 45406.836,
+                    "emissoes_escopo_2": 106.093,
+                    "emissoes_escopo_3": 51623.72,
+                    "total_emissoes": 97136.649,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Construtora Camargo Correa_1450",
+        "id_fgv": 1450,
+        "nome_oficial": "Construtora Camargo Correa",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 263532.0,
+                    "emissoes_escopo_2": 4743.0,
+                    "emissoes_escopo_3": 360635.0,
+                    "total_emissoes": 628910.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 412722.21,
+                    "emissoes_escopo_2": 5491.25,
+                    "emissoes_escopo_3": 540700.68,
+                    "total_emissoes": 958914.14,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 300226.46,
+                    "emissoes_escopo_2": 862.61,
+                    "emissoes_escopo_3": 1633454.94,
+                    "total_emissoes": 1934544.01,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 85449.28,
+                    "emissoes_escopo_2": 20459.16,
+                    "emissoes_escopo_3": 977157.22,
+                    "total_emissoes": 1083065.66,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Consórcio Aterpa MMartins  EBATE_532",
+        "id_fgv": 532,
+        "nome_oficial": "Consórcio Aterpa MMartins - EBATE",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 12789.917,
+                    "emissoes_escopo_2": 16.903,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12806.82,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Consórcio Construtor CR Almeida  Santa Bárbara_509",
+        "id_fgv": 509,
+        "nome_oficial": "Consórcio Construtor CR Almeida - Santa Bárbara",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 300.59,
+                    "emissoes_escopo_2": 13.377,
+                    "emissoes_escopo_3": 2127.301,
+                    "total_emissoes": 2441.268,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 3734.586,
+                    "emissoes_escopo_2": 64.663,
+                    "emissoes_escopo_3": 119593.742,
+                    "total_emissoes": 123392.991,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto Águas do Pantanal",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2013",
+                "Inventário 2013 - Consórcio Construtor CR Almeida - Santa Bárbara",
+                "Consorcio Construtor CR Almeida - Santa Barbara",
+                "Nome fantasia: Consórcio Construtor CR Almeida - Santa Bárbara",
+                "CNPJ: 16.672.142/0001-35",
+                "Setor econômico: Construção",
+                "Subsetor: Construção",
+                "Endereço: Rua Presidente Arthur Bernardes - 630 - - Ipase - Várzea Grande - MT - 78.125-"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Consórcio Machadinho_2677",
+        "id_fgv": 2677,
+        "nome_oficial": "Consórcio Machadinho ",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 12.19,
+                    "emissoes_escopo_2": 0.155,
+                    "emissoes_escopo_3": 88.543,
+                    "total_emissoes": 100.888,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 965.58,
+                    "emissoes_escopo_2": 181.986,
+                    "emissoes_escopo_3": 81.981,
+                    "total_emissoes": 1229.547,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1806.477,
+                    "emissoes_escopo_2": 1.53,
+                    "emissoes_escopo_3": 89.28,
+                    "total_emissoes": 1897.287,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1233.64,
+                    "emissoes_escopo_2": 727.88,
+                    "emissoes_escopo_3": 67.32,
+                    "total_emissoes": 2028.84,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 4.466,
+                    "emissoes_escopo_2": 61.57,
+                    "emissoes_escopo_3": 70.509,
+                    "total_emissoes": 136.545,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3.938,
+                    "emissoes_escopo_2": 0.187,
+                    "emissoes_escopo_3": 3.1,
+                    "total_emissoes": 7.225,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 8.286,
+                    "emissoes_escopo_2": 0.304,
+                    "emissoes_escopo_3": 166.124,
+                    "total_emissoes": 174.714,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2045,
+                "descricao": "efiniu como ambição se tornar Net Zero em 2045, abrangendo toda cadeia de valor, com metas intermediárias definidas (2025 e 20"
+            },
+            "status": "sucesso"
+        }
+    }
+]

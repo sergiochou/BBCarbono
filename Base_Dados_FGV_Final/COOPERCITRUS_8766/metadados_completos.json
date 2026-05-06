@@ -1,0 +1,30 @@
+{
+    "id": 8766,
+    "name": "COOPERCITRUS",
+    "about": "A COPERCITRUS – Cooperativa de Produtores Rurais iniciou sua trajetória em 14 de maio de 1976, no Ginásio de Esportes do Bebedouro Clube, em Bebedouro, SP. Na época, denominava-se Cooperativa dos Cafeicultores e Citricultores de São Paulo – Coopercitrus, originando-se da fusão das cooperativas CAPDO e CAPEZOBE. Em 1983, foi responsável pela fundação da Cooperativa de Crédito CREDICITRUS e, em 1986, pela criação da Revista Agropecuária, veículo técnico voltado ao setor.\nNo ano de 2000, realizou-se a 1ª edição da FEACOOP (Feira de Agronegócios Coopercitrus), principal evento anual da cooperativa, promovido na Estação Experimental de Bebedouro, SP. A feira integra os diversos serviços oferecidos pela instituição e seus parceiros, apresentando inovações tecnológicas do setor agrícola, além de comercializar produtos com condições diferenciadas de preço e pagamento. Com a participação de 160 expositores, a FEACOOP disponibiliza insumos, máquinas e implementos agrícolas, soluções em agricultura de precisão, irrigação, armazenagem de grãos, fornecimento de óleo diesel, além de itens do Shopping Rural. O evento recebe anualmente cerca de 20 mil produtores rurais, com edições regulares. Destaca-se a 23ª edição, realizada em 2022, que marcou a história da cooperativa ao atingir o recorde de R$ 2 bilhões em faturamento.\nAtualmente, é reconhecida como uma das maiores cooperativas do país na comercialização de insumos, máquinas e implementos agrícolas. Com mais de 60 filiais, suporte técnico especializado e infraestrutura de atendimento para diversas culturas nos estados de São Paulo, Minas Gerais e Goiás, a cooperativa conta com uma base de mais de 40 mil associados agropecuaristas.\nA sede administrativa da Coopercitrus está situada na Avenida Quito Stamato, nº 530, Bloco 3, Jardim São João, CEP 14700-440, Bebedouro/SP. A cooperativa, inscrita no CNPJ sob o nº 45.236.791/0001-91, possui 185 unidades de negócios distribuídas em 70 municípios nos estados de São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul.\n",
+    "inventoriesId": [
+        8631
+    ],
+    "logoId": "014d36fe-a5de-a145-13f7-3a19e2e99b3e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 2534,
+    "name": "SEBRAE MT ",
+    "about": "O Sebrae MT é uma entidade civil sem fins lucrativos, criada pela Lei Nº 8.029, de 12 de abril de 1990, regulamentada pelo Decreto Nº 99.570, de 9 de outubro de 1990, posteriormente, alterada, pela Lei Nº 8.154, de 28 de dezembro de 1990. Teve seu estatuto publicado no Diário Oficial do Estado de Mato Grosso no dia 27 de dezembro de 1990, possui sua sede em Cuiabá e apoia as pequenas empresas de todo o estado por intermédio de suas agências e postos de atendimento.  \r\n\r\nNossa missão \r\nSer uma instituição de desenvolvimento, ética e justa, gerando alternativa de soluções, alinhadas à sustentabilidade da vida, para a competitividade de nossos clientes. \r\n\r\nVisão\r\nSer uma instituição de vanguarda na busca da competitividade internacional de nossos clientes.\r\n\r\nValores\r\n•\tInovação;\r\n•\tConhecimento;\r\n•\tResultados para os clientes;\r\n•\tSustentabilidade da vida;\r\n•\tValorização da cultura do Mato Grosso;\r\n•\tCredibilidade e,\r\n•\tTransparência\r\n\r\nO SEBRAE MT conta com diferentes unidades para o atendimento aos empreendedores. Os postos de atendimento e agências têm seus públicos-alvo determinados nas diferentes regiões do Estado do Mato Grosso, que conta com 141 municípios. Além da sede, Centro Sebrae de Sustentabilidade, postos de atendimento e agências, há também o Centro de Eventos do Pantanal. \r\n\r\nO Sebrae MT, desde sua criação, busca orientar e capacitar os empresários de pequenos negócios a obterem as condições necessárias para crescer e acompanhar o ritmo da economia aberta e competitiva mato-grossense.\r\nA estratégia do Sebrae MT é definida a partir da revisão e análise do mapa estratégico e das diretrizes do planejamento anual emanadas pelo Sebrae Nacional. É considerada nessa análise o público-alvo a ser atendido e o número de empresas existentes no estado e região. São definidas as prioridades locais que indicam o foco de atuação do Sebrae MT no estado, nas regiões, nos setores que serão atendidos e na segmentação dos clientes. \r\nSão prioridades estratégicas do Sebrae MT: \r\n-Estimular o aumento da competitividade dos pequenos negócios de forma sustentável;\r\n-Promover a competitividade dos pequenos negócios priorizando os segmentos representativos com ênfase em gestão, mercado, inovação e sustentabilidade;\r\n-Implementar canais e modelos de atendimento remoto e de relacionamento, de forma segmentada;  \r\n-Articular e estabelecer parcerias com o poder público federal, estadual e municipal para viabilizar a institucionalização da Lei Geral e o desenvolvimento local;\r\n-Buscar e implementar a excelência em gestão, por meio de práticas empresariais sustentáveis com a otimização de processos internos,  gestão do conhecimento e a  valorização de seus colaboradores.\r\n-Prospectar fontes de captação de recursos e oportunidades de negócios com empresas e instituições nacionais e internacionais visando o desenvolvimento gerencial, tecnológico e econômico dos pequenos negócios e do SEBRAE/MT.\r\n\r\n",
+    "inventoriesId": [
+        3307
+    ],
+    "logoId": "cf8016f9-38ae-4f62-a70f-c4f960d1da78",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

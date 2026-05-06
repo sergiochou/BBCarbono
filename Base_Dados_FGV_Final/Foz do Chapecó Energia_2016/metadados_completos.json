@@ -1,0 +1,45 @@
+{
+    "id": 2016,
+    "name": "Foz do Chapecó Energia",
+    "about": "A Foz do Chapecó Energia é a empresa detentora da concessão da usina hidrelétrica Foz do Chapecó. Foi a empresa responsável também pela implantação do empreendimento e é quem a administra e opera. A Foz do Chapecó possui como acionistas a CPFL (51%), Furnas (41%) e a CEEE (9%). A hidrelétrica está localizada no rio Uruguai, entre os municípios de Águas de Chapecó, em Santa Catarina, e Alpestre, no Rio Grande do Sul. Com quatro unidades geradoras, a usina tem uma potência instalada de 855 megawatts, capacidade que equivale a 28% do consumo de energia do estado catarinense ou 27% do consumo do estado gaúcho. A usina começou a operar em outubro de 2010 e, nos mais de 10 anos de operação, sempre atuou respeitando o meio ambiente, proporcionando um ambiente seguro e saudável aos seus colaboradores, com canais abertos com a comunidade e agindo com respeito, ética e transparência. Todos os detalhes sobre a Foz do Chapecó Energia estão no www.fozdochapeco.com.br",
+    "inventoriesId": [
+        5290,
+        6111,
+        7037,
+        7954
+    ],
+    "logoId": "bfc1d1cf-27ad-4c4a-8ce7-a8a5cd6d5220",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

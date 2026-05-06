@@ -1,0 +1,35 @@
+{
+    "id": 923,
+    "name": "Positivo",
+    "about": "Presente em mais de 40 países , o Positivo  tem na educação sua origem e seu principal foco de atuação. No Brasil, aproximadamente nove mil colaboradores  trabalham no desenvolvimento de produtos e serviços que impactam diretamente cerca de 1 milhão de estudantes de escolas públicas e privadas em todo o País. Sediada em Curitiba , capital do Paraná, a organização possui operações em 26 estados brasileiros e no Distrito Federal , e conta com unidades de negócios em cinco segmentos de mercado: Ensino, Soluções Educacionais, Gráfica, Cultura e Tecnologia. \r\n",
+    "inventoriesId": [
+        2320,
+        2877
+    ],
+    "logoId": "766603ac-3594-4f78-87a4-765641b67898",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

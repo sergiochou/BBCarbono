@@ -1,0 +1,30 @@
+{
+    "id": 8148,
+    "name": "Adonai Química",
+    "about": "A Adonai Química é uma empresa de capital nacional que atua no armazenamento de granéis líquidos de diversos tipos, tais como, produtos químicos em geral, óleos vegetais, combustíveis, corrosivos, entre outros.",
+    "inventoriesId": [
+        8395
+    ],
+    "logoId": "95336f0c-0e4c-59fd-2e3f-3a143a13692f",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,95 @@
+{
+    "id": 787,
+    "name": "Hospital Sírio-Libanês",
+    "about": "O Sírio-Libanês é um centro de referência internacional em saúde. Por meio de suas unidades de atendimento, e também por seus esforços de responsabilidade social, ensino e pesquisa, ajuda um número cada vez maior de brasileiros a ter uma vida melhor e mais saudável. Isso inclui os mais de 120 mil pacientes atendidos anualmente em suas instalações e também cidadãos que se beneficiam da cooperação público-privada, dos projetos de apoio ao Sistema Único de Saúde (SUS) e do conhecimento médico disseminado em seus programas de formação. \n\nA humanização do atendimento, o pioneirismo e a excelência são as bases da atuação do Sírio-Libanês e fazem parte de sua origem. \n\nA instituição surgiu em 1921, quando um grupo de imigrantes da comunidade sírio-libanesa no Brasil se reuniu com o objetivo de criar um projeto que retribuísse a acolhida calorosa que receberam no país. Foi criada então a Sociedade Beneficente de Senhoras, entidade filantrópica até hoje mantenedora da instituição.\n\n",
+    "inventoriesId": [
+        2721,
+        2213,
+        24,
+        544,
+        2989,
+        3304,
+        3616,
+        3963,
+        4143,
+        4581,
+        5542,
+        6634,
+        6940,
+        8095
+    ],
+    "logoId": "734688df-0243-8de8-ec3f-3a131f2b1266",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

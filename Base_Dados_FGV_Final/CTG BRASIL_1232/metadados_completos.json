@@ -1,0 +1,70 @@
+{
+    "id": 1232,
+    "name": "CTG BRASIL",
+    "about": "A China Three Gorges Brasil Energia S.A. (CTG Brasil) foi instituída em 2013 face à estratégia de expansão da China Three Gorges Corporation. Em 12 anos de atuação no mercado brasileiro, a CTG Brasil se consolidou como uma das líderes em geração de energia limpa no País visando crescimento em longo prazo.  A solidez de atuação tem como base as diretrizes da matriz chinesa, referenciada como uma das maiores geradoras de energia renovável do mundo, presente em mais de 40 países, em quatro continentes, Ásia, África, Europa e América.\n\nA CTG Brasil responde pela operação de 12 usinas hidrelétricas (UHEs) e duas pequenas centrais hidrelétricas (PCHs), através da gestão de quatro empresas operacionais controladas: Rio Paraná, Rio Paranapanema, Rio Canoas e Rio Verde. Possui 02 escritórios corporativos, localizados em São Paulo/SP e em Curitiba/PR. Possui ainda, participação acionária em três usinas hidrelétricas e em cinco grupos de usinas eólicas no Brasil.\n\nCom dimensão global e atuação local, a CTG Brasil é composta por um time de profissionais multiculturais, cujas expertises em energia limpa e renovável se complementam, fomentando a descarbonização de setores econômicos ainda dependentes de combustíveis fósseis. \n\nO reconhecimento da qualidade do modelo de gestão adotado pela Companhia resultou na recertificação das normas ISO 9001, ISO 14001, ISO 45001, ISO 55001 nas áreas de Operação, Manutenção, Administração e Comercialização de Energia.\n\nMais detalhes sobre a CTG Brasil estão disponíveis no Relatório Anual de Sustentabilidade 2024: https://www.ctgbr.com.br/relatorioanual2024/\n\nConheça a nossa história: https://www.youtube.com/watch?v=NhIUVxCz4jg\n",
+    "inventoriesId": [
+        2354,
+        1842,
+        2782,
+        4268,
+        4562,
+        5046,
+        6287,
+        7383,
+        8642
+    ],
+    "logoId": "dff3095b-7954-5764-eaf8-3a1a010885d5",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

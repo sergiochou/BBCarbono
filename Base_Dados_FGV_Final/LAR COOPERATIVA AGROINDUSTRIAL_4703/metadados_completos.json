@@ -1,0 +1,40 @@
+{
+    "id": 4703,
+    "name": "LAR COOPERATIVA AGROINDUSTRIAL",
+    "about": "Fundada em 19 de março de 1964 por 55 agricultores pioneiros da chamada Gleba dos Bispos, hoje município de Missal-PR, a então Cooperativa Mista Agrícola Sipal Ltda. COMASIL, iniciou suas atividades oferecendo apoio econômico e social aos produtores. O interesse foi crescendo, em 1968 implantou um pequeno complexo agroindustrial do tipo colonial, desativando-o em 1971 por força da política econômica adotada pelo Governo. Em 1972 transferiu sua administração para Medianeira-PR, mudando sua razão social para Cooperativa Agropecuária Três Fronteiras Ltda - Cotrefal, dando início a um período de expansão física, aumentando a capacidade armazenadora e de atendimento, crescimento promovido pela mecanização agrícola. \nEm 1981 ingressou na agroindustrialização, implantando a indústria de processamento de soja e em 1994 inaugurou, em Missal a unidade Industrial de Fécula de Mandioca. A partir de 1991 a Lar fomentou ações de modernização administrativa e tecnológica e promoveu programas de eficácia e concursos de produtividade e rentabilidade entre seus associados estimulando o espírito de competitividade na busca do aumento da produção e da renda. \nApós uma detalhada análise retroativa de seu desempenho econômico, em 1995 foi implantado o projeto de verticalização das propriedades dos associados e da Cooperativa, visando mudanças estruturais e econômicas que promovesse a profissionalização dos associados e de seus serviços, com estudos de três novos projetos industriais na área de modificados de fécula de mandioca, Unidade Industrial de aves e vegetais congelados, objetivando oferecer novas opções econômicas aos associados. A organização do quadro social envolve toda a família do associado através do trabalho com o produtor, a esposa e seus filhos jovens a partir de 14 anos. \nAtualmente, a Lar Cooperativa Agroindustrial possui atuação principal na comercialização de insumos agrícolas, no beneficiamento e comercialização de grãos: milho, trigo e soja; na cadeia de produção animal para frango de corte e suínos, abate e industrialização de aves, supermercados, postos de combustíveis, unidades de atendimento ao associado, Lar Máquinas, Lar Credi e Lar Transportes. Além disso, 24 unidades de grãos no Paraguai. Em 2024, obteve uma receita líquida de 20,3 bilhões de reais, contando com 14.156 associados e 24.390 funcionários.\n\n",
+    "inventoriesId": [
+        6171,
+        7220,
+        8496
+    ],
+    "logoId": "88b81bed-eefb-4a91-8550-723c4614e74e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

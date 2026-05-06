@@ -1,0 +1,30 @@
+{
+    "id": 63,
+    "name": "Thomson Multimídia",
+    "about": null,
+    "inventoriesId": [
+        1745
+    ],
+    "logoId": "bf2966ca-3ef7-4a6d-803d-2e18a0353188",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

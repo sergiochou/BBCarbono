@@ -1,0 +1,40 @@
+{
+    "id": 4717,
+    "name": "HYDRO ALUNORTE",
+    "about": null,
+    "inventoriesId": [
+        5996,
+        7676,
+        8974
+    ],
+    "logoId": "d94ce920-fdd8-ff05-ab2b-3a132087b74d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

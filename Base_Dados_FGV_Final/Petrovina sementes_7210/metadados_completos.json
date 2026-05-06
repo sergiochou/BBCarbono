@@ -1,0 +1,35 @@
+{
+    "id": 7210,
+    "name": "Petrovina sementes",
+    "about": "Pensando na qualidade das lavouras e no melhor resultado para o agricultor, nós da Petrovina Sementes estamos sempre em busca de novas tecnologias e de informações, trazendo para o produtor mais produtividade, desenvolvimento, sustentabilidade e informação sobre o mercado e principalmente sobre o seu negócio. Muito além da produção de uma semente de soja mais produtiva e de outras culturas com qualidade, cuidamos para levar ao campo o melhor resultado em vigor para a plantação. Cuidamos da produção, armazenamento, do transporte, do plantio, colheita e até da comercialização do grão, sempre bem de perto de produtor. Buscamos sempre as melhores inovações para auxiliar o produtor no campo e fazer com que seja o melhor e seja o primeiro.",
+    "inventoriesId": [
+        7158,
+        8830
+    ],
+    "logoId": "73bd81f8-b498-dfc2-0327-3a126536cff3",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6079,
+    "name": "Forship",
+    "about": "O Grupo Forship oferece soluções e serviços de engenharia para ativos industriais dos setores de Óleo & Gás, Petroquímico, Naval, Energia, Mineração, Infraestrutura, Agroindústria, Biocombustível e Papel & Celulose.\nDe origem Brasileira, o Grupo conta com subsidiárias estrategicamente situadas na África e Ásia, o que permite que atenda a clientes globais e execute projetos nos cinco continentes.\nO Grupo Forship destaca-se também pelo desenvolvimento e implantação de métodos e ferramentas tecnológicas de ponta, como o HMSWeb, plataforma de TI que aprimora a capacidade de gestão e execução de todas as atividades envolvidas nos processos de qualidade, completação mecânica e comissionamento. \nCom um portfólio diversificado, a Forship oferece uma ampla gama de serviços:\n• Comissionamento\n• Operação & Manutenção\n• Consultoria\n• Construção & Montagem\n• Conformidade Regulatória Brasileira\n• Licenciamento HMSWeb\nUm dos diferenciais da Forship é sua equipe altamente capacitada e sistematicamente treinada, apta a fornecer suporte  integral em todas as fases de um empreendimento industrial. Com o respaldo desse capital humano, ao longo de vinte anos a empresa atuou em mais de 300 projetos e 200 plantas industriais.\nO comprometimento com a satisfação do cliente, com o bem-estar de seus colaboradores e a busca contínua pelo aprimoramento de seus resultados estão expressos na aplicação de uma rigorosa Política de Qualidade e SMS, garantindo à empresa um padrão de excelência na execução de seus serviços.\nO desenvolvimento dos serviços e produtos do Grupo Forship é baseado nos requisitos do seu Sistema de Gestão Integrado, à luz da ISO 9001, ISO 14001 e ISO 45001, e em metodologia própria de gestão de projetos, seguindo as diretrizes do PMI – Project Management Institute.\nO sucesso do Grupo é atestado pelo reconhecimento de mais de 50 clientes – nacionais e internacionais – que contam com o empenho e o comprometimento da empresa em oferecer os melhores recursos e soluções inovadoras e eficientes em engenharia. \n",
+    "inventoriesId": [
+        7800,
+        8758
+    ],
+    "logoId": "54c6f921-58f1-1690-4daa-3a11ff74222e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

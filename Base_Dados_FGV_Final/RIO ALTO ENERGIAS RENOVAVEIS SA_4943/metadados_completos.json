@@ -1,0 +1,40 @@
+{
+    "id": 4943,
+    "name": "RIO ALTO ENERGIAS RENOVAVEIS S/A",
+    "about": "Fundada em 2009, a Rio Alto é uma empresa independente especialista em geração de energia renovável com foco em usinas fotovoltaicas (solar).\n\nNossos projetos estão localizados na melhor irradiação do Brasil, com excelentes conexões com a rede elétrica nacional, despachando energia que geramos para todo país.\n\nDesenvolvemos o nosso modelo de negócio através da verticalização de todas as etapas do projeto, desde a concepção, implementação, instalação, operação e comercialização. Possuímos uma plataforma 100% integrada, devido ao avançado conhecimento técnico, equipe multidisciplinar e vasta experiência no setor energético.\n\nDesenvolvemos usinas solares com alto padrão de qualidade, através de parcerias de longo prazo com as principais empresas do setor, visamos reduzir o investimento em CAPEX e manter o baixo custo de manutenção. Assim, podemos reduzir riscos e maximizar o retorno dos projetos para nossos acionistas.\n\nNossa empresa possui uma forte política ESG, voltada para a geração de projetos de energia renovável, respeitamos o meio ambiente, engajando a comunidade local, criando empregos e atuando no desenvolvimento socioeconômico.",
+    "inventoriesId": [
+        6051,
+        7264,
+        8827
+    ],
+    "logoId": "16ec44ce-5122-4c13-a7ae-0d00572a9d7a",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

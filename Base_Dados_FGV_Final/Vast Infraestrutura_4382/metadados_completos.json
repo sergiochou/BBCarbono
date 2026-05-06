@@ -1,0 +1,45 @@
+{
+    "id": 4382,
+    "name": "Vast Infraestrutura",
+    "about": "A Vast se posiciona no mercado como uma empresa dedicada a oferecer infraestrutura e soluções logísticas, com foco na movimentação de líquidos, de forma, segura, limpa, eficiente e sustentável, para o mercado de energia. Para realizarmos isso com excelência, contamos com uma infraestrutura diferenciada, com localização estratégica e licença para movimentar 1,2 milhão de barris por dia. Além disso, somos o único terminal privado do país com capacidade para receber navios da classe VLCC (Very Large Crude Carrier – com capacidade de carga de até 2 milhões de barris).",
+    "inventoriesId": [
+        5694,
+        6073,
+        7409,
+        8154
+    ],
+    "logoId": "9028aaa2-e90d-4fca-842e-864c6cbc11ea",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

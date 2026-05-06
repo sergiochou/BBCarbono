@@ -1,0 +1,85 @@
+{
+    "id": 2043,
+    "name": "Ternium Brasil Ltda",
+    "about": "A Ternium é uma das líderes na produção de aços da América Latina. Já investiu mais de 11 bilhões de reais no Brasil e também é a maior acionista da Usiminas. Desde 2017, a empresa conta com uma usina própria em Santa Cruz, no Rio de Janeiro, a Ternium Brasil, onde produz aços especiais com segurança e respeito ao meio ambiente. A planta no Rio gera mais de 8 mil empregos na região. \nAlém do Brasil, a empresa conta com outras 16 plantas de produção espalhados por 5 países: México, Argentina, Colômbia e EUA. A Ternium produz anualmente 12,2 milhões de toneladas de aço de alta qualidade.\nA Ternium Brasil, siderúrgica da rota integrada, possui um inventário de GEE para o ano de 2025, cujas emissões de escopo 1 são de aproximadamente 10 milhões de tCO2e, utilizando-se a abordagem de controle operacional. As emissões dos processos Coqueria, Sinterização, Alto Forno, Aciaria e UTE do Atlântico (Termelétrica) englobam as emissões de processos dentro do escopo 1. Já em relação às emissões de energia, são consideradas as emissões dos equipamentos de combustão estacionária, que utilizam os gases recuperados do próprio processo (gás de Alto Forno e gás de Aciaria), gás natural, biometano e diesel (sistemas de emergência). O complexo possui uma termoelétrica de ciclo combinado (UTE do Atlântico) com capacidade de geração de 490 MW, energia elétrica suficiente para suprir sua demanda. Para a geração de energia elétrica são utilizados o gás de Alto Forno, gás de Aciaria e Gás Natural, além do vapor oriundo de caldeiras de recuperação do calor sensível do gás de exaustão da Coqueria e das turbinas a gás da UTE. \nEmissões da cadeia de valor, principalmente fontes de emissões do upstream (categorias 1, 3, 4), resíduos (categoria 5) também são relatadas no inventário, bem como as categorias do downstream (9 e 10).\n",
+    "inventoriesId": [
+        2649,
+        1987,
+        2930,
+        3209,
+        3555,
+        3900,
+        4261,
+        4601,
+        5105,
+        6420,
+        7315,
+        8290
+    ],
+    "logoId": "75cd7d2d-b7e6-4563-922c-5ac3d563eb80",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

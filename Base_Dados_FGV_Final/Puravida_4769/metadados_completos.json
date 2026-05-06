@@ -1,0 +1,40 @@
+{
+    "id": 4769,
+    "name": "Puravida",
+    "about": "A Puravida é uma empresa brasileira que nasceu com o propósito de transformar a vida das pessoas através da nutrição e conhecimento, para que elas vivam mais e melhor. Oferece suplementos, alimentos saudáveis e ingredientes puros de alta qualidade, produzidos com os melhores ingredientes da natureza e desenvolvidos com base em ciência atual e tecnologia da suplementação, que contribuem com a promoção da nutrição eficiente, saúde e bem-estar das pessoas. Além de todo conhecimento que é oferecido através de sua plataforma de ensino e canais digitais aos clientes e público em geral. A partir desse propósito, a atuação da Puravida deve gerar impacto positivo sobre as comunidades e o meio ambiente em que atua. Por isso, a Ação Climática é um dos temas materiais para a cia.",
+    "inventoriesId": [
+        6367,
+        7733,
+        8930
+    ],
+    "logoId": "44b5d1bb-d500-4900-a222-3a8bdd726c4f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

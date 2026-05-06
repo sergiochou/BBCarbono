@@ -1,0 +1,35 @@
+{
+    "id": 7691,
+    "name": "VIANA & MOURA CONSTRUCOES S.A.",
+    "about": "A Viana & Moura Construções S/A, é uma empresa do segmento da construção civil que, ao longo dos últimos vinte e dois, atende pessoas beneficiárias com renda familiar mensal de até três salários-mínimos, através da implantação de empreendimentos imobiliários residenciais, inseridos no âmbito do Programa “Minha casa, minha vida”, através da Lei nº 14.620, de 13 de julho de 2023.",
+    "inventoriesId": [
+        7382,
+        8294
+    ],
+    "logoId": "b11c52fc-e6fe-7a64-c6a4-3a146e5e58d4",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

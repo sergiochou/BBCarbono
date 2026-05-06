@@ -1,0 +1,85 @@
+{
+    "id": 62,
+    "name": "Dexco S.A.",
+    "about": "Com mais de sete décadas de história, nos tornamos uma das dez maiores empresas do mundo nos segmentos em que estamos presentes. Temos marcas reconhecidas por design\ne qualidade em todos os segmentos em que atuamos: Durafloor, Duratex, Deca, Hydra, Ceusa, Portinari e Castelatto. Juntos, transformamos casas em lares, ambientes em experiências, sonhos em realidade. Somos uma plataforma de negócios integrados, focada em oferecer Soluções para Melhor Viver. \nPossuímos 15 unidades industriais no Brasil, distribuídas nas regiões Sul, Sudeste e Nordeste, e mais 2 unidades na Colômbia. Além de nossas fábricas, somos responsáveis por mais de 187 mil hectares de florestas plantadas e áreas de conservação, distribuídas em fazendas próprias e arrendadas (inclui Caetex), para o abastecimento de nossas fábricas de painéis de madeira. No Brasil e na Colômbia, desenvolvemos o plantio com as melhores práticas de manejo e ações para a conservação de áreas nativas. Aprimoramos continuamente nossas operações, buscando o equilíbrio socioambiental em toda a cadeia de valor. Entendemos como compromisso e dever a utilização de forma racional e sustentável dos recursos naturais e insumos, adotando princípios que permitam redução, reuso e otimização.\n",
+    "inventoriesId": [
+        2498,
+        2021,
+        2747,
+        3151,
+        3532,
+        3844,
+        4295,
+        4572,
+        5036,
+        5785,
+        7785,
+        8309
+    ],
+    "logoId": "5de8d1d5-34da-47f9-b118-3cd67a8bacea",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

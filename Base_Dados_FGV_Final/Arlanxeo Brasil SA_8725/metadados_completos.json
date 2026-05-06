@@ -1,0 +1,30 @@
+{
+    "id": 8725,
+    "name": "Arlanxeo Brasil S.A.",
+    "about": null,
+    "inventoriesId": [
+        8601
+    ],
+    "logoId": "73319483-a842-ece6-5a90-3a19dcddba27",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

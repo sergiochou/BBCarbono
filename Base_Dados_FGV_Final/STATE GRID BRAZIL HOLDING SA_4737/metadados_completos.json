@@ -1,0 +1,45 @@
+{
+    "id": 4737,
+    "name": "STATE GRID BRAZIL HOLDING S.A.",
+    "about": "A State Grid Brazil Holding (SGBH) faz parte do grupo State Grid Corporation of China (SGCC), uma das maiores empresas do mundo, presente em diversos países em cinco continentes.\n\nEm 2010, a State Grid Corporation of China escolheu o Brasil para a realização do seu primeiro grande investimento fora do continente asiático.\n\nComprometidos com alto padrão ambiental, social, melhoria da segurança e confiabilidade, somos uma empresa moderna e internacional, que investe em tecnologia de ponta, atuando de forma inovadora, sempre em busca da excelência para fornecer energia mais segura, limpa, econômica e sustentável.\n\nCom muito orgulho, participamos de projetos ambiciosos, como a construção da XRTE (Xingu Rio Transmissora de Energia) e da BMTE (Belo Monte Transmissora de Energia). E, em 2023, fomos vencedores do maior leilão da história da ANEEL, adquirindo a GATE (Graça Aranha Transmissora de Energia).\n\nHoje, nossas linhas de transmissão cruzam o Brasil, do Pará ao estado de São Paulo, passando por 14 estados. Acreditar no Brasil e sonhar os sonhos dos brasileiros tem sido a principal força motriz da SGBH.",
+    "inventoriesId": [
+        6033,
+        6257,
+        6981,
+        7908
+    ],
+    "logoId": "90c35769-05f8-45a1-a1e2-6ed697824afa",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

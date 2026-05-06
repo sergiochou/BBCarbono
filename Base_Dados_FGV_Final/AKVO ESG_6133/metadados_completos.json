@@ -1,0 +1,35 @@
+{
+    "id": 6133,
+    "name": "AKVO ESG",
+    "about": "A AKVO ESG é uma startup que surgiu como spin-off da FAU Agricultura e Meio Ambiente, empresa com mais de treze anos de experiencia em sustentabilidade e com atuação em todo o território nacional.\nA Plataforma AKVO funciona de maneira totalmente on-line e ajuda diferentes negócio a se tornar sustentável de maneira eficiente, ágil e simples, garantindo a transparência e confiança nas informações. Por meio dela, as empresas podem inventariar e fazer a gestão das emissões de Gases de Efeito Estufa, estabelecer metas de redução, traçar planos de ação e acompanhar a evolução ao longo do tempo. Toda a metodologia empregada é baseada no GHG Protocol e na NBR ISO 14064. A Plataforma AKVO gera automaticamente todos os cálculos da pegada de carbono, tornando-os disponíveis para visualização e gerenciamento. Assim, é possível identificar os riscos e oportunidades e traçar metas e planos de ação. Por meio da Plataforma AKVO, as empresas podem compensar as emissões de Gases de Efeito Estufa com a aquisição de créditos de carbono certificados. Ou seja, além de planejar a redução de emissões as empresas podem fazer a diferença apoiando projetos de alto impacto social e ambiental. \nAlém disso, a Plataforma AKVO ESG possui o módulo de Diagnostico de Nível de maturidade ESG, baseado na metodologia da ABNT PR2030 e módulo de Emissões Financiadas voltado para bancos e demais instituições financeiras.\nA grande relevância da sigla ESG, que significa Environmental, Social and Governance, é prova de que a percepção dos mercados mudou. Ser sustentável já não é mais um diferencial, mas sim um caminho para se ter sucesso e relevância.\n\n",
+    "inventoriesId": [
+        6925,
+        8374
+    ],
+    "logoId": "e437e07d-f393-8dda-68d5-3a122c994f12",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

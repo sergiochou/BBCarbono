@@ -1,0 +1,30 @@
+{
+    "id": 405,
+    "name": "Socimol",
+    "about": "A Socimol foi criada na cidade de Bacabal-MA em 1958. A indústria surgiu como solução para abastecer as filiais da empresa primogênita do Grupo Claudino, o Armazém Paraíba, recém chegadas à região.  Com a transferência da sede do Armazém Paraíba para Teresina-PI em 1968, a Socimol teve sua unidade desativada, mas ficando a ideia de uma futura instalação de uma fábrica em Teresina-PI.\r\n\r\nEm fevereiro de 1976, surge em Teresina-PI a nova Socimol – Indústria de Colchões e Móveis Ltda. com o mesmo pensamento focado na fabricação de colchões e móveis para abastecer as lojas do Armazém Paraíba e outros clientes da região.\r\n\r\nDesde a sua fundação, a Socimol acredita em seu potencial. Investe em infra-estrutura, acompanha as tendências mundiais em seu seguimento, se faz presente nas maiores feiras nacionais e internacionais e busca sempre extrair as informações precisas para continuar no rumo certo.\r\n\r\nO Colchão de Molas Onix, seu produto de maior repercussão, possui tratamentos especiais em seus tecidos e demais matérias primas, além de usar tecnologia que garante uma boa noite de sono.\r\nBuscando a satisfação e o conforto de seus clientes, trouxe a capa pillow top, molas Bonnel, Ensacadas, LFK e Fio Contínuo. Também sua grande obra prima: o colchão de molas com pés articulados. Com esta solução, o quarto de hotel poderá acomodar até quatro hospedes, economizando espaço e tempo.\r\n\r\nAlém do Colchão de Molas Onix, a Socimol possui a linha de móveis e estofados. Produtos que vem conquistando espaço no mercado, com novo design e funcionalidade, produzidos com madeira reflorestada, preocupação com o meio ambiente.\r\n\r\nAlém do alto investimento em tecnologia, qualidade, conforto, design e inovação, a Socimol tem o compromisso com a sustentabilidade, reaproveitando materiais do processo fabril que antes eram desperdiçados, além da realização de campanhas de arborização que se chama “Sinal Verde para a Natureza”, programas de “Racionamento de água” e “Racionamento de energia” também são adotados na Socimol e merecem destaque em razão do empenho de todos os funcionários para colocá-los em prática em nome da sustentabilidade.\r\n\r\nTodo esse modelo de gestão reflete-se na qualidade dos produtos fabricados, o que garantiu à Socimol o certificado ISO 9001, concedido pelo Bureau Veritas. Tal certificação comprova que o sistema de gestão de qualidade da empresa segue os modelos internacionais, tendo como ênfase a satisfação dos clientes e demonstrando o compromisso com o alto padrão de seus produtos.\r\n\r\nMISSÃO E VISÃO\r\n\r\nVISÃO: Ser uma indústria de referência nacional no segmento de colchões e móveis.\r\n\r\nMISSÃO: Produzir colchões e móveis que surpreendam satisfatoriamente nossos clientes com conforto e bem estar.\r\n\r\nPOLÍTICA DA QUALIDADE\r\n\r\n- Produzir colchões , atendendo aos requisitos do produto, de forma a:\r\n\r\n         - Conhecer e atender as necessidades, expectativas e satisfação de seus clientes e consumidores;\r\n         - Manter o sistema de Gestão da Qualidade sob contínuo monitoramento, garantindo sua eficácia e aprimoramento;\r\n         - Fazer da melhoria contínua, o objetivo de nossas atividades;\r\n         - Assegurar condições necessárias para o desenvolvimento profissional de seus COLABORADORES.\r\n",
+    "inventoriesId": [
+        2580
+    ],
+    "logoId": "23f01afd-f9e3-4a8c-a969-c3375c737545",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 18,
+        "acronym": "PI",
+        "name": "Piauí"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

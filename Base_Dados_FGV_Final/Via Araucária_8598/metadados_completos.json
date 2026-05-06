@@ -1,0 +1,30 @@
+{
+    "id": 8598,
+    "name": "Via Araucária",
+    "about": "A Via Araucária é a concessionária responsável pela operação, manutenção e modernização do Lote 1 do Sistema Rodoviário do Estado do Paraná, abrangendo 473 quilômetros de rodovias federais e estaduais. Esse trecho inclui os contornos Norte e Sul de Curitiba, as interligações entre municípios da Região Metropolitana de Curitiba e a rota entre a capital e Guarapuava, no Centro-Sul do Paraná, entre outros segmentos viários.",
+    "inventoriesId": [
+        8175
+    ],
+    "logoId": "e5dda0f8-2260-a07d-155a-3a198ff70d7d",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

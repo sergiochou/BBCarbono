@@ -1,0 +1,45 @@
+{
+    "id": 4042,
+    "name": "AZZAS2154",
+    "about": "A fusão estratégica entre duas autoridades detentoras de marcas- desejo deu origem ao maior\ngrupo de moda da América Latina, cujo objetivo é impulsionar a força criativa brasileira e elevar a moda nacional no mundo. Com portfólio robusto e completo para atender às diferentes necessidades dos consumidores, o Azzas 2154 vai do básico ao sofisticado, conversando com\nmúltiplas geografias e pessoas. Nasce da diversidade de marcas,de expertises, de lideranças e de talentos. Une diferenças e fortalezas individuais, ao mesmo tempo em que abre espaço para oportunidades de sinergia. O Azzas 2154 opera no setor de bens de consumo, abrangendo calçados, acessórios e vestuário feminino, masculino e infantil. A Companhia atua desde o\ndesenvolvimento e fabricação até a comercialização de seus produtos. Essa última etapa é facilitada por uma extensa rede de franquias, lojas próprias e parcerias com multimarcas, tanto no\nBrasil quanto no exterior.",
+    "inventoriesId": [
+        5512,
+        6164,
+        6982,
+        8488
+    ],
+    "logoId": "1f226983-a2eb-01bb-c355-3a19dd5024c9",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

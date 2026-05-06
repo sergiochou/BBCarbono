@@ -1,0 +1,40 @@
+{
+    "id": 5370,
+    "name": "COMIPA",
+    "about": null,
+    "inventoriesId": [
+        6379,
+        7747,
+        8477
+    ],
+    "logoId": "78eda78d-0537-4a90-9199-462a1bd87a8f",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

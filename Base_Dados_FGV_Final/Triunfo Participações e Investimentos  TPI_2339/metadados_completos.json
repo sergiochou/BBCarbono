@@ -1,0 +1,75 @@
+{
+    "id": 2339,
+    "name": "Triunfo Participações e Investimentos - TPI",
+    "about": "Dedicada a oferecer soluções de infraestrutura, a Triunfo Participações e Investimentos atua nos segmentos de concessão de rodovias, administração aeroportuária e geração de energia. Com sede em São Paulo (SP), a Companhia possui empresas em quatro unidades federativas e Distrito Federal, localizadas em duas regiões do país.\r\n\r\nA Companhia é uma empresa de capital aberto, listada no Novo Mercado da B3 como TPIS3. Para integrar o Novo Mercado, a empresa adota práticas de governança além das exigidas pela legislação, com o objetivo de agregar mais transparência e sustentabilidade a seus negócios.\r\n",
+    "inventoriesId": [
+        2819,
+        3187,
+        3540,
+        3812,
+        4269,
+        4621,
+        5130,
+        6080,
+        7311,
+        9188
+    ],
+    "logoId": "9921e6c4-ee4e-4e68-b4a5-48ae390eca96",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

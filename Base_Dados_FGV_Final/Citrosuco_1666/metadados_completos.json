@@ -1,0 +1,45 @@
+{
+    "id": 1666,
+    "name": "Citrosuco",
+    "about": "A Citrosuco é uma empresa de capital fechado 100% nacional do grupo Votorantim, grupo Fischer e PSP Investments. Votorantim e Fischer têm controle acionário. Somos uma multinacional privada com origem numa empresa familiar, guiada por um forte sentido de propósito na busca de valor sustentável para a nossa empresa. Nossas diretrizes de governança corporativa garantem, acima de tudo, um ambiente de trabalho pautado pela integridade. Isso é tão importante para nós quanto nossos resultados financeiros. Atuamos com integridade. Valorizamos a ética, a transparência nos negócios, o respeito às pessoas, às comunidades, à lei e aos compromissos que assumimos. Esses princípios, que norteiam nossa gestão interna, também se aplicam ao nosso relacionamento com o público e com o mundo exterior. Atuamos em todas as etapas da cadeia produtiva do suco de laranja desde o cultivo da fruta até a entrega de seus produtos, que consistem em sucos (NFC e FCOJ), pellets de polpa cítrica, polpa de laranja congelada, óleo essencial, terpeno cítrico, wesos e essências e fases oleosas). Somos uma empresa orientada para a exportação, e nossos clientes estão em mais de 100 países em todas as regiões do mundo. Temos um total de 42 unidades de operação com 5.300 funcionários, mais de 12.000 no período de safra. Nossas unidades são compostas por 3 plantas de processamento industrial, 25 fazendas, 1 operação de armazenagem, 5 terminais portuários e 7 escritórios. Temos um viveiro de mudas de laranja e 5 navios próprios.\n\nA sustentabilidade é a essência do nosso negócio, norteando nossas relações, dentro e fora da empresa. Vivemos legados contínuos em nossa jornada, por meio do avanço contínuo de nossas práticas de gestão. Conscientes de que a sustentabilidade é uma jornada, demos mais um passo para construir uma corporação cada vez mais sustentável, criando assim valor de longo prazo para todos. Definimos nosso mandato 2030, no qual estamos comprometidos em garantir a competitividade e perenidade dos negócios, produzindo alimentos naturais com as melhores práticas ambientais, valorizando as pessoas, com governança efetiva e transparente. Esse passo relevante é guiado por uma definição de nossos compromissos e metas ambientais, sociais e de governança (ESG) a serem cumpridos até 2030. Consideramos uma estrutura colaborativa, opiniões de stakeholders internos e externos, tendências e os Objetivos de Desenvolvimento Sustentável (ODS). Nossos compromissos ESG 2030 são: Contribuir para a resiliência climática, Promover a biodiversidade, Gerenciar racionalmente os recursos hídricos, Impulsionar a transformação social, Promover a diversidade, igualdade e inclusão e Liderar uma cadeia de valor sustentável.\n",
+    "inventoriesId": [
+        5658,
+        6249,
+        7102,
+        8299
+    ],
+    "logoId": "423b7a90-f127-4ce4-8061-0fca005c4c4e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

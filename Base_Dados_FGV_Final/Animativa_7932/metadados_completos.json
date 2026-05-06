@@ -1,0 +1,30 @@
+{
+    "id": 7932,
+    "name": "Animativa",
+    "about": "A Animativa nasceu em 1944 atuando no mercado gráfico com a impressão de jornais, impressos padronizados, livros e certidões.\nCom sede em Catanduva, interior de São Paulo, nossa trajetória foi marcada por uma atuação familiar em todo o território nacional.\nHoje, somos uma das maiores do mercado de papelaria no Brasil e investimos na profissionalização da gestão e uma governança estruturada.",
+    "inventoriesId": [
+        7594
+    ],
+    "logoId": "5a21514a-dd04-0973-b2d9-3a131a1ee6a4",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

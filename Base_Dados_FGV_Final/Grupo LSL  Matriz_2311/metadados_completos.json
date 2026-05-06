@@ -1,0 +1,35 @@
+{
+    "id": 2311,
+    "name": "Grupo LSL - Matriz",
+    "about": "Atuando no Brasil desde 1997, o Grupo LSL é uma empresa prestadora de serviços logísticos especializados nos mais diversos segmentos de sua área.\r\nAtuando no mercado nacional e sul-americano, o Grupo LSL atende 672 cidades do Brasil e Argentina. Através da malha logística, atende todas as regiões do país com sinergia e baixo custo, realizando desde a logística de movimentação interna a transporte de produtos acabados, com total rastreabilidade do material, dentro do lead time estabelecido pelo cliente. ",
+    "inventoriesId": [
+        2777,
+        3288
+    ],
+    "logoId": "fdfd34af-6246-46c9-85db-780b86679b0d",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8049,
+    "name": "INSTITUTO TOTUM",
+    "about": "O Instituto Totum é uma empresa privada com fins lucrativos, constituída em 2 de julho de 2003.\n \nAtuamos tanto no mercado regulado, por meio de acreditações junto ao Sistema Brasileiro de Certificação, quanto em iniciativas de autorregulação.\n \nTodos os sistemas de certificação do Instituto Totum contam com uma moderna estrutura tecnológica, possibilitando interação completa de forma digital. Isso otimiza a carga horária dedicada pelos clientes e, consequentemente, reduz os custos de uma empresa para o processo de certificação.\n \nPara atividades em geral relacionadas a trabalhos de auditoria e verificação, o Instituto Totum conta com uma equipe de mais de 30 profissionais homologados, que são alocados conforme as demandas dos projetos. Dentro das qualificações dessa equipe, contamos com advogados, engenheiros, administradores, pedagogos, nutricionistas, analistas financeiros, biólogos, gestores de meio ambiente e outras especializações necessárias para cada tipo de verificação ou auditoria.",
+    "inventoriesId": [
+        7718,
+        9141
+    ],
+    "logoId": "168b58f6-0dff-fa5e-61d7-3a13203a37fd",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

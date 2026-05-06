@@ -1,0 +1,30 @@
+{
+    "id": 6150,
+    "name": "PRAGMA SOLUCOES, SERVICOS E PROJETOS LTDA",
+    "about": "A Pragma atua como um elo entre segmentos que buscam soluções inovadoras para superar desafios e alavancar os negócios de nossos parceiros.\nSomos uma empresa especializada na formulação de soluções técnicas que conectam trabalhadores, corporações e governos. Temos uma ampla rede de relações com lideranças comunitárias, organizações civis, empresas e profissionais de diferentes áreas de conhecimento, em todo o Brasil.\nFormada por profissionais com grande experiência em elaboração, planejamento, gerenciamento e avaliação de projetos, a Pragma oferece serviços que transformam vidas e organizações.",
+    "inventoriesId": [
+        7517
+    ],
+    "logoId": "239f914a-778f-6f64-5922-3a124132442f",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

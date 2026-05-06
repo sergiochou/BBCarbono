@@ -1,0 +1,30 @@
+{
+    "id": 8213,
+    "name": "TJGO",
+    "about": null,
+    "inventoriesId": [
+        7887
+    ],
+    "logoId": "88f896cb-8bab-2e5d-5bb7-3a177720df43",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

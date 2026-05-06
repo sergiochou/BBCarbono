@@ -1,0 +1,35 @@
+{
+    "id": 5625,
+    "name": "Pieralisi do Brasil",
+    "about": "A Pieralisi do Brasil é uma unidade brasileira da empresa italiana Pieralisi, que atua realizando a manutenção de máquinas decanter ou centrífugas fabricadas na Itália, as quais são utilizadas em processos de tratamento de água e outros processos industriais. Somos especialistas líderes mundiais em extração e separação centrífuga. Projetamos e fabricamos soluções de separação sólido-líquido e sólido-líquido-líquido para múltiplas aplicações, sendo líderes da indústria em linhas de produção de azeite. Com sede em Jesi, na Itália, a Pieralisi possui presença global com 41.500 plantas instaladas em nível internacional, 500 funcionários, 130 técnicos dedicados à máquina e configuração da planta e para fornecer assistência pós-venda. Como resultado, a Pieralisi é um parceiro incomparável, confiável e duradouro.",
+    "inventoriesId": [
+        6608,
+        7711
+    ],
+    "logoId": "a149507b-497a-4fda-b9c4-b1b8e21c5560",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

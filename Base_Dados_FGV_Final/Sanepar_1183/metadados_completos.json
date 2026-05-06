@@ -1,0 +1,105 @@
+{
+    "id": 1183,
+    "name": "Sanepar",
+    "about": "A Companhia de Saneamento do Paraná (Sanepar) é uma empresa de economia mista, com capital aberto e personalidade jurídica de direito privado, sob controle do Governo do Estado do Paraná. Com sede em Curitiba, a Sanepar atua em 345 municípios, sendo 344 no Paraná e um em Santa Catarina (Porto União), prestando serviços essenciais de saneamento básico.\nSeu portfólio de atuação abrange a captação, tratamento, reservação e distribuição de água; coleta e tratamento de esgoto; e operação de aterros sanitários em Cianorte, Apucarana e Cornélio Procópio. Além disso, realiza estudos, projetos, obras de ampliação de infraestrutura e serviços de consultoria técnica em suas áreas de competência.\nA Sanepar compreende que sua atuação vai além das metas financeiras e operacionais, assumindo um compromisso com o desenvolvimento sustentável, a responsabilidade socioambiental e o enfrentamento das mudanças climáticas. Assim, integra iniciativas e compromissos públicos alinhados aos Objetivos de Desenvolvimento Sustentável (ODS) e ao Acordo de Paris, visando à construção de um futuro mais justo, resiliente e inclusivo.\nNeste contexto, a elaboração do Inventário de Gases de Efeito Estufa (IGEE) representa uma ferramenta estratégica de gestão ambiental e climática. O inventário considera as emissões e remoções associadas às principais atividades da Companhia, incluindo os serviços de abastecimento de água, esgotamento sanitário, coleta e disposição de resíduos sólidos urbanos e atividades administrativas de apoio. Este processo reforça o compromisso da Sanepar com a transparência, a melhoria contínua e a contribuição efetiva para a transição para uma economia de baixo carbono.\n\nMaiores informações estão disponíveis em:\nhttps://ri.sanepar.com.br/docs/Sanepar-2024-12-31-768DDfgK.pdf\n\n",
+    "inventoriesId": [
+        42,
+        2561,
+        1985,
+        1595,
+        1561,
+        283,
+        2838,
+        3319,
+        3630,
+        3908,
+        4200,
+        4536,
+        5037,
+        5935,
+        7022,
+        8419
+    ],
+    "logoId": "32f0bd55-e8b6-03f4-2a12-3a136cd494e6",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

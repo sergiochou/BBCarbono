@@ -1,0 +1,30 @@
+{
+    "id": 8384,
+    "name": "Vulcabras - CE",
+    "about": "\n\n\nA Vulcabras atua há 70 anos no setor calçadista brasileiro e nesse período se consolidou como a maior indústria do setor de calçados esportivos do País tornando-se gestora de marcas líderes em seus respectivos segmentos: Olympikus, campeã nacional em venda de tênis, Under Armour, uma das maiores marcas de vestuário, calçados e acessórios esportivos do mundo, e Mizuno, a marca de performance que acredita no valor do esporte e suporta a jornada de todos que dão o melhor de si independente de quem são, nível e tipo de esporte.  ",
+    "inventoriesId": [
+        8038
+    ],
+    "logoId": "ede947b0-3693-e2a7-60a2-3a18f438fb72",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

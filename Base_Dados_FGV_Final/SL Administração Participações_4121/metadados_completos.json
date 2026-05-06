@@ -1,0 +1,45 @@
+{
+    "id": 4121,
+    "name": "SL Administração Participações",
+    "about": "A SL é um grupo brasileiro de empresas integradas que, a partir da administração da holding company SL Administração e Participações e operação das indústrias SL Alimentos, Alimentos e Sementes Paraná, SL Mylks e Cereal Pro, atua no desenvolvimento, processamento e comercialização de ingredientes e produtos finais para os principais conglomerados alimentícios do mundo. \r\n\r\nEm atividade há 35 anos no sul do Brasil, além de liderar o segmento de aveia para a alimentação humana no país, hoje é um dos maiores moinhos de cereais integrais de toda a América Latina. Na vanguarda da tecnologia e inovação, leva ao mercado alimentos funcionais, dentro do conceito clean label e plant-based, ampliando as frentes de atuação e mantendo em seu DNA a sustentabilidade como premissa, sempre conectada ao campo e às famílias, que buscam na alimentação saudável garantia de bem-estar e qualidade de vida.\r\n",
+    "inventoriesId": [
+        5374,
+        5825,
+        6891,
+        9263
+    ],
+    "logoId": "56ce4769-5956-4ce0-a38e-b91a01d72962",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

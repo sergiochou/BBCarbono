@@ -1,0 +1,65 @@
+{
+    "id": 348,
+    "name": "INSTITUTO UNIBANCO",
+    "about": "Criado em 1982, o Instituto Unibanco atua para a melhoria da educação pública no Brasil. É uma das instituições responsáveis pelo investimento social privado do Itaú Unibanco.\r\n\r\nCom foco na melhoria dos resultados e na produção de conhecimento sobre o Ensino Médio, o Instituto Unibanco dedica-se a elaborar e implementar soluções de gestão – na rede de ensino, na escola e em sala de aula – comprometidas com a capacidade efetiva das escolas públicas de garantir o direito à aprendizagem de todos os estudantes. Busca ainda a institucionalização, nas redes de ensino, de uma visão orientada para a sustentabilidade dos resultados de aprendizagem e da equidade entre as escolas e no interior de cada uma delas.\r\n\r\nAs ações e projetos do Instituto Unibanco são voltados ao Ensino Médio e estruturados em três frentes:\r\n\r\n Concepção, desenvolvimento, implementação e avaliação de soluções aplicadas a projetos de gestão educacional\r\n Produção e difusão de conhecimento por meio de pesquisas, estudos e debates focados em soluções baseadas em evidências empíricas e na investigação científica\r\nApoio e fomento a projetos e iniciativas alinhados aos desafios do Ensino Médio\r\nO Instituto Unibanco é mantido por um fundo patrimonial (endowment) que garante o alinhamento estratégico com a produção de bens públicos na educação e a sustentabilidade da instituição no longo prazo. A responsabilidade e a independência, associadas à estrutura do fundo, potencializam a orientação do financiamento das atividades do Instituto de acordo com os seus objetivos estratégicos e suas metas e possibilitam a oferta gratuita de soluções educacionais – serviços e produtos – para Secretarias de Educação, escolas, profissionais de educação e estudantes participantes de seus projetos e ações.\r\n\r\nConectar ideias, acelerar transformações e valorizar a diversidade sintetizam os valores do Instituto Unibanco.",
+    "inventoriesId": [
+        3781,
+        4078,
+        4381,
+        4759,
+        5487,
+        5904,
+        7375,
+        8924
+    ],
+    "logoId": "1e97a247-6406-4144-a3b5-63c231c14bcb",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

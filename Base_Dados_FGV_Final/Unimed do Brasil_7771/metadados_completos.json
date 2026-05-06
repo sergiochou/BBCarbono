@@ -1,0 +1,35 @@
+{
+    "id": 7771,
+    "name": "Unimed do Brasil",
+    "about": "A Unimed do Brasil foi fundada em 28 de novembro de 1975 para ser a representante institucional das cooperativas Unimed. A organização zela pelo uso da marca e pela reputação em âmbito nacional e leva pleitos e contribuições aos poderes públicos, órgãos reguladores e entidades do setor de saúde, propagando as melhores práticas na busca por gestões cada vez mais transparentes, éticas e legalistas.\n\nTambém coordena um dos principais diferenciais da Unimed, conhecido como Intercâmbio Nacional: o atendimento do beneficiário de uma Unimed por outra, desde que seu plano contratado permita a prática.",
+    "inventoriesId": [
+        7543,
+        8791
+    ],
+    "logoId": "b3d3ce7f-3f9e-771b-0011-3a1316265d55",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

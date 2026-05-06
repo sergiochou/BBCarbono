@@ -1,0 +1,40 @@
+{
+    "id": 8666,
+    "name": "Santista Têxtil",
+    "about": "Indústria têxtil brasileira fundada em 29 de outubro de 1929, com capacidade de produção anual em torno de 67 milhões de metros de tecido. Atualmente possui cerca de 1.600 colaboradores, distribuídos entre as unidades administrativas (showroom Denim City e matriz em São Paulo) e fabris (cidades de Americana e Tatuí). A Santista atua em duas unidades de negócio: Jeanswear e Workwear. A linha Jeanswear é dedicada à produção de tecidos inovadores para o segmento de moda,  e a linha Workwear é voltada à produção de tecidos especiais para roupas profissionais. Nossa Missão está pautada em oferecer soluções inovadoras, integradas para a cadeia têxtil, de forma sustentável, com entusiasmo e relacionamento de confiança, proporcionando bem-estar e segurança. Nossa Visão é nos tornarmos a melhor para trabalhar e a melhor para vestir. Dentre os nossos Valores, estão Segurança, Ética e Sustentabilidade do Negócio, que representam nosso compromisso com as pessoas, com a sociedade e com o meio ambiente a longo prazo. Somos um time focado em alta performance, que trabalha com objetivos claros e alinhados entre todos. Adotamos a transformação cultural para melhorar e inovar sempre. Somos referência em proteção do meio ambiente, buscando impactar positivamente a comunidade em que atuamos.",
+    "inventoriesId": [
+        8355,
+        8356,
+        8357
+    ],
+    "logoId": "1ddc5751-b33d-73a5-0481-3a1b3f6d62bc",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

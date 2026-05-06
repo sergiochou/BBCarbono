@@ -1,0 +1,35 @@
+{
+    "id": 8531,
+    "name": "Cooxupé",
+    "about": "https://www.cooxupe.com.br/quem-somos/",
+    "inventoriesId": [
+        8387,
+        9298
+    ],
+    "logoId": "94633aca-dd02-78ed-2b78-3a19376e89e0",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

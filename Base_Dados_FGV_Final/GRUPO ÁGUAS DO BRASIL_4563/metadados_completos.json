@@ -1,0 +1,40 @@
+{
+    "id": 4563,
+    "name": "GRUPO ÁGUAS DO BRASIL",
+    "about": "O Grupo Águas do Brasil – Saneamento Ambiental Águas do Brasil é uma sociedade anônima de capital fechado, holding de concessionárias do setor privado de serviços de abastecimento de água, coleta e tratamento de esgotos. Fundado em 1998, está entre as maiores empresas do setor no país, e suas operações levam qualidade de vida e saúde a milhões de habitantes.\n\nSua presença operacional se dá em três estados brasileiros – Rio de Janeiro, São Paulo e Minas Gerais –, voltada ao atendimento de pessoas físicas e jurídicas nas categorias residencial, comercial, industrial e público. No Rio de Janeiro, o Grupo é responsável por nove concessões distribuídas em 12 munícipios: Resende, Niterói, Nova Friburgo, Paraty, Petrópolis, Campos dos Goytacazes, Paraíba do Sul, Rio de Janeiro, Teresópolis, Araruama, Saquarema e Silva Jardim. Em São Paulo, são duas concessões em dois munícipios: Votorantim e Jaú. Em Minas Gerais, opera uma concessionária na cidade de Pará de Minas.\nA concessionária Águas de Araçoiaba deixou de fazer parte do Grupo Águas do Brasil em março de 2024. Os dados deste relatório não consideram a concessão, visto que o inventario corresponde ao ano de 2024.",
+    "inventoriesId": [
+        6345,
+        6807,
+        8689
+    ],
+    "logoId": "5a52347f-d6e5-47e1-a2b8-475e05b20f50",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

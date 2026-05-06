@@ -1,0 +1,35 @@
+{
+    "id": 4053,
+    "name": "KPMG",
+    "about": null,
+    "inventoriesId": [
+        5277,
+        5844
+    ],
+    "logoId": "92a66356-ef37-4a1b-86db-c159fddd889a",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8795,
+    "name": "Comitê Paraolimpico Brasileiro",
+    "about": "O Comitê Paralímpico Brasileiro (CPB) é a entidade responsável por coordenar e desenvolver o esporte paralímpico no Brasil. Atua como o órgão central do movimento paralímpico nacional, promovendo desde a iniciação esportiva até o alto rendimento para atletas com deficiência\nAlém de representar o país em competições internacionais, como os Jogos Paralímpicos e Parapan-Americanos, o CPB também desempenha o papel de confederação nacional para 4 modalidades: atletismo, natação, halterofilismo e tiro esportivo. \nA sede do CPB está localizada no Centro de Treinamento Paralímpico, em São Paulo, inaugurado em 2016. O centro serve como base para treinamentos e competições de diversas modalidades paralímpicas. \n",
+    "inventoriesId": [
+        8501
+    ],
+    "logoId": "b0438836-8253-101c-4707-3a1a1f50363b",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

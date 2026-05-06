@@ -1,0 +1,35 @@
+{
+    "id": 190,
+    "name": "Promon Engenharia",
+    "about": "O Grupo Promon é controlado pela holding Promon S.A., em que se localiza a coordenação executiva e estratégica da organização. Seus únicos acionistas são profissionais vinculados ao Grupo. Subsidiária integral da Promon S.A., a Promon Engenharia atua no mercado de engenharia, focando os setores estratégicos de Óleo e Gás, Mineração e Metalurgia, Energia Elétrica, Química e Petroquímica e Meio Ambiente.",
+    "inventoriesId": [
+        53,
+        1620
+    ],
+    "logoId": "7fe758e3-0f9b-4a1e-97a7-f6c5fe75dc87",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

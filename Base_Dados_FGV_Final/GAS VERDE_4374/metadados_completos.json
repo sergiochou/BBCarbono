@@ -1,0 +1,45 @@
+{
+    "id": 4374,
+    "name": "GAS VERDE",
+    "about": "Empresa do grupo Urca Energia especializada na geração de biometano a partir do biogás de aterro sanitário.",
+    "inventoriesId": [
+        5686,
+        6707,
+        7809,
+        9290
+    ],
+    "logoId": "8f6b8bfe-b240-acd7-8be5-3a1f215eb9ae",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

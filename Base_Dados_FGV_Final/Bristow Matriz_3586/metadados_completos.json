@@ -1,0 +1,45 @@
+{
+    "id": 3586,
+    "name": "Bristow Matriz",
+    "about": "O grupo Bristow é Líder Global em soluções de voo vertical, oferecendo serviços de Busca e Salvamento (SAR), transporte offshore em Petróleo e Gás (passageiros e remoções médicas), e helicópteros para organizações civis e governamentais em vários países. O Grupo busca constante aprimoramento, incluindo a integração de veículos aéreos não tripulados (UAV) e apoio à atividade de instalação e manutenção de torres de Energia Eólica offshore.\nNo Brasil, a Aeróleo Taxi Aéreo (pertencente ao Grupo Era), migrou em 2020 para o grupo Bristow, devido à fusão das duas empresas (Bristow Group e Era Group Inc). A atuação no País é majoritariamente na Indústria de Óleo e Gás, com um sistema de gestão integrado certificado nas normas ISO 9001:2015, 14001:2015 e 45001:2018. Com mais de 300.000 horas de voo registradas, a Bristow Brasil é reconhecida como padrão de qualidade no fornecimento de soluções confiáveis em apoio a uma série de empresas Nacionais e Internacionais que operam no País.\nA Companhia possui bases estrategicamente localizadas nos estados do Rio de Janeiro e do Espírito Santo. Com mais de 300 profissionais altamente qualificados, divididos em quatro bases operacionais: Vitória, Cabo Frio, Farol de São Tomé e Jacarepaguá. Cabo Frio, é a principal base operacional e conta com a maior estrutura física, concentrando maior parte dos voos da companhia e o centro de manutenção para inspeções maiores nas aeronaves. Jacarepaguá onde atualmente fica localizada a matriz da empresa no Brasil, também é uma base operacional com demanda de voos para as unidades offshore, e também para as operações de resgate médico de emergência offshore. As bases em Farol de São Tomé, RJ e Vitória, ES são bases operacionais que atendem a bacia de Campos e Santos, onde realizamos as manutenções preventivas e corretivas da nossa frota, atendimento aos passageiros e o voo propriamente dito para a unidade marítima. Entretanto, a Empresa possui flexibilidade e agilidade para operar em outras localidades, não tendo restrições de operação dentro do território nacional.",
+    "inventoriesId": [
+        4810,
+        5566,
+        6084,
+        7418
+    ],
+    "logoId": "a3be8996-31ff-4c8e-8006-ab2212f93d60",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

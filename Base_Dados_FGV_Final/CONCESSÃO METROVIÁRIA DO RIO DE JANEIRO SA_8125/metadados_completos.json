@@ -1,0 +1,35 @@
+{
+    "id": 8125,
+    "name": "CONCESSÃO METROVIÁRIA DO RIO DE JANEIRO S.A.",
+    "about": "A MetrôRio é uma empresa privada brasileira com sede no Rio de Janeiro, sendo uma concessionária responsável pela operação da Linha 1, da Linha 2 e da Linha 4 do Metrô do Rio de Janeiro.",
+    "inventoriesId": [
+        8304,
+        8305
+    ],
+    "logoId": "acd86182-b5a5-e2b0-3713-3a1342af7426",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

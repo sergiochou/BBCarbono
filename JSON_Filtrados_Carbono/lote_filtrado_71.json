@@ -1,0 +1,412 @@
+[
+    {
+        "empresa_pasta": "RD Saúde_7696",
+        "id_fgv": 7696,
+        "nome_oficial": "RD Saúde",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 20980.466,
+                    "emissoes_escopo_2": 7962.887,
+                    "emissoes_escopo_3": 561951.333,
+                    "total_emissoes": 590894.686,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;❖reparação❖de❖veículos❖automotores❖e❖motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Real Grandeza_5653",
+        "id_fgv": 5653,
+        "nome_oficial": "Real Grandeza",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2.564,
+                    "emissoes_escopo_2": 5103.947,
+                    "emissoes_escopo_3": 320999.103,
+                    "total_emissoes": 326105.614,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.912,
+                    "emissoes_escopo_2": 9715.352,
+                    "emissoes_escopo_3": 259711.758,
+                    "total_emissoes": 269428.022,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Real Transportadora Eireli_2482",
+        "id_fgv": 2482,
+        "nome_oficial": "Real Transportadora Eireli",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 6239.478,
+                    "emissoes_escopo_2": 1.322,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6240.8,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 5820.246,
+                    "emissoes_escopo_2": 1953.138,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7773.384,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 5742.468,
+                    "emissoes_escopo_2": 1.483,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5743.951,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 7303.405,
+                    "emissoes_escopo_2": 1.385,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7304.79,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 6598.202,
+                    "emissoes_escopo_2": 0.836,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6599.038,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "REDE D OR SÃO LUIZ_3536",
+        "id_fgv": 3536,
+        "nome_oficial": "REDE D OR SÃO LUIZ",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 61259.851,
+                    "emissoes_escopo_2": 12337.278,
+                    "emissoes_escopo_3": 9415.403,
+                    "total_emissoes": 83012.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 108387.628,
+                    "emissoes_escopo_2": 35612.49,
+                    "emissoes_escopo_3": 30271.628,
+                    "total_emissoes": 174271.746,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 64784.732,
+                    "emissoes_escopo_2": 12537.264,
+                    "emissoes_escopo_3": 33447.908,
+                    "total_emissoes": 110769.904,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 67385.24,
+                    "emissoes_escopo_2": 12450.086,
+                    "emissoes_escopo_3": 31259.133,
+                    "total_emissoes": 111094.459,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde٫humana٫e٫serviços٫sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "REDECARD SA_1992",
+        "id_fgv": 1992,
+        "nome_oficial": "REDECARD S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 405.031,
+                    "emissoes_escopo_2": 515.332,
+                    "emissoes_escopo_3": 1741.22,
+                    "total_emissoes": 2661.583,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 375.914,
+                    "emissoes_escopo_2": 442.137,
+                    "emissoes_escopo_3": 5179.22,
+                    "total_emissoes": 5997.271,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 403.469,
+                    "emissoes_escopo_2": 917.98,
+                    "emissoes_escopo_3": 6378.32,
+                    "total_emissoes": 7699.769,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Refinaria de Petróleo Riograndense_6021",
+        "id_fgv": 6021,
+        "nome_oficial": "Refinaria de Petróleo Riograndense",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 114527.3,
+                    "emissoes_escopo_2": 4425.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 118952.3,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 82316.064,
+                    "emissoes_escopo_2": 721.16,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 83037.224,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "regreen_5092",
+        "id_fgv": 5092,
+        "nome_oficial": "re.green",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 62.308,
+                    "emissoes_escopo_2": 2.574,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 64.882,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "REITER LOG_5046",
+        "id_fgv": 5046,
+        "nome_oficial": "REITER LOG",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 61329.208,
+                    "emissoes_escopo_2": 615.591,
+                    "emissoes_escopo_3": 6.836,
+                    "total_emissoes": 61951.635,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 54777.796,
+                    "emissoes_escopo_2": 233.497,
+                    "emissoes_escopo_3": 4.577,
+                    "total_emissoes": 55015.87,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 52020.28,
+                    "emissoes_escopo_2": 210.269,
+                    "emissoes_escopo_3": 19331.207,
+                    "total_emissoes": 71561.756,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,٫armazenagem٫e٫correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Renault do Brasil SA_4594",
+        "id_fgv": 4594,
+        "nome_oficial": "Renault do Brasil S.A.",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 30407.905,
+                    "emissoes_escopo_2": 5321.089,
+                    "emissoes_escopo_3": 57229.806,
+                    "total_emissoes": 92958.8,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 25841.736,
+                    "emissoes_escopo_2": 3985.065,
+                    "emissoes_escopo_3": 58513.936,
+                    "total_emissoes": 88340.737,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias٫de٫transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "RENOVAR OLEOS VEGETAIS_8231",
+        "id_fgv": 8231,
+        "nome_oficial": "RENOVAR OLEOS VEGETAIS",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8603.947,
+                    "emissoes_escopo_2": 7.351,
+                    "emissoes_escopo_3": 11.912,
+                    "total_emissoes": 8623.21,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

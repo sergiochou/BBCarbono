@@ -1,0 +1,75 @@
+{
+    "id": 2425,
+    "name": "CELULOSE RIOGRANDENSE",
+    "about": "A planta de Guaíba da CMPC faz parte do grupo chileno CMPC (Compañia Manufacturera de Papeles y Cartones) e produz celulose branqueada de eucalipto e papel para impressão e escrita. A CMPC é a maior fabricante gaúcha de celulose branqueada de fibra curta de eucalipto, com 90% da produção destinada à exportação, especialmente para a fabricação de papéis de higiene pessoal (tissue), entre dezenas de outros produtos de alto valor agregado. O grupo CMPC conta com mais de 17 mil colaboradores em 8 países. Outras informações no site http://www.cmpc.com.br/. ",
+    "inventoriesId": [
+        2987,
+        3177,
+        3772,
+        3920,
+        4183,
+        4738,
+        5610,
+        6122,
+        7234,
+        9134
+    ],
+    "logoId": "d7d69dd0-f7d8-436a-b7c7-03c69748ca6d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 1368,
+    "name": "Positivo Tecnologia S.A. - Curitiba/PR",
+    "about": "A Positivo Tecnologia S.A. oferece produtos e serviços que envolvem desenvolvimento, fabricação, comercialização e distribuição de hardware, software e soluções de informática. O portfólio da empresa inclui computadores, celulares, tablets, acessórios, servidores, tecnologias educacionais, dispositivos para casas e ambientes inteligentes, terminais móveis de pagamento, urnas eletrônicas, locação de equipamentos de informática e mobilidade (HaaS), além de projetos especiais para o desenvolvimento de hardware sob demanda. Dentre os clientes da empresa estão incluídos varejistas de todos os portes, além de órgãos públicos.\nAbaixo são listadas as principais informações da operação da Positivo durante o período deste inventário:\n\n• Sites/fábricas: Matriz Positivo Tecnologia Curitiba٫ suas filiais Positivo Tecnologia\nManaus e Positivo Tecnologia Ilhéus, as controladas Boreo Manaus, Positivo Servers & Solutions (PSS) Ilhéus e Positivo Servers & Solutions Manaus¹;\n• Os principais componentes comprados pela empresa foram: gabinetes٫ monitores\nprocessadores, componentes de memórias, componentes de placas mãe, discos rígidos e softwares;\n• A maior parte dos componentes importados, considerados como matéria-prima, são oriundos do continente asiático (China e Taiwan);\n• Marcas comercializadas: Positivo, Vaio, Compaq, Positivo Casa Inteligente, Anker, 2 A.M., Positivo “Servers & Solutions”, Quantum e Educacional.\n\n¹A operação da PSS Manaus ocorre dentro dos mesmos limites físicos da Positivo Tecnologia Manaus, não havendo distinção significativa entre algumas fontes de emissão de gases de efeito estufa, tais como energia elétrica, resíduos e efluentes. Desta forma, algumas fontes de emissão não serão consideradas no inventário desta unidade.",
+    "inventoriesId": [
+        6019,
+        7498,
+        9154
+    ],
+    "logoId": "14256ddf-8d6a-4987-9499-84cd98529d4d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

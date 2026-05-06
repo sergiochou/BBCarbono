@@ -1,0 +1,50 @@
+{
+    "id": 2684,
+    "name": "Celeo Redes Brasil",
+    "about": "MISSÃO\r\nContribuir com o progresso econômico e tecnológico, bem-estar social e desenvolvimento sustentável através de investimentos em infraestruturas de energia seguras, confiáveis e eficientes.\r\n\r\nVISÃO\r\nSer uma empresa de referência no mercado de infraestrutura de energia, comprometidos com a excelência, com uma sólida cultura ambiental, social e de governança que envolva todas as partes interessadas na criação de valor da empresa.\r\n\r\nACIONISTAS\r\nO controle acionário da Celeo é composto por dois sócios: a espanhola Elecnor, que detém 51% das ações, e o fundo de pensão holandês APG GROUP, que possui 49% da Companhia.\r\n\r\nA Elecnor é uma das empresas líderes globais no desenvolvimento, construção e operação de projetos por meio de dois grandes negócios (infraestrutura e concessões), que se complementam e enriquecem mutuamente. Com quase 60 anos de contínuo crescimento e presença em mais de 50 países, com mais de 13 mil colaboradores, a Elecnor tornou-se um dos grupos empresariais espanhóis de maior destaque e uma referência nos setores de infraestruturas, energias renováveis e novas tecnologias. A diversificação de suas atividades tem sido um dos eixos estratégicos ao longo de sua história, permitindo-lhe atuar em distintos setores, que vão desde eletricidade, gás, instalações industriais, ferrovias, telecomunicações, água, sistemas de controle, construção, meio ambiente, manutenção de instalações até engenharia aeroespacial. Sua forte vocação internacional levou a um contínuo processo de expansão, o qual abriu as portas de novos mercados em todo o mundo, sendo os principais a América Central, a América do Sul, a África e o Oriente Médio. Sem dúvida, um Grupo cuja solvência técnica e financeira permite promover, desenvolver e construir todo tipo de infraestrutura nos cinco continentes.\r\n\r\nA APG, por sua vez,  é o maior administrador de pensões da Holanda e seus aproximadamente 3.000 funcionários lidam com consultoria de gestão, gestão de ativos, administração de pensões, comunicação de pensões e serviços de empregador. A APG desenvolve essas atividades em benefício de fundos de pensão e empregadores dos setores de educação, governo, construção, limpeza, habitação, energia e serviços públicos, empregos protegidos, especialistas em medicina e empresas de arquitetura. Para os fundos de pensão e outros fundos nessas indústrias, a APG administra aproximadamente 475 bilhões de euros em ativos de pensão. Atualmente, trabalha para\r\naproximadamente 40 mil empregadores e administra as pensões de uma em cada cinco famílias na Holanda, tendo, aproximadamente, 4,5 milhões de participantes, para\r\nisso tem escritório em Heerlen, Amsterdã, Bruxelas, Nova York e Hong Kong.  A APG atua para que as próximas gerações recebam um mundo melhor para viver, por isso aconselha seus clientes a realizarem investimentos responsáveis. Para a APG, sustentabilidade significa que as necessidades das gerações futuras também desempenham um papel significativo nas decisões de negócios.\r\n\r\nHISTÓRIA\r\nO Grupo Elecnor iniciou as suas operações no Brasil no ano 2000, participando e vencendo o Lote B do Leilão de Transmissão Aneel. No ano seguinte, a Companhia\r\npassou a se denominar Elecnor Transmissão de Energia S.A – ETESA e, em 2015, se consolidou no setor elétrico brasileiro como Celeo Redes Brasil S.A.\r\n\r\nNos últimos anos, a Companhia tem investido no aperfeiçoamento da sua gestão e crescimento dos seus negócios no país. Em 2018 realizou a certificação do Sistema de Gestão Integrada (SIG) e iniciou a diversificação dos seus negócios no Brasil, passando a atuar no segmento de geração de energia fotovoltaica com o Parque São João do Piauí, atualmente já em fase de operação. Hoje a Celeo Redes Brasil possui 4.757 km de linhas de transmissão (LT) e 56 subestações (SEs) distribuídas em 14 estados brasileiros e um Complexo Fotovoltaico com 6 usinas que totalizam 180 MW instalados.",
+    "inventoriesId": [
+        3711,
+        3914,
+        4265,
+        4588,
+        5013
+    ],
+    "logoId": "318c2f17-1fed-476c-b74b-c28fdf6e5332",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

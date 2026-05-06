@@ -1,0 +1,30 @@
+{
+    "id": 7586,
+    "name": "CAIXA Cartões",
+    "about": null,
+    "inventoriesId": [
+        7503
+    ],
+    "logoId": "2b758d71-bca7-0c1f-47a6-3a12f73bcf96",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

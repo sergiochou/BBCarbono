@@ -1,0 +1,90 @@
+{
+    "id": 356,
+    "name": "Petrobras",
+    "about": "Somos uma empresa brasileira de economia mista, uma das maiores produtoras de óleo e gás do mundo, de acordo com a Bloomberg, que atua principalmente em exploração e produção, refino, geração e comercialização de energia. Temos experiência em exploração e produção em águas profundas e ultraprofundas como resultado de quase 50 anos de desenvolvimento das bacias offshore do Brasil, líder mundial nesse segmento. Estamos comprometidos em ser a melhor empresa de energia em termos de diversificação, integração e geração de valor, conciliando o foco em óleo e gás com negócios de baixo carbono. Dessa forma, estamos adotando estratégias diferentes para os segmentos específicos em que atuamos, investindo na descarbonização de nossas operações, na geração de energia renovável e em combustíveis sustentáveis. Além disso, estamos expandindo nossa pesquisa no campo de negócios de baixo carbono. Buscamos construir um mundo mais sustentável, com os princípios de segurança, respeito ao meio ambiente e atenção plena às necessidades das pessoas, tais como: políticas e ações de implementação para promover a diversidade, a equidade e a inclusão, nos países em que operamos, bem como a saúde, o bem-\u0002estar e a segurança física e psicológica dos empregados.\n \nSomos uma das maiores empresas em capitalização de mercado na América Latina, de acordo com a Bloomberg, com uma capitalização de mercado de US$ 81,0 bilhões em 31 de dezembro de 2024. Contamos com mais de 49 mil empregados (incluindo subsidiárias no Brasil e no exterior).",
+    "inventoriesId": [
+        40,
+        1583,
+        1549,
+        1530,
+        3344,
+        3777,
+        4066,
+        4266,
+        4686,
+        5488,
+        6093,
+        7539,
+        8928
+    ],
+    "logoId": "009d9326-9a90-4ee7-ac41-4ebc06916ca9",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

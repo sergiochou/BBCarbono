@@ -1,0 +1,55 @@
+{
+    "id": 2932,
+    "name": "Grupo Neoenergia",
+    "about": "Somos a Neoenergia S.A., uma companhia de soluções energéticas que atua em três negócios: Redes (distribuição e transmissão de energia); Renováveis (geração eólica, hidráulica e solar) e Liberalizados (comercialização de energia, produtos e soluções energéticas e geração térmica). Operamos há 27 anos no Brasil, buscando construir um modelo de energia elétrica mais sustentável e acessível para os brasileiros. Como uma das empresas líderes do setor elétrico no país, atuamos em 18 estados e no Distrito Federal, levando soluções energéticas para cerca de 37,1 milhões de pessoas. O grupo espanhol Iberdrola é nosso acionista controlador, com 53,5% do capital social.\nNossas cinco distribuidoras – Neoenergia Coelba (BA), Neoenergia Pernambuco (PE), Neoenergia Cosern (RN), Neoenergia Elektro (SP/MS) e Neoenergia Brasília (DF) – atuam em cinco estados e no Distrito Federal, em uma área de concessão de 845 mil quilômetros quadrados e 16,6 milhões de unidades consumidoras atendidas.\n\nTemos 13 transmissoras em operação, com 3.287 quilômetros de linhas, e outras 5 em construção, que irão adicionar mais 5.320 quilômetros à nossa malha.\nNossa plataforma de geração é baseada em fontes limpas de energia, com participação relevante de fontes renováveis (hídrica, eólica e solar), com contratos de longo prazo de concessão das geradoras e de comercialização de energia no mercado regulado e no mercado livre. Somamos uma capacidade instalada em operação de 4.412 MW, dos quais 88% são de fontes renováveis. Temos cinco hidrelétricas (2.159 MW) com participação direta e indireta, 44 parques eólicos (1.554 MW) e dois parques fotovoltaicos (149 MWp) em operação. Ainda detemos uma geradora de energia termelétrica a gás, de ciclo combinado, a Termopernambuco (550 MW), que faz parte dos negócios Liberalizados.\n\nAlém da termelétrica, os negócios Liberalizados reúnem ainda a NC Energia, que comercializa energia com clientes no ambiente de livre contratação, além de prestar serviços personalizados e de gestão energética;\n\n",
+    "inventoriesId": [
+        4203,
+        4569,
+        5095,
+        5893,
+        7554,
+        8106
+    ],
+    "logoId": "8f788410-0838-4b85-8911-8f647ff47da2",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

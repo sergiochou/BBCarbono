@@ -1,0 +1,30 @@
+{
+    "id": 3838,
+    "name": "Carapreta Carnes Nobres",
+    "about": "A CARAPRETA é uma empresa destaque no agronegócio brasileiro, que segue padrões internacionais de qualidade e sustentabilidade, oferecendo ao mercado produtos produzidos com muita pesquisa e tecnologia embarcada.\r\nCom crescimento exponencial vertical e horizontal, a CARAPRETA está presente nas atividades agrícolas, pecuária, piscicultura, ovinos e energia em Minas Gerais, distribuindo seus produtos para 23 estados e 13 países.\r\nSocialmente justa, ambientalmente correta, a empresa é referência mundial de excelência ao oferecer o que há de mais ousado e inovador na produção agrícola, alavancando o desenvolvimento na região onde atua e transformando a economia local.\r\n",
+    "inventoriesId": [
+        5249
+    ],
+    "logoId": "00fffced-40ad-4bde-95b1-4bd75b5940eb",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 9198,
+    "name": "Aliseo S.A.",
+    "about": null,
+    "inventoriesId": [
+        8966
+    ],
+    "logoId": "6c8a2fd6-c97b-60c6-9c84-3a1a1ffefafe",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

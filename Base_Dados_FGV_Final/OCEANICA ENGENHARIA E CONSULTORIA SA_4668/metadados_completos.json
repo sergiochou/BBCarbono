@@ -1,0 +1,40 @@
+{
+    "id": 4668,
+    "name": "OCEANICA ENGENHARIA E CONSULTORIA S.A.",
+    "about": "Com mais de 44 anos de existência, desenvolvemos soluções submarinas para a indústria de energia offshore.\r\n\r\nSomos uma empresa brasileira com forte presença na manutenção da integridade de ativos offshore, garantindo sustentabilidade ambiental a longo prazo.\r\n\r\nAtuamos na prevenção, contingenciamento e engenharia buscando a mitigação do risco de eventuais impactos ambientais nas atividades de nossos clientes e aumentando a vida útil de seus ativos. Oferecemos serviços de inspeção, intervenção e monitoramento de estruturas submarinas e subaquáticas. Também desenvolvemos soluções completas aos nossos clientes, criando e otimizando recursos de engenharia.\r\n\r\nNossa estratégia de negócio foca na excelência operacional e na segurança de nossas operações, visando a melhor experiência aos nossos clientes, sustentabilidade e respeito à sociedade.\r\n\r\nAtuamos fortemente no suporte à manutenção da produção, em especial, desempenhando atividades primordiais para prevenção e conservação na indústria de óleo e gás e energia renovável, atendendo ao mercado de obras marítimas e apoio a grandes empreendimentos em portos e hidrelétricas. Atuamos também como prestadora de serviços para empresas de outros setores como telecomunicações e mineração.",
+    "inventoriesId": [
+        5993,
+        7488,
+        9057
+    ],
+    "logoId": "03466b52-ea6d-4bbb-b4f0-85883fcb40a7",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

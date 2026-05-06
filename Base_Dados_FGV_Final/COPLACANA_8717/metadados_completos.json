@@ -1,0 +1,30 @@
+{
+    "id": 8717,
+    "name": "COPLACANA",
+    "about": "A história de sucesso da COPLACANA se iniciou em 10 de outubro de 1948. A cooperativa nasceu com a finalidade de facilitar a vida dos pequenos e médios produtores rurais que tinham dificuldades para adquirir fertilizantes, defensivos e assistência técnica agronômica.\nCom esse propósito, 57 produtores traçaram uma nova caminhada e lançaram as primeiras sementes da COPLACANA, denominada, inicialmente, Cooperativa Central dos Plantadores de Cana do Estado de São Paulo – a segunda cooperativa do Brasil nesse segmento e a pioneira do Estado.\nSua primeira sede estava localizada na região central de Piracicaba/SP, na rua Alferes José Caetano. Neste local, os produtores se reuniam para discutir anseios, com o objetivo de promover o desenvolvimento e crescimento dos negócios no campo.\nA cooperativa começou com cana-de-açúcar no Estado de São Paulo. Com o passar do tempo, abriu o Estatuto e, a partir de então, qualquer produtor rural, de todas as regiões do Brasil, pode ser cooperado. Hoje, a matriz denominada Centro Canagro José Coral está situada na avenida Comendador Luciano Guidotti.\nCom o lema: \"produtor prosperando, a cooperativa também prospera”, o papel da COPLACANA é acompanhar e unir esforços para orientar os cooperados no planejamento das lavouras.\nTodos os colaboradores e a Diretoria são pautados pelos princípios do cooperativismo, que são de fundamental importância, e trabalham para o cooperado, o centro do negócio. Ao mesmo tempo que tem uma governança corporativa e gestores bem-preparados, mantém a essência de trabalhar com pessoas, para pessoas e por pessoas.",
+    "inventoriesId": [
+        8611
+    ],
+    "logoId": "af0d94e6-99ff-28ab-478c-3a19dbfe39dd",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

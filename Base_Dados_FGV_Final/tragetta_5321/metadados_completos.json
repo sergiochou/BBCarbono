@@ -1,0 +1,40 @@
+{
+    "id": 5321,
+    "name": "tragetta",
+    "about": null,
+    "inventoriesId": [
+        6543,
+        7667,
+        8969
+    ],
+    "logoId": "87f15119-4553-bf12-bff4-3a1b1cde1a3b",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

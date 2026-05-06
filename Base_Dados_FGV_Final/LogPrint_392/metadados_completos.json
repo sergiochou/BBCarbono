@@ -1,0 +1,55 @@
+{
+    "id": 392,
+    "name": "Log&Print ",
+    "about": "Fundado em 1992, o parque gráfico da Log&Print conta com uma das maiores e mais modernas estruturas da América Latina. Instalada em Vinhedo, interior do estado de São Paulo, a Log&Print está localizada a aproximadamente 75 km do centro da capital paulista e com fácil acesso às rodovias Anhanguera e Bandeirantes, além do Aeroporto Internacional de Viracopos.\r\n\r\nA empresa atua com um Sistema de Gestão Integrado, baseada nos mais rigorosos requisitos e padrões das normas de qualidade do mundo, Certificada na ISO 9001, ISO 14001, Cadeia de Custódia – CERFLOR e Cadeia de Custódia – FSC®.\r\n\r\nCom um parque gráfico que ocupa mais de 23.000 m² de área construída, abrigando estrutura automatizada com algumas das mais sofisticadas máquinas do mercado, a Log&Print é atualmente uma das maiores gráficas em capacidade de impressão e acabamento da América Latina.",
+    "inventoriesId": [
+        585,
+        36,
+        2403,
+        2058,
+        1635,
+        2809
+    ],
+    "logoId": "b0ab85cc-ff26-4a48-b964-ec02b2e71376",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

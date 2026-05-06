@@ -1,0 +1,35 @@
+{
+    "id": 3815,
+    "name": "Infra S.A.",
+    "about": "A VALEC Engenharia, Construções e Ferrovias S.A. é uma empresa pública, sob a forma de sociedade por ações, vinculada ao Ministério da Infraestrutura, nos termos previstos na Lei n° 11.772, de 17 de setembro de 2008. Através do Decreto nº 11.081, de 24 de maio de 2022, foi autorizado à VALEC incorporar a Empresa de Planejamento e Logística S.A. (EPL), dando origem à Infra S.A. A Infra S.A. tem como função planejar, desenvolver e operar o transporte ferroviário de alta velocidade de forma integrada aos demais modais, realizar estudos e projetos que subsidiem o planejamento da logística e dos transportes no país, além de construir e explorar a infraestrutura ferroviária, promovendo a inovação tecnológica e a gestão eficiente do patrimônio público relacionado ao setor.",
+    "inventoriesId": [
+        5057,
+        8330
+    ],
+    "logoId": "2f4fbc53-79fb-2db4-2538-3a19bd387149",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

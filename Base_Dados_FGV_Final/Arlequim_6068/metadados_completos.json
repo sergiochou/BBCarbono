@@ -1,0 +1,35 @@
+{
+    "id": 6068,
+    "name": "Arlequim",
+    "about": "Arlequim é a empresa de tecnologia que inova a forma de usar o computador, com liberdade e flexibilidade. Oferece a pessoas e empresas a melhor experiência digital sem a substituição de equipamentos.\nNossos fundadores têm mais de 30 anos de atuação em desenvolvimento de sistemas altamente complexos. Guiada pela cultura centrada no cliente, nossa equipe é especialista em desenvolvimento de infraestrutura como serviço (IaaS), virtualização e UX-User Experience.\nValorizamos pessoas como protagonistas das realizações, dedicadas a promover a autonomia digital que faz a diferença no mundo. ",
+    "inventoriesId": [
+        6984,
+        8025
+    ],
+    "logoId": "a8372a5c-009f-33de-7332-3a11f917470d",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

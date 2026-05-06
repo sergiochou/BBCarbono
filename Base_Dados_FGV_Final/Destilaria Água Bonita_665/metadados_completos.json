@@ -1,0 +1,30 @@
+{
+    "id": 665,
+    "name": "Destilaria Água Bonita",
+    "about": null,
+    "inventoriesId": [
+        74
+    ],
+    "logoId": "fb455f1e-5994-42d2-a636-f7c741fad0fd",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

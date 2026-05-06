@@ -1,0 +1,35 @@
+{
+    "id": 6148,
+    "name": "Fundação Proamb",
+    "about": "A Fundação Proamb, fundada em 1991 com o objetivo de destinar adequadamente os resíduos produzidos nos processos industriais de seus parceiros, assume há mais de três décadas o compromisso com o setor ambiental, moldando o cenário de soluções ambientais no Rio Grande do Sul. \n\nOferecendo uma ampla gama de soluções ambientais seguras e adequadas às necessidades de cada negócio, como o gerenciamento e a destinação final de resíduos sólidos, aterro industrial, blendagem para coprocessamento (que promove a conversão de resíduos industriais em energia ou matéria-prima), laboratório de análises ambientais, entre outras, a Proamb se destaca pelo pioneirismo e pela excelência em seus serviços. \n\nCredenciada pela qualidade e rigor em suas operações, a Proamb é referência no Brasil e se consolidou como líder gaúcha em soluções ambientais. Totalmente capacitada, a Fundação Proamb contribui significativamente para o desenvolvimento do setor ambiental no estado. \n\nCom 35 anos de atuação e pioneirismo no setor ambiental do sul do país, a Proamb vai além do trabalho com a destinação e processamento de resíduos. A instituição envolve a geração de conhecimento e aplicação de tecnologia para contribuir com o bem comum da sociedade. \n\nCom estrutura sólida e equipe técnica altamente capacitada, a Proamb oferece uma ampla gama de serviços ambientais, seguros e eficazes, garantindo excelência e qualidade. Entre suas atividades de negócios temos os núcleos de Educação, Laboratório de Análises Ambientais, Engenharia, Triagem com Armazenamento, Aterro Industrial, Blendagem para Coprocessamento e a organização da Feira Fiema Brasil. \n\nMais do que um negócio, a Proamb é uma instituição que tem, em sua essência, o objetivo de transformar positivamente seu entorno. Nesse contexto, por meio de planejamento, foco e muito trabalho, a Proamb firma dia após dia sua posição de liderança em soluções ambientais no Rio Grande do Sul. ",
+    "inventoriesId": [
+        7089,
+        8297
+    ],
+    "logoId": "c70f7ee7-7407-66c0-4760-3a1241175522",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 5973,
+    "name": "CEMIG",
+    "about": "A Companhia Energética de Minas Gerais (Cemig) é uma empresa de energia elétrica que atua no estado de Minas Gerais, Brasil. Ela é responsável pela geração, transmissão e distribuição de energia elétrica na região, comercialização de energia e distribuição de gás natural . A Cemig também está envolvida em programas de eficiência energética, responsabilidade social e sustentabilidade.",
+    "inventoriesId": [
+        6856,
+        8977
+    ],
+    "logoId": "d99ab358-af7a-e1d7-815e-3a11d0b07324",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

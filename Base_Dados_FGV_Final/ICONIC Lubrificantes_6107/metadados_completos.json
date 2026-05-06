@@ -1,0 +1,35 @@
+{
+    "id": 6107,
+    "name": "ICONIC Lubrificantes",
+    "about": "Somos líderes em lubrificantes do Brasil com o objetivo de ajudar o mundo a rodar melhor. Investimos alto em tecnologias e processos sustentáveis para desenvolver lubrificantes, fluídos e graxas para impulsionar o desenvolvimento de empresas e pessoas que estão comprometidas em transformar positivamente o futuro.\n",
+    "inventoriesId": [
+        7112,
+        8890
+    ],
+    "logoId": "490e2dc2-5bd4-3fce-baa5-3a12187a3809",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

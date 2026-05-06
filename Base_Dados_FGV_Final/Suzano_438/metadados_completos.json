@@ -1,0 +1,110 @@
+{
+    "id": 438,
+    "name": "Suzano",
+    "about": "A Suzano é referência global no desenvolvimento de soluções sustentáveis e inovadoras, de origem renovável, e tem como propósito renovar a vida a partir da árvore. Maior fabricante de celulose de eucalipto do mundo e uma das maiores produtoras de papéis da América Latina, atende mais de 2 bilhões de pessoas a partir de 13 fábricas em operação no Brasil e 2 fábricas em operação nos Estados Unidos, além das joint operations, Veracel e Woodspin. Com mais de 100 anos de história e uma capacidade instalada de 13,4 milhões de toneladas de celulose de mercado e 2,0 milhões de toneladas de papéis por ano, exporta para mais de 100 países. Tem sua atuação pautada na Inovabilidade – Inovação a serviço da Sustentabilidade – e nos mais elevados níveis de práticas socioambientais e de Governança Corporativa, com ações negociadas nas bolsas do Brasil e dos Estados Unidos. Para mais informações, acesse: www.suzano.com.br",
+    "inventoriesId": [
+        2173,
+        16,
+        482,
+        2579,
+        1585,
+        1551,
+        1532,
+        2916,
+        3293,
+        3539,
+        4027,
+        4475,
+        4934,
+        5522,
+        5776,
+        7063,
+        8093
+    ],
+    "logoId": "10a672c9-7e21-431f-a002-3b2d9a10d335",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

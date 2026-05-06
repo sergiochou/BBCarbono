@@ -1,0 +1,55 @@
+{
+    "id": 2282,
+    "name": "Votorantim Industrial",
+    "about": "A Votorantim Industrial (VID) é uma empresa de capital fechado, 100% brasileira, que integra a\r\n\r\nVotorantim Participações (VPAR ou Votorantim),cujos negócios são organizados em três segmentos: Industrial, Finanças e Novos\r\n\r\nNegócios. O portfólio diversificado da VID possui um modelo de princípios comuns seguidos por todos os Negócios e expressos em\r\n\r\nsua visão, aspiração, seus valores e crenças. Sua atuação global concentra operações em setores de base da economia que\r\n\r\ndemandam capital intensivo e alta escala de produção: cimento, mineração e metalurgia (alumínio, zinco e níquel), siderurgia, celulose\r\n\r\ne papel, suco concentrado de laranja e autogeração de energia. A VID trabalha para aprimorar constantemente sua gestão e\r\n\r\nprocessos por meio da busca das melhores práticas, visando aos melhores índices de desempenho nos setores em que atua e a\r\n\r\nmitigação dos impactos socioambientais das operações.",
+    "inventoriesId": [
+        70,
+        2128,
+        1586,
+        1552,
+        1533,
+        503
+    ],
+    "logoId": "6c18275c-a06e-4cc8-a5be-d26bd98fb946",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

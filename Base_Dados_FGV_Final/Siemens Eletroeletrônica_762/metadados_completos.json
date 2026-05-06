@@ -1,0 +1,35 @@
+{
+    "id": 762,
+    "name": "Siemens Eletroeletrônica",
+    "about": "Fabricaçao de materiais elétricos e eletrônicos ",
+    "inventoriesId": [
+        1632,
+        60
+    ],
+    "logoId": "1b904ae6-70e1-4b0c-8c77-fd76bfc0b782",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

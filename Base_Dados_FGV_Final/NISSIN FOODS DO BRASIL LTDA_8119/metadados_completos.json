@@ -1,0 +1,35 @@
+{
+    "id": 8119,
+    "name": "NISSIN FOODS DO BRASIL LTDA",
+    "about": null,
+    "inventoriesId": [
+        7830,
+        9008
+    ],
+    "logoId": "12915bb8-4a57-3d2e-ad80-3a132a292971",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

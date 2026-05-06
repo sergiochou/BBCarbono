@@ -1,0 +1,40 @@
+{
+    "id": 1992,
+    "name": "REDECARD S.A.",
+    "about": "A Redecard atua na industria de meios eletrônicos de pagamento - serviços financeiros.",
+    "inventoriesId": [
+        296,
+        298,
+        297
+    ],
+    "logoId": "ab3f662b-1fc6-45c2-a78c-3c8e350ab20e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

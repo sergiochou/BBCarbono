@@ -1,0 +1,55 @@
+{
+    "id": 2805,
+    "name": "TIGRE",
+    "about": "Com uma história de mais de 80 anos, a Tigre, multinacional brasileira, é o segundo maior player nas Américas nos segmentos de hidráulica, elétrica, drenagem e acessórios sanitários, 22 unidades fabris – 10 no Brasil e 12 no exterior –, cerca de 5 mil profissionais, com presença em mais de 35 países. A empresa, sediada em Joinville (SC), mantém portfólio amplo que abrange infraestrutura, irrigação, ferramentas para pintura e metais sanitários, além de oferecer soluções para saneamento por meio da Tigre Água e Efluentes.\n",
+    "inventoriesId": [
+        3913,
+        4352,
+        5348,
+        5353,
+        6220,
+        7709
+    ],
+    "logoId": "8806acde-2020-48d8-ad48-8927e8087124",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

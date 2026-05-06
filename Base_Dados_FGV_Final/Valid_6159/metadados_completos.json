@@ -1,0 +1,35 @@
+{
+    "id": 6159,
+    "name": "Valid",
+    "about": "A Valid é uma empresa global de soluções em segurança digital e física que oferece um completo portfólio em meios de pagamento, telecomunicações e sistemas de identificação, assim como gestão de cidades inteligentes e certificação digital.\nSomos uma powerhouse brasileira de capital aberto que entrega soluções de confiança com inovação e tecnologia de ponta para oferecer um mundo mais confiável, seguro e digital. Com um legado de quase sete décadas de existência, vivemos em constante evolução e, hoje, somos mais de 3.700 colaboradores, que se dedicam para oferecer mais segurança, confiança e responsabilidade em todas as nossas soluções.\n",
+    "inventoriesId": [
+        7609,
+        8152
+    ],
+    "logoId": "6447b77a-bbe7-2f87-b396-3a1242b37d8a",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

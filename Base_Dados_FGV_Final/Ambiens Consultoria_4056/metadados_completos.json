@@ -1,0 +1,45 @@
+{
+    "id": 4056,
+    "name": "Ambiens Consultoria",
+    "about": "Com método próprio e tecnologia inovadora, a Ambiens Sustentabilidade Integrada conquista clientes e desenvolve cases em diversas regiões do país desde 2001, atuando no planejamento, execução e operação dos projetos de acordo com as exigências da legislação de controle ambiental vigente.\n\nAlém de uma equipe técnica multidisciplinar composta por especialistas, mestres e doutores, com ampla experiência e reconhecimento nas instituições acadêmicas, órgãos ambientais e organizações sociais, a Ambiens conta com o controle de qualidade obtidos por meio de procedimentos operacionais pré-estabelecidos e apoio de equipamentos tecnológicos de última geração, sistemas informatizados de monitoramento, incluindo drones e ferramentas de geoprocessamento.\n",
+    "inventoriesId": [
+        5300,
+        6096,
+        7807,
+        9214
+    ],
+    "logoId": "1f9a4d27-7264-4a13-b27f-6cb534868787",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

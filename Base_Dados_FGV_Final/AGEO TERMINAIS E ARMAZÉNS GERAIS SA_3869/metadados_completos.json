@@ -1,0 +1,45 @@
+{
+    "id": 3869,
+    "name": "AGEO TERMINAIS E ARMAZÉNS GERAIS S.A",
+    "about": "De capital 100% nacional, iniciou suas operações em 2004, sendo atualmente titular de três concessões da União. Apresenta localização privilegiada, na Ilha Barnabé, margem esquerda do Porto de Santos, sem restrições geográficas para expansões. Possui acessibilidade marítima e rodoviária, sendo caracterizado como armazém alfandegado, incluindo regime de entreposto aduaneiro.\n\nOs Terminais AGEO destacam-se pela ampla infraestrutura de serviços, atualmente composta por capacidade instalada de 510 mil m³, 272 Tanques, 4 berços de atracação, sendo 1 exclusivo, 38 linhas de tubulação de interligação dos Terminais com os berços e 57 baias rodoviárias de carga e descarga, sendo as maiores instalações do maior complexo marítimo da América Latina, o Porto de Santos.\n\nDotado de elevado nível de automação, oferece grandes performances e eficiência em suas operações, atendendo aos mercados de exportação e importação de produtos químicos, petroquímicos, combustíveis, etanol, corrosivos, especialidades, farmacêuticos, cosméticos e alimentícios.",
+    "inventoriesId": [
+        5114,
+        5789,
+        7140,
+        8473
+    ],
+    "logoId": "4718bf5e-ef34-4339-b9c3-5748a3386cb7",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

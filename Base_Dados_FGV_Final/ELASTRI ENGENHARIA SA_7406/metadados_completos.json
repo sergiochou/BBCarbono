@@ -1,0 +1,35 @@
+{
+    "id": 7406,
+    "name": "ELASTRI ENGENHARIA S/A",
+    "about": "A Elastri Engenharia S.A., fundada em 1982, firmou-se como uma das principais construtoras no sul do Brasil. Celebrando mais de quatro décadas de excelência, a empresa é reconhecida por sua expertise no segmento de construção civil pesada e montagem eletromecânica e destaca-se no cenário nacional por seus projetos de energias renováveis (complexos eólicos, hidrelétricas e plantas de energia solar) e obras de transmissão de energia.\n\nEssa abordagem diversificada permite a Elastri contribuir de forma significativa para o desenvolvimento sustentável e para a modernização da infraestrutura energética brasileira. Com 41 anos de história, a Elastri Engenharia S.A. continua a construir um legado focado em qualidade, sustentabilidade e ESG (Environmental, Social e Governance).",
+    "inventoriesId": [
+        7127,
+        9150
+    ],
+    "logoId": "e24414d8-69d6-0f8e-42be-3a12b8047fe6",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

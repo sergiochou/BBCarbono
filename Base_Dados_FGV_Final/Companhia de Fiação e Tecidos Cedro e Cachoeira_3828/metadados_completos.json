@@ -1,0 +1,45 @@
+{
+    "id": 3828,
+    "name": "Companhia de Fiação e Tecidos Cedro e Cachoeira",
+    "about": "Desde 1872, a Cedro tece fio-a-fio uma trajetória de protagonismo na indústria têxtil nacional. Com 150 anos de atuação ininterrupta, a empresa se consolidou sendo uma das quatro maiores indústrias do país em seu segmento e possui capital 100% brasileiro. A busca em sempre oferecer soluções com excelência e inovação faz da Cedro uma empresa de grandes diferenciais no mercado para atuar no segmento Jeanswear e Workwear. Com sede corporativa em Belo Horizonte (MG), a Cedro emprega, diretamente, mais de 3.400 pessoas e possui quatro unidades industriais em Minas Gerais. \nMais que algodão, tecemos relacionamentos com nossos colaboradores, clientes e fornecedores. Mais que produtos, tecemos beleza, tecnologia e proteção. Mais que negócios, tecemos valor, integridade e governança. Mais que desenvolvimento, tecemos um futuro sustentável. Somos movidos pelos aprendizados acumulados em 150 anos de história e pela capacidade de se reinventar e trilhar novos caminhos.\nComo forma de contar a sua história, a Cedro Textil é mantenedora do Museu Têxtil Décio Mascarenhas desde 1983, situado na Fábrica do Cedro, em Caetanópolis. O acervo de mais de 1.000 peças é o mais completo museu têxtil do país, cumprindo o papel de preservar e perpetuar a história da indústria têxtil nacional. Mais informações podem ser encontradas no site oficial: www.cedro.com.br\n\n",
+    "inventoriesId": [
+        5111,
+        5794,
+        7607,
+        8099
+    ],
+    "logoId": "d1f08e56-cd38-4200-b526-ca4f83a1fa78",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

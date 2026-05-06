@@ -1,0 +1,85 @@
+{
+    "id": 789,
+    "name": "Leão Alimentos e Bebidas",
+    "about": "A Leão Alimentos e Bebidas é responsável pela produção de chás para infusão, chimarrão e tereré no portfólio da Coca-Cola Brasil. Atuamos com as linhas Matte Leão, Ervas Básicas, Frutas & Flores, Preparo em Água Gelada, Leãozinho, Funcionais, Vitamínicos, Autocuidado Feminino, Preparo para Drinks e Erva Mate Verde.\n\nSer reconhecida como centro de excelência na cadeia de suprimentos, atuando de forma sustentável é a nossa visão. Nosso grande objetivo é encantar os consumidores e superar suas expectativas com produtos de alta qualidade, evidenciando os valores que fazem parte de nosso DNA.\n\nCom mais de 700 colaboradores diretos, além de quase 200 indiretos, a Leão Alimentos e Bebidas conta com unidades fabris localizadas em Fazenda Rio Grande/PR e Fernandes Pinheiro/PR, e é uma empresa comprometida com a cultura de sustentabilidade, respeitando suas comunidades, funcionários e o meio ambiente.\n\nPara mais informações, visite www.leaoab.com.br.",
+    "inventoriesId": [
+        2675,
+        2162,
+        3076,
+        3425,
+        3720,
+        4068,
+        4459,
+        4950,
+        5652,
+        6645,
+        7848,
+        9114
+    ],
+    "logoId": "332efa61-be9c-4df1-b14f-94987a684f21",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

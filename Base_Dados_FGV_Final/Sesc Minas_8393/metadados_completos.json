@@ -1,0 +1,30 @@
+{
+    "id": 8393,
+    "name": "Sesc Minas",
+    "about": "O Sesc, Serviço Social do Comércio, tem como missão primordial a promoção da qualidade de vida dos trabalhadores e das trabalhadoras do comércio, incluindo dependentes e familiares. Atuando no estado desde 1948, o Sesc em Minas é referência para várias gerações de mineiros e mineiras nas áreas de Educação, Cultura, Lazer, Saúde, Esporte, Turismo e Ação Social, respaldado pelos mais de 75 anos de sua fundação nacional.\n\nAtualmente, a instituição se orgulha de oferecer serviços cada vez mais modernos e diversificados nesses campos de atuação, operando de forma integrada ao Sistema Fecomércio MG, ao Senac e aos Sindicatos Empresariais. Dessa forma, atendemos às necessidades de um público formado por crianças, adolescentes, pessoas adultas e público +60 em múltiplas unidades de serviços espalhadas por todas as regiões de Minas Gerais.",
+    "inventoriesId": [
+        8092
+    ],
+    "logoId": "bfacc5dc-ed7f-129e-39a3-3a1909b49e6d",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

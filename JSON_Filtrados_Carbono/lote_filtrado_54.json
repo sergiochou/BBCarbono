@@ -1,0 +1,405 @@
+[
+    {
+        "empresa_pasta": "JDANTAS SA Engenharia_627",
+        "id_fgv": 627,
+        "nome_oficial": "J.DANTAS S/A Engenharia",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 633.352,
+                    "emissoes_escopo_2": 1.166,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 634.518,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "JFRS_5440",
+        "id_fgv": 5440,
+        "nome_oficial": "JFRS",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 845.451,
+                    "emissoes_escopo_2": 426.903,
+                    "emissoes_escopo_3": 3323.227,
+                    "total_emissoes": 4595.581,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 254.743,
+                    "emissoes_escopo_2": 207.612,
+                    "emissoes_escopo_3": 1960.474,
+                    "total_emissoes": 2422.829,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 311.469,
+                    "emissoes_escopo_2": 364.268,
+                    "emissoes_escopo_3": 1293.276,
+                    "total_emissoes": 1969.013,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 243.426,
+                    "emissoes_escopo_2": 75.844,
+                    "emissoes_escopo_3": 1952.648,
+                    "total_emissoes": 2271.918,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 423.621,
+                    "emissoes_escopo_2": 65.998,
+                    "emissoes_escopo_3": 1718.031,
+                    "total_emissoes": 2207.65,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração▶pública,▶defesa▶e▶seguridade▶social",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "JHE Engenharia_7386",
+        "id_fgv": 7386,
+        "nome_oficial": "JHE Engenharia",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 90.816,
+                    "emissoes_escopo_2": 3.7,
+                    "emissoes_escopo_3": 38.403,
+                    "total_emissoes": 132.919,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras✅atividades✅de✅serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "JLR Brasil_8159",
+        "id_fgv": 8159,
+        "nome_oficial": "JLR Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 324.751,
+                    "emissoes_escopo_2": 162.998,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 487.749,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Joo Pessoa_2489",
+        "id_fgv": 2489,
+        "nome_oficial": "Jo?o Pessoa",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9863.437,
+                    "emissoes_escopo_2": 4157.891,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 14021.328,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9692.337,
+                    "emissoes_escopo_2": 2.805,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9695.142,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "KAPPESBERG_4585",
+        "id_fgv": 4585,
+        "nome_oficial": "KAPPESBERG",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1605.188,
+                    "emissoes_escopo_2": 31.295,
+                    "emissoes_escopo_3": 145.82,
+                    "total_emissoes": 1782.303,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1696.444,
+                    "emissoes_escopo_2": 1427.742,
+                    "emissoes_escopo_3": 53.749,
+                    "total_emissoes": 3177.935,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Karina Plásticos_4114",
+        "id_fgv": 4114,
+        "nome_oficial": "Karina Plásticos",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1769.128,
+                    "emissoes_escopo_2": 5464.932,
+                    "emissoes_escopo_3": 466975.503,
+                    "total_emissoes": 474209.563,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1550.664,
+                    "emissoes_escopo_2": 11258.494,
+                    "emissoes_escopo_3": 507060.434,
+                    "total_emissoes": 519869.592,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1371.471,
+                    "emissoes_escopo_2": 3882.53,
+                    "emissoes_escopo_3": 519004.107,
+                    "total_emissoes": 524258.108,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 948.238,
+                    "emissoes_escopo_2": 3563.496,
+                    "emissoes_escopo_3": 458779.693,
+                    "total_emissoes": 463291.427,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "as a longo prazo: • Atingir a neutralidade de carbono até 2030 nos escopos 1 e 2; • Operar com 100% de energia renovável até 2025; • Eliminaçã"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "KATRIUM INDUSTRIAS QUIMICAS SA_8334",
+        "id_fgv": 8334,
+        "nome_oficial": "KATRIUM INDUSTRIAS QUIMICAS S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8331.06,
+                    "emissoes_escopo_2": 8517.521,
+                    "emissoes_escopo_3": 21800.44,
+                    "total_emissoes": 38649.021,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Keyassociados_2488",
+        "id_fgv": 2488,
+        "nome_oficial": "Keyassociados",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.004,
+                    "emissoes_escopo_2": 3.336,
+                    "emissoes_escopo_3": 48.249,
+                    "total_emissoes": 51.589,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "KIC  KAARA INCORPORACOES E CONSTRUCOES SA_3820",
+        "id_fgv": 3820,
+        "nome_oficial": "KIC - KAARA INCORPORACOES E CONSTRUCOES S/A",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 60.551,
+                    "emissoes_escopo_2": 26.394,
+                    "emissoes_escopo_3": 758.9,
+                    "total_emissoes": 845.845,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 98.502,
+                    "emissoes_escopo_2": 22.95,
+                    "emissoes_escopo_3": 2096.164,
+                    "total_emissoes": 2217.616,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 151.865,
+                    "emissoes_escopo_2": 25.595,
+                    "emissoes_escopo_3": 2975.79,
+                    "total_emissoes": 3153.25,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "id": 1918,
+    "name": "CNEC WorleyParsons Engenharia SA",
+    "about": null,
+    "inventoriesId": [
+        1741,
+        1717,
+        1728
+    ],
+    "logoId": "12b39143-d5cd-4ce0-95f5-cd4aecec5782",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

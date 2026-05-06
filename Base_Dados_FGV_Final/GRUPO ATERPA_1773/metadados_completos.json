@@ -1,0 +1,55 @@
+{
+    "id": 1773,
+    "name": "GRUPO ATERPA",
+    "about": "Fundada em 1951 como Tavares Salazar e sediada em Belo Horizonte, a Aterpa realizou sua primeira obra em Conceição do Mato Dentro. A empresa especializou-se em construção, restauração e manutenção de rodovias e, em 1977, mudou para Construtora Aterpa Ltda. Após ter acumulado grande expertise no setor rodoviário, a Construtora Aterpa passou a empreender outros segmentos econômicos. A empresa firmou-se como holding Aterpa, alcançando uma atuação em nível nacional. Aliada à solidez financeira, conquistada por meio de uma gestão focada em segurança, austeridade, credibilidade e comprometimento com o resultado, a Aterpa adotou ao longo dos anos uma estratégia de aquisições e associações com empresas especializadas. Hoje, a Aterpa é uma organização que integra empresas com profunda experiência em diferentes áreas de negócios: infraestrutura urbana, edificações civis e industriais, saneamento, mineração, siderurgia, geração de energia, operações portuárias, administração de rodovias e de redes de água e esgoto em regime de concessão.\r\n\r\nEm 2005, a Aterpa adquiriu a construtora Cofaso, especializada em saneamento. Três anos depois ocorreu a aquisição do controle acionário total da M.Martins, empresa com vasta expertise em obras-de-arte especiais. Em 2010 houve a aquisição da Sonel, com experiência em obras de saneamento básico. Em 2012 adquiriu o controle acionário da J Dantas, empresa especializada em engenharia de túneis e escavações subterrâneas. Paralelamente, a Aterpa associou-se a outras empresas, como a Supermix, que originou a Impar, empresa voltada para o mercado de produção e comercialização de materiais pétreos e incorporou a M. Martins, dando origem a Construtora Aterpa M.Martins S/A.\r\n\r\nResultado de desafios e da expertise acumulada no decorrer dos anos, a Aterpa M.Martins e as empresas que fazem parte do Grupo assinam hoje obras renomadas em diferentes regiões do Brasil. Destacam-se o Viaduto Engenheiro Márcio Rocha Martins, na BR-040, próximo a Congonhas (MG); as construções da primeira ponte sobre o Rio Madeira, em Porto Velho (RO), e da ponte estaiada de Laguna (SC), na BR-101; os aeroportos de Capelinha (MG) e Ubá (MG); o busway da Avenida Cristiano Machado, em Belo Horizonte (MG); além das intervenções emergências das pontes sobre o Rio Jacuí, em Agudo (RS), e sobre o Rio das Velhas, na BR-381, em Sabará (MG).\r\n\r\nO Grupo também executou contratos para a construção de Estação de Tratamento de Esgoto (ETE) em Pouso Alegre (MG) e de uma subestação de energia para o Sistema Serra Azul. No setor de infraestrutura ferroviária, a Aterpa M.Martins está executando mais de 110 quilômetros da Ferrovia Norte-Sul, em Goiás, e iniciará importantes obras no Complexo Petroquímico do Rio de Janeiro (Comperj), para a Petrobras.\r\n\r\nAo completar seis décadas de dedicação a obras de infraestrutura, o Grupo Aterpa volta suas atenções para outros nichos de mercado. Em 2011, a empresa passou a atuar no setor de óleo e gás, com contratos com a Petrobras e estudos para aquisições no segmento. \r\n\r\nOutro desafio identificado recentemente é a internacionalização. Em 2010, o Grupo Aterpa iniciou sua atuação no exterior ao optar pelo mercado peruano, onde pretende focar em obras rodoviárias. \r\n\r\n",
+    "inventoriesId": [
+        2638,
+        2090,
+        361,
+        3040,
+        3330,
+        3516
+    ],
+    "logoId": "0f3f7ab9-bcc2-4987-85fd-16a39c12b054",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

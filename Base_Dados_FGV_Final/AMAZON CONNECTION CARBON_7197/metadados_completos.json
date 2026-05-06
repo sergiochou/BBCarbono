@@ -1,0 +1,35 @@
+{
+    "id": 7197,
+    "name": "AMAZON CONNECTION CARBON",
+    "about": "A Amazon Connection Carbon (ACC) é uma empresa especializada em soluções sustentáveis, com foco em projetos de crédito de carbono e outras iniciativas ambientais. Nossos serviços abrangem a conservação de florestas nativas, apoio à produção florestal sustentável, pesquisa e desenvolvimento experimental, geração e comercialização de créditos de carbono, inventários de emissões de gases de efeito estufa, neutralização de emissões, consultoria em descarbonização e fortalecimento institucional. Por meio de uma equipe multidisciplinar altamente qualificada, buscamos oferecer soluções inovadoras e eficazes, alinhadas com os desafios ambientais e as necessidades regionais. A organização prioriza transparência, responsabilidade social, inovação e diversidade em seu trabalho. Atualmente, sendo atores da década das Nações Unidas sobre Restauração de Ecossistemas (2021-2030), a ACC tem como missão conservar e recuperar os ecossistemas degradados, especialmente na região da Amazônia. Com nossa expertise e compromisso com a sustentabilidade, estamos na vanguarda dos esforços globais para restaurar a integridade eco lógica e promover um futuro mais sustentável. A ACC é constituída por uma equipe multidisciplinar de profissionais altamente qualificados, abrangendo uma variedade de perfis e competências. A expertise da equipe se estende a um conhecimento aprofundado da Amazônia e dos diversos biomas brasileiros, permitindo uma abordagem integrada e abrangente nas suas atividades. Essa diversidade de habilidades e o entendimento detalhado dos ecossistemas locais garantem soluções inovadoras e eficazes, alinhadas com os desafios ambientais e as necessidades regionais.",
+    "inventoriesId": [
+        7066,
+        8359
+    ],
+    "logoId": "061e65ca-9963-11d6-6979-3a12618c1702",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,85 @@
+{
+    "id": 885,
+    "name": "CELESC",
+    "about": "A Centrais Elétricas de Santa Catarina S.A. – CELESC está entre as maiores empresas do setor elétrico brasileiro, com destaque nas áreas de distribuição e geração de energia. Estruturada como Holding em 2006, a Empresa possui duas subsidiárias integrais – a Celesc Distribuição S.A. e a Celesc Geração S.A. Além disso, detém o controle acionário da Companhia de Gás de Santa Catarina (SCGÁS) e é sócia das empresas Dona Francisca Energética S.A. (DFESA), Empresa Catarinense de Transmissão de Energia S.A. (ECTE) e a Companhia Catarinense de Água e Saneamento (CASAN).\r\n\r\nSeu acionista controlador é o Estado de Santa Catarina, detentor de 50,18% das ações ordinárias da Companhia, correspondentes a 20,2% do Capital Total. A Centrais Elétricas de Santa Catarina S.A. – CELESC está entre as maiores empresas do setor elétrico brasileiro, com destaque nas áreas de distribuição e geração de energia. Estruturada como Holding em 2006, a Empresa possui duas subsidiárias integrais – a Celesc Distribuição S.A. e a Celesc Geração S.A. Além disso, detém o controle acionário da Companhia de Gás de Santa Catarina (SCGÁS) e é sócia das empresas Dona Francisca Energética S.A. (DFESA), Empresa Catarinense de Transmissão de Energia S.A. (ECTE) e a Companhia Catarinense de Água e Saneamento (CASAN).\r\n\r\nSeu acionista controlador é o Estado de Santa Catarina, detentor de 50,18% das ações ordinárias da Companhia, correspondentes a 20,2% do Capital Total. \r\n\r\nFonte: https://ri.celesc.com.br/a-celesc/perfil-corporativo/\r\n\r\n",
+    "inventoriesId": [
+        2398,
+        2076,
+        2954,
+        3313,
+        3688,
+        4010,
+        4344,
+        4512,
+        5028,
+        5838,
+        7663,
+        8619
+    ],
+    "logoId": "43b3d5e4-797f-a6b2-8858-3a1a00c060f1",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

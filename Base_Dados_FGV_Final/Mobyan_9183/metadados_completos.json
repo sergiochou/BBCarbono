@@ -1,0 +1,30 @@
+{
+    "id": 9183,
+    "name": "Mobyan",
+    "about": "Empresa destaque no desenvolvimento e implantação de soluções logísticas pautadas em tecnologia de ponta, atendendo grandes clientes com capilaridade nacional.",
+    "inventoriesId": [
+        9179
+    ],
+    "logoId": "36a8e151-fc31-5d43-833e-3a1a34b904a2",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

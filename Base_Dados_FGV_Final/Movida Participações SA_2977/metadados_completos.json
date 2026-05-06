@@ -1,0 +1,55 @@
+{
+    "id": 2977,
+    "name": "Movida Participações S.A.",
+    "about": "A Movida Participações S.A., empresa do Grupo SIMPAR, é a segunda maior locadora brasileira de veículos. A Companhia oferece ao mercado soluções modernas, diferenciadas e inovadoras para impulsionar seu crescimento e contribuir com a melhoria da mobilidade urbana, atuando em duas frentes: aluguel de carros, que tem como negócio complementar a venda de seminovos; e Gestão e Terceirização de Frotas (GTF).\nA partir da sede, localizada na capital paulista, coordena uma estrutura composta por 259 pontos de atendimento RAC, 89 pontos de atendimento de seminovos e uma frota de 268.000 veículos, empregando mais de 6 mil pessoas e conectada a uma rede de mais de 12 mil fornecedores. Assim, mantém sua marca presente em todos os estados brasileiros e no Distrito Federal. Em 2022, passou a operar também em Portugal, com a aquisição da locadora Drive on Holidays.\nA divisão de aluguel de carros, a Rent a Car (RAC), se destaca pela oferta de frota moderna, com idade média de 14 meses, eficiente e adequada à operação, com diversificação nas modalidades de locação. Em 2023, a área foi incrementada com o lançamento da Moover, marca destinada exclusivamente a profissionais do volante, como os motoristas de aplicativos ou que trabalham com entrega de produtos do varejo. Foram inaugurados cinco pontos de atendimento ao longo do ano, todas na capital paulista. Em Gestão e Terceirização de Frotas, a Movida Frotas trabalha com contratos de longo prazo, fornecendo frota customizada, assistência técnica e prestação de uma série de serviços para clientes do setor público, empresas de economia mista, clientes corporativos e clientes pessoa física. Nesse segmento, a Companhia atua também com a marca CS Frotas, especializada no aluguel de carros leves para o setor público e empresas de economia mista.\nA Movida mantém oferta de carro por assinatura, além de deter a SAT, empresa de rastreadores com telemetria e assistência 24 horas criada para, em um primeiro momento, atender somente aos veículos da frota da Movida, com objetivo de reduzir custos com a contratação de terceiros e oferecer segurança e agilidade no atendimento de clientes durante o período de locação.\nA Companhia consolidou, com colaboradores e parceiros, uma cultura empresarial marcada pela busca contínua de excelência em todas as atividades, os relacionamentos e negócios. Para a Movida, esse modelo de gestão requer a combinação de disciplina na execução do plano estratégico, eficiências operacional e financeira, inovação com foco na geração de valor para seus negócios e clientes, avanço na transformação digital e alinhamento aos mais elevados padrões de governança e de sustentabilidade.",
+    "inventoriesId": [
+        4326,
+        4645,
+        5551,
+        6343,
+        7286,
+        8703
+    ],
+    "logoId": "867e3cd5-983d-a80e-1036-3a1a0a559d5c",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

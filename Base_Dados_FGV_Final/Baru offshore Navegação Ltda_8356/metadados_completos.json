@@ -1,0 +1,35 @@
+{
+    "id": 8356,
+    "name": "Baru offshore Navegação Ltda",
+    "about": "Empresa Brasileira de Navegação. Excelência na Indústria Marítima Offshore.",
+    "inventoriesId": [
+        8020,
+        8021
+    ],
+    "logoId": "beda9465-4059-6141-730a-3a1a67259c93",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

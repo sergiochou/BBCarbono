@@ -1,0 +1,35 @@
+{
+    "id": 5979,
+    "name": "NIP do Brasil",
+    "about": "Somos uma empresa de engenharia multidisciplinar que integra um grupo com presença em três países, 14 escritórios e 661 colaboradores em 2024. No Brasil, atuamos em 19 estados, com projetos de grande porte nos setores de energia, gás natural, saneamento, meio ambiente e patrimônio imobiliário.\n\nNossa visão de longo prazo está ancorada no crescimento sustentável, na excelência operacional e na geração de valor para a sociedade e o meio ambiente.",
+    "inventoriesId": [
+        6793,
+        8187
+    ],
+    "logoId": "0c8b6d2f-380f-043c-60a5-3a199501f669",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

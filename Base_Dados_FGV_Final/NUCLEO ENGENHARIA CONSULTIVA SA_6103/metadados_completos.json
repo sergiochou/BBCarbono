@@ -1,0 +1,35 @@
+{
+    "id": 6103,
+    "name": "NUCLEO ENGENHARIA CONSULTIVA S.A.",
+    "about": "A NÚCLEO ENGENHARIA CONSULTIVA S.A. é uma empresa multisetorial e uma das líderes brasileiras no setor de engenharia consultiva. É uma sociedade anônima de capital fechado integrante da NÚCLEO HOLDING LTDA. Fundada em 1990, a NÚCLEO tem mais de 30 anos de experiência para o desenvolvimento de soluções nas seguintes áreas principais:\n\nEngenharia do Proprietário\nEstudos de Viabilidade, Engenharia Básica e Detalhada;\nGerenciamento da Construção e Apoio Técnico\nInspeção e Comissionamento\nDue Diligence\nSuprimentos\nEPCM\nEstudos Patrimoniais e Ambientais\n\nAtualmente atuamos nos seguintes mercados principais:\n\nENERGIA\nSistemas de Transmissão: Linhas e Subestações\nGeração: Hidroelétrica, Nuclear, Térmica e Eólica\nDistribuição: Sistemas de Distribuição e Iluminação Pública\n\nINDÚSTRIA E MINERAÇÃO\nIndústria: Base Florestal, Agroindústria, Petroquímica e Cimento\nMineração: Extração, Beneficiamento e Transporte\n\nÓLEO e GÁS\nÓleo: Exploração Offshore e Onshore, Refino, Transporte e Armazenagem.\nGás: Exploração, Tratamento, Transporte, Armazenagem e Distribuição.\n\nINFRAESTRUTURA\nTransportes: Rodovias, Metros e Ferrovias, Portos, Aeroportos e Sistema Viários.\nSaneamento: Sistemas de Tratamento e Abastecimento de Água, Sistemas de Coleta e Tratamento de Esgotos.\nRecursos Hídricos: Bacias Hidrográficas, Canalizações, Retenção e Redes de Drenagem.\n\nSOLUÇÕES URBANAS\nUrbanismo: Cidades Inteligentes, Urbanização, Reurbanização e Regularização Patrimonial e Fundiária\nEdificações: Habitacional, Comercial, Institucional e Industrial\n\nÁGUAS e MEIO AMBIENTE:\nSistemas de Abastecimento de Água, Sistemas de Esgotos Sanitários, Drenagem, Recursos Hídricos, Meio Ambiente.\n\nA NÚCLEO tem a sua sede em São Paulo e escritórios localizados nas principais cidades do Brasil. \n\nComo uma das maiores empresas no seu segmento, a NÚCLEO tem um Sistema de Gerenciamento Integrado, certificado de acordo com as normas ISO 9.001, 14.001, 27.001, 27.701, 37.001 e ISO 45.001, e também é signatária do Pacto Global da ONU.",
+    "inventoriesId": [
+        6963,
+        8065
+    ],
+    "logoId": "e5c79b2d-c53e-24aa-ba3b-3a1290207434",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

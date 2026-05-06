@@ -1,0 +1,40 @@
+{
+    "id": 4667,
+    "name": "SAMSUNG ELETRÔNICA DA AMAZÔNIA LTDA",
+    "about": null,
+    "inventoriesId": [
+        5901,
+        7585,
+        8295
+    ],
+    "logoId": "6bc1b8fa-07ba-44c3-b460-50f87cdfda2f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

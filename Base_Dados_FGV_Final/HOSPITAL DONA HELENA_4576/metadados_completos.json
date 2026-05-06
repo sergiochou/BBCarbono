@@ -1,0 +1,40 @@
+{
+    "id": 4576,
+    "name": "HOSPITAL DONA HELENA",
+    "about": "Centro de excelência em saúde, o Hospital Dona Helena, de Joinville (SC), completou 108 anos de fundação em 2024. Mantém acreditação pela Joint Commission International (JCI) e normas ISO, tendo se consagrado como “instituição da década”, no Prêmio Excelência da Saúde 2020, do Grupo Mídia, pelo conjunto de sua história e relevância para a saúde brasileira. Também figura entre os 100 melhores hospitais do Brasil, de acordo com a pesquisa internacional World's Best Hospitals 2023, realizada pela revista norte-americana Newsweek, e faz parte do Programa Angels, uma iniciativa internacional que busca qualificar os centros de atendimento a pacientes de AVC. Conquistas alcançadas a partir de um sólido planejamento estratégico.",
+    "inventoriesId": [
+        6298,
+        7227,
+        8039
+    ],
+    "logoId": "7f898b12-20c9-44bf-9c33-867c8c8a39b2",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

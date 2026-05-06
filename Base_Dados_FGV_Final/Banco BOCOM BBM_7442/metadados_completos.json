@@ -1,0 +1,40 @@
+{
+    "id": 7442,
+    "name": "Banco BOCOM BBM",
+    "about": "O Banco BOCOM BBM tem sua origem em duas instituições financeiras com longas histórias na China e no Brasil. A convergência de valores do Bank of Communications e do BBM se reflete em nossa ética de valorização das pessoas através do incentivo à busca de conhecimento capaz de gerar seu crescimento intelectual e material.\n\nO Banco se destaca atuando em crédito para empresas estabelecidas no Brasil e no exterior, oferece soluções de mercado de capitais de dívida (DCM), derivativos, câmbio e produtos de tesouraria para clientes corporativos e institucionais. Através da Asset Management,  disponibiliza fundos de investimento para clientes pessoa física e jurídica. Atua ainda em Wealth Management com produtos e serviços financeiros para pessoas físicas (PF). No ano de 2023, o Banco se tornou a primeira instituição financeira da América Latina a ser membro pleno do CIPS (Cross-Border Interbank Payment System).\nSabemos que a forma de obter resultados depende de dinamismo e transparência no relacionamento entre nós e com os nossos clientes. Somos comprometidos com a diversidade e a inclusão isentas de preconceitos e com a responsabilidade social e ambiental nos locais em que atuamos e nos produtos que oferecemos.\n",
+    "inventoriesId": [
+        7349,
+        8955,
+        8302
+    ],
+    "logoId": "3afb7b53-484e-3f02-82f7-3a12cd5f13eb",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

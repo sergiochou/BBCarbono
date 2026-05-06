@@ -1,0 +1,35 @@
+{
+    "id": 5987,
+    "name": "Zeiss",
+    "about": null,
+    "inventoriesId": [
+        7685,
+        8710
+    ],
+    "logoId": "cd7954e8-6fb7-df0d-1b2e-3a132056d2fb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8329,
+    "name": "TEAG - TERMINAL DE EXPORTACAO DE ACUCAR DO GUARUJA LTDA",
+    "about": "O TEAG - Terminal Exportador, em Guarujá, O TEG - Terminal Exportador do Guarujá, é uma Joint Venture entre as companhias LDC e Cargill Agrícola S. A., desde 1998. O terminal opera dois armazéns, que no total alcançam a capacidade de armazenamento de 110 mil toneladas de produto. O terminal movimenta granel sólido vegetal, incluindo principalmente açúcar, mas também milho e soja.\n",
+    "inventoriesId": [
+        8878,
+        7913
+    ],
+    "logoId": "7692ad46-304e-cc83-3d0d-3a18c5d0c658",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

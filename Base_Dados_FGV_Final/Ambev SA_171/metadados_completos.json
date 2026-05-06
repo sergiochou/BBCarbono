@@ -1,0 +1,55 @@
+{
+    "id": 171,
+    "name": "Ambev S/A",
+    "about": "A Ambev é a maior cervejaria da América Latina em termos de volume de vendas e uma das maiores fabricantes de cerveja do mundo, de acordo com estimativas da Companhia. A Ambev atualmente fabrica, distribui e comercializa cerveja, refrigerantes, outras bebidas alcoólicas e produtos não alcoólicos e não carbonatadas de forma direta em 15 países das Américas.\n\nA Companhia conduz suas operações por meio de quatro segmentos de negócio, conforme descrito abaixo:\n\n•    Brasil: divisão de venda de cerveja (“Cerveja Brasil”) e divisão de venda de bebidas não alcoólicas (“NAB Brasil”);\n•    América Central e Caribe (“CAC”):República Dominicana, Saint Vincent, Dominica, Antígua, Cuba, Guatemala, Barbados e Panamá;\n•    América Latina Sul (“LAS”):Argentina, Bolívia, Paraguai, Uruguai e Chile; e\n•    Canadá: operações da Labatt no Canadá.",
+    "inventoriesId": [
+        1716,
+        1727,
+        5659,
+        6179,
+        7329,
+        8896
+    ],
+    "logoId": "9ea05d73-eeef-49ba-b44d-aef05592ce60",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

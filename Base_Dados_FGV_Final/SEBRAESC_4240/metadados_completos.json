@@ -1,0 +1,45 @@
+{
+    "id": 4240,
+    "name": "SEBRAE/SC",
+    "about": "O Sebrae - Serviço de Apoio às Micro e Pequenas Empresas, é uma entidade civil sem fins lucrativos, instituída sob a forma de Serviço Social Autônomo, presente em todos os estados e criado pela lei 8.029 e 8.154/90.\r\n\r\nO Sistema Sebrae é mantido pela iniciativa privada, através do recolhimento compulsório na Guia de Recolhimento da Previdência Social (GRPS). Este recolhimento sobre salários de contribuição varia de 0,3 % a 0,6 % dependendo do ramo de atividade da empresa, podendo ainda esta ser isenta.\r\n\r\nO Sebrae trabalha desde 1972 pelo desenvolvimento sustentável dos pequenos negócios. Para isso, a entidade promove cursos de capacitação, facilita o acesso a serviços financeiros, estimula a cooperação entre as empresas, organiza feiras e rodadas de negócios e incentiva o desenvolvimento de atividades que contribuem para a geração de emprego e renda. São centenas de projetos gerenciados pelas Coordenadorias Regionais e de Gestão.\r\n\r\nPropósito do Sebrae/SC\r\n\r\nIMPULSIONAR O EMPREENDEDOR AO SUCESSO.\r\n\r\nVisão\r\n\r\nTransformar a sociedade e reduzir as desigualdades por meio do empreendedorismo.\r\n\r\nValores\r\n\r\n1. ÉTICA para fazer o que é certo;\r\n2. COOPERAÇÃO para objetivos comuns;\r\n3. CONFIANÇA nas relações;\r\n4. INOVAÇÃO para gerar soluções;\r\n5. COMPROMISSO com o resultado.",
+    "inventoriesId": [
+        5446,
+        5817,
+        7312,
+        9243
+    ],
+    "logoId": "a4b646c6-d284-4c20-9c4e-7de3c53f31e9",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

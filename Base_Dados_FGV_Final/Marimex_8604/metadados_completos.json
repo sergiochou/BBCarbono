@@ -1,0 +1,30 @@
+{
+    "id": 8604,
+    "name": "Marimex ",
+    "about": "Em 1927, a Marimex começou sua trajetória, ainda sob o nome de A. Melchor & Cia. Na época, o café era a maior riqueza do nosso país e, acompanhando esse crescimento, fomos impulsionados pela ascensão da agricultura e do porto, passando a transportar cereais até a década de 50.\n\nNeste momento, demos início às atividades portuárias e nos tornamos Marimex Comissária de Despachos.\n\nEm 1997, foi neste ano que, junto aos serviços de Desembaraço Aduaneiro e Transporte Rodoviário, começamos as operações como Instalação Portuária Alfandegada. Hoje, a Marimex segue escrevendo sua história, valorizando o passado e construindo um futuro com transparência e modernidade.\n\nEm 2007, além de IPA para cargas de importação, exportação e entreposto aduaneiro, a Marimex inicia as operações de Armazéns Gerais, possibilitando ainda mais flexibilidade aos clientes.\n\nEm 2018, iniciamos as atividades em Agenciamento de Cargas, firmando parcerias com empresas de ponta nos principais portos e aeroportos do mundo.",
+    "inventoriesId": [
+        8155
+    ],
+    "logoId": "ed925324-bcf6-2a63-a35c-3a1993c9d297",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

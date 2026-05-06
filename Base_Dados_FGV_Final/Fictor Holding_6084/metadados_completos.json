@@ -1,0 +1,35 @@
+{
+    "id": 6084,
+    "name": "Fictor Holding",
+    "about": "Somos um grupo de participações e gestão de empresas com foco nos setores mais promissores da economia brasileira, incluindo indústria alimentícia, serviços financeiros e infraestrutura; promovendo inovação e crescimento sustentável.\n\nNossa trajetória começou como uma empresa de soluções tecnológicas, atendendo à demanda por inovação digital na logística e oferecendo suporte a organizações em transformação de gestão de negócios.\n\nDesde então, ampliamos nossa atuação para além do setor de tecnologia, e desenvolvemos um portfólio diversificado de empresas que impactam de forma positiva a economia e o desenvolvimento do país.",
+    "inventoriesId": [
+        6809,
+        8286
+    ],
+    "logoId": "f14c4d7e-cdf8-ea9f-1dd7-3a19b940d0bc",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

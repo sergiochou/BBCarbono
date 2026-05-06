@@ -1,0 +1,30 @@
+{
+    "id": 8341,
+    "name": "CSI Governamental",
+    "about": "A Companhia de Soluções e Inteligência Governamental, ou CSI Governamental, é uma empresa comprometida com o Desenvolvimento de Cidades Inteligentes pautada na valorização das pessoas, na geração de oportunidades e em processos inovadores. Integrando soluções em governança, educação, saúde, planejamento urbano e outras vertentes, a CSI Governamental orienta, assessora e impulsiona os municípios e órgãos públicos brasileiros na missão de contribuirem com um mundo mais sustentável através de cidades mais inteligentes.",
+    "inventoriesId": [
+        8030
+    ],
+    "logoId": "9eee1692-c774-79b7-def5-3a18df7d60eb",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8578,
+    "name": "Italbronze Ltda.",
+    "about": "A Italbronze é uma empresa brasileira com mais de 65 anos de experiência em bronze de alta performance, possui um verdadeiro mix de soluções em fundição contínua, centrífuga, e usinagem de precisão em CNC’s de última geração. \nCom sede no estado de São Paulo, a Italbronze mantém um parque fabril moderno e segue rigorosos padrões de qualidade e segurança em seus processos produtivos. A empresa investe continuamente em tecnologia, inovação e qualificação profissional, com o objetivo de aumentar a eficiência operacional e reduzir impactos ambientais.\nCiente da importância de sua responsabilidade socioambiental, a Italbronze vem aprimorando sua gestão de emissões e recursos naturais, adotando práticas alinhadas aos princípios da economia circular, do uso racional da energia e da mitigação das emissões de gases de efeito estufa (GEE). A participação no Registro Público de Emissões representa mais um passo na transparência e no comprometimento com a agenda climática e a sustentabilidade corporativa.\n",
+    "inventoriesId": [
+        8699,
+        8831
+    ],
+    "logoId": "81b1fb7c-42bb-df24-5f3c-3a19e6a41ba4",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

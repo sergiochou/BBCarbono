@@ -1,0 +1,35 @@
+{
+    "id": 5994,
+    "name": "Nexa",
+    "about": "A Nexa Resources é um produtor polimetálico integrado de grande escala e baixo custo, com o zinco como seu principal produto. Com mais de 65 anos de experiência no desenvolvimento e operação de ativos de mineração e metalurgia na América Latina, a Nexa se destaca pelo seu compromisso com a eficiência e sustentabilidade. Operamos cinco minas polimetálicas: quatro subterrâneas de longa vida (duas na região dos Andes Centrais no Peru e duas no Brasil, nos estados de Minas Gerais e Mato Grosso) e uma de céu aberto na região dos Andes Centrais no Peru. Além disso, possuímos e operamos três refinarias de zinco – duas localizadas no estado de Minas Gerais, Brasil (Três Marias e Juiz de Fora), e uma em Lima, Peru (Cajamarquilla), que é a maior refinaria de zinco das Américas. Nosso foco contínuo em inovação e segurança nos permite operar de maneira responsável e eficiente, contribuindo para o desenvolvimento econômico sustentável das regiões em que estamos presentes.",
+    "inventoriesId": [
+        6802,
+        8320
+    ],
+    "logoId": "328b7cf2-2433-7a8d-3978-3a20c9432a20",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

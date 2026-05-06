@@ -1,0 +1,45 @@
+{
+    "id": 4250,
+    "name": "Carmeuse Brasil",
+    "about": "A Carmeuse é uma empresa global, com mais de 160 anos de história e presente em todos os continentes. A operação do Brasil foi iniciada em 2017, a partir da integração com a Óxidos Brasil. Em 2019 foi feita a aquisição da Cal Arco Iris e em 2020 as empresas foram incorporadas pela Carmeuse Brasil Soluções Químicas S.A.\r\n\r\nGuiada pela visão de ser a empresa de maior valor em seu segmento no país, que é a produção de cal e derivados, a Carmeuse Brasil se propõe a viabilizar soluções e produtos inovadores, que agreguem, gerem valor e aumentem produtividade dos nossos clientes; além de maiores vantagens competitivas. E, ainda, oferecendo oportunidades e crescimento para todos aqueles que fazem parte da rede de desenvolvimento dos negócios.\r\n\r\nAtualmente conta com duas unidades em Minas Gerais, sendo a Matriz um escritório na cidade de Belo Horizonte e a unidade produtiva localizada na cidade de Formiga. \r\n\r\nTodas as iniciativas da Carmeuse Brasil são orientadas pelos valores: longo prazo, respeito, eficiência, responsabilidade e foco no cliente.",
+    "inventoriesId": [
+        5510,
+        6075,
+        7524,
+        8360
+    ],
+    "logoId": "36496be4-9cad-400a-8421-58b91e83961d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

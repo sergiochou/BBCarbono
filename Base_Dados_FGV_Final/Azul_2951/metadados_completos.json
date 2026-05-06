@@ -1,0 +1,50 @@
+{
+    "id": 2951,
+    "name": "Azul ",
+    "about": "Fundada em 2008 por David Neeleman, a Azul S.A. é a companhia aérea do Brasil com maior número de decolagens e de cidades atendidas, e a que mais cresceu no país desde o início de suas operações. Com sede administrativa em São Paulo (SP), a Companhia possui a maior malha aérea do país, levando brasileiros para mais de 150 destinos nacionais e internacionais. \r\n\r\nCom resiliência perante o difícil cenário da pandemia, a Azul fez da recuperação da malha sua principal conquista em 2022. Com capacidade de transportar Clientes nos mercados doméstico e internacional, ultrapassando a marca alcançada em 2021. Somente no cenário doméstico, obteve aumento de 30%. No mercado corporativo, reconquistou 80& do volume de passageiros e alcançou receita de 150% em comparação a 2019.\r\n\r\nAzul está a passos largos ampliando suas iniciativas dentro dos âmbitos da Sustentabilidade: Social, Ambiental, Governança e Financeira. Por meio da Estratégia Conexão que Transforma a empresa dividiu suas iniciativas e se comprometeu com os Objetivos do Desenvolvimento Sustentável da ONU, dividindo o trabalho em 3 pilares: \r\n\r\nOperação Eco-Eficiente: Nada é mais importante para nós do que a Segurança e esse é o nosso primeiro valor. Buscamos excelência operacional, sempre com máxima integridade das nossas aeronaves e dos nossos Tripulantes. \r\n\r\nFoco em Pessoas: Tripulantes Engajados e Saudáveis, Clientes e Fornecedores fidelizados e Comunidades envolvidas, criando uma sociedade equitativa e uma economia justa. \r\n\r\nChegar + Longe: Queremos chegar cada vez mais longe e ir além, desenvolvendo a sociedade em que atuamos e protegendo o planeta por meio de projetos inovadores e apaixonados. \r\n\r\nPara nos mantermos no patamar como melhor empresa aérea do mundo, nos comprometemos a também ser a melhor para o mundo. \r\n\r\nPara saber mais, consulte nossos sites: Comercial: https://www.voeazul.com.br/br/pt/home\r\nRI: https://ri.voeazul.com.br/\r\nRelatório de Sustentabilidade 2022: https://api.mziq.com/mzfilemanager/v2/d/ed78542a-4e01-429a-8926-03d69ccfa307/ac091496-9a10-e839-a130-b74bb8975cc1?origin=2",
+    "inventoriesId": [
+        4346,
+        4808,
+        5180,
+        5792,
+        6880
+    ],
+    "logoId": "ac5b1773-c4f2-47e2-8145-7a89bc1741f7",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,65 @@
+{
+    "id": 2930,
+    "name": "Rumo S.A.",
+    "about": "A Rumo é prestadora de serviços no setor de logística (transporte ferroviário e multimodal), principalmente destinados à exportação de commodities, oferecendo uma solução integrada de transporte, movimentação, armazenagem e embarque desde os centros produtores até os principais portos do sul e sudeste do Brasil.\n\nA companhia é a maior operadora ferroviária do Brasil em termos de extensão de linhas férreas e atua nas principais regiões produtoras agrícolas do país. Em 2025, completou dez anos, respondendo por 44% da malha ferroviária nacional, com presença consolidada em mais de 500 municípios de 9 estados brasileiros, nas regiões Norte, Sul, Sudeste e Centro-Oeste, formado um sistema logístico que cobre 86% das regiões exportadoras do Brasil.\n\nApresenta uma grande base de ativos, incluindo uma rede ferroviária que atualmente consiste em aproximadamente 14.000 quilômetros de extensão, 1.200 locomotivas e 33.000 vagões. A prestação de serviços logísticos completos e eficientes aos clientes da Companhia ainda conta com a operação de 10 terminais de transbordo e atende 4 dos principais portuários, tanto diretamente quanto em regime de parceria, onde são armazenados principalmente grãos (soja, milho e farelo de soja), açúcar e outras commodities.",
+    "inventoriesId": [
+        4397,
+        4807,
+        4806,
+        4805,
+        5023,
+        5768,
+        6873,
+        8031
+    ],
+    "logoId": "da4acce6-9aba-419c-bfd9-837688c9b3e5",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

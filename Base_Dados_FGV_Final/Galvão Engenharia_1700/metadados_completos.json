@@ -1,0 +1,30 @@
+{
+    "id": 1700,
+    "name": "Galvão Engenharia",
+    "about": null,
+    "inventoriesId": [
+        1641
+    ],
+    "logoId": "ecfd662c-a2b7-4a98-bac2-24e2f2c159ba",
+    "sector": {
+        "id": 99,
+        "name": "Serviços de assistência social sem alojamento",
+        "parentId": 17,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

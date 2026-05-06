@@ -1,0 +1,30 @@
+{
+    "id": 8318,
+    "name": "Metal Group Participações LTDA",
+    "about": "Com mais de 10 anos no mercado do cobre, a Metal Group nasceu com a necessidade de profissionalizar os negócios do grupo trazendo governança para os seus negócios.\nFormada pelas empresas, Copper Indústria, a maior empresa fornecedora de cobre Oxyfree para os fabricantes de fios e cabos do Sul do país e a Recope Laminação, uma empresa voltada para o refino de cobre reciclável, onde abastecerá todo o Sul e Sudeste do País com produtos de alta performance.",
+    "inventoriesId": [
+        8028
+    ],
+    "logoId": "019562b0-7e1f-c31d-6ed3-3a18eb56da67",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

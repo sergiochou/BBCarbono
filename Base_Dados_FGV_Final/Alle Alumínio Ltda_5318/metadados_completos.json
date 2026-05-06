@@ -1,0 +1,40 @@
+{
+    "id": 5318,
+    "name": "Alle Alumínio Ltda",
+    "about": "Com posição de destaque na América Latina, somos referência na produção de alumínio secundário e estamos entre as maiores indústrias de reciclagem do país. Nosso compromisso é oferecer produtos de alta qualidade e soluções inovadoras, utilizando matéria-prima infinitamente reciclável e alinhando nossos processos aos mais elevados padrões de desempenho e sustentabilidade.\n\nAtendemos os principais segmentos industriais, como o automobilístico, mineração, metalurgia e siderurgia, setores essenciais para o desenvolvimento econômico e social.\n\nNossa equipe altamente capacitada trabalha em estreita colaboração com os clientes, desenvolvendo soluções sob medida para suas necessidades. Investimos continuamente em tecnologias avançadas, garantindo eficiência em todas as etapas da produção e logística, sempre com foco na redução de impactos ambientais.\n\nNosso compromisso com a economia circular se reflete na busca por soluções sustentáveis para os resíduos de alumínio, agregando valor ao processo produtivo e contribuindo para um futuro mais responsável. Dessa forma, reforçamos nosso papel na fabricação de ligas de alumínio secundário e na construção de uma sociedade mais justa e sustentável.\n\n",
+    "inventoriesId": [
+        6336,
+        7180,
+        8026
+    ],
+    "logoId": "685c0727-1c6d-4432-8423-22f2c1dcc409",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

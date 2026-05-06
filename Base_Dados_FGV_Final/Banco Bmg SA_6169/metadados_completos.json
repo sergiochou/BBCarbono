@@ -1,0 +1,35 @@
+{
+    "id": 6169,
+    "name": "Banco Bmg S.A.",
+    "about": "No Banco Bmg carregamos a missão de popularizar serviços financeiros no Brasil e, para isso, oferecemos produtos que realmente ajudam pessoas em diferentes momentos de suas vidas. Atuamos em três principais verticais – Varejo, Atacado e Seguridade –, buscando construir um banco mais forte e mais rentável, pronto para crescer e gerar resultados sustentáveis, trazendo valor para acionistas, clientes, colaboradores, parceiros e sociedade. Nossos mais de 90 anos de história nos conferem mais do que expertise e confiabilidade, nos capacita a sermos modernos e inovadores, capazes de reinventar processos e antecipar demandas. Saiba mais em: https://bancobmg.mzweb.com.br/. ",
+    "inventoriesId": [
+        6943,
+        9022
+    ],
+    "logoId": "9c1f19e8-f1eb-063c-7b9b-3a124c6cffa8",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

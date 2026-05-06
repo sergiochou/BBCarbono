@@ -1,0 +1,95 @@
+{
+    "id": 1077,
+    "name": "CPFL ENERGIA",
+    "about": "Com mais de 100 anos de protagonismo no setor elétrico, a CPFL Energia S.A, é uma das maiores empresas do setor elétrico brasileiro, produz e fornece energia para quase 22 milhões de pessoas e atua toda a cadeia do setor elétrico, com negócios de geração, transmissão, distribuição, serviços e soluções para seus clientes. Estamos presentes em 11 estados, em todas as regiões do país, onde contribuímos para o desenvolvimento econômico, entregando energia limpa, confiabilidade e segurança para milhões\n\nA CPFL é a maior distribuidora em volume de energia vendida, com 13,2% de participação no mercado nacional, atendendo mais dede 10 milhões de clientes em 687 municípios. Com 4.371 MW de capacidade instalada, é a terceira maior geradora privada do país, com atuação em fontes hidrelétrica, solar, eólica e biomassa. A CPFL atua também no segmento de transmissão, com  6,4 mil km de linhas. Conta também com uma operação nacional por meio da CPFL Soluções, fornecendo soluções integradas em gestão e comercialização de energia, eficiência energética, geração distribuída, infraestrutura energética e serviços de consultoria.\n\nA CPFL Energia atua como holding, participando no capital de outras sociedades. A State Grid Corporation of China (SGCC) controla a CPFL Energia por meio de suas subsidiárias State Grid International Development Co., Ltd, State Grid International Development Limited (SGID), International Grid Holdings Limited, State Grid Brazil Power Participações S.A. (SGBP) e ESC Energia S.A.\n\nPara mais informações, consulte nosso Relatório Anual: https://www.grupocpfl.com.br/sustentabilidade/relatorio-anual",
+    "inventoriesId": [
+        463,
+        21,
+        2658,
+        2072,
+        3000,
+        3121,
+        3471,
+        3818,
+        4146,
+        4778,
+        5104,
+        5992,
+        6998,
+        8076
+    ],
+    "logoId": "55e13f45-9807-445e-8b23-1a865a2f383c",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

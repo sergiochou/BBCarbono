@@ -1,0 +1,55 @@
+{
+    "id": 2007,
+    "name": "BKO",
+    "about": "Fundada em 1986, a BKO Incorporadora atua no mercado imobiliário desenvolvendo edifícios comerciais e residenciais de médio e alto padrão em São Paulo, Sorocaba, Campinas, Limeira, Jundiaí, Americana, São José do Rio Preto, Santos e na região Sul do País.\r\n\r\nAo longo desses 27 anos, a BKO entregou mais de 1.900.000 m² e tem aproximadamente 160.700 m² em execução tendo como premissa desenvolver empreendimentos que sigam tendências atuais dos mercados mundiais.\r\n\r\nDessa maneira, ao entregar empreendimentos únicos, a BKO reforça seus valores investindo em tecnologias construtivas, plantas customizadas, personalização e responsabilidade socioambiental. Como resultado, apresenta uma trajetória de sucesso construída pela dedicação e comprometimento de uma equipe de profissionais qualificados e preparados para atender as demandas do mercado imobiliário. Tudo isso faz da BKO uma referência entre as empresas do mercado imobiliário.",
+    "inventoriesId": [
+        23,
+        2365,
+        1775,
+        304,
+        3009,
+        3365
+    ],
+    "logoId": "3164e899-70d3-4e93-b562-8971e00e5cad",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

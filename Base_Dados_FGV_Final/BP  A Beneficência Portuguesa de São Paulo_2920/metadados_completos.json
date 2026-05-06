@@ -1,0 +1,40 @@
+{
+    "id": 2920,
+    "name": "BP - A Beneficência Portuguesa de São Paulo",
+    "about": "Criada em 1859 como Real e Benemérita Associação Portuguesa de Beneficência, a BP – A Beneficência Portuguesa de São Paulo, com sede na cidade de mesmo nome, é uma associação civil de direito privado de caráter beneficente, social e científico, sem fins lucrativos. Considerada uma das melhores e mais avançadas instituições de saúde da América Latina, é reconhecida nacional e internacionalmente pela qualidade e segurança do atendimento que oferece.\n\nNasceu do desejo de imigrantes portugueses de prover uma saúde de qualidade e do esforço incansável de seus associados para manter vivos os ideais dos fundadores. Atualmente, a BP é uma instituição completa e atualizada, que oferece um alto padrão de cuidados de saúde, atuação reconhecida inclusive internacionalmente.\n\nAo longo de sua história, se orgulha de ter transformado a vida de inúmeras pessoas, formado gerações de profissionais de saúde e de ter protagonizado importantes marcos na evolução da Medicina.\n\nComo um dos maiores hub de saúde privado da América Latina em número de leitos, conta com 721 leitos, incluindo 166 leitos de UTI, e com a dedicação mais de 7 mil colaboradores e mais de 6 mil médicos apaixonados pelo que fazem. Hoje a BP atende anualmente mais de 220 mil pessoas. É referência no atendimento médico-hospitalar em diversas especialidades, com destaque para a Cardiologia, Oncologia, Neurologia, além disso destacamos também em urologia, gastroenterologia, ortopedia e pediatria, consolidando cada vez mais, nossa excelência em diversas áreas médicas., com uma infraestrutura que agrega serviços complementares de medicina diagnóstica e terapêutica, consultas, exames, educação e pesquisa. Unimos nossas competências técnicas a médicos, parceiros, clientes, fornecedores, universidades e órgãos públicos para, em conjunto, alcançarmos nosso maior propósito: a valorização da vida.",
+    "inventoriesId": [
+        6609,
+        7613,
+        8919
+    ],
+    "logoId": "f5bbac11-035d-4268-a231-e27d77575f80",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8253,
+    "name": "Urbem",
+    "about": "Indústria brasileira de madeira engenheirada focada em sustentabilidade e industrialização.",
+    "inventoriesId": [
+        8047
+    ],
+    "logoId": "8c572b4a-e411-fb00-59d2-3a189795efba",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

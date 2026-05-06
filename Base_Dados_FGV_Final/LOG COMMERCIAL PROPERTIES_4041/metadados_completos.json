@@ -1,0 +1,40 @@
+{
+    "id": 4041,
+    "name": "LOG COMMERCIAL PROPERTIES",
+    "about": "A Log Commercial Properties, desenvolvedora de ativos logísticos greenfield, se tornou uma das maiores desenvolvedoras e locadoras de galpões de alto padrão no Brasil em 15 anos de mercado, atuando desde a incorporação até a gestão dos empreendimentos. Atualmente, contamos com mais de 2 milhões de metros quadrados de Área Bruta Locável (ABL) em nosso portfólio, entre ativos entregues, em construção e terrenos, a Companhia está presente em todas as regiões do Brasil, sendo 36 cidades em 18 estados incluindo o Distrito Federal. Um dos grandes objetivos da Companhia é oferecer uma operação integrada e completa para seus clientes, através da administração própria dos condomínios. Além disso, está sempre em busca de soluções inteligentes nas áreas de tecnologia e inovação. O resultado é maior eficiência, praticidade, economia e sustentabilidade para seus negócios. Saiba mais em: https://www.logcp.com.br/",
+    "inventoriesId": [
+        5255,
+        6366,
+        7643
+    ],
+    "logoId": "75a2f5d7-06e1-4ec9-86ca-2ba1662a8567",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

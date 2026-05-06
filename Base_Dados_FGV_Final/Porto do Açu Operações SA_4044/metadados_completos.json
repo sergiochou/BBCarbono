@@ -1,0 +1,45 @@
+{
+    "id": 4044,
+    "name": "Porto do Açu Operações S.A",
+    "about": "A Porto do Açu é responsável pela administração portuária e pela gestão estratégica do maior complexo porto-indústria privado da América Latina. A Porto do Açu Operações S.A. (PdA) administra o Terminal 2 (T2) e opera o T-MULT e o Molhe Sul.\nA empresa desenvolve novos negócios para promover o crescimento organizado, responsável e eficiente do porto. Por meio de suas controladas, também gere a Reserva Ambiental Fazenda Caruara S.A.\nA Reserva Ambiental administra a unidade de conservação com foco em três pilares: serviços ambientais, visitação turística e educação e pesquisa científica.",
+    "inventoriesId": [
+        5256,
+        6173,
+        7313,
+        8157
+    ],
+    "logoId": "5b8153e3-4efd-4416-a3da-e03d9820ec01",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

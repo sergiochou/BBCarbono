@@ -1,0 +1,65 @@
+{
+    "id": 2614,
+    "name": "Companhia Brasileira de Alumínio",
+    "about": "Desde sua fundação, em 1941, a Companhia Brasileira de Alumínio (CBA) atua na produção de alumínio com responsabilidade sobre o impacto que gera no meio ambiente e na sociedade. É uma empresa de capital aberto, com ações listadas no Novo Mercado da B3, e integra a holding investidora brasileira Votorantim S.A.\r\n\r\nA CBA é a única companhia integrada de alumínio do Brasil e uma das poucas no mundo, atuando desde a mineração da bauxita até a produção de um portfólio completo de produtos de alumínio primário (lingotes, placas, tarugos e vergalhões) e transformados (rolos caster, chapas, folhas e perfis extrudados, peças e componentes).\r\n\r\nA autossuficiência em bauxita e em alumina, a integração em toda a cadeia de valor e a capacidade de geração de energia própria, sendo 100% renovável, posicionam a Companhia no primeiro quartil da curva global de custos da indústria do alumínio. \r\n\r\nA CBA também se destaca pela atuação em reciclagem. Além do processamento de sucata com a Metalex, em 2022 a Empresa assumiu completamente a operação da Alux do Brasil, estendendo sua participação no segmento de ligas secundárias. \r\n\r\nA sustentabilidade e a inovação são o centro da estratégia da CBA e é por isso que a Empresa assume um papel de liderança na produção de alumínio de baixo carbono e em sua agenda ESG 2030. Essa trajetória é trilhada por meio de parcerias valiosas, construídas com empregados, empregadas, clientes, fornecedores, comunidades, investidores e demais parceiros de negócios.",
+    "inventoriesId": [
+        3609,
+        3927,
+        4292,
+        4775,
+        5102,
+        6245,
+        6971,
+        8362
+    ],
+    "logoId": "e559b581-71c1-4b9d-9fc1-8ff1a40bfd49",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

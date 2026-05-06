@@ -1,0 +1,40 @@
+{
+    "id": 4690,
+    "name": "YPÊ",
+    "about": "Presente em mais de 95% dos lares brasileiros, a Ypê é líder em importantes categorias no segmento de higiene e limpeza do Brasil, com um portfólio de mais de 450 produtos em 23 categorias, incluindo as marcas Assolan, Atol, Tixan, Perfex, Flor de Ypê, Siene e Action de Ypê.\n \nFundada em 1950, a Ypê é uma empresa 100% brasileira, com mais de 7.300 colaboradores. Com matriz localizada em Amparo, no interior de São Paulo, conta com mais seis complexos fabris: Salto (SP), Simões Filho (BA), Anápolis (GO), Goiânia (GO), Itajubá (MG) e Itapissuma (PE), e ficou entre as melhores grandes empresas para se trabalhar no interior paulista e entre as melhores indústrias para trabalhar no Brasil, pelo ranking GPTW 2024, além de conquistar o selo de destaque em Saúde Mental.\n \nSignatários do Pacto Global - maior iniciativa de sustentabilidade corporativa do mundo, proposta pela Organização das Nações Unidas (ONU) - e do Pacto Empresarial pela Integridade e Contra a Corrupção, uma iniciativa do Instituto Ethos de Empresas e Responsabilidade Social, somos a única empresa do setor de limpeza reconhecida por duas vezes consecutivas como Empresa Pró-Ética [2020-2021/2022-2023] pela Controladoria Geral da União (CGU).",
+    "inventoriesId": [
+        5934,
+        7407,
+        8771
+    ],
+    "logoId": "5cbe6675-8042-4b16-a6f2-d45d36e5396b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

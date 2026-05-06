@@ -1,0 +1,35 @@
+{
+    "id": 331,
+    "name": "Hotel InterContinental São Paulo",
+    "about": null,
+    "inventoriesId": [
+        2368,
+        2876
+    ],
+    "logoId": "cda05258-951c-49fa-86fc-40273ffd6d6a",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

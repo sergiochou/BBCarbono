@@ -1,0 +1,30 @@
+{
+    "id": 8759,
+    "name": "Unicred União",
+    "about": "Fundada em 12 de agosto de 1993, a Unicred nasceu da iniciativa de médicos que se uniram com o propósito de criar uma cooperativa financeira que praticasse preços justos e proporcionasse benefícios equitativos para todos os seus cooperados. \n\nSomos uma instituição financeira cooperativa que, há mais de 30 anos, promove prosperidade por meio de soluções financeiras alinhadas aos objetivos dos nossos cooperados. Com um atendimento próximo, humano e especializado, fazemos a diferença na vida de nossos associados, construindo uma trajetória sólida de crescimento coletivo. \n\nOferecemos assessoria financeira personalizada, focada nas necessidades individuais dos cooperados, sempre buscando os melhores resultados, guiados pela nossa missão, visão e valores. \n\nAtuamos nos estados do Paraná — nas cidades de Curitiba e Ponta Grossa — e de Santa Catarina, com presença em Porto União, Mafra, Canoinhas, São Bento do Sul, Joinville, Balneário Camboriú, Itapema, Navegantes e Itajaí. \n\nAtualmente, contamos com 26 agências, uma equipe de 200 colaboradores e mais de 29 mil cooperados, que juntos constroem uma cooperativa sólida, ética e comprometida com o desenvolvimento mútuo. ",
+    "inventoriesId": [
+        9068
+    ],
+    "logoId": "c782887c-3c17-ad35-c45e-3a1a2e60ef7d",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

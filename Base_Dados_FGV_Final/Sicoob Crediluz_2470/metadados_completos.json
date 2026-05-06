@@ -1,0 +1,50 @@
+{
+    "id": 2470,
+    "name": "Sicoob Crediluz",
+    "about": "Nossa História\r\n\r\nConhecendo de perto a Cooperativa de Crédito Rural de Bom Despacho (Credibom), um grupo de produtores rurais pensou em fundar também uma cooperativa em Luz, procurando despertar as lideranças rurais e unir produtores para apoiar a ideia.\r\n\r\nRealizou-se então uma reunião preliminar para discutir a viabilidade do projeto, composta por Otaviano Izidorio de Carvalho, Luiz Antônio Garcia de Carvalho e Idelmar José de Oliveira; todos estes diretores da Cooperativa de Produção Agropecuária de Luz (Copagro).\r\n\r\nDepois de vários encontros, estudos e análises decidiram levar adiante o projeto e procuraram o presidente da Credibom, Sr. Jacques Gontijo Álvares, que deu o apoio necessário para a realização deste sonho. \r\n\r\n26/08/1988 - Criação da Cooperativa de Crédito Rural de Luz - CREDILUZ;\r\n13/02/1989 - A CREDILUZ iniciou suas atividades com o apoio da Copagro, que cedeu suas instalações;\r\n02/01/1998 - O Sicoob Crediluz inaugura em Estrela do Indaiá/MG, seu PAC (Posto de Atendimento Cooperativo), hoje chamado de PA;\r\n07/01/2014 - Inauguração da nova sede em Luz.\r\n\r\nA cooperativa oferece soluções financeiras, com taxas diferenciadas, o que gera o fortalecimento da economia. A resposta é um atendimento diferenciado, alinhando rapidez, eficiência e profissionalismo de seus colaboradores; orientados por uma administração responsável e competente.\r\n\r\nA Sustentabilidade é uma importante ferramenta para o crescimento e desenvolvimento da cooperativa, que visa o êxito de todos os negócios empreendidos, com equidade social e sustentabilidade ambiental. \r\n\r\nNo eixo social, o Sicoob Crediluz estabelece uma perfeita harmonia entre suas ações e as várias entidades locais de assistência social, numa intensa rede de colaboração.\r\n\r\nNo eixo ambiental, o Programa de Sustentabilidade Ambiental, permite o gerenciamento de riscos e impactos internos e externos; conduzido por ações socioambientais contínuas e pela gestão responsável.\r\n\r\nEstes são os pilares da gestão do Sicoob Crediluz, pautados em uma história de compromisso, transformando os cenários, semeando o desenvolvimento, com base em valores sólidos e princípios éticos, gerando resultados assertivos, com impacto positivo no contexto em que está inserido, opera transformações e contribui para que o futuro esteja cada vez mais próximo.",
+    "inventoriesId": [
+        3108,
+        3111,
+        3474,
+        4064,
+        4501
+    ],
+    "logoId": "752609c8-7edb-4ade-9413-f7b89ac7c6e5",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

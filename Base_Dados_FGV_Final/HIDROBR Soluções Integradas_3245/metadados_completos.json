@@ -1,0 +1,50 @@
+{
+    "id": 3245,
+    "name": "HIDROBR Soluções Integradas",
+    "about": "A empresa tem como objeto social as atividades de prestação de serviços de engenharia na área de meio ambiente, recursos hídricos, saneamento, geotecnia e sustentabilidade, compreendendo a elaboração de estudos, projetos, planos, pareceres e laudos técnicos.",
+    "inventoriesId": [
+        4657,
+        5178,
+        5770,
+        7820,
+        9183
+    ],
+    "logoId": "e5e1d6e7-5e1c-4673-908f-77bdb5aeadc2",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

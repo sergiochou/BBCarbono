@@ -1,0 +1,30 @@
+{
+    "id": 8758,
+    "name": "COOPER A1",
+    "about": "A Cooper A1, cooperativa agropecuária com sede em Palmitos (SC), tem o propósito de promover o desenvolvimento sustentável do cooperado. Em seus 91 anos, consolidou-se como uma força propulsora do agronegócio, impulsionando pequenas e médias propriedades rurais do Oeste de Santa Catarina e Noroeste do Rio Grande do Sul e o desenvolvimento coletivo por meio de ações embasadas no cooperativismo.  \n\nExemplo de resiliência e crescimento no setor cooperativista brasileiro, a Cooper A1 tem origem no ano de 1933, em Palmitos, Santa Catarina. A cooperativa nasceu do sonho do engenheiro agrônomo vindo da Alemanha, Otto Erich Winckler e outros 17 agricultores, pioneiros do cooperativismo agropecuário catarinense, que se uniram na busca de uma vida melhor para suas famílias. \n\nA trajetória da entidade, sua atual denominação e estrutura física e social são marcadas por fusões e incorporações de outras cooperativas da região e que possibilitaram aumento de escala, redução de custos e a criação de uma respeitada identidade cooperativa regional. \n\nA história da Cooper A1, sua trajetória de desenvolvimento e capacidade de adaptação, lhe garantem o título de mais antiga cooperativa agropecuária de Santa Catarina e a terceira mais antiga do Sul do Brasil.   \n\nInstalada, hoje, em 24 municípios do Oeste de Santa Catarina e Noroeste do Rio Grande do Sul, a Cooper A1 reúne mais de 10 mil cooperados e quase 2 mil colaboradores diretos. Seus negócios diversificados abrangem o agronegócio, o varejo e a indústria, contribuindo para o desenvolvimento econômico e social da região.  \n\nNos últimos anos, a Cooper A1 tem apresentado excelente desempenho econômico-financeiros, chegando a quase R$3 bilhões de reais de faturamento anual. Os resultados são fruto de cooperados participativos, colaboradores comprometidos e uma gestão profissional e estratégica. Além disso, investe na expansão orgânica, incluindo investimentos em infraestruturas administrativas, operacionais e nas áreas de venda, para a prestação de serviços com qualidade. \n\n A Cooper A1 é considerada um patrimônio regional por diversos fatores que transcendem sua longevidade e sucesso no agro. Com foco em perenidade, eficiência e resultados satisfatórios, principalmente para o quadro social, a nove décadas a cooperativa representa um modelo de desenvolvimento.",
+    "inventoriesId": [
+        8690
+    ],
+    "logoId": "e420f80c-3a4c-4854-dc29-3a19e296920d",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

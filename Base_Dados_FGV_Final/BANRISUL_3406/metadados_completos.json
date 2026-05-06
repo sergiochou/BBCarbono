@@ -1,0 +1,50 @@
+{
+    "id": 3406,
+    "name": "BANRISUL",
+    "about": "O Banco do Estado do Rio Grande do Sul S.A. (“Banrisul” ou “Instituição”) é uma sociedade anônima de capital aberto que atua sob a forma de banco múltiplo e opera nas carteiras comercial, de crédito, de financiamento e de investimento, de crédito imobiliário, de desenvolvimento, de arrendamento mercantil e de investimentos, inclusive nas de operações de câmbio, corretagem de títulos e valores mobiliários e administração de cartões de crédito e consórcios.  As operações são conduzidas por um conjunto de Instituições que agem de forma integrada no mercado financeiro. O Banrisul atua, também, como instrumento de execução da política econômico-financeira do Estado do Rio Grande do Sul, em consonância com os planos e programas do Governo Estadual.\n\n\nMissão\n\nSer o agente financeiro do Estado para promover o desenvolvimento econômico e social do Rio Grande do Sul.\n\n \n\nVisão\n\nSer um Banco público rentável, sólido e competitivo, integrado às comunidades, que presta serviços com excelência.\n\n\nValores\n\nTransparência, ética, comprometimento, integração e eficácia.",
+    "inventoriesId": [
+        4611,
+        5083,
+        5869,
+        7341,
+        8754
+    ],
+    "logoId": "38e5765e-95fa-47be-9c08-e4aa0b61f247",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 809,
+    "name": "Monsanto do Brasil Ltda",
+    "about": null,
+    "inventoriesId": [
+        73,
+        2715,
+        2204,
+        1627,
+        598
+    ],
+    "logoId": "160d26c1-b7dd-411a-b4e9-29093f27c218",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

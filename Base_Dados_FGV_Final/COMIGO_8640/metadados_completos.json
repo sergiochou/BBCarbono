@@ -1,0 +1,30 @@
+{
+    "id": 8640,
+    "name": "COMIGO",
+    "about": "A história da Cooperativa Agroindustrial dos Produtores Rurais do Sudoeste Goiano - COMIGO teve início em 1975, onde produtores da região de Rio Verde, no Sudoeste Goiano, adquiriam insumos e produtos com alto custo, devido à baixa concorrência de fornecedores existentes à época. Um grupo de produtores iniciou um movimento de difícil trabalho de convencimento e agrupamento de produtores para constituição oficial da COMIGO, em 06 de julho de 1975.\n\nAo longo de sua trajetória, a COMIGO foi adquirindo confiança no mercado e atraindo novos associados que foram somando forças e alavancando novos projetos nas áreas de interesse da região, que é o agronegócio.\n\nHoje, a Cooperativa possui 19 pontos de captação de grãos distribuídos, estrategicamente, na região Sudoeste do Estado de Goiás, com participação de mais de 12.000 (doze mil associados) e quase 3.500 funcionários. Em sua estrutura organizacional, a Cooperativa possui, também: lojas agropecuárias; unidades armazenadoras, um parque industrial contendo unidades de produção de: farelo de soja, óleo de soja, produção de ração e suplemento mineral destinado ao consumo animal, produção de fertilizantes formulados, beneficiamento de sementes; e a prestação de serviços em transportes de cargas próprias aos clientes/cooperados, assistência técnica ao produtor cooperado, além de unidades florestais, para a produção de lenha destinada ao consumo industrial.\nMissão, visão e valores\n\na) Missão\n“Apoiar o desenvolvimento econômico, social e tecnológico de seus cooperados”.\n\nb) Visão\n“Ser reconhecida por seus cooperados, mercado e colaboradores como uma das mais importantes e eficientes cooperativas agropecuárias brasileiras.”\n\nc) Valores\n\"Ética; honestidade; confiança e respeito mútuo; gestão participativa e relacionamento; valorização e desenvolvimento de colaboradores; profissionalismo; ousadia e pioneirismo; perseverança; integridade; respeito ao meio ambiente; transparência e comprometimento.\"",
+    "inventoriesId": [
+        8684
+    ],
+    "logoId": "37ad2b04-797d-9ea2-b4fb-3a19e2840d2d",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

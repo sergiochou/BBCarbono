@@ -1,0 +1,30 @@
+{
+    "id": 3264,
+    "name": "Energisa Transmissão",
+    "about": null,
+    "inventoriesId": [
+        4723
+    ],
+    "logoId": "db36fd13-72b5-49d6-87af-74e5f42e96f1",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

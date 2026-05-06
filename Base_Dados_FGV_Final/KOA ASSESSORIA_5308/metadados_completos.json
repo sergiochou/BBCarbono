@@ -1,0 +1,30 @@
+{
+    "id": 5308,
+    "name": "KOA ASSESSORIA",
+    "about": "A Koa Assessoria é uma consultoria estratégica especializada em oferecer soluções sustentáveis. \r\n\r\nFundada em 2021 por um time de engenheiros, a nossa empresa surgiu com o objetivo de apoiar empresas no mercado de energia a gerenciar Certificados de Energia Renovável (I-RECs) de forma eficiente e eficaz.\r\n\r\nDesde então, nossa visão evoluiu para uma perspectiva mais abrangente. Hoje, contamos com uma  equipe multidisciplinar, que tem o compromisso de apoiar sua jornada rumo à sustentabilidade, através da identificação e adoção de iniciativas alinhadas com as diretrizes da agenda ESG (Environmental, Social, and Governance).\r\n\r\nAcreditamos que, ao integrar práticas sustentáveis em suas operações, as organizações podem alcançar resultados financeiros sólidos, fortalecer sua reputação e contribuir positivamente para o meio ambiente e a sociedade.",
+    "inventoriesId": [
+        6692
+    ],
+    "logoId": "f7da6dcc-a0d9-4114-afb4-ccae8e284a81",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

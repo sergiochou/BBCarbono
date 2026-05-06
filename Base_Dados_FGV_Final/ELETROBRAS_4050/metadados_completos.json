@@ -1,0 +1,45 @@
+{
+    "id": 4050,
+    "name": "ELETROBRAS",
+    "about": "Somos líderes em geração e transmissão de energia elétrica no país e contribuímos para que a matriz energética brasileira seja uma das mais limpas e renováveis do mundo. Também atuamos no segmento de comercialização.\r\n\r\n Maior companhia do setor elétrico da América Latina, somos uma empresa de capital aberto. Adotamos estratégias voltadas para governança e conformidade, excelência operacional, disciplina financeira, atuação sustentável e valorização das pessoas e, por meio de nossas empresas, estamos presentes em todas as regiões do Brasil.",
+    "inventoriesId": [
+        5268,
+        6128,
+        6945,
+        8006
+    ],
+    "logoId": "f23f1eb4-2cd1-470a-bdc3-8fed46f98fe8",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

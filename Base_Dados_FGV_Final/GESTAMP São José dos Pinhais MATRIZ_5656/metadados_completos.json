@@ -1,0 +1,35 @@
+{
+    "id": 5656,
+    "name": "GESTAMP São José dos Pinhais MATRIZ",
+    "about": "A Gestamp é um grupo internacional dedicado ao design, desenvolvimento e fabricação de componentes automotivos metálicos. O Grupo é especializado no desenvolvimento de produtos com design inovador para conseguir veículos cada vez mais seguros e leves, reduzindo assim o consumo de energia e o impacto ambiental.\r\n\r\nAo longo dos seus mais de 20 anos de experiência, a Gestamp tornou-se um fornecedor global de tecnologia caracterizado pela proximidade com os clientes, inovação contínua e forte internacionalização.\r\n\r\nDesde a sua criação, a Gestamp deixou de ser uma pequena estamparia local para se tornar uma empresa global com atuação nos principais polos fabricantes de automóveis.\r\n\r\nCom o desafio de estar na vanguarda da inovação, a Gestamp dedica um grande esforço à investigação e desenvolvimento de tecnologias de ponta. Portanto, a inovação é a base sobre a qual se estabelece a sua estratégia futura.\r\n\r\nEstamos presente em 24 países, com mais de 100 plantas industriais, 13 centros de P&D e mais de 40.000 colaboradores em todo o mundo. No Brasil, estamos presentes em 04 estados, com 06 plantas produtivas:\r\n\r\nGravataí - RS:  com produção especializada na estampagem (frio e quente) e soldagem de conjuntos metálicos.\r\n\r\nSão José dos Pinhais - PR:  com produção especializada na estampagem a frio, soldagem de conjuntos metálicos e construção de ferramentas.\r\n\r\nSorocaba - SP: com produção especializada na estampagem a frio e soldagem de conjuntos metálicos.\r\n\r\nSanta Isabel - SP: com produção especializada na estampagem a frio e soldagem de conjuntos metálicos.\r\n\r\nTaubaté - SP: com produção especializada na estampagem (frio e quente), soldagem, montagem e pintura de conjuntos metálicos.\r\n\r\nBetim - MG: com produção especializada na estampagem (frio e quente) e soldagem conjuntos metálicos.\r\n\r\nTodas nossas plantas do Brasil possuem certificação ISO 16949, ISO 14001, ISO 45001 e Resíduo Zero.",
+    "inventoriesId": [
+        6627,
+        7845
+    ],
+    "logoId": "760b2cb1-1067-4db7-a659-527d426de9a2",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

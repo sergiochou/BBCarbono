@@ -1,0 +1,45 @@
+{
+    "id": 3821,
+    "name": "bp bioenergy",
+    "about": "Somos a bp bioenergy  uma das maiores empresas de bioenergia do Brasil. Fomos criada a partir da aquisição pela bp, da totalidade da joint-venture BP Bunge Bioenergia, em setembro de 2024. Temos mais de 9.500 colaboradores distribuídos em 11 unidades espalhadas por cinco estados brasileiros. \n\n Produzimos etanol, açúcar e bioeletricidade por meio da cana-de-açúcar, temos capacidade de moagem de 32 milhões de toneladas e nosso time e parceiros de negócio, seguem comprometidos com a segurança, ética, sustentabilidade e aptos a atender à crescente demanda por combustíveis mais limpos e com baixo teor de carbono. Já nascemos grande, não apenas em dimensão, mas também em propósito.\n\nOs biocombustíveis desempenham um papel-chave na transição energética global e colocam o Brasil em uma posição estratégica. Acreditamos que os biocombustíveis contribuirão para a descarbonização do setor de transportes. Eles podem ser utilizados nos motores existentes, servindo-se da infraestrutura já disponível. A bp vê um grande potencial da bioenergia brasileira – estamos prontos para desenvolver nosso negócio de etanol, crescer e aproveitar novas oportunidades no setor de bioenergia.",
+    "inventoriesId": [
+        5067,
+        6597,
+        7200,
+        8164
+    ],
+    "logoId": "39a4f4f4-c37f-f6c6-6d0c-3a198feb606c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

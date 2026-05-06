@@ -1,0 +1,35 @@
+{
+    "id": 1197,
+    "name": "Companhia de Restauro",
+    "about": null,
+    "inventoriesId": [
+        406,
+        2216
+    ],
+    "logoId": "0b3f5ae1-8a4e-472e-9fd4-c4e27baa95eb",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

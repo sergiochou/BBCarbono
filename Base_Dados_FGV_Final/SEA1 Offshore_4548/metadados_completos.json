@@ -1,0 +1,40 @@
+{
+    "id": 4548,
+    "name": "SEA1 Offshore",
+    "about": "A SEA1 Offshore do Brasil S.A. é parte do grupo SEA1 Offshore Inc. Com mais de 30 anos de operação no Brasil, a SEA1 Offshore do Brasil tem como foco operações de Apoio Offshore, Instalação de Cabos Submarinos. Atualmente 7 barcos especializados pertencem ou são operados pela SEA1 Offshore no Brasil e suas áreas de atuação.\nabrangem Estimulação de Poços, Recolhimento de Óleo, Instalação de Cabos Submarinos, Suporte a Plataformas, Reboque e Manuseio de Âncora além de transporte de tripulação. SEA1 Offshore do Brasil empreende projetos que incluem tecnologia naval e submarina, recursos de altíssima qualidade e profissionais qualificados.\n\n\"A Siem Offshore Inc. foi oficialmente renomeada para Sea1 Offshore Inc. A empresa continua comprometida em atender seus clientes com uma força de trabalho altamente competente e uma frota moderna de embarcações.\"",
+    "inventoriesId": [
+        6305,
+        7068,
+        8873
+    ],
+    "logoId": "588b236a-9501-a1f0-2fba-3a18e480918d",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

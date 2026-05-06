@@ -1,0 +1,50 @@
+{
+    "id": 3281,
+    "name": "Piramidal",
+    "about": "Há 40 anos no mercado, a Nova Piramidal se consolidou como uma das principais distribuidoras de Resinas Termoplásticas do Brasil. Com uma estrutura robusta, contamos com 10 centros de distribuição estrategicamente localizados para garantir eficiência e alcance nacional.\nNosso portfólio combina tradição e inovação, oferecendo desde materiais comodities até soluções sustentáveis e produtos químicos de última geração. Dessa forma, atendemos diversas gerações da produção de plástico, sempre alinhados às necessidades do mercado e às melhores práticas ambientais.\nA logística, armazenagem e movimentação dos produtos são realizadas pela própria empresa, garantindo controle de qualidade e agilidade na entrega. Contamos com frota própria e, para otimizar a cobertura nacional, complementamos nossa distribuição com parceiros logísticos selecionados.\n",
+    "inventoriesId": [
+        4602,
+        5162,
+        5894,
+        7201,
+        7915
+    ],
+    "logoId": "01ac2862-f374-4c7e-8125-0124529ff8bb",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

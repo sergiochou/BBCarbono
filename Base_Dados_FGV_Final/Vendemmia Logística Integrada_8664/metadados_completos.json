@@ -1,0 +1,30 @@
+{
+    "id": 8664,
+    "name": "Vendemmia Logística Integrada",
+    "about": "Há mais de quinze anos no mercado, a Vendemmia Logística Integrada é uma empresa com vasta experiência em 4PL no Brasil, aplicando tecnologia e inteligência logística nos mais variados processos: importação, desembaraço aduaneiro, armazenagem, gestão de estoque, transporte e exportação. Possui uma equipe multidisciplinar que tem como propósito projetar e implementar soluções logísticas criativas e seguras, que vão desde o transporte inbound e recebimento das mercadorias, passando pela armazenagem até a expedição e carregamento, além de serviços de valor agregado aos clientes.",
+    "inventoriesId": [
+        8367
+    ],
+    "logoId": "7e775000-b65d-1a88-cf37-3a1ff5dfffca",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

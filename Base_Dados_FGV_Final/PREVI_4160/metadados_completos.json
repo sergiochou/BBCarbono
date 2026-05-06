@@ -1,0 +1,45 @@
+{
+    "id": 4160,
+    "name": "PREVI",
+    "about": "A Previ - Caixa de Previdência dos Funcionários do Banco do Brasil, criada em 1904, antes mesmo da Previdência Oficial em nosso País, está entre os maiores fundos de pensão da América Latina.\r\n\r\nSomos uma entidade fechada de previdência e nossos participantes são funcionários e aposentados do Banco do Brasil, pensionistas, colaboradores do quadro próprio da Previ e familiares dos associados.  Trabalhamos para garantir a esses participantes benefícios previdenciários complementares aos da Previdência Oficial, de forma a contribuir para a qualidade de vida dos associados e de seus dependentes.\r\n\r\nCom a missão de Garantir o pagamento de benefícios a todos nós, associados, de forma eficiente, segura e sustentável e com o propósito de Cuidar do futuro das pessoas fomos a primeira entidade do segmento a medir e publicar sua pegada de carbono.\r\n\r\nA adesão da Previ ao Programa Brasileiro GHG Protocol faz parte da estratégia integrada de sustentabilidade, segue a recomendação do Comitê de Sustentabilidade da Entidade e está alinhada às diretrizes da Política de Sustentabilidade e Melhores Práticas ASGI e ao Plano Diretor de Sustentabilidade. Por meio do inventário de GEE, é possível quantificar as emissões, avaliar o impacto dos esforços de mitigação das emissões e fornecer informações necessárias para que sejam elaboradas estratégias mais eficientes para a transição do portfólio para uma economia de baixo carbono, no longo prazo.\r\n\r\nA produção do inventário também reafirma o compromisso da Previ com a transparência junto aos seus stakeholders e com as metas dos Objetivos de Desenvolvimento Sustentável (ODS), além de possibilitar a troca de informações com outras iniciativas em que a Entidade é signatária como o Carbon Disclosure Project (CDP), Global Reporting Initiative (GRI) e Principles for Responsible Investment (PRI).\r\n",
+    "inventoriesId": [
+        5529,
+        6311,
+        7786,
+        7995
+    ],
+    "logoId": "77894e34-4f2f-76cc-98e5-3a120a06e269",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

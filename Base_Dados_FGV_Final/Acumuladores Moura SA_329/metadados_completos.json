@@ -1,0 +1,95 @@
+{
+    "id": 329,
+    "name": "Acumuladores Moura S/A",
+    "about": "Sobre o Grupo Moura\nLíder de mercado na América do Sul, a Moura nasceu em 1957, concretizando o sonho dos visionários empreendedores Edson Mororó Moura e sua esposa, Conceição Moura. Com mais de 3.000 SKU's (modelos de produtos) em seu portfólio, a Moura desenvolve as mais recentes tecnologias em acumulação de energia para as mais diversas aplicações da sociedade: carros e motos que transportam gente; caminhões e empilhadeiras; caixas eletrônicos, sistemas fotovoltaicos, circuitos de segurança, data centers, aparelhos hospitalares, antenas de telefonia que garantem a comunicação entre todos; e até em locomotivas e barcos. Também é um dos principais players de sistemas de armazenamento de energia da América do Sul. No setor de Telecomunicações, é líder em desenvolvimento, fabricação e vendas de baterias há mais de 20 anos. Contando com sete plantas industriais – seis no Brasil e uma na Argentina – fabrica cerca de 11 milhões de baterias por ano e conta com cerca de 7.000 colaboradores.\n\n",
+    "inventoriesId": [
+        95,
+        2062,
+        2370,
+        553,
+        2840,
+        3165,
+        3636,
+        3869,
+        4438,
+        4586,
+        5017,
+        5994,
+        6985,
+        8903
+    ],
+    "logoId": "fa6cd846-ff09-4e13-b534-f46f34ea9b4c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

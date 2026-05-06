@@ -1,0 +1,30 @@
+{
+    "id": 8232,
+    "name": "GREEN FOREST",
+    "about": "\tA Green Forest Consultoria Ambiental Ltda é uma empresa sediada em Belém, Pará, atuando no mercado de consultoria ambiental desde 2017. Com mais de 8 anos de experiência, a empresa se destaca por oferecer serviços especializados que auxiliam empresas e comunidades na implementação de projetos sustentáveis.\n\tA empresa se destaca por seus valores de inovação, sustentabilidade, compromisso, transparência, respeito, diversidade e responsabilidade social. Seu objetivo é conectar a Amazônia ao mundo, orientando negócios com ética e práticas sustentáveis, oferecendo serviços de alta qualidade de forma rápida e eficaz, inspirando a construção de um futuro melhor.",
+    "inventoriesId": [
+        9021
+    ],
+    "logoId": "3c3cc4d0-d1c6-9aaa-f243-3a1a256dfe45",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

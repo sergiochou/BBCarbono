@@ -1,0 +1,35 @@
+{
+    "id": 8328,
+    "name": "TEG - TERMINAL EXPORTADOR DO GUARUJA LTDA.",
+    "about": "O TEG - Terminal Exportador do Guarujá, é uma Joint Venture entre as companhias LDC e Cargill Agrícola S. A., desde dezembro de 2009. O terminal opera dois armazéns, que no total alcançam a capacidade de armazenamento de 90 mil toneladas de produto. O terminal movimenta granel sólido vegetal, incluindo milho e soja.",
+    "inventoriesId": [
+        8877,
+        7914
+    ],
+    "logoId": "3877ebed-c3f9-5a2c-ca0d-3a18c5c68d31",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

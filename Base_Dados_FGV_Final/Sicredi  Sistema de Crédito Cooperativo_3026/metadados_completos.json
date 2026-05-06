@@ -1,0 +1,55 @@
+{
+    "id": 3026,
+    "name": "Sicredi - Sistema de Crédito Cooperativo",
+    "about": "O Sicredi (Sistema de Crédito Cooperativo) é uma instituição financeira cooperativa fundada há mais de 120 anos. Por meio de suas soluções financeiras e não financeiras, gera impactos positivos para os associados e para as comunidades onde está inserido, reafirmando seu compromisso com o desenvolvimento sustentável e com a promoção de uma sociedade mais próspera. Atua de forma sistêmica, com cinco centrais e 100 cooperativas, por meio das quais está presente fisicamente em todos os estados brasileiros e no Distrito Federal. Com mais de 2,8 mil pontos de atendimento, oferece mais de 300 soluções financeiras e não financeiras, adaptadas às necessidades específicas das comunidades em que atua. Saiba mais, no Relatório de Sustentabilidade: https://www.sicredi.com.br/site/sobre-nos/sustentabilidade/",
+    "inventoriesId": [
+        4322,
+        4642,
+        5254,
+        6078,
+        6874,
+        8192
+    ],
+    "logoId": "b76bff69-e62c-400c-911c-a0b150781ae8",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

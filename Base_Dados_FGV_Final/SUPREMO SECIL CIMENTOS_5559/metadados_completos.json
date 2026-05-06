@@ -1,0 +1,40 @@
+{
+    "id": 5559,
+    "name": "SUPREMO SECIL CIMENTOS",
+    "about": "Fundada em 2003 em Pomerode/SC, uma das principais companhias do setor na região Sul do Brasil, a Supremo Secil Cimentos é uma multinacional portuguesa que produz cimento ensacado e a granel, além de prestar serviços especializados de concretagem.\r\nA Supremo Secil Cimentos faz parte do Grupo Secil, referência na indústria de cimento em Portugal, com mais de 90 anos de experiência, presença em oito países de quatro continentes e padrões de qualidade e sustentabilidade que atendem as mais elevadas exigências internacionais.",
+    "inventoriesId": [
+        6711,
+        6980,
+        8270
+    ],
+    "logoId": "782f6694-401c-444c-a8dc-f54cd4773e76",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

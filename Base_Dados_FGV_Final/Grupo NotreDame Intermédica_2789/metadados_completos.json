@@ -1,0 +1,30 @@
+{
+    "id": 2789,
+    "name": "Grupo NotreDame Intermédica",
+    "about": "O Grupo NotreDame Intermédica (GNDI) conta com 7,6 milhões de beneficiários. Fundado em 1968, é pioneiro em Medicina Preventiva, área em que atua desde 1982 por meio da promoção de programas estruturados que oferecem saúde integral e odontologia para clientes empresariais e individuais.\r\n\r\nUm dos importantes marcos da empresa nesta trajetória foi a abertura de capital, em 2018, quando passou a negociar suas ações na B3, o que potencializou ainda mais a capacidade de investimentos em inovação, tecnologia, processos e infraestrutura, sempre tendo como objetivo final a satisfação plena dos beneficiários.\r\n\r\nA abertura de capital também impulsionou a estratégia de verticalização do Grupo, tornando fusões e aquisições constantes nos últimos anos, ampliando a atuação geográfica com operações próprias, sempre com o objetivo de oferecer saúde de qualidade a custos mais acessíveis para gerações de brasileiros. As operações com Rede Própria, que antes eram concentradas nos Estados de São Paulo e Rio de Janeiro, foram expandidas para Santa Catarina, Paraná, Rio Grande do Sul e Minas Gerais, resultando na criação de duas filiais: o GNDI Sul e o GNDI Minas, que contemplam duas das regiões mais populosas do Brasil.\r\n\r\nComo parte de sua estratégia, o GNDI também conta com uma equipe dedicada que faz a gestão dos aspectos Ambientais, Sociais e de Governança (“ASG”), buscando perpetuar a sustentabilidade do negócio. Em 2021, pelo segundo ano consecutivo, as operações foram carbono neutro, por meio da compensação de 100% das emissões de GEE através da compra de créditos de carbono e certificados de energia renovável.",
+    "inventoriesId": [
+        4774
+    ],
+    "logoId": "842bbd2a-4d1a-4e9b-91d7-bb59c35f59df",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 4827,
+    "name": "Correios",
+    "about": "Os Correios estão entre os líderes no segmento logístico e de entrega de encomendas no Brasil e são responsáveis pela atividade postal nacional como empresa pública, com a missão de \"Promover a integração nacional, contribuindo com o Governo no desenvolvimento socioeconômico, conectando pessoas, instituições e negócios\". Presente em 5.564 dos 5.570 municípios brasileiros, os Correios entregaram mais de 3 bilhões de objetos postais por ano. A estatal realiza a importante função de integração e de inclusão social, papel indispensável para o desenvolvimento nacional, por meio da maior infraestrutura logística do Brasil. Com mais de 12 mil unidades operacionais, das quais mais de 10 mil são pontos de atendimento à população, cerca de 26 mil veículos próprios, a empresa empregou, em 2024, aproximadamente 84 mil empregadas e empregados diretos. Para mais informações, acesse: www.correios.com.br.  ",
+    "inventoriesId": [
+        6660,
+        6646,
+        6642,
+        6024,
+        7647,
+        8508
+    ],
+    "logoId": "df60473c-fac6-4f92-b2fb-fa26d0470918",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,85 @@
+{
+    "id": 276,
+    "name": "CBMM",
+    "about": "\nDesde a sua fundação, em 1955, a CBMM desenvolve projetos no Brasil e em diversos países do mundo para fomentar a adoção da tecnologia do Nióbio por diversas indústrias.\nNosso objetivo é aumentar a eficiência dos materiais, tornando-os mais seguros e sustentáveis, de maneira a atender aos nossos clientes, no Brasil e no mundo, por meio de um modelo voltado à inovação e tecnologia.\nSomos uma empresa brasileira com atuação global. Transformamos matéria-prima em produtos de alto valor agregado, contribuindo para um futuro mais sustentável e eficiente. Desenvolvemos a tecnologia do Nióbio para garantir que os desafios da atualidade sempre encontrem uma solução.\nO modelo de negócio da CBMM é pautado por sólida governança corporativa e está fundamentado em garantia de fornecimento, inovação e desenvolvimento de novas tecnologias em parceria com clientes, universidades e os mais renomados centros de pesquisa do Brasil e do mundo.\nNossa Companhia é privada e consiste em uma sociedade por ações de capital fechado, sendo 70% deste capital pertencente ao Grupo Moreira Salles e os outros 30% distribuídos entre dois consórcios: um formado por empresas chinesas e outro formado por empresas do Japão e da Coreia do Sul, sendo cada um dos consórcios responsáveis por 15% de participação na Companhia.\nLocalizada no estado de Minas Gerais, na cidade de Araxá, nossa sede e parque industrial conta com três grandes complexos, integrando atividades minerais e, principalmente, metalúrgicas e químicas. Também contamos com escritórios regionais no exterior (nos Estados Unidos, Amsterdã, Singapura, Suíça e escritórios de representação na China) uma extensa rede de armazéns – com pontos estrategicamente posicionados para assegurar a qualidade dos serviços e distribuição para qualquer lugar do mundo -, além de um escritório na cidade de São Paulo, focado em vendas e aplicações da tecnologia do Nióbio.\nContamos com cinco centros especializados, três deles com operação exclusiva para suportar o nosso core business: o Centro de Tecnologia, o Centro de Pesquisa de Materiais e Processos Metalúrgicos e o Centro de Materiais para Baterias, inaugurado em 2021. Os outros dois refletem nosso comprometimento com a temática ESG: o Centro de Monitoramento Integrado (focado em segurança) e o Centro de Desenvolvimento Ambiental (focado em educação).\nSomos o maior fornecedor de produtos de Nióbio e exportamos para mais de para mais de 500 clientes em mais de 50 países. Investimos em núcleos de pesquisa para viabilização de produtos cada vez mais eficientes para as diferentes aplicações do Nióbio. \nUtilizando as diretrizes do International Integrated Reporting Council (IIRC), elaboramos um modelo que demonstra como os recursos utilizados em nossa operação são devolvidos à sociedade, gerando e compartilhando valor com cada um dos capitais considerados: Financeiro, Manufaturado, Humano, Intelectual, Social e de Relacionamento e Natural.\nA inovação está integrada à agenda estratégica da CBMM e contribui para posicionar o negócio rumo ao futuro. O assunto conta com um plano de investimentos e ações e se divide em três perspectivas: desenvolvimento de mercado e clientes; tecnologia e produtos de Nióbio; e desenvolvimento interno de processos e produtos.\n\n",
+    "inventoriesId": [
+        2286,
+        1810,
+        2829,
+        3183,
+        3505,
+        3792,
+        4142,
+        4529,
+        5011,
+        6044,
+        7378,
+        8146
+    ],
+    "logoId": "7e50dcf1-cdf9-4644-99d9-aed46e6be4cd",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 461,
+    "name": "Assaí",
+    "about": "O Assaí Atacadista é o líder no setor de atacado de autosserviço (cash carry) no Brasil. Fundado em 1974 na cidade de São Paulo, com foco no abastecimento de pequenos comerciantes locais, alcançou, em 2025, faturamento de R$ 84,7 bilhões, mantendo um modelo de baixo custo operacional e foco na experiência do cliente. Com o nome comercial da Sendas Distribuidora S.A., empregamos mais de 92 mil colaboradores(as) e operamos 312 lojas em 24 Estados e no Distrito Federal, além de 12 Centros de Distribuição e 13 escritórios regionais.\nNossa presença em todas as regiões do Brasil e a diversidade de Nossa Gente reforçam que somos uma empresa que é a cara do povo brasileiro. O Assaí é a maior e mais presente empresa brasileira do varejo alimentar, segundo a NielsenIQ Homescan, e a marca com a melhor reputação na categoria Varejo-Supermercado do Brasil, segundo o Índice Caliber de Reputação 2025. Nosso modelo de negócios é para todos os públicos, classes, idades e gêneros, e combina vendas no atacado (grandes volumes) com varejo (unidades), oferecendo preços competitivos, atendendo tanto pequenos e médios empreendedores(as) quanto consumidores(as) finais que buscam economia e variedade.\nSomos uma corporation sem controlador e com 100% das ações negociadas livremente no mercado. Estamos listados na Bolsa de Valores de São Paulo (B3) sob o ticker ASAI3 e, desde 9 de janeiro de 2025, nossas American Depositary Shares (ADS) são negociadas apenas no mercado balcão dos Estados Unidos (ticker ASAIY) seguindo a nossa estratégia de longo prazo de manter a eficiência da operação.\nA Companhia se destaca por iniciativas de responsabilidade social por meio do Instituto Assaí e investe em sustentabilidade com práticas como redução de emissões de carbono, eficiência energética em suas lojas, campanhas de doação de alimentos e roupas, programas de incentivo ao empreendedorismo e ações de diversidade e inclusão.",
+    "inventoriesId": [
+        5508,
+        6039,
+        7148,
+        8104
+    ],
+    "logoId": "99a79dec-5d80-03c6-bae4-3a1300ec586a",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

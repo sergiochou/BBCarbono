@@ -1,0 +1,30 @@
+{
+    "id": 29,
+    "name": "Apoena Sustentável - Consultoria em Gestão ",
+    "about": "Empresa de consultoria com foco em Sustentabilidade.",
+    "inventoriesId": [
+        26
+    ],
+    "logoId": "922b1613-4a68-443d-a111-36e07db39781",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

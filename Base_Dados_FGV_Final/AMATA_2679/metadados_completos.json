@@ -1,0 +1,30 @@
+{
+    "id": 2679,
+    "name": "AMATA",
+    "about": "Manter as florestas nativas de pé: esse é o propósito da empresa desde a sua fundação. É através da gestão de florestas nativas e plantios de espécies exóticas e nativas que a AMATA produz madeira para os mais variados usos e, desta forma, substitui a madeira ilegal e diminui a pressão do desmatamento nas florestas. Para a AMATA, a manutenção desse ecossistema leva em consideração não somente a natureza, mas também e fundamentalmente as pessoas. É por isso que a empresa, ao longo de sua história, investe nos seus colaboradores e no fortalecimento da cadeia AMATA.\r\n\r\nAcreditamos que, para produzir mudanças significativas no mundo não podemos estar sozinhos. É por isso que ampliamos nossos mercados e difundimos nossos ideais, contribuindo para a conscientização de que o impacto em manter as florestas de pé é significante para todos, dentro e fora da AMATA.\r\n\r\nÉ criando valor para as florestas que ampliamos nossos parceiros e também abrimos caminhos para que as pessoas se aproximem da natureza e criem, por meio dela,\r\nfontes de renda possíveis e responsáveis.\r\n\r\nPara nós, este é um caminho para acelerar as mudanças positivas no mundo. Somos hoje a empresa mais procurada por trabalhadores nas regiões onde operamos por nossa forma de trabalhar. Compreendemos ser fundamental o entendimento do impacto de nossas atividades nas comunidades locais e operamos com respeito a legalidade\r\ne as formas de trabalho dos Amatos.\r\n\r\nA AMATA não se dá por satisfeita em ser uma empresa pioneira e investida em praticar a sustentabilidade em todas suas ações. O objetivo é espalhar essa mensagem, gerar mais parcerias e mais consciência do nosso papel transformador no mundo.\r\n\r\nRespeitando o ciclo das florestas é possível retirar dela a madeira de forma inesgotável. Colhendo as árvores de forma legal e sustentável, atribuímos valor econômico para toda a floresta que se manteve intacta.\r\n\r\nÉ com este olhar que todas as atividades da AMATA acontecem. A madeira possui características naturais que transformam cada objeto produzido, a partir dessa matéria prima, em um objeto inigualável. Não existe um pedaço de madeira igual ao outro, a impressão digital de uma árvore é única, assim como a nossa.\r\n\r\nE, para além da qualidade do produto, durabilidade, beleza e funcionalidade,existe uma razão fundamental para que esse material seja considerado a tecnologia do futuro: sua capacidade de armazenar e estocar carbono.\r\n\r\nA solução para o aquecimento global se apresenta em duas formas: reduzir as emissões de carbono e buscar armazenamento para o carbono retirado da atmosfera.\r\n\r\nA madeira é o único material que pode promover as duas coisas ao mesmo tempo,além de apresentar uma variedade quase infinita de aplicações. Precisamos pensar em novos meios para acelerar as mudanças no mundo e a madeira é parte dessa solução.\r\n\r\nÉ com esse movimento que a AMATA gera maior valor para a floresta, explorando sua porção renovável e dando ao consumidor um produto sustentável e de qualidade.\r\n\r\nAtravés da utilização da madeira certificada, podemos construir e contribuir para a renovação da floresta, gerando qualidade de vida para o consumidor.\r\n",
+    "inventoriesId": [
+        3684
+    ],
+    "logoId": "a8065e54-933c-4671-b9f2-12d3287d5ac2",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

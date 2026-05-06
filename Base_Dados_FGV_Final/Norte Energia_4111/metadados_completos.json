@@ -1,0 +1,45 @@
+{
+    "id": 4111,
+    "name": "Norte Energia",
+    "about": "Empresa privada e concessionária da Usina Hidrelétrica Belo Monte, localizada no Estado do Pará. Ao assumir o desafio de construir e operar a maior hidrelétrica 100% brasileira, no rio Xingu, a empresa firmou também o compromisso de contribuir para o desenvolvimento econômico e social do país, por meio da geração de energia elétrica limpa, renovável, confiável e a preço justo.\r\n\r\nNo que tange à sustentabilidade, a Norte Energia tem entre seus pilares a proteção da bacia hidrográfica do Xingu, o compromisso em contribuir para o desenvolvimento socioeconômico da região em que está inserida a Usina e a busca por inovação na geração de energia renovável.\r\n\r\nConsciente de seu papel como agente de desenvolvimento sustentável para a região do Médio Xingu, a Norte Energia segue engajada e comprometida com iniciativas que promovam melhores condições de vida, crescimento, diálogo transparente e respeito às comunidades do entorno da Usina Belo Monte.",
+    "inventoriesId": [
+        5362,
+        6602,
+        7632,
+        8970
+    ],
+    "logoId": "6bbfa3b8-c559-42c4-98e5-c281a4a647af",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

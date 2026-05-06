@@ -1,0 +1,35 @@
+{
+    "id": 7633,
+    "name": "XP Inc",
+    "about": null,
+    "inventoriesId": [
+        7314,
+        8964
+    ],
+    "logoId": "e3152f66-5247-38d9-a955-3a14835054d4",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3411,
+    "name": "Carbonext Consultoria Ltda.",
+    "about": "A Carbonext é uma empresa pioneira em soluções baseadas na natureza para combater as mudanças climáticas. Fundada em 2010, começamos nossa operação protegendo a Floresta Amazônica e hoje, temos 10 projetos de REDD+ (redução de emissões por desmatamento e degradação), no Acre, Amazonas, Mato Grosso, Pará e Rondônia, atuando também em outras frentes, como trading de créditos de carbono, inventários de emissões, ARR (florestamento, reflorestamento e revegetação) e ALM (gestão de solo para a agricultura).\n",
+    "inventoriesId": [
+        4697,
+        5069,
+        5950,
+        7014,
+        8458
+    ],
+    "logoId": "ff1d8284-0428-45af-9a43-275e667db5b1",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

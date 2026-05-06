@@ -1,0 +1,105 @@
+{
+    "id": 1761,
+    "name": "Igaratiba",
+    "about": "Há mais de 45 anos, a Igaratiba, indústria brasileira, dedica-se à fabricação de embalagens plásticas. Com um parque fabril equipado com alta tecnologia, nosso propósito é atender rigorosamente às exigências de nossos clientes, buscando sempre a excelência em nossa atividade.\n\n",
+    "inventoriesId": [
+        2297,
+        50,
+        1853,
+        1567,
+        1617,
+        543,
+        3058,
+        3332,
+        3691,
+        4022,
+        4218,
+        4516,
+        5098,
+        6258,
+        7859,
+        8308
+    ],
+    "logoId": "3bdb6d2e-8509-97ce-627e-3a1348bb9a03",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

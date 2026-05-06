@@ -1,0 +1,35 @@
+{
+    "id": 1544,
+    "name": "EQAO",
+    "about": "Começamos no Brasil, no ano 2000 com a Ecoinvest, uma das pioneiras no desenvolvimento de projetos para o mercado de carbono no mundo. Através de uma aliança com a Bunge S/A, em 2004 criamos a Ecoinvest Carbon, que expandiu nossos negócios de créditos de carbono para diversos países. Tornamos-nos um dos líderes no desenvolvimento de projetos regulados pelo Protocolo de Quioto na América Latina. No ano de 2008 a aliança foi desfeita, e a Bunge adquiriu os ativos da Ecoinvest Carbon no exterior. Com foco em nossas operações no Brasil, no início de 2013 já somávamos 58 projetos MDL registrados, 22 novos projetos em processo de validação, além da aprovação de 4 metodologias MDL de redução de emissões de Gases de Efeito Estufa (GEE).\r\n\r\nA maior parte dos créditos de carbono emitidos por projetos de geração de eletricidade por fontes renováveis no país teve nossa participação direta. Também assessoramos as negociações junto a mais de 20 compradores no mercado internacional de cerca de 10 milhões de RCEs (Reduções Certificadas de Emissões - créditos de carbono no âmbito do Mecanismo de Desenvolvimento Limpo, MDL), o que equivale a mais de 250 milhões de reais. O sucesso no mercado de carbono nos inspirou a buscar novas oportunidades de negócio. Em 2008 passamos a investir em projetos de geração de energia por fontes alternativas e sustentáveis, através da Ecopart Investimentos S/A - sociedade constituída com a participação da Ourinvest Assessoria. Mediante a nossa participação acionária na Omega Energia (www.omegaenergia.com.br) trabalhamos ativamente na identificação e desenvolvimento de aproximadamente 2.000 MW em projetos de geração de eletricidade, através de parques eólicos e pequenas centrais hidroelétricas.\r\n\r\nAté o momento, essa é a história da EQAO. Sabemos que sempre haverá mudanças pela frente, podemos e queremos identificar novas oportunidades e continuar em permanente movimento. Os desafios nos movem e, maior do que eles, só mesmo a nossa vontade de superá-los.",
+    "inventoriesId": [
+        282,
+        1966
+    ],
+    "logoId": "9b27dbdf-fee7-4b61-88e8-00f64c379f3b",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

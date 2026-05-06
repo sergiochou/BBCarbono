@@ -1,0 +1,30 @@
+{
+    "id": 9195,
+    "name": "Mane do Brasil",
+    "about": "Fabricação de Essências e Fragâncias para uso industrial.",
+    "inventoriesId": [
+        8881
+    ],
+    "logoId": "3c58d98c-efca-2237-ee49-3a1a20483b0e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1454,
+    "name": "Strong Business School",
+    "about": "A Escola Superior de Administração e Gestão (ESAGS) é vinculada à STRONG e foi criada, em 2000, com a missão de preparar capital intelectual para as empresas e o mercado de negócios.\r\n\r\nA ESAGS oferece as graduações em Administração e Economia, tem Certificação de Qualidade FGV, sendo o curso de Administração o primeiro do Brasil a obter a certificação, em 2005.\r\n\r\nA nota máxima no Exame Nacional de Desempenho de Estudantes (ENADE), por duas vezes consecutivas, é outro diferencial importante da instituição. O resultado é consequência da qualidade do ensino oferecido na Escola de Negócios e do compromisso da instituição na formação de líderes vencedores.\r\n\r\nProva disso é o alto índice de empregabilidade: cerca de 96% dos alunos atuam em empresas nacionais e multinacionais.\r\n\r\nO aluno que escolhe a ESAGS para preparar-se para o mercado de trabalho tem ainda a oportunidade de participar de intercâmbios culturais. Isso porque a instituição tem parceria com universidades renomadas, no exterior, para oferecer cursos de idiomas, extensão e um módulo internacional proporcionando aos estudantes a ampliação do conhecimento e uma vivência diferenciada.\r\n\r\nA faculdade investe constantemente em estrutura, corpo docente e conteúdo atualizado com as exigências da demanda das empresas, com a proposta de figurar sempre entre as melhores escolas de negócios do País.\r\n\r\n",
+    "inventoriesId": [
+        4920,
+        5518,
+        6664,
+        7638,
+        8737
+    ],
+    "logoId": "929526ca-a241-4ef4-aeb6-b7f63b0dbd48",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

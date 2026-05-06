@@ -1,0 +1,35 @@
+{
+    "id": 8190,
+    "name": "RHI Magnesita",
+    "about": "A RHI Magnesita é o fornecedor líder global de produtos, sistemas e soluções refratárias de \nalta qualidade que são essenciais para processos de alta temperatura, superiores a 1.200°C, \nem uma ampla variedade de indústrias, incluindo aço, cimento, metais não ferrosos e vidro. \nCom uma cadeia de valor verticalmente integrada, de matérias-primas a produtos refratários \ne soluções totalmente baseadas em desempenho, a RHI Magnesita atende clientes em todo \no mundo, com cerca de 20.000 funcionários em 47 unidades de produção, 9 unidades de \nreciclagem e mais de 70 escritórios de vendas. A RHI Magnesita pretende alavancar sua \nliderança em termos de receita, escala, portfólio de produtos e presença geográfica \ndiversificada para atingir estrategicamente os países e regiões que se beneficiam de \nperspectivas de crescimento econômico mais dinâmico.\nO Grupo está listado na categoria Equity Shares (Commercial Companies) (\"ESCC\") da Lista \nOficial da Bolsa de Valores de Londres (símbolo: RHIM) e é um constituinte do índice FTSE \n250, com uma listagem secundária na Bolsa de Valores de Viena (Wiener Börse). Para obter \nmais informações, acesse: www.rhimagnesita.com",
+    "inventoriesId": [
+        7867,
+        7868
+    ],
+    "logoId": "c87599ed-2e07-fa8d-b693-3a160a489cc5",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

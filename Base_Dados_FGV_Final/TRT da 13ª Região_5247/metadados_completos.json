@@ -1,0 +1,40 @@
+{
+    "id": 5247,
+    "name": "TRT da 13ª Região",
+    "about": "O Tribunal Regional do Trabalho da 13ª Região (TRT-13) faz parte da Justiça Federal do Brasil. Tem jurisdição no Estado da Paraíba sobre os casos que envolvem relações de trabalho, tais como reclamações trabalhistas, dissídios coletivos, acidentes de trabalho, entre outros. Seu principal objetivo é promover a justiça e a equidade nas relações laborais, garantindo o cumprimento das leis trabalhistas e assegurando os direitos das partes.\nA missão institucional do TRT-13 é realizar justiça, no âmbito das relações de trabalho, contribuindo para a paz social e o fortalecimento da cidadania.",
+    "inventoriesId": [
+        6342,
+        7104,
+        8255
+    ],
+    "logoId": "cf68aa33-90d5-4c37-bbc8-8658c8414af1",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 15,
+        "acronym": "PB",
+        "name": "Paraíba"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8575,
+    "name": "CAIXA Consórcio",
+    "about": "A CAIXA Consórcio é uma empresa especializada na comercialização de Consórcio Imobiliário, Veículos Leves e Veículos Pesados, que tem como premissa democratizar o acesso a todos os brasileiros na aquisição de bens móveis e imóveis.",
+    "inventoriesId": [
+        9285
+    ],
+    "logoId": "d87278a8-d869-b487-dbf3-3a194d0f1299",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

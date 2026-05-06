@@ -1,0 +1,30 @@
+{
+    "id": 9188,
+    "name": "HIGIDENT",
+    "about": "A Higident do Brasil é uma empresa nacional com mais de duas décadas de atuação no mercado de higiene pessoal, especializada na fabricação de sabonetes. Comprometida com a qualidade, inovação e sustentabilidade, a empresa adota práticas responsáveis em toda sua cadeia produtiva. A Higident investe continuamente em tecnologias limpas e melhorias ambientais, reafirmando seu compromisso com o desenvolvimento sustentável e a redução dos impactos ao meio ambiente.",
+    "inventoriesId": [
+        9034
+    ],
+    "logoId": "6357f388-a533-e48a-2561-3a1a23bd3853",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

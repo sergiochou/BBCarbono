@@ -1,0 +1,90 @@
+{
+    "id": 2002,
+    "name": "Grupo Malwee",
+    "about": "O Grupo Malwee é uma das principais empresas de moda do Brasil e uma das mais modernas do mundo. Com mais de 50 anos de história, o Grupo Malwee engloba as marcas Malwee, Enfim, Malwee Kids, Carinhoso, além das marcas nativas digitais Basico.com e Basicamente. Estamos presentes em 76% do território brasileiro, com mais de 22 mil pontos de venda, entre lojas parceiras, próprias, rede Aqui Tem Malwee e franquias. Atualmente, empregamos mais de 4 mil pessoas diretamente, além de gerar milhares de empregos indiretos.",
+    "inventoriesId": [
+        2411,
+        2201,
+        405,
+        2790,
+        3171,
+        3553,
+        3982,
+        4350,
+        4568,
+        5485,
+        6004,
+        7125,
+        8343
+    ],
+    "logoId": "fd02d061-dfd1-416f-abf0-353324fd0486",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

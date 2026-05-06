@@ -1,0 +1,35 @@
+{
+    "id": 6075,
+    "name": "Transportes Gabardo ",
+    "about": "A Transportes Gabardo, fundada em 1989 em Porto Alegre (RS), é referência no transporte rodoviário de veículos e na logística automotiva em toda a América Latina. A empresa oferece soluções completas e personalizadas, incluindo transporte de veículos novos e seminovos, gestão de pátios, armazenagem e inspeção digital, com operações integradas e rastreamento em tempo real.\n\nContamos com uma infraestrutura robusta, frota moderna e rastreada, bases operacionais estrategicamente distribuídas e um centro de controle que monitora as operações 24 horas por dia, garantindo eficiência, segurança e visibilidade total da cadeia logística. Nossas atividades são conduzidas por equipes multidisciplinares altamente qualificadas, apoiadas por tecnologia avançada e processos padronizados.\n\nNossas operações são pautadas por padrões internacionais de excelência e sustentabilidade, refletidos nas certificações ISO 9001 (Qualidade), ISO 14001 (Meio Ambiente) e ISO 39001 (Segurança Viária), além da certificação OEA – Operador Econômico Autorizado pela Receita Federal. Entre as conquistas mais recentes, destaca-se também a certificação de atendimento aos requisitos da ABNT PR 2030, voltada às práticas ESG (Ambiental, Social e Governança).\n\nReforçando nosso compromisso com a descarbonização, aderimos ao programa Compromisso SP Carbono Zero, promovido pela Secretaria de Meio Ambiente, Infraestrutura e Logística (SEMIL) do Estado de São Paulo, que estimula ações concretas de mitigação climática no setor privado com projeções até 2050. Somos signatários do Pacto Global da ONU, com foco prioritário na temática clima e na ODS 13, além de participantes da Plataforma de Ação pelo Clima do Pacto Global. Nossa jornada avançou com a adesão ao movimento Ambição Net Zero, estabelecendo metas baseadas na ciência e contribuindo coletivamente para limitar as emissões líquidas nacionais de gases de efeito estufa até 2030, em alinhamento com a meta climática sob o Acordo de Paris.\n\nAlém disso, conquistamos uma certificação inédita em nosso setor: fomos reconhecidos como empresa carbono negativo pela Global Certification System, conforme certificado nº GCSCO22822025A. Essa certificação evidencia que a organização possui remoções de tCO₂e superiores ao volume de emissões geradas por suas atividades e operações. As emissões foram integralmente neutralizadas por meio de projetos ambientais propostos e mantidos pela Transportes Gabardo, baseados em carbono florestal, carbono do solo e manejo sustentável da agricultura.\n\nOs resultados de emissões de GEE apresentados referem-se ao consolidado de todas as unidades operacionais da Transportes Gabardo, reforçando a transparência e a abrangência do monitoramento climático corporativo.",
+    "inventoriesId": [
+        6808,
+        8035
+    ],
+    "logoId": "0ccf473a-5b59-bb95-78b5-3a1fd1b65f4a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

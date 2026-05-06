@@ -1,0 +1,35 @@
+{
+    "id": 6125,
+    "name": "Colares Linhares",
+    "about": "Fundada em 1999, a Construtora Colares Linhares atua predominantemente nos ramos de\ninfraestrutura, óleo e gás e gestão de resíduos. \nNo contexto nacional, tanto no mercado público como privado, destaca-se como uma empresa moderna, com investimentos em equipamentos de última geração e adoção de tecnologias pioneiras em seus empreendimentos.",
+    "inventoriesId": [
+        7199,
+        7909
+    ],
+    "logoId": "1bc0eb0b-0675-020d-a0b1-3a1223cb7fc0",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

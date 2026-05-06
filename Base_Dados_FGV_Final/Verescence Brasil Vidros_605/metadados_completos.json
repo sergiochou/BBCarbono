@@ -1,0 +1,60 @@
+{
+    "id": 605,
+    "name": "Verescence Brasil Vidros",
+    "about": "QUEM SOMOS NÓS\r\nLíder mundial do mercado de frascos de vidro, nós agregamos valor aos projetos de grandes marcas graças ao nosso know-how, conquistado ao longo de 120 anos de operação. Apaixonados pelo vidro e apoiados em nosso expertise, buscamos sempre oferecer soluções de alta qualidade, inovadoras e ambientalmente responsáveis.\r\n\r\nUMA PRESENÇA MUNDIAL\r\nO grupo emprega aproximadamente 3200 pessoas em 4 fábricas, 5 unidades de decoração e 6 escritórios de vendas distribuídos em 4 países: França, Espanha, Itália, EUA e Brasil.   \r\n\r\nNo Brasil, sua fábrica em São Paulo possui 2 fornos para atender os mercados da saúde e da beleza, com capacidade instalada de 1,3 milhões de produtos por dia. Dispõe de tecnologia de Sala Limpa (ambiente controlado, especialmente utilizado para os frascos farmacêuticos). A Verescence Brasil possui também uma unidade de decoração de vidros que oferece diferentes processos baseados em tecnologias de classe mundial para atender o mercado da beleza.\r\n\r\n\r\n",
+    "inventoriesId": [
+        295,
+        55,
+        2678,
+        1882,
+        1622,
+        2849,
+        3424
+    ],
+    "logoId": "2feac098-dadc-481b-b85f-d51438acc92c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

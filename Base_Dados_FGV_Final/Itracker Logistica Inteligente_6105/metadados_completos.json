@@ -1,0 +1,35 @@
+{
+    "id": 6105,
+    "name": "Itracker Logistica Inteligente",
+    "about": "A iTracker Logística Inteligente, Operador Logístico do Grupo ICTSI, sediado no Rio de Janeiro, estrategicamente localizado próximo ao Porto do Rio (5 min em acesso exclusivo a veículos de carga) e próximo aos principais acessos da cidade (BR 040 e Rod. Pres. Dutra), vem expandindo e consolidando suas atividades, por meio da busca incansável pela excelência na prestação de serviço a seus clientes e usuários.\nNos comprometemos com um atendimento personalizado, baseado na premissa de que as operações logísticas de nossos clientes precisam ser entendidas, caso a caso, para que, assim, possamos oferecer o melhor serviço, no melhor custo, da forma mais segura e dentro dos prazos demandados por nossos clientes.\nNosso foco é fazer com que nossos clientes e suas equipes concentrem-se em seu core business, deixando para nosso time de especialistas, a solução logística integrada de suas operações.\nA agilidade, a localização estratégica (em seus mais de 200.000m2 de área), o DNA inovador da iTracker, aliados à solidez e experiência do Grupo ICTSI, com mais de 30 Terminais Portuários espalhados pelo Brasil e pelo Mundo, nos capacitam para garantir a você e ao seu time, o que há de melhor em solução logística.",
+    "inventoriesId": [
+        6972,
+        8358
+    ],
+    "logoId": "4c17a857-4d2c-de57-5ac4-3a12179c7a2e",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

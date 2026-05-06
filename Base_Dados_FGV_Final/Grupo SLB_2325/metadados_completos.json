@@ -1,0 +1,75 @@
+{
+    "id": 2325,
+    "name": "Grupo SLB",
+    "about": "O Grupo SLB no Brasil, que já desenvolveu 4.139 hectares de florestas bem-sucedidas certificadas pelo FSC®, está desenvolvendo desde 2008 um programa de reflorestamento exclusivo no estado do Paraná, com fundos de investimentos europeus. O objetivo é criar plantações prósperas de eucalipto que restaurem as propriedades do solo e, ao mesmo tempo, forneçam aos mercados nacionais e internacionais madeira de alta qualidade e de origem sustentável. O modelo da SLB combina retornos econômicos com sustentabilidade ecológica por meio do estabelecimento de plantações pequenas, bem distribuídas e de baixa densidade, que reduzem a pressão sobre os ecossistemas, garantindo maior biodiversidade. A SLB se concentra em terras altamente degradadas e seus programas têm uma média de 60% de plantações certificadas pelo FSC e 35% de terras dedicadas à conservação e à regeneração de habitats nativos.",
+    "inventoriesId": [
+        2992,
+        3358,
+        3606,
+        3809,
+        4190,
+        4631,
+        5533,
+        6036,
+        6990,
+        8287
+    ],
+    "logoId": "7864dff8-4462-41db-99ac-e4892bf49b87",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

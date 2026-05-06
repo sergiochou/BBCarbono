@@ -1,0 +1,35 @@
+{
+    "id": 8334,
+    "name": "KATRIUM INDUSTRIAS QUIMICAS S.A.",
+    "about": "A Katrium é uma indústria especializada na produção e comércio de sais de potássio e derivados do cloro, atendendo a diversos setores da economia de forma direta ou indireta, como indústrias de alimentos, fertilizantes, agroindústrias, tratamento de água, sanitização etc.",
+    "inventoriesId": [
+        9233,
+        8978
+    ],
+    "logoId": "15b7a57a-5ca8-3de5-2382-3a2032fcff8a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

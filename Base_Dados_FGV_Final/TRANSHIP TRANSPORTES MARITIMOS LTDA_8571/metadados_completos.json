@@ -1,0 +1,30 @@
+{
+    "id": 8571,
+    "name": "TRANSHIP TRANSPORTES MARITIMOS LTDA",
+    "about": "A TRANSHIP é uma empresa brasileira de navegação que acredita na qualificação técnica, experiência e treinamento de seus marítimos e pessoal de terra, bem como na utilização de embarcações novas e modernas para prestar serviços de excelência.",
+    "inventoriesId": [
+        8282
+    ],
+    "logoId": "f3e46ecd-f851-94d7-4407-3a194c458954",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

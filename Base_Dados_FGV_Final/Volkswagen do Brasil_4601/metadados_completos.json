@@ -1,0 +1,45 @@
+{
+    "id": 4601,
+    "name": "Volkswagen do Brasil",
+    "about": "No Brasil, a Volkswagen possui quatro unidades produtivas e um centro de distribuição de peças, além de cerca de 500 concessionárias. Em constante evolução tecnológica, nós investimos permanentemente na mobilidade sustentável, na conectividade e na digitalização como tópicos estratégicos para o futuro, por isso trouxemos para o Brasil o SUVW 100% elétrico que vai reinventar o futuro, o ID.4. \r\nAo longo das décadas, a Volkswagen revolucionou seu portfólio de produtos – que oferecem máxima qualidade, inovação, tecnologia e segurança –, modernizou suas quatro fábricas no Brasil, desenvolveu novas tecnologias e hoje é uma marca muito mais próxima das pessoas, inovadora, desejada, digital e conectada.",
+    "inventoriesId": [
+        5812,
+        6021,
+        7065,
+        8809
+    ],
+    "logoId": "729fd1ff-8b14-44fb-9ffa-62c303db8792",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,75 @@
+{
+    "id": 2817,
+    "name": "Minerva Foods",
+    "about": "A Minerva Foods (Minerva S.A.) é uma empresa brasileira de capital aberto e a maior exportadora de carne bovina da América do Sul. Reconhecida como uma das líderes globais na produção de carne bovina e ovina de alta qualidade, a companhia se destaca pelo compromisso com Sustentabilidade, Inovação e Responsabilidade Socioambiental no setor de alimentos.\n\nCom operações distribuídas no Brasil, Austrália, Argentina, Colômbia, Paraguai, Uruguai e Chile, a Minerva Foods exporta para mais de 100 países nos cinco continentes, consolidando sua presença em mercados estratégicos ao redor do mundo.\n\nSeu portfólio inclui a produção e comercialização de carne bovina e ovina in natura, resfriada e congelada, além de produtos proteicos industrializados e subprodutos, como couro, biodiesel e envoltórios naturais. Além disso, a companhia expande sua atuação para o mercado de energia no Brasil, por meio da Minerva Energia, e para o mercado global de créditos de carbono, por meio da MyCarbon.\n\nA empresa conta com 46 unidades industriais, sendo 38 plantas de abate e desossa de bovinos, 5 unidades dedicadas ao processamento de ovinos e 3 unidades de industrializados. Seus produtos são distribuídos globalmente por meio de 23 centros de distribuição e 17 escritórios internacionais, garantindo acesso a alimentos saudáveis e nutritivos para consumidores em diversas regiões do mundo.",
+    "inventoriesId": [
+        3936,
+        3935,
+        4259,
+        4277,
+        4283,
+        4531,
+        5140,
+        6046,
+        6948,
+        8333
+    ],
+    "logoId": "33ed0901-a031-10a9-2729-3a18924223b9",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

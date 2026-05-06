@@ -1,0 +1,30 @@
+{
+    "id": 1635,
+    "name": "Obra 297 - Construtora Aterpa S/A",
+    "about": null,
+    "inventoriesId": [
+        3046
+    ],
+    "logoId": "e3d37993-25f9-44f4-b4a7-86d666489d51",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

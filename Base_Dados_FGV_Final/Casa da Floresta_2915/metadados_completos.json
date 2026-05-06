@@ -1,0 +1,30 @@
+{
+    "id": 2915,
+    "name": "Casa da Floresta",
+    "about": "Com 20 anos de atuação, a Casa da Floresta é uma empresa privada de consultoria ambiental reconhecida por executar trabalhos de alto nível em todo território nacional. Sediada em Piracicaba (SP), a instituição tem projetos desenvolvidos em 18 estados brasileiros, nas cinco regiões, englobando diversos biomas e ecossistemas terrestres e aquáticos. Com a crença de que um mundo melhor é possível através do bem querer das relações, ética, paixão pelo que se faz e respeito às pessoas e a diversidade, os projetos desenvolvidos pela Casa da Floresta atendem à diversas demandas relacionadas à sustentabilidade, conservação da biodiversidade e aspectos socioambientais. Atualmente, temos uma equipe de profissionais altamente capacitados que atuam com monitoramento ambiental, avaliações de fauna e flora, adequação ambiental, restauração florestal, licenciamento ambiental, educação socioambiental, apoio a certificações florestais, entre outros tipos de estudos para clientes do setor florestal, industrial e energético. A Casa da Floresta é membro do FSC Internacional e da Rede de Áreas de Alto Valor de Conservação. Além disso, a consultoria possui diversos artigos científicos publicados em parcerias com pesquisadores de diversas instituições de ensino, pesquisa e empresas. Ainda em relação à pesquisa científica de base, a empresa mantém um herbário próprio com acervo de mais de 2500 espécies de plantas catalogadas e um banco de dados com mais de 200 mil registros de animais de cerca de 1400 espécies de mamíferos, aves, anfíbios e répteis.",
+    "inventoriesId": [
+        4175
+    ],
+    "logoId": "d7115cf3-6bbf-4287-8dd4-3d8eb73c88a4",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

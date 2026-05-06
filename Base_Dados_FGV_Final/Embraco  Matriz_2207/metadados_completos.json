@@ -1,0 +1,60 @@
+{
+    "id": 2207,
+    "name": "Embraco - Matriz",
+    "about": "Subsidiária da Whirlpool Corporation, a Embraco é líder mundial em inovação no mercado de compressores herméticos para refrigeração. Com atuação global e capacidade produtiva de 40 milhões de unidades ao ano, oferece soluções que se diferenciam pela inovação e pelo baixo consumo de energia. Seus 11 mil funcionários trabalham nas fábricas e escritórios localizados no Brasil, China, Itália, Eslováquia, México, Rússia e Estados Unidos. A sede administrativa e industrial da empresa se localiza em Joinville - Santa Catarina.",
+    "inventoriesId": [
+        77,
+        2374,
+        2053,
+        340,
+        2847,
+        3129,
+        3672
+    ],
+    "logoId": "4e61b246-2191-4708-b833-85e863052930",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

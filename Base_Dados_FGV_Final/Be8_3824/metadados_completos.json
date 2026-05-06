@@ -1,0 +1,45 @@
+{
+    "id": 3824,
+    "name": "Be8",
+    "about": "Atividade: Fabricação de combustíveis não derivados de petróleo.",
+    "inventoriesId": [
+        5088,
+        6034,
+        6861,
+        7905
+    ],
+    "logoId": "c87e5817-8bab-42be-9bf2-abb72f6b40dd",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8569,
+    "name": "FREDINI ALIMENTOS",
+    "about": null,
+    "inventoriesId": [
+        8633
+    ],
+    "logoId": "b242f5c3-8e22-265c-540d-3a194bfe7393",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

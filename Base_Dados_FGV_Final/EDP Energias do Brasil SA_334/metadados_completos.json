@@ -1,0 +1,110 @@
+{
+    "id": 334,
+    "name": "EDP Energias do Brasil S.A.",
+    "about": "A EDP Brasil atua no País há mais de duas décadas e mantém uma presença integrada nos segmentos de Geração, Transmissão, Distribuição, Comercialização e Soluções em Energia, posicionando-se como uma empresa focada na liderança da transição energética e na construção de um sistema elétrico mais sustentável, resiliente e inovador.\n\nCom sede em São Paulo, a EDP possui ativos em operação e construção em diversas regiões do Brasil. Ao final de 2025, a Companhia contava com 4,22 GW de capacidade instalada em geração, com um portfólio 100% renovável, composto por usinas hidrelétricas, eólicas e solares (centralizadas e distribuídas). A geração hídrica permanece baseada em três usinas — São Manoel, Peixe Angical e Lajeado — enquanto a expansão recente concentrou-se em fontes eólica e solar, alinhada à estratégia de rotação de ativos e descarbonização do portfólio.\n\nNo segmento de distribuição, a EDP opera concessões em São Paulo e Espírito Santo, atendendo cerca de 4 milhões de clientes em 98 municípios, com investimentos consistentes na modernização das redes, digitalização, automação e aumento da resiliência frente a eventos climáticos extremos. Em 2025, destacou-se a prorrogação da concessão da EDP Espírito Santo até 2055 e o avanço nos trâmites para a renovação da concessão da EDP São Paulo.\n\nA transmissão consolidou-se como um vetor estratégico de crescimento. Em 2025, a EDP operava mais de 1.363 km de linhas de transmissão, com outros 1.598 km em construção, além de novos lotes arrematados em leilões em Goiás. A Companhia manteve elevados padrões operacionais, com disponibilidade média de 99,4%, reforçando sua contribuição para a expansão e a confiabilidade do sistema elétrico nacional.\n\nNa comercialização, a EDP ampliou sua atuação no mercado livre de energia, antecipando-se à modernização do setor elétrico brasileiro. Em 2025, foram comercializados mais de 7 TWh de energia, atendendo mais de 800 clientes, posicionando a Companhia entre as principais comercializadoras varejistas do País, além da oferta crescente de soluções energéticas para clientes corporativos.\n\nA EDP Brasil é controlada pelo Grupo EDP S.A., de origem portuguesa, presente em quatro regiões do mundo — Europa, América do Norte, Ásia-Pacífico e América Latina —, com cerca de 32,7 GW de capacidade instalada global. Reconhecida internacionalmente por sua atuação em ESG, a EDP reafirma seu compromisso com a sustentabilidade, mantendo metas ambiciosas de Net Zero até 2040 e geração 100% renovável na América do Sul. ",
+    "inventoriesId": [
+        1538,
+        445,
+        72,
+        2346,
+        1521,
+        2065,
+        1572,
+        2867,
+        3158,
+        3533,
+        3857,
+        4204,
+        4514,
+        5336,
+        5931,
+        7233,
+        9152
+    ],
+    "logoId": "7dab873d-7cde-4e8b-80b6-7d60cb69d242",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 5983,
+    "name": "Farmax",
+    "about": null,
+    "inventoriesId": [
+        7781,
+        9088
+    ],
+    "logoId": "628c0344-720a-bdaf-4d45-3a11d680c79f",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4003,
+    "name": "Aegea Saneamento ",
+    "about": "Somos a Aegea Saneamento e Participações S.A., uma sociedade anônima de capital fechado e controle privado fundada em 2010. Atuamos no gerenciamento de ativos de saneamento por meio concessões e PPPs em diversos Estados de Norte a Sul do Brasil, em todo o processo do ciclo integral da água – captação e abastecimento de água tratada, coleta e tratamento de esgoto, de acordo com o perfil e necessidade de cada município. Somos um dos maiores players privados de saneamento no Brasil. Atuamos em localidades que somam mais de 33 milhões de brasileiros.",
+    "inventoriesId": [
+        5473,
+        5957,
+        7074,
+        8331
+    ],
+    "logoId": "78954b4f-b6c6-6bef-414b-3a1b55676c0b",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

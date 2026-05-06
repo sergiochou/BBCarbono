@@ -1,0 +1,45 @@
+{
+    "id": 4220,
+    "name": "CARBON FREE",
+    "about": "A Carbon Free Brasil nasceu com o propósito de tornar empresas melhores para o mundo. Desde 2020, atuamos com a elaboração de Inventários de Gases de Efeito Estufa de empresas, eventos e obras. Buscamos inspirar mudanças sustentáveis e trazer mais consciência às pessoas. Realizamos entregas mensais para cada projeto desenvolvido, garantindo transparência e acesso à informação em todo nosso processo. Nossas entregas auxiliam as empresas não só a compreenderem, mas a reduzirem seus impactos no meio ambiente e são importantes ferramentas no processo de tomada de decisão. As emissões de GEE são compensadas com créditos de carbono e plantio de árvores nativas em áreas degradadas, contribuindo para a mitigação das mudanças climáticas e provisão de diversos outros serviços ecossistêmicos.",
+    "inventoriesId": [
+        5401,
+        5930,
+        7590,
+        9018
+    ],
+    "logoId": "b4908276-97c7-4751-b0c0-2eb691d6bccb",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

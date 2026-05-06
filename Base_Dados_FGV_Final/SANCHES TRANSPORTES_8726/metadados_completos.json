@@ -1,0 +1,30 @@
+{
+    "id": 8726,
+    "name": "SANCHES TRANSPORTES",
+    "about": "Fundado em 1992, o Grupo Sanches é uma empresa brasileira com atuação nacional nos segmentos de transporte de cargas e operações logísticas. Sua sede está localizada em Jundiaí, no estado de São Paulo.\nCom ampla experiência no setor, oferece soluções integradas de armazenagem e distribuição, operando com sistemas de gerenciamento de armazéns (WMS) que possibilitam controle em tempo real das mercadorias e ganhos de produtividade.\nA empresa conta com uma frota diversificada, equipada com tecnologia de rastreamento e submetida a manutenções preventivas, garantindo segurança e confiabilidade nas operações.\nO Grupo Sanches atende empresas de diversos setores, incluindo alimentação, cosméticos, higiene, siderurgia, construção civil, indústria, varejo e automotivo. Suas operações são adaptadas às particularidades de cada segmento, com foco na eficiência, qualidade e cumprimento de prazos.",
+    "inventoriesId": [
+        8375
+    ],
+    "logoId": "e153a247-1c6d-ba39-8f6e-3a19dcdec278",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

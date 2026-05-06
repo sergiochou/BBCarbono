@@ -1,0 +1,95 @@
+{
+    "id": 318,
+    "name": "EY",
+    "about": "A EY é parte integrante de uma organização internacional líder em prestação de serviço, com profissionais experientes e comprometidos com a prestação de serviço com qualidade excepcional em todas as quatro principais linhas de atuação: Auditoria, Impostos, Consultoria e Transações Comerciais. As atividades no Brasil são orientadas pelos 13 escritórios e conta com mais de 7.000 profissionais.\n",
+    "inventoriesId": [
+        333,
+        113,
+        2401,
+        1861,
+        3061,
+        3234,
+        3710,
+        4087,
+        4451,
+        4956,
+        5523,
+        6240,
+        7447,
+        8071
+    ],
+    "logoId": "28b2a69d-355f-8296-3112-3a207f33807e",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

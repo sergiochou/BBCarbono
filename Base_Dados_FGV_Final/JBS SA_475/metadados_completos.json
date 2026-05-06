@@ -1,0 +1,90 @@
+{
+    "id": 475,
+    "name": "JBS S/A",
+    "about": "Com mais de 70 anos de história, a JBS é uma das maiores empresas de alimentos do mundo. Presente em mais de 20 países, a companhia conta com uma plataforma global diversificada em geografias e proteínas, o que amplia o acesso a matérias-primas e assegura eficiência operacional em escala. A empresa possui mais de 600 unidades produtivas e escritórios comerciais distribuídos pelos cinco continentes (Américas, Ásia, Europa, África e Oceania), atendendo a mais de 300 mil clientes em mais de 190 países. Ao todo, emprega mais de 282 mil colaboradores em todo o mundo.\n\nO portfólio da JBS abrange desde carnes in natura e produtos congelados até alimentos preparados e prontos para consumo, com marcas líderes e reconhecidas pelos consumidores, como Friboi, Seara, Swift, Pilgrim’s Pride, Primo e Just Bare. Além da operação de alimentos, a companhia investe em negócios correlatos, como couro, biodiesel, colágeno, fertilizantes, envoltórios naturais, embalagens metálicas, transporte e soluções em gestão de resíduos e reciclagem. Essas iniciativas reforçam a estratégia de economia circular e contribuem para a sustentabilidade de toda a cadeia de valor. Para mais informações, visite o site oficial da JBS (http://www.jbs.com.br).\n",
+    "inventoriesId": [
+        2593,
+        600,
+        2156,
+        2958,
+        3112,
+        3466,
+        3819,
+        4145,
+        4779,
+        5530,
+        6639,
+        7798,
+        9181
+    ],
+    "logoId": "6e80fd12-3ab6-426e-4c4a-3a131fd6e794",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3244,
+    "name": "ENERGISA S/A",
+    "about": "A Energisa é uma empresa que cuida do futuro desde 1905. Em 26 de fevereiro daquele ano, três empreendedores visionários de Cataguases e Leopoldina (MG) fundaram a Companhia Força e Luz Leopoldina-Cataguazes, geradora e distribuidora de energia elétrica que deu origem ao Grupo Energisa. Se em 1905 a energia elétrica era uma tecnologia disruptiva, hoje ela é um elemento essencial, que impulsiona o desenvolvimento de países, da indústria e da própria tecnologia, além de transformar as relações sociais e econômicas. Em 2025, celebramos 120 anos no segmento de energia elétrica. Uma trajetória que nos permitiu conhecer profundamente o modo de operar do setor energético em todas as regiões do país e atingir um elevado patamar de excelência operacional e de satisfação dos nossos clientes.  Com essa expertise e a ousadia de estarmos em constante transformação, diversificamos os negócios, com ênfase em elétrons, moléculas e bytes, e nos dedicamos a oferecer as melhores soluções de energia aos nossos clientes, promovendo a transformação energética e o desenvolvimento econômico das regiões onde que operamos.\nAssim, mais do que provedores de energia, nos tornamos um ecossistema integrado de energia 5D, calcado na descarbonização, descentralização, digitalização, democratização e diversificação. Nossas soluções energéticas inovadoras e sustentáveis em geração, transmissão, distribuição e comercialização de energia são focadas em eficiência, qualidade e segurança energética para atender as necessidades de clientes de todos os portes e segmentos de mercado.   Somos uma empresa brasileira, cuja história se confunde com a história da energia elétrica no país. Estamos presentes em 97% do território brasileiro para potencializar o futuro das pessoas, do país e da própria energia. Por isso, dizemos que o futuro nos Energisa. Para os próximos 120 anos, seguimos com o olhar inquieto e curioso para inovar no setor, iluminando os caminhos para a transformação energética no país e inovando no uso de tecnologias disruptivas em todas as esferas: da gestão do capital humano a modelos tarifários, das iniciativas de pesquisa e desenvolvimento a sistemas de gestão com potencial de transformar o setor de energia.\nMissão \nO Grupo Energisa existe para transformar energia em conforto, em desenvolvimento e em novas possibilidades, com sustentabilidade, oferecendo soluções energéticas inovadoras aos clientes, agregando valor aos acionistas e oportunidade aos seus colaboradores. \nVisão \nSer protagonista na transformação energética conectando as pessoas e empresas à melhor solução de energia, construindo um mundo mais sustentável.\n\n",
+    "inventoriesId": [
+        4742,
+        5520,
+        6121,
+        7371,
+        8480
+    ],
+    "logoId": "92ab693c-06be-ee87-79fd-3a1b26ef24ec",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

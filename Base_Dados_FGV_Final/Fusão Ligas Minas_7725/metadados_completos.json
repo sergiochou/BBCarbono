@@ -1,0 +1,35 @@
+{
+    "id": 7725,
+    "name": "Fusão Ligas Minas",
+    "about": "A Fusão Ligas nasceu em abril de 2003 orientada para a sustentabilidade, com um modelo de negócios focado no descomissionamento e na gestão de subprodutos industriais, contribuindo para a eliminação de passivos ambientais de diversos segmentos.\n\nPautados pelos conceitos de economia circular e descarte zero, nos posicionamos como alternativa relevante para o setor industrial, evitando que os resíduos e subprodutos sejam armazenados ou destinados de forma indevida. Desta maneira, todo o material adquirido pela Fusão Ligas, é industrializado e transformado em matéria-prima para as indústrias. Em nosso portfólio de produtos, possuímos sucatas de ferro e aço, concentrado de ferro silício, materiais carbonosos, aluminas, criolitas, fluxantes, refratários, escórias, ligas e minérios especiais.\n\nA Inovação está em nosso DNA. A cada necessidade dos nossos fornecedores e clientes detectada, estudamos o processo, conhecemos as propriedades químicas e físicas dos resíduos e subprodutos, e passamos a atuar em parceria com laboratórios e centros tecnológicos de pesquisa para apresentar a melhor alternativa a nossos parceiros.",
+    "inventoriesId": [
+        7547,
+        9113
+    ],
+    "logoId": "002baad0-9577-d127-9dca-3a1314a43338",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

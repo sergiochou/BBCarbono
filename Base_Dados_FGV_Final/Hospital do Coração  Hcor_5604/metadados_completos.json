@@ -1,0 +1,45 @@
+{
+    "id": 5604,
+    "name": "Hospital do Coração - Hcor",
+    "about": "Sobre o Hcor\r\n\r\nO Hcor oferece atendimento em mais de 50 especialidades, entre elas Cardiologia, Oncologia, Neurologia e Ortopedia, além de um centro próprio de Medicina Diagnóstica. Possui Acreditação pela Joint Commission International (JCI) e ISO 14001, além de diversas certificações nacionais e internacionais. Há mais de 10 anos, é parceiro do Ministério da Saúde no Programa de Apoio ao Desenvolvimento Institucional do Sistema Único de Saúde (PROADI-SUS).\r\n \r\n\r\nInstituição filantrópica, o Hcor iniciou suas atividades em 1976, tendo como mantenedora a centenária Associação Beneficente Síria. Além do escopo assistencial, o hospital conta com um Instituto de Pesquisa (IP-Hcor) reconhecido internacionalmente, que coordena estudos clínicos multicêntricos com publicações nos mais conceituados periódicos científicos. Também está à frente de um Instituto de Ensino (IE-Hcor), que capacita e atualiza milhares de profissionais anualmente e é certificado pela American Heart Association.",
+    "inventoriesId": [
+        6614,
+        6598,
+        7529,
+        8851
+    ],
+    "logoId": "849b163e-b6bd-4812-8418-968f46f6e8fa",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

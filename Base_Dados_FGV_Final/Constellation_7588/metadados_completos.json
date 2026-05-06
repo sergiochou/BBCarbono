@@ -1,0 +1,35 @@
+{
+    "id": 7588,
+    "name": "Constellation",
+    "about": "Desde 1980, a Constellation se dedica exclusivamente ao desenvolvimento da atividade petrolífera, operando navios e plataformas de perfuração offshore em lâminas d'água de até 12.000 pés. Consciente da relevância da sustentabilidade, a empresa assume o compromisso de contribuir, através da inovação, para a construção de soluções mais eficientes do ponto de vista climático, visando a redução da sua pegada de carbono.\n",
+    "inventoriesId": [
+        7376,
+        8678
+    ],
+    "logoId": "ba8a9b77-0741-a0df-7fb5-3a12faa42ef8",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 5821,
+    "name": "MALTERIA SOUFFLET BRASIL LTDA.",
+    "about": "A Malteria Soufflet Brasil, antiga Malteria do Vale, foi fundada em 1998 inicialmente na cidade de São Sebastião, litoral norte de São Paulo, com capacidade de armazenagem de 20.000 toneladas. Em 2001 implantou unidade industrial na cidade de Taubaté, para a produção e comércio de malte e subprodutos.  \r\nA primeira etapa do projeto, com capacidade de produção anual de 70.000 toneladas de malte, foi construída com tecnologia alemã, da empresa Schmidt-Seeger mundialmente conhecida no ramo cervejeiro e voltada aos mais altos padrões de qualidade, higiene e segurança de produção. Em dezembro de 2008 foi concluída a ampliação de silos na unidade de Taubaté com 4 novos silos aumentando a capacidade de armazenagem de cevada em 18000 toneladas. Em outubro de 2009 entrou em operação a 1ª etapa da ampliação com construção de mais uma torre de Maceração/Germinação e reforma da estufa aumentando a capacidade anual para uma nominal de 105.000 toneladas. Em agosto 2012 o controle acionário da Malteria do Vale Ltda passou para o Grupo Soufflet. Em 2016 houve ampliação de mais uma germinação possibilitando a produção de Malte A – para seu principal cliente que é a Heineken. Em setembro de 2021 o Grupo Soufflet foi adquirido pelo Grupo Invivo. \r\nA Malteria Soufflet possui 70 funcionários próprios (unidade de Taubaté e São Sebastião). A divisão de malte do grupo Invivo conta com 29 malterias.  O principal produto: Malte Pilsen, produzido e entregue para as principais cervejarias do Brasil, dentre elas: Heineken, Cidade Imperial, Cervejaria Petrópolis, Casa Di Conti etc. Sua matéria prima é a cevada originada na Argentina, Uruguai e dos estados de São Paulo e Paraná. Além disso, importa malte proveniente das unidades da Europa. Atualmente a Malteria Soufflet Brasil possui uma capacidade anual de produção de 120.000 toneladas de malte.\r\n",
+    "inventoriesId": [
+        6717,
+        7716,
+        8704
+    ],
+    "logoId": "91fa2c27-bec2-e59c-7679-3a19e6f888f2",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

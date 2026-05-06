@@ -1,0 +1,50 @@
+{
+    "id": 3268,
+    "name": "Usiminas",
+    "about": "A Usiminas – Usinas Siderúrgicas de Minas Gerais S.A. – é líder nacional no mercado de aços planos. Fundada em 1956 na cidade de Belo Horizonte/MG, onde encontra-se sua sede, a Usiminas entrou em operação em 1962, com a inauguração da Usina de Ipatinga, no interior de Minas Gerais, considerada um dos maiores complexos industriais de aços planos da América Latina.\n\nEm 1991, foi a primeira estatal brasileira a ser privatizada. A partir daí, iniciou um processo de crescimento e consolidação no mercado, ao adquirir e incorporar às suas operações empresas de mineração, siderurgia, distribuição e beneficiamento do aço.\n\nCom operações em diversas regiões do país, a Usiminas é uma referência na indústria do aço, com soluções integradas, customizadas e completas, que oferecem aos clientes produtos e serviços de relevância para todas as cadeias produtivas.\n\nAs usinas de siderurgia estão localizadas nas cidades de Ipatinga (MG) e Cubatão (SP). Na unidade de negócio siderurgia, objeto deste relato, a Usiminas produz e comercializa os seguintes produtos laminados planos de aço: placas, chapas grossas, produtos laminados a quente, produtos laminados a frio não revestidos, eletrogalvanizados e galvanizados por imersão a quente revestidos.",
+    "inventoriesId": [
+        4539,
+        5070,
+        5926,
+        7075,
+        8121
+    ],
+    "logoId": "45996536-dfce-d85b-e22d-3a12b88a8f3a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

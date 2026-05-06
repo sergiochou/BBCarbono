@@ -1,0 +1,75 @@
+{
+    "id": 2307,
+    "name": "Votorantim Cimentos",
+    "about": "Somos a Votorantim Cimentos S.A., uma empresa internacional de materiais, minerais e soluções. Temos capital privado, 100% detido pela Votorantim S.A., holding que mantém negócios em setores estratégicos e diversificados como metais, alumínio, energia, suco de laranja, financeiro e imobiliário. \r\nLíder no mercado brasileiro há 87 anos, nossa trajetória é marcada pelo empreendedorismo na expansão de negócios e fronteiras. Temos sede em São Paulo e hoje somos uma das maiores do mundo no nosso setor, presente em todas as regiões do Brasil e em 10 países de quatro continentes. Trabalhamos com os setores público e privado por meio de um modelo B2B com forte atuação em revendas e distribuidores nos mercados em que atuamos.",
+    "inventoriesId": [
+        2794,
+        3312,
+        3561,
+        4052,
+        4434,
+        4554,
+        5099,
+        5866,
+        7179,
+        8476
+    ],
+    "logoId": "a72395a0-1125-413c-a226-3df9d0848bc5",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

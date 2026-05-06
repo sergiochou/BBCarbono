@@ -1,0 +1,769 @@
+[
+    {
+        "empresa_pasta": "HL Soluções Ambientais_3801",
+        "id_fgv": 3801,
+        "nome_oficial": "HL Soluções Ambientais",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 27.628,
+                    "emissoes_escopo_2": 0.248,
+                    "emissoes_escopo_3": 23.93,
+                    "total_emissoes": 51.806,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 5.172,
+                    "emissoes_escopo_2": 0.342,
+                    "emissoes_escopo_3": 15.831,
+                    "total_emissoes": 21.345,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades✅profissionais,✅científicas✅e✅técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Sistema de energia solar",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2022",
+                "Inventário 2022 - HL Soluções Ambientais",
+                "HL Soluções Ambientais LTDA",
+                "Nome fantasia: HL Soluções Ambientais",
+                "CNPJ: 20.662.963/0001-68",
+                "Setor econômico: Atividades profissionais, científicas e técnicas",
+                "Subsetor: Outras atividades profissionais, científicas e técnicas",
+                "Endereço: Rua Júlio Siqueira - 970 - - Dionísio Torres - FORTALEZA - CE - 60135-226"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Holambra Cooperativa Agroindustrial  Matriz_8373",
+        "id_fgv": 8373,
+        "nome_oficial": "Holambra Cooperativa Agroindustrial - Matriz",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1699.41,
+                    "emissoes_escopo_2": 306.575,
+                    "emissoes_escopo_3": 47.674,
+                    "total_emissoes": 2053.659,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Honda Automóveis_1154",
+        "id_fgv": 1154,
+        "nome_oficial": "Honda Automóveis",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10412.71,
+                    "emissoes_escopo_2": 3519.13,
+                    "emissoes_escopo_3": 4335.1,
+                    "total_emissoes": 18266.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8031.644,
+                    "emissoes_escopo_2": 1542.964,
+                    "emissoes_escopo_3": 4403.965,
+                    "total_emissoes": 13978.573,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10677.676,
+                    "emissoes_escopo_2": 4307.174,
+                    "emissoes_escopo_3": 6395.947,
+                    "total_emissoes": 21380.797,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17373.973,
+                    "emissoes_escopo_2": 6189.995,
+                    "emissoes_escopo_3": 8583.143,
+                    "total_emissoes": 32147.111,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 15536.61,
+                    "emissoes_escopo_2": 8989.76,
+                    "emissoes_escopo_3": 3341.377,
+                    "total_emissoes": 27867.747,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 13173.49,
+                    "emissoes_escopo_2": 8518.215,
+                    "emissoes_escopo_3": 1423.934,
+                    "total_emissoes": 23115.639,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9676.961,
+                    "emissoes_escopo_2": 4765.537,
+                    "emissoes_escopo_3": 732.653,
+                    "total_emissoes": 15175.151,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 14756.48,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1070.805,
+                    "total_emissoes": 15827.285,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 26317.08,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1021.485,
+                    "total_emissoes": 27338.565,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17470.038,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1389.709,
+                    "total_emissoes": 18859.747,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 15493.885,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 522.082,
+                    "total_emissoes": 16015.967,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 22673.493,
+                    "emissoes_escopo_2": 9701.475,
+                    "emissoes_escopo_3": 435.563,
+                    "total_emissoes": 32810.531,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8228.221,
+                    "emissoes_escopo_2": 2424.439,
+                    "emissoes_escopo_3": 540.731,
+                    "total_emissoes": 11193.391,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8958.466,
+                    "emissoes_escopo_2": 2300.902,
+                    "emissoes_escopo_3": 3676.843,
+                    "total_emissoes": 14936.211,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": ", que tem como meta atingir a neutralidade de carbono em todos os produtos e operações corporativas até 2050. Todas as filiais daHondanomundopossuemoc"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "HOSPITAL ALEMÃO OSWALDO CRUZ_8296",
+        "id_fgv": 8296,
+        "nome_oficial": "HOSPITAL ALEMÃO OSWALDO CRUZ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6436.517,
+                    "emissoes_escopo_2": 1183.245,
+                    "emissoes_escopo_3": 4906.557,
+                    "total_emissoes": 12526.319,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Hospital do Coração  Hcor_5604",
+        "id_fgv": 5604,
+        "nome_oficial": "Hospital do Coração - Hcor",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1891.425,
+                    "emissoes_escopo_2": 2212.275,
+                    "emissoes_escopo_3": 824.194,
+                    "total_emissoes": 4927.894,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 2061.154,
+                    "emissoes_escopo_2": 683.701,
+                    "emissoes_escopo_3": 881.734,
+                    "total_emissoes": 3626.589,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3460.967,
+                    "emissoes_escopo_2": 964.236,
+                    "emissoes_escopo_3": 724.733,
+                    "total_emissoes": 5149.936,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "HOSPITAL DONA HELENA_4576",
+        "id_fgv": 4576,
+        "nome_oficial": "HOSPITAL DONA HELENA",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1002.032,
+                    "emissoes_escopo_2": 241.602,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1243.634,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1869.5,
+                    "emissoes_escopo_2": 337.854,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2207.354,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Hospital Israelita Albert Einstein_1048",
+        "id_fgv": 1048,
+        "nome_oficial": "Hospital Israelita Albert Einstein",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 12240.25,
+                    "emissoes_escopo_2": 1917.25,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 14157.5,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9544.598,
+                    "emissoes_escopo_2": 1346.777,
+                    "emissoes_escopo_3": 8187.801,
+                    "total_emissoes": 19079.176,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9363.022,
+                    "emissoes_escopo_2": 3545.356,
+                    "emissoes_escopo_3": 5680.247,
+                    "total_emissoes": 18588.625,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9852.847,
+                    "emissoes_escopo_2": 4833.227,
+                    "emissoes_escopo_3": 6071.529,
+                    "total_emissoes": 20757.603,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 8465.74,
+                    "emissoes_escopo_2": 6737.639,
+                    "emissoes_escopo_3": 2270.519,
+                    "total_emissoes": 17473.898,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 7982.438,
+                    "emissoes_escopo_2": 6319.812,
+                    "emissoes_escopo_3": 1991.834,
+                    "total_emissoes": 16294.084,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 7537.158,
+                    "emissoes_escopo_2": 4144.906,
+                    "emissoes_escopo_3": 2154.821,
+                    "total_emissoes": 13836.885,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 11000.348,
+                    "emissoes_escopo_2": 5462.912,
+                    "emissoes_escopo_3": 2360.72,
+                    "total_emissoes": 18823.98,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 9262.516,
+                    "emissoes_escopo_2": 4529.987,
+                    "emissoes_escopo_3": 1758.28,
+                    "total_emissoes": 15550.783,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 7139.35,
+                    "emissoes_escopo_2": 4816.734,
+                    "emissoes_escopo_3": 3415.708,
+                    "total_emissoes": 15371.792,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 10136.971,
+                    "emissoes_escopo_2": 4019.517,
+                    "emissoes_escopo_3": 1212.127,
+                    "total_emissoes": 15368.615,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 10234.985,
+                    "emissoes_escopo_2": 8811.099,
+                    "emissoes_escopo_3": 1753.261,
+                    "total_emissoes": 20799.345,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 12054.299,
+                    "emissoes_escopo_2": 3089.337,
+                    "emissoes_escopo_3": 5053.334,
+                    "total_emissoes": 20196.97,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 10452.804,
+                    "emissoes_escopo_2": 3194.697,
+                    "emissoes_escopo_3": 4290.407,
+                    "total_emissoes": 17937.908,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Hospital Moinhos de Vento_3666",
+        "id_fgv": 3666,
+        "nome_oficial": "Hospital Moinhos de Vento",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 2723.948,
+                    "emissoes_escopo_2": 1170.615,
+                    "emissoes_escopo_3": 1.171,
+                    "total_emissoes": 3895.734,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1955.501,
+                    "emissoes_escopo_2": 2399.775,
+                    "emissoes_escopo_3": 228.773,
+                    "total_emissoes": 4584.049,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3160.004,
+                    "emissoes_escopo_2": 814.437,
+                    "emissoes_escopo_3": 852.009,
+                    "total_emissoes": 4826.45,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2027,
+                "descricao": "ompensaçãodeemissões,alcançaraneutralidadedecarbonoaté o ano de nosso centenário, em 2027. Este compromisso reflete nossa dedicação em melhorar a efic"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Hospital Público Estadual Galileu_2499",
+        "id_fgv": 2499,
+        "nome_oficial": "Hospital Público Estadual Galileu",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 113.205,
+                    "emissoes_escopo_2": 87.095,
+                    "emissoes_escopo_3": 4.038,
+                    "total_emissoes": 204.338,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Hospital SírioLibanês_787",
+        "id_fgv": 787,
+        "nome_oficial": "Hospital Sírio-Libanês",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 94.616,
+                    "emissoes_escopo_2": 815.596,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 910.212,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 5560.194,
+                    "emissoes_escopo_2": 1952.299,
+                    "emissoes_escopo_3": 271.36,
+                    "total_emissoes": 7783.853,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6658.295,
+                    "emissoes_escopo_2": 3162.897,
+                    "emissoes_escopo_3": 219.119,
+                    "total_emissoes": 10040.311,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6725.994,
+                    "emissoes_escopo_2": 4741.917,
+                    "emissoes_escopo_3": 222.995,
+                    "total_emissoes": 11690.906,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6020.719,
+                    "emissoes_escopo_2": 4584.892,
+                    "emissoes_escopo_3": 409.796,
+                    "total_emissoes": 11015.407,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6878.822,
+                    "emissoes_escopo_2": 3041.303,
+                    "emissoes_escopo_3": 2325.212,
+                    "total_emissoes": 12245.337,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6013.617,
+                    "emissoes_escopo_2": 3764.928,
+                    "emissoes_escopo_3": 2992.387,
+                    "total_emissoes": 12770.932,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4257.272,
+                    "emissoes_escopo_2": 3028.993,
+                    "emissoes_escopo_3": 1754.495,
+                    "total_emissoes": 9040.76,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4388.866,
+                    "emissoes_escopo_2": 3537.369,
+                    "emissoes_escopo_3": 1018.678,
+                    "total_emissoes": 8944.913,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4104.628,
+                    "emissoes_escopo_2": 2863.061,
+                    "emissoes_escopo_3": 498.183,
+                    "total_emissoes": 7465.872,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3885.509,
+                    "emissoes_escopo_2": 5820.174,
+                    "emissoes_escopo_3": 385.7,
+                    "total_emissoes": 10091.383,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4510.582,
+                    "emissoes_escopo_2": 1939.313,
+                    "emissoes_escopo_3": 866.105,
+                    "total_emissoes": 7316.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4514.09,
+                    "emissoes_escopo_2": 1797.418,
+                    "emissoes_escopo_3": 1217.544,
+                    "total_emissoes": 7529.052,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

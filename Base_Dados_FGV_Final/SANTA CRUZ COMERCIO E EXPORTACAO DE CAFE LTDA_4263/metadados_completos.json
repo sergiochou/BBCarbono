@@ -1,0 +1,45 @@
+{
+    "id": 4263,
+    "name": "SANTA CRUZ COMERCIO E EXPORTACAO DE CAFE LTDA",
+    "about": "Com terras privilegiadas, relevo montanhoso e água abundante, a Fazenda Santa Cruz está localizada no Sul de Minas Gerais, no município de Paraguaçu, e possui características favoráveis à produção de café. A Fazenda foi adquirida em 1992 e, até aquela época, havia somente plantações de laranja na propriedade.\r\nApós a aquisição da fazenda, decidiu-se pelo plantio de café. Os primeiros pés começaram a ser cultivados a partir de 1998, iniciando-se também o investimento tecnológico nas lavouras e em infraestrutura, como a implantação do sistema de secagem em câmaras fechadas, único no Brasil.\r\nO desafio da Fazenda sempre foi o de melhoria contínua na cafeicultura, valorizando o trabalho dos colaboradores a fim de atingir qualidade e excelência na produção da commoditie mais importante de Minas Gerais.\r\nDurante a atual gestão, a Fazenda conquistou as mais importantes certificações na cultura do Café Rainforest Alliance, Certifica Minas, RTRS, e é associada a BSCA (Associação Brasileira de Cafés Especiais).\r\n",
+    "inventoriesId": [
+        5496,
+        6594,
+        7316,
+        8512
+    ],
+    "logoId": "ce7c72e2-de21-4aa4-9022-9f1715c8059c",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

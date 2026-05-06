@@ -1,0 +1,105 @@
+{
+    "id": 1335,
+    "name": "Grupo Boticário",
+    "about": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 20 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras. Pautada por uma atuação responsável com o planeta, a sociedade e os consumidores, a empresa tem o ESG embutido em seu modelo de negócios. Até 2030, o Grupo prevê ampliar o impacto positivo para a sociedade por meio da gestão de resíduos com a plataforma “Uma Beleza de Futuro”, que reúne compromissos ambiciosos voltados para as dimensões humanas, ambientais e nossos processos produtivos. A história do Grupo Boticário começou em 1977 em uma pequena farmácia de manipulação no Paraná e hoje agrega laboratório, fábrica, inovação, tecnologia, logística, marketing e varejo, em um ecossistema de 100 mil pontos de venda no varejo, parceiros e fornecedores. A empresa atua ainda nas frentes ambientais, sociais e culturais e conta também com atuação da Fundação Grupo Boticário e Instituto Grupo Boticário.",
+    "inventoriesId": [
+        11,
+        2192,
+        2705,
+        1582,
+        1529,
+        567,
+        1548,
+        2998,
+        3407,
+        3627,
+        3937,
+        4401,
+        4587,
+        5078,
+        6876,
+        7881
+    ],
+    "logoId": "78e7ee8c-e833-0fde-c11f-3a1b271dadd7",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

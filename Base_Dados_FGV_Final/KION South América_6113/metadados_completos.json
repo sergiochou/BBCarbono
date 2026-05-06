@@ -1,0 +1,35 @@
+{
+    "id": 6113,
+    "name": "KION South América",
+    "about": "Número um no Brasil, com liderança da marca STILL há anos, a KION South America produz máquinas nacionais com o benefício Finame/BNDES, especialmente projetadas para as particularidades do mercado local, contando com corpo de engenharia própria integrada à organização CTO (Chief Technology Officer) voltada para P&D global do Grupo.\n\nNossa cultura é impulsionada pelos valores do Grupo KION: Integridade, Colaboração, Coragem e Excelência. Nossos objetivos são fornecer as melhores soluções da categoria, prosperamos em inovações e promovemos uma mentalidade de melhoria contínua. O senso de parceria de negócios e a prontidão para buscar a excelência criam um ambiente de colaboração único.",
+    "inventoriesId": [
+        7858,
+        8624
+    ],
+    "logoId": "3ca66072-99d2-133e-853a-3a121d7ae107",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7455,
+    "name": "GRUPO CONCEITO",
+    "about": "O Grupo Conceito é reconhecido como uma referência no setor do agronegócio, oferecendo soluções inovadoras e parcerias sólidas para produtores rurais. A empresa se compromete com a integridade, transparência e valorização das pessoas, garantindo um atendimento de qualidade e focado nas necessidades dos clientes.\nCom unidades especializadas em insumos agrícolas, práticas inovadoras para fazendas, produção e beneficiamento de sementes, além de armazenamento moderno, o Grupo Conceito oferece uma variedade de serviços para impulsionar a produtividade e lucratividade no campo. Sua visão de produtor, aliada à constante inovação e ao compromisso com a excelência, contribui para construir parcerias eficazes e promover o sucesso dos clientes no cenário agrícola atual.",
+    "inventoriesId": [
+        7548,
+        9274
+    ],
+    "logoId": "7b413129-fa02-835f-409f-3a12d3283139",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

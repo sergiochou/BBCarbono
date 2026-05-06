@@ -1,0 +1,35 @@
+{
+    "id": 5982,
+    "name": "Sumitomo Chemical Latin America",
+    "about": "A Sumitomo Chemical Brasil é uma indústria química e está presente no país desde 1975 e atualmente mantém sua matriz corporativa em São Paulo (SP) e possui um complexo industrial em Maracanaú (CE). Há, ainda, o Centro de Pesquisas da América Latina (Latin America Research Center/LARC), em Mogi Mirim (SP), o Centro de Inovação da América Latina (Latin America Innovation Center – LAIC), em Maracanaú, e 11 centros de distribuição em dez estados.\nAs operações no Brasil e na América Latina estão concentradas em três divisões de negócio: Agricultura Nutrição animal e  Saúde ambiental.",
+    "inventoriesId": [
+        6858,
+        8186
+    ],
+    "logoId": "ab991802-9755-3280-bef0-3a1b2ae32bfd",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 342,
+    "name": "Bridgestone",
+    "about": "Uma história de crescimento contínuo. Um direcionamento. É a qualidade e confiança Bridgestone refletida no slogan Paixão por Excelência. É esse comprometimento que reflete nosso ideal pelo melhor em tecnologia, qualidade e serviço.",
+    "inventoriesId": [
+        623
+    ],
+    "logoId": "3fef0f99-3e98-407a-a1cd-47b944a8b403",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

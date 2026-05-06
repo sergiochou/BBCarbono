@@ -1,0 +1,35 @@
+{
+    "id": 6083,
+    "name": "Argo Energia",
+    "about": "A Argo Energia é uma empresa de Transmissão de Energia, fundada em 2016 pelo Pátria Investimento, que teve seu início de operação comercial em 2019, com 1.150 km de linhas energizadas ao longo do nordeste brasileiro. Já em 2020, a Companhia foi adquirida, em parceria, pelo Grupo Energia Bogotá e REDEIA, o que fortaleceu a posição da Argo no mercado, trazendo mais robustez e construindo uma base sólida para futuros movimentos de expansão.\n\nEm 2022, a Argo Energia Argo protagonizou a maior operação no mercado secundário no segmento de transmissão do Brasil, dobrando de tamanho com a aquisição de mais 2.416 km de linhas de transmissão e incorporando 22 subestações ao seu sistema. Atualmente, a empresa se destaca com 4.159 km de linhas de transmissão e 34 subestações, consolidando sua presença em 11 estados do Brasil.\n\nEsta jornada de crescimento contínuo reflete o comprometimento da Argo Energia com a excelência operacional e um desenvolvimento sustentável, alinhados aos valores de simplicidade, transparência, melhoria constante, impacto positivo e crescimento com retorno de valor. Como uma empresa jovem e em constante crescimento, a Argo está comprometida em promover um evento dinâmico e inovador, alinhado com as necessidades do setor elétrico.",
+    "inventoriesId": [
+        6944,
+        8230
+    ],
+    "logoId": "b9e3755e-2c07-a31b-e5a0-3a1b2ab17900",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6021,
+    "name": "Refinaria de Petróleo Riograndense",
+    "about": "Fundada em 7 de setembro de 1937, a empresa iniciou o processo de refino de petróleo no Brasil e deu origem à Companhia Brasileira de Petróleos Ipiranga. Foi pioneira na fabricação de combustíveis e solventes, e sua trajetória se desenvolveu junto à região, contribuindo para o crescimento da cidade de Rio Grande, no Rio Grande do Sul.\nEm 2009, a companhia passou a se chamar Refinaria de Petróleo Riograndense S/A e adotou uma nova identidade visual.\nAtualmente, a empresa está em fase de transição para a produção de combustíveis renováveis. A Refinaria Riograndense será a primeira Biorrefinaria do Brasil e funcionará com uma carga 100% sustentável, utilizando matérias-primas como óleo de soja, gordura animal, UCO (óleo de cozinha usado) e culturas rotativas.\n",
+    "inventoriesId": [
+        6799,
+        8585
+    ],
+    "logoId": "641e95b9-f22b-95a9-4ecc-3a1932bc8aae",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

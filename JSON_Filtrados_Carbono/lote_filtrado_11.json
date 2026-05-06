@@ -1,0 +1,629 @@
+[
+    {
+        "empresa_pasta": "BDMG_2486",
+        "id_fgv": 2486,
+        "nome_oficial": "BDMG",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 70.884,
+                    "emissoes_escopo_2": 225.247,
+                    "emissoes_escopo_3": 316.197,
+                    "total_emissoes": 612.328,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 45.298,
+                    "emissoes_escopo_2": 142.134,
+                    "emissoes_escopo_3": 306.104,
+                    "total_emissoes": 493.536,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 40.012,
+                    "emissoes_escopo_2": 148.963,
+                    "emissoes_escopo_3": 257.699,
+                    "total_emissoes": 446.674,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 31.052,
+                    "emissoes_escopo_2": 114.649,
+                    "emissoes_escopo_3": 284.351,
+                    "total_emissoes": 430.052,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 22.432,
+                    "emissoes_escopo_2": 124.105,
+                    "emissoes_escopo_3": 298.451,
+                    "total_emissoes": 444.988,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 21.668,
+                    "emissoes_escopo_2": 70.808,
+                    "emissoes_escopo_3": 68.619,
+                    "total_emissoes": 161.095,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 15.961,
+                    "emissoes_escopo_2": 131.198,
+                    "emissoes_escopo_3": 23.07,
+                    "total_emissoes": 170.229,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 36.502,
+                    "emissoes_escopo_2": 57.189,
+                    "emissoes_escopo_3": 188.668,
+                    "total_emissoes": 282.359,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 18.684,
+                    "emissoes_escopo_2": 54.975,
+                    "emissoes_escopo_3": 263.95,
+                    "total_emissoes": 337.609,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶financeiras,▶de▶seguros▶e▶serviços▶relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BDO RCS AUDITORES INDEPENDENTES  SOCIEDADE SIMPLES LIMITADA_6119",
+        "id_fgv": 6119,
+        "nome_oficial": "BDO RCS AUDITORES INDEPENDENTES - SOCIEDADE SIMPLES LIMITADA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 132.891,
+                    "emissoes_escopo_2": 33.453,
+                    "emissoes_escopo_3": 635.007,
+                    "total_emissoes": 801.351,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶administrativas▶e▶serviços▶complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "promisso global da BDO de ser NetZero até 2030. 4.4 Informações sobre contratos com clientes e fornecedores que incluam cláusu"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Be8_3824",
+        "id_fgv": 3824,
+        "nome_oficial": "Be8",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 14196.258,
+                    "emissoes_escopo_2": 8328.062,
+                    "emissoes_escopo_3": 218493.195,
+                    "total_emissoes": 241017.515,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 22216.081,
+                    "emissoes_escopo_2": 2886.015,
+                    "emissoes_escopo_3": 167778.49,
+                    "total_emissoes": 192880.586,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 20029.895,
+                    "emissoes_escopo_2": 2659.167,
+                    "emissoes_escopo_3": 171026.28,
+                    "total_emissoes": 193715.342,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "promisso público de se tornar carbono neutro até 2030. Para desenvolvimento de sua estratégia climática, a BSBIOS conta com o apoio d"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bem Brasil Alimentos_8728",
+        "id_fgv": 8728,
+        "nome_oficial": "Bem Brasil Alimentos ",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento▶e▶alimentação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Biofílica Ambipar Environmental Investments SA_448",
+        "id_fgv": 448,
+        "nome_oficial": "Biofílica Ambipar Environmental Investments S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.312,
+                    "emissoes_escopo_3": 69.746,
+                    "total_emissoes": 70.058,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.49,
+                    "emissoes_escopo_3": 85.088,
+                    "total_emissoes": 85.578,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.589,
+                    "emissoes_escopo_3": 82.75,
+                    "total_emissoes": 83.339,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.393,
+                    "emissoes_escopo_3": 26.806,
+                    "total_emissoes": 27.199,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.553,
+                    "emissoes_escopo_3": 25.75,
+                    "total_emissoes": 26.303,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1.044,
+                    "emissoes_escopo_2": 0.431,
+                    "emissoes_escopo_3": 19.201,
+                    "total_emissoes": 20.676,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.57,
+                    "emissoes_escopo_3": 18.392,
+                    "total_emissoes": 18.962,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.004,
+                    "emissoes_escopo_2": 0.382,
+                    "emissoes_escopo_3": 9.734,
+                    "total_emissoes": 10.12,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.002,
+                    "emissoes_escopo_2": 0.562,
+                    "emissoes_escopo_3": 9.379,
+                    "total_emissoes": 9.943,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.248,
+                    "emissoes_escopo_3": 59.829,
+                    "total_emissoes": 60.077,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto REDD+ Jari/Amapá",
+                "VERIFICATION REPORT",
+                ": VCS Version 3",
+                "VERIFICATION REPORT FOR THE",
+                "JARI/AMAPÁ REDD+ PROJECT",
+                "Document Prepared By Zane Haxtema",
+                "Project Title Jari/Amapá REDD+ Project",
+                "Version 1.1",
+                "Report ID 10 July 2013",
+                "Report Title Verification report for the Jari/Amapá REDD+ Project"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BioRevita Soluções Ambientais_5834",
+        "id_fgv": 5834,
+        "nome_oficial": "BioRevita Soluções Ambientais",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.069,
+                    "emissoes_escopo_2": 0.099,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1.168,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Biorigin_2478",
+        "id_fgv": 2478,
+        "nome_oficial": "Biorigin",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 139565.517,
+                    "emissoes_escopo_2": 744.755,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 140310.272,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 120327.148,
+                    "emissoes_escopo_2": 695.117,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 121022.265,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 100446.893,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 100446.893,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 47.277,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 47.277,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 0.471,
+                    "emissoes_escopo_2": 4533.126,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4533.597,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 14.833,
+                    "emissoes_escopo_2": 5320.028,
+                    "emissoes_escopo_3": 2632.715,
+                    "total_emissoes": 7967.576,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1866.127,
+                    "emissoes_escopo_2": 7054.588,
+                    "emissoes_escopo_3": 10306.29,
+                    "total_emissoes": 19227.005,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6820.786,
+                    "emissoes_escopo_2": 6183.927,
+                    "emissoes_escopo_3": 9188.518,
+                    "total_emissoes": 22193.231,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Biotrop_6020",
+        "id_fgv": 6020,
+        "nome_oficial": "Biotrop",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2232.02,
+                    "emissoes_escopo_2": 59.931,
+                    "emissoes_escopo_3": 251.59,
+                    "total_emissoes": 2543.541,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BKO_2007",
+        "id_fgv": 2007,
+        "nome_oficial": "BKO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 197.152,
+                    "emissoes_escopo_2": 42.707,
+                    "emissoes_escopo_3": 185.547,
+                    "total_emissoes": 425.406,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 7.976,
+                    "emissoes_escopo_2": 36.888,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 44.864,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 1.041,
+                    "emissoes_escopo_2": 36.387,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 37.428,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 6.939,
+                    "emissoes_escopo_2": 73.2,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 80.139,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 2.198,
+                    "emissoes_escopo_2": 30.377,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 32.575,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 2.009,
+                    "emissoes_escopo_2": 29.679,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 31.688,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BLUESHIFT BRASIL_4115",
+        "id_fgv": 4115,
+        "nome_oficial": "BLUESHIFT BRASIL ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.777,
+                    "emissoes_escopo_3": 5.72,
+                    "total_emissoes": 6.497,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.269,
+                    "emissoes_escopo_3": 11.159,
+                    "total_emissoes": 11.428,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

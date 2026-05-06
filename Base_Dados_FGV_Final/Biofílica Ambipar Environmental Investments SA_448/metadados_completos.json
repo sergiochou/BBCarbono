@@ -1,0 +1,80 @@
+{
+    "id": 448,
+    "name": "Biofílica Ambipar Environmental Investments S.A.",
+    "about": "A Biofílica é uma empresa brasileira focada na gestão e conservação de florestas a partir da comercialização de serviços ambientais, investimentos em pesquisa, desenvolvimento socioeconômico de pessoas e comunidades e intermediação de negócios entre produtores e proprietários de matas nativas.\r\n\r\nPor meio de suas atividades, a Biofílica contribui para a criação e o desenvolvimento de um mercado sólido e confiável de créditos de carbono florestais e é referência nacional do mercado de compensação de reserva legal, com soluções em todas as modalidades, estados e biomas. \r\n\r\nA empresa investe num modelo de negócio inovador, que permite a conservação de florestas nativas e dos serviços ambientais, proteção da biodiversidade, redução de emissões e sequestro de carbono, proteção do solo, preservação dos recursos hídricos e melhor planejamento da produção.",
+    "inventoriesId": [
+        2587,
+        2055,
+        3035,
+        3333,
+        3669,
+        4093,
+        4427,
+        4966,
+        5691,
+        6728,
+        7784
+    ],
+    "logoId": "c825606f-67b7-4b49-982e-20e3f540a3d0",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

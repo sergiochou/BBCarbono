@@ -1,0 +1,40 @@
+{
+    "id": 4733,
+    "name": "Elanco Saúde Animal",
+    "about": "Uma empresa de pessoas com propósitos específicos, acreditamos que animais saudáveis são a chave para resolver alguns dos problemas mais urgentes do mundo.",
+    "inventoriesId": [
+        5998,
+        8688,
+        8692
+    ],
+    "logoId": "5d5896c0-9cc3-4d1f-9bb9-be4b5a9236c6",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

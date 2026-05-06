@@ -1,0 +1,70 @@
+{
+    "id": 2478,
+    "name": "Biorigin",
+    "about": "A Biorigin produz ingredientes naturais para alimentação humana que realçam o sabor, além de reduzir o teor de sódio e estender a vida útil dos alimentos. Desenvolve também ingredientes para promover o desempenho, a saúde e o bem-estar dos animais.",
+    "inventoriesId": [
+        3125,
+        3620,
+        3955,
+        4324,
+        4689,
+        5596,
+        6610,
+        7669,
+        8167
+    ],
+    "logoId": "b690ebae-205b-4a7d-9b9f-e16a949b3306",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

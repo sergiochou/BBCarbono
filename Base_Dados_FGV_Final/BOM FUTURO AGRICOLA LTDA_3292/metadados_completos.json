@@ -1,0 +1,50 @@
+{
+    "id": 3292,
+    "name": "BOM FUTURO AGRICOLA LTDA",
+    "about": "Com 44 anos de atuação no Estado de Mato Grosso, a Bom Futuro desenvolve o planejamento estratégico das atividades na capital Cuiabá - MT, sede da empresa. As atividades são distribuídas em todo o estado, gerando desenvolvimento e inúmeras oportunidades para centenas de municípios.\n\nA Bom Futuro, é advinda da agricultura. A expertise na área, auxílio da tecnologia e respeito ao meio ambiente aliadas a persistência e muito trabalho, pautaram o crescimento da empresa em seus longos anos de atividade. Ações como essas, garantiram o destaque mundial em produtividade sustentável, possibilitando a atuação em 6 áreas; agricultura, pecuária, sementes, energia, aeroportuário e imobiliário.",
+    "inventoriesId": [
+        4940,
+        5607,
+        6031,
+        6850,
+        7996
+    ],
+    "logoId": "0ab60f65-478e-44af-9f80-6107250e3078",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

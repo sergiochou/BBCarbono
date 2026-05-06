@@ -1,0 +1,100 @@
+{
+    "id": 1646,
+    "name": "Raízen Energia ",
+    "about": "Empresa brasileira de destaque no setor de energia, responsável pela produção anual de mais de 3,1 bilhões de litros de etanol para os mercados interno e externo, 6,3 milhões de toneladas de açúcar e 940 MW de capacidade instalada de geração de energia elétrica a partir do bagaço de cana-de-açúcar. Conta com 35 unidades produtivas, mais de 8 mil postos de combustíveis em todo o Brasil, mais de 2 mil lojas de conveniência Shell Select e mercados Oxxo, além de 68 terminais de distribuição de combustíveis e presença em mais de 68 bases de abastecimento em aeroportos. Consolidada como uma das empresas mais competitivas do mundo na área de energia sustentável.",
+    "inventoriesId": [
+        99,
+        2127,
+        1642,
+        577,
+        2988,
+        3078,
+        3366,
+        3632,
+        3979,
+        4354,
+        4638,
+        5128,
+        5780,
+        7406,
+        8303
+    ],
+    "logoId": "5175cfbc-4c85-48b4-93b0-b899d89ac16c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3778,
+    "name": "Mitre Realty",
+    "about": "Atuante nos setores de incorporação e construção de empreendimentos imobiliários, a Mitre Realty Empreendimentos e Participações S.A. dispõe de quatro linhas de produtos, localizados em pontos estratégicos na cidade de São Paulo, que abriga também sua sede.\n\nCom mais de 55 anos de expertise, atende clientes finais e investidores de média, média alta, alta e altíssima renda com uma proposta de valor de “Morar com um M a mais”, que alia espaços inteligentes e funcionais, localização estratégica, qualidade dos empreendimentos, mobilidade, hospitalidade e comodidade.",
+    "inventoriesId": [
+        5007,
+        5004,
+        5819,
+        6766,
+        7876
+    ],
+    "logoId": "ac5b200e-6cfc-4139-9641-01deabf53fdd",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

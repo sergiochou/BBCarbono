@@ -1,0 +1,40 @@
+{
+    "id": 4559,
+    "name": "TEGRA INCORPORADORA",
+    "about": "Somos uma incorporadora imobiliária residencial e de desenvolvimento urbano com foco em empreendimentos de alto padrão e forte atuação nos estados de São Paulo e Rio de Janeiro.\n\nEm toda nossa trajetória, realizamos empreendimentos que fizeram história e transformaram regiões, revelando uma preocupação genuína com a qualidade de vida das cidades. São mais de 45 anos construindo imóveis com alma e personalidade, sendo 84 vezes premiada. Nos tornamos signatários do Pacto Global da ONU e certificada Empreendedor AQUA.\n\nNossa controladora, a gestora de ativos canadense Brookfield Asset Management, tem mais de U$ 1 trilhão em ativos sob gestão e atua nos setores de Real Estate, Infraestrutura, Energia Renovável & Transição, Private Equity, Crédito e Soluções em Seguros em mais de 30 países.",
+    "inventoriesId": [
+        6452,
+        6906,
+        8027
+    ],
+    "logoId": "46d99912-327f-4ad6-9fbe-c2513461216d",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

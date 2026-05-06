@@ -1,0 +1,516 @@
+[
+    {
+        "empresa_pasta": "Grupo Index_1446",
+        "id_fgv": 1446,
+        "nome_oficial": "Grupo Index",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 12.122,
+                    "emissoes_escopo_2": 1.422,
+                    "emissoes_escopo_3": 54.885,
+                    "total_emissoes": 68.429,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 9.685,
+                    "emissoes_escopo_2": 1.301,
+                    "emissoes_escopo_3": 53.066,
+                    "total_emissoes": 64.052,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 28.445,
+                    "emissoes_escopo_2": 1.139,
+                    "emissoes_escopo_3": 273.817,
+                    "total_emissoes": 303.401,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "GRUPO IQUINE_5442",
+        "id_fgv": 5442,
+        "nome_oficial": "GRUPO IQUINE",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6621.362,
+                    "emissoes_escopo_2": 533.423,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7154.785,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Iter_8535",
+        "id_fgv": 8535,
+        "nome_oficial": "Grupo Iter ",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades✅administrativas✅e✅serviços✅complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Lago Azul_8606",
+        "id_fgv": 8606,
+        "nome_oficial": "Grupo Lago Azul ",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 41.038,
+                    "emissoes_escopo_2": 0.085,
+                    "emissoes_escopo_3": 20.971,
+                    "total_emissoes": 62.094,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Libra_2092",
+        "id_fgv": 2092,
+        "nome_oficial": "Grupo Libra",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 35571.496,
+                    "emissoes_escopo_2": 2776.946,
+                    "emissoes_escopo_3": 39689.542,
+                    "total_emissoes": 78037.984,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 27737.592,
+                    "emissoes_escopo_2": 3072.064,
+                    "emissoes_escopo_3": 41497.784,
+                    "total_emissoes": 72307.44,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo LSL  Matriz_2311",
+        "id_fgv": 2311,
+        "nome_oficial": "Grupo LSL - Matriz",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3641.549,
+                    "emissoes_escopo_2": 318.651,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3960.2,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 9965.86,
+                    "emissoes_escopo_2": 240.909,
+                    "emissoes_escopo_3": 25.456,
+                    "total_emissoes": 10232.225,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Plantio de 4000 mudas de árvores nativas da região",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2015",
+                "Inventário 2015 - LSL Transportes POA",
+                "LSL Transportes Ltda",
+                "Nome fantasia: LSL Transportes POA",
+                "CNPJ: 04.548.589/0006-22",
+                "Setor econômico: Transporte, armazenagem e correio",
+                "Subsetor: Armazenamento e atividades auxiliares dos transportes",
+                "Endereço: Av. Ely Correa, 2540 - - - Parque dos Anjos - Gravataí - RS - 94180-452"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Malwee_2002",
+        "id_fgv": 2002,
+        "nome_oficial": "Grupo Malwee",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 21327.938,
+                    "emissoes_escopo_2": 2026.977,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 23354.915,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 24316.745,
+                    "emissoes_escopo_2": 3193.435,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 27510.18,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 22826.59,
+                    "emissoes_escopo_2": 5504.016,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 28330.606,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 14875.32,
+                    "emissoes_escopo_2": 4409.87,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 19285.19,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7605.788,
+                    "emissoes_escopo_2": 2233.23,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9839.018,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7581.98,
+                    "emissoes_escopo_2": 2676.539,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 10258.519,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6953.49,
+                    "emissoes_escopo_2": 2088.098,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9041.588,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6888.361,
+                    "emissoes_escopo_2": 1980.196,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 8868.557,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6869.364,
+                    "emissoes_escopo_2": 1622.91,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 8492.274,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9843.924,
+                    "emissoes_escopo_2": 3825.961,
+                    "emissoes_escopo_3": 174162.136,
+                    "total_emissoes": 187832.021,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7115.835,
+                    "emissoes_escopo_2": 1191.598,
+                    "emissoes_escopo_3": 144576.507,
+                    "total_emissoes": 152883.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5701.271,
+                    "emissoes_escopo_2": 1029.009,
+                    "emissoes_escopo_3": 120157.63,
+                    "total_emissoes": 126887.91,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias✅de✅transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Maringá_5606",
+        "id_fgv": 5606,
+        "nome_oficial": "Grupo Maringá",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 126200.65,
+                    "emissoes_escopo_2": 11566.433,
+                    "emissoes_escopo_3": 19887.538,
+                    "total_emissoes": 157654.621,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 143248.261,
+                    "emissoes_escopo_2": 8480.334,
+                    "emissoes_escopo_3": 23246.311,
+                    "total_emissoes": 174974.906,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Neoenergia_2932",
+        "id_fgv": 2932,
+        "nome_oficial": "Grupo Neoenergia",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1052577.59,
+                    "emissoes_escopo_2": 539496.067,
+                    "emissoes_escopo_3": 4141151.84,
+                    "total_emissoes": 5733225.497,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 750184.64,
+                    "emissoes_escopo_2": 490255.063,
+                    "emissoes_escopo_3": 1313038.1,
+                    "total_emissoes": 2553477.803,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 986096.459,
+                    "emissoes_escopo_2": 641759.729,
+                    "emissoes_escopo_3": 2380007.5,
+                    "total_emissoes": 4007863.688,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 84558.64,
+                    "emissoes_escopo_2": 331637.14,
+                    "emissoes_escopo_3": 1372262.16,
+                    "total_emissoes": 1788457.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidadeegás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "s instalações, para atingir a neutralidade de carbono até 2050. A Política Contra a Mudança Climática da Neoenergia pode ser consultada no seg"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Nexxees_4241",
+        "id_fgv": 4241,
+        "nome_oficial": "Grupo Nexxees",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 3.545,
+                    "emissoes_escopo_2": 22.114,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 25.659,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 10.205,
+                    "emissoes_escopo_2": 41.436,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 51.641,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 9.872,
+                    "emissoes_escopo_2": 17.009,
+                    "emissoes_escopo_3": 68.187,
+                    "total_emissoes": 95.068,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação✅e✅comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

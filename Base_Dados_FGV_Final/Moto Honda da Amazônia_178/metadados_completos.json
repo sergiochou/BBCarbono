@@ -1,0 +1,90 @@
+{
+    "id": 178,
+    "name": "Moto Honda da Amazônia",
+    "about": " \nEm 1976 foi inaugurada a fábrica da Moto Honda da Amazônia em Manaus, de onde saiu a primeira CG, até hoje o veículo mais vendido do Brasil. Consolidada como a maior fabricante de motocicletas na América do Sul e líder de vendas do segmento no Brasil, a Honda Motos acumula mais de 26 milhões de unidades produzidas no continente. Este volume representa a grande contribuição da motocicleta para a sociedade. \nA Honda Motos foi pioneira no desenvolvimento do segmento de motocicletas no Brasil e hoje mantém a posição de liderança, com 76% de participação no mercado, seus investimentos contínuos e o compromisso com o país contribuíram para o desenvolvimento de todo o setor. A fábrica em Manaus (AM) é hoje um complexo industrial que vai muito além da montagem de motocicletas. A unidade é a mais verticalizada em produção de motos Honda no mundo, além de ser uma das maiores do Polo Industrial de Manaus (PIM) e um dos centros de produção mais representativo das Américas, onde são fabricados desde embalagens metálicas, moldes, tubos estruturais e ferramentas até diversos componentes que integram o produto final como escapamentos, rodas, guidões, chassis e outras peças, e também são produzidos quadriciclos e motores estacionários. Além de uma vasta gama de motocicletas de 110 a 1000cc, a unidade, localizada em um terreno de 292 mil m2 de área construída, conta com mais de 8.000 colaboradores. \nNo pilar produtivo, destaque para a inauguração da nova Fábrica de Motores, além da modernização de uma das linhas de montagem de motocicletas. Com isso, a Honda concluiu uma etapa importante do plano de investimento de R$ 500 milhões, anunciado em 2019, destinado à modernização da unidade, com o objetivo de tornar a empresa referência em eficiência produtiva.  \nAo longo dos anos a Honda direciona esforços para atuar de forma social e ambientalmente adequada, com programas de desenvolvimento que minimize impactos em todas as atividades da empresa adotando o conceito Green Factory. \nA Honda também estabeleceu o conceito mundial do Triplo Zero, cujo as metas até 2050 tem foco em três áreas:  Neutralidade de carbono de seus produtos e atividades corporativas, energia limpa em suas atividades e circulação de recursos com uso de materiais 100% sustentáveis. Com isso ela mantém suas ações alinhadas aos Objetivos de Desenvolvimento Sustentável “ODS”. \nA Honda tem como propósito melhorar a vida das pessoas por meio de soluções de mobilidade, portanto, minimizar os impactos ambientais de sua atuação, criando produtos cada vez mais amigáveis ao meio ambiente e revisando as atividades corporativas. Essa é a premissa da Honda e é com base nela que a empresa tem norteado sua atuação.\n",
+    "inventoriesId": [
+        377,
+        2367,
+        1881,
+        2807,
+        3374,
+        3703,
+        3933,
+        4331,
+        4533,
+        5279,
+        6670,
+        6881,
+        8833
+    ],
+    "logoId": "a8efd08c-f2f1-4b37-af11-419da7d84903",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 4,
+        "acronym": "AM",
+        "name": "Amazonas"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

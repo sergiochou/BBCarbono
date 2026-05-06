@@ -1,0 +1,447 @@
+[
+    {
+        "empresa_pasta": "Magalu_3190",
+        "id_fgv": 3190,
+        "nome_oficial": "Magalu",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 5231.459,
+                    "emissoes_escopo_2": 7241.716,
+                    "emissoes_escopo_3": 36254.521,
+                    "total_emissoes": 48727.696,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 9584.825,
+                    "emissoes_escopo_2": 5065.237,
+                    "emissoes_escopo_3": 74815.171,
+                    "total_emissoes": 89465.233,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 9843.405,
+                    "emissoes_escopo_2": 15081.659,
+                    "emissoes_escopo_3": 253545.857,
+                    "total_emissoes": 278470.921,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;\u0002reparação\u0002de\u0002veículos\u0002automotores\u0002e\u0002motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MAHLE Metal Leve_6109",
+        "id_fgv": 6109,
+        "nome_oficial": "MAHLE Metal Leve",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 19642.334,
+                    "emissoes_escopo_2": 11733.719,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 31376.053,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "MAHLEGlobalmantémcomoobjetivoaneutralidadedeCO2até2040,commetasdereduzir49%asemissões de GEE dos Escopos 1 & 2 em até 2030, reduzir 28% as emissões de"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MALTERIA SOUFFLET BRASIL LTDA_5821",
+        "id_fgv": 5821,
+        "nome_oficial": "MALTERIA SOUFFLET BRASIL LTDA.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17371.331,
+                    "emissoes_escopo_2": 830.94,
+                    "emissoes_escopo_3": 27430.193,
+                    "total_emissoes": 45632.464,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17027.795,
+                    "emissoes_escopo_2": 1102.99,
+                    "emissoes_escopo_3": 29438.683,
+                    "total_emissoes": 47569.468,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mane do Brasil_9195",
+        "id_fgv": 9195,
+        "nome_oficial": "Mane do Brasil",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Manuchar_7593",
+        "id_fgv": 7593,
+        "nome_oficial": "Manuchar",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 890.013,
+                    "emissoes_escopo_2": 24.551,
+                    "emissoes_escopo_3": 7344.502,
+                    "total_emissoes": 8259.066,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;reparaçãodeveículosautomotoresemotocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MAPFRE_489",
+        "id_fgv": 489,
+        "nome_oficial": "MAPFRE",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 4315.751,
+                    "emissoes_escopo_2": 297.605,
+                    "emissoes_escopo_3": 2174.248,
+                    "total_emissoes": 6787.604,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2974.761,
+                    "emissoes_escopo_2": 549.446,
+                    "emissoes_escopo_3": 50215.689,
+                    "total_emissoes": 53739.896,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2578.927,
+                    "emissoes_escopo_2": 1030.959,
+                    "emissoes_escopo_3": 26517.231,
+                    "total_emissoes": 30127.117,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1171.36,
+                    "emissoes_escopo_2": 561.854,
+                    "emissoes_escopo_3": 25798.654,
+                    "total_emissoes": 27531.868,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 1599.741,
+                    "emissoes_escopo_2": 134.668,
+                    "emissoes_escopo_3": 23871.432,
+                    "total_emissoes": 25605.841,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 989.065,
+                    "emissoes_escopo_2": 743.957,
+                    "emissoes_escopo_3": 21900.444,
+                    "total_emissoes": 23633.466,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 348.511,
+                    "emissoes_escopo_2": 319.032,
+                    "emissoes_escopo_3": 11356.127,
+                    "total_emissoes": 12023.67,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 331.96,
+                    "emissoes_escopo_2": 555.334,
+                    "emissoes_escopo_3": 12049.158,
+                    "total_emissoes": 12936.452,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Marca Ambiental_3754",
+        "id_fgv": 3754,
+        "nome_oficial": "Marca Ambiental",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 448259.872,
+                    "emissoes_escopo_2": 120.5,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 448380.372,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 680431.893,
+                    "emissoes_escopo_2": 58.533,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 680490.426,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Marcolin Tricot_2038",
+        "id_fgv": 2038,
+        "nome_oficial": "Marcolin Tricot",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 27.74,
+                    "emissoes_escopo_2": 5.153,
+                    "emissoes_escopo_3": 443.033,
+                    "total_emissoes": 475.926,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 26.757,
+                    "emissoes_escopo_2": 11.474,
+                    "emissoes_escopo_3": 570.783,
+                    "total_emissoes": 609.014,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "e) verificado?",
+                "Conservação Ambiental e Produção Florestal da Marcolin Participações",
+                "Ltda",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2012",
+                "Inventário 2012 - Marcolin Tricot",
+                "Marcolin Indústria Têxtil Ltda.",
+                "Nome fantasia: Marcolin Tricot",
+                "CNPJ: 89.434.336/0001-76",
+                "Setor econômico: Indústrias de transformação"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Marfrig Group_981",
+        "id_fgv": 981,
+        "nome_oficial": "Marfrig Group",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 366805.01,
+                    "emissoes_escopo_2": 45218.62,
+                    "emissoes_escopo_3": 350742.11,
+                    "total_emissoes": 762765.74,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 255633.2,
+                    "emissoes_escopo_2": 26518.45,
+                    "emissoes_escopo_3": 305936.17,
+                    "total_emissoes": 588087.82,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 392952.034,
+                    "emissoes_escopo_2": 63570.646,
+                    "emissoes_escopo_3": 14089896.187,
+                    "total_emissoes": 14546418.867,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2011",
+                "Inventário 2011 - Marfrig Group",
+                "Marfrig Alimentos S.A.",
+                "Nome fantasia: Marfrig Group",
+                "CNPJ: 03.853.896/0024-36",
+                "Setor econômico: Indústrias de transformação",
+                "Subsetor: Indústrias de transformação",
+                "Endereço: Avenida Chedid Jafet - 222 - Bloco A, 5º andar - Vila Olimpia - São Paulo - SP -"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Marfrig_7194",
+        "id_fgv": 7194,
+        "nome_oficial": "Marfrig",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 88368.631,
+                    "emissoes_escopo_2": 11279.341,
+                    "emissoes_escopo_3": 8219523.365,
+                    "total_emissoes": 8319171.337,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

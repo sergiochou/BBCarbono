@@ -1,0 +1,50 @@
+{
+    "id": 3814,
+    "name": "Mineração Vale Verde",
+    "about": "A Mineração Vale Verde, é a primeira mineradora de metais básicos e o maior investimento privado dos últimos 10 anos do estado de Alagoas. Compomos o portifólio da empresa chinesa Baiyin Nonferrous Group Co., Ltd. também conhecida como BNMC.\nEstamos localizados em Craíbas, no Agreste alagoano, e o nosso objetivo é operar de forma segura e responsável uma mina a céu aberto para o beneficiamento e produção do concentrado de cobre. \nA MVV possui um sólido compromisso e missão de transformar recursos naturais em prosperidade e desenvolvimento sustentável, trabalhando sempre alinhada às melhores práticas ESG.\nTransformando regiões onde atua, aliada à Integração Social, a Mineração Vale Verde tem como prioridade o profundo respeito com as pessoas, com a segurança nas operações e com o Meio Ambiente.",
+    "inventoriesId": [
+        5048,
+        5059,
+        6701,
+        7263,
+        8681
+    ],
+    "logoId": "6f34e8ca-8341-4961-9803-a796720886ad",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 2,
+        "acronym": "AL",
+        "name": "Alagoas"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

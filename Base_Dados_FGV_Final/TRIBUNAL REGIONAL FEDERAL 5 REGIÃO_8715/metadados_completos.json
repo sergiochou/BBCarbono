@@ -1,0 +1,35 @@
+{
+    "id": 8715,
+    "name": "TRIBUNAL REGIONAL FEDERAL 5 REGIÃO",
+    "about": "O Tribunal Regional Federal da 5ª Região (TRF5) é um órgão do Poder Judiciário da União, com sede em Recife - PE e jurisdição sobre seis estados do Nordeste.",
+    "inventoriesId": [
+        8832,
+        8990
+    ],
+    "logoId": "015f2a6b-f17e-4ef7-a833-3a19d80cead7",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

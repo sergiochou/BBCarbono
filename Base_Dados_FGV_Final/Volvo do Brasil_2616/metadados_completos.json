@@ -1,0 +1,65 @@
+{
+    "id": 2616,
+    "name": "Volvo do Brasil",
+    "about": "Fundado em 1927, o Grupo Volvo está empenhado em construir o cenário futuro de soluções sustentáveis de transporte e infra-estrutura em todo o mundo. \r\nCom sede em Gotemburgo, Suécia, atualmente emprega quase 100 mil pessoas, detendo 12  marcas em portfólio, com unidades fabris em 18 países e clientes em mais de 190 mercados. A missão do Grupo Volvo é de gerar prosperidade por meio de soluções de transporte e infraestrutura e pela visão de ser o fornecedor de soluções de transporte mais desejado e bem-sucedido do mundo.  Continuamente desenvolvendo produtos e serviços para agregar valor aos clientes, para apoiar sociedades sustentáveis e para promover o bem-estar e a segurança das pessoas. \r\nO Grupo Volvo acredita que negócios sustentáveis devem ser rentáveis e negócios rentáveis devem ser sustentáveis. A cada dia, reafirmar o compromisso com as pessoas, com o desenvolvimento sustentável e com a inovação para transformar o futuro.",
+    "inventoriesId": [
+        3479,
+        4008,
+        4177,
+        4963,
+        5160,
+        5774,
+        7810,
+        8043
+    ],
+    "logoId": "cfcbd133-42ab-48ca-8060-96268d4182f4",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

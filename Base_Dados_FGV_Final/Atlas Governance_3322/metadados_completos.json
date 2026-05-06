@@ -1,0 +1,50 @@
+{
+    "id": 3322,
+    "name": "Atlas Governance",
+    "about": "A Atlas Governance tem o propósito de tornar a Governança mais simples, acessível e digital, para isso oferecemos o maior Portal de Governança da América Latina. Hoje mais 500 empresas dos mais variados segmentos utilizam o Atlas GOV para facilitar Gestão do Conselho. Nosso portal reúne diversas funcionalidades em uma só plataforma, os membros e profissionais envolvidos no Conselho garantem uma Governança eficiente, clara e que resulta em geração de valor para as organizações. Em 2022 a Atlas lançou o Atlas AGM, um portal para tornar mais simples, acessível e digital todos os processos relacionados às assembleias de empresas, cooperativas, associações, condomínios, entre outros. \r\nA Atlas Governance acredita que a governança é o caminho para um mundo sustentável, diverso e inclusivo. Aqui trabalhamos com pessoas para pessoas, colocamos o cliente sempre em primeiro lugar, reforçamos a qualidade, com eficiência em todas as nossas entregas e mantemos a segurança parte de todos.\r\n",
+    "inventoriesId": [
+        4592,
+        5433,
+        6172,
+        7197,
+        8848
+    ],
+    "logoId": "95b54758-c6f9-4e07-85cc-05704642e323",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

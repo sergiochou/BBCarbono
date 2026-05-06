@@ -1,0 +1,100 @@
+{
+    "id": 2023,
+    "name": "americanas s.a",
+    "about": "A Americanas S.A. é uma varejista centenária, reconhecida pelos brasileiros e com amplo impacto social.  A companhia é uma multiplataforma de inovação tecnológica capaz de entregar uma experiência de consumo cada dia mais fluida. \r\n\r\nHá mais de 10 anos, a companhia desenvolve sua estratégia ambiental, social e de governança. Acreditamos no crescimento sustentável e com geração de valor, nossa estratégia ESG é transversal na tomada de todas as decisões da Americanas S.A. Desde 2015, estamos alinhados com a Agenda 2030 da ONU, priorizando os seguintes Objetivos de Desenvolvimento Sustentável (ODS): (4) Educação de Qualidade, (5) Igualdade de Gênero, (8) Trabalho Decente e Crescimento Econômico, (10) Redução de Desigualdades e (13) Ação contra as Mudanças Climáticas Globais. ",
+    "inventoriesId": [
+        368,
+        46,
+        1813,
+        2282,
+        1618,
+        2797,
+        3219,
+        3480,
+        3839,
+        4182,
+        4575,
+        5068,
+        6454,
+        7120,
+        9105
+    ],
+    "logoId": "540ce83e-a81c-4d12-ac0f-1cc618b89c48",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

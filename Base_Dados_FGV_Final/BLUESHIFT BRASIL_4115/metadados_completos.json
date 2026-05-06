@@ -1,0 +1,35 @@
+{
+    "id": 4115,
+    "name": "BLUESHIFT BRASIL ",
+    "about": "A BlueShift UMA EMPRESA DE BIG DATA. A BlueShift é uma empresa especializada em serviços e soluções de Big Data & Analytics e RPA e seu diferencial é reunir sólida experiência, conhecimento atualizado e capacidade de entrega para suportar a estratégia de transformação digital de seus parceiros de negócios.\r\n\r\nwww.blueshift.com.br",
+    "inventoriesId": [
+        5334,
+        6505
+    ],
+    "logoId": "4f7dd3a0-2612-46ef-ad5d-151ff9f1cf35",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

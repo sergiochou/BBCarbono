@@ -1,0 +1,40 @@
+{
+    "id": 5558,
+    "name": "ESCOLA PARQUE",
+    "about": "A Escola Parque foi fundada no bairro da Gávea, no Rio de Janeiro, em 1970. Em plena revolução cultural e comportamental, os valores tradicionais sendo universalmente questionados e as transformações se dando em ritmo fervilhante, surge a necessidade de rever o ensino e trazer a formação escolar para o cenário dos novos tempos.\r\n\r\nA Escola Parque nasce naquele momento histórico com o desafio de formar novas gerações, tendo em vista as necessidades futuras da sociedade em que irão viver.\r\n\r\n\r\nA postura de permanente reflexão e a busca nos grandes teóricos da educação, clássicos e contemporâneos – entre eles o educador brasileiro Anísio Teixeira – formou a base para a proposta educacional de escola construtivista.\r\n \r\nPreparar cidadãos para um mundo em permanente transformação é o lema que vem norteando o trabalho pedagógico nas quatro décadas de existência da Escola Parque, sempre pautado pelo construtivismo e voltando-se para atividades ligadas à cultura e à sustentabilidade.\r\n \r\n",
+    "inventoriesId": [
+        6558,
+        7783,
+        8823
+    ],
+    "logoId": "7ddec6d5-5ecd-19ea-4c0f-3a1a0c577934",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

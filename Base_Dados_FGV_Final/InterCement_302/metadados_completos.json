@@ -1,0 +1,100 @@
+{
+    "id": 302,
+    "name": "InterCement",
+    "about": "Estamos entre as principais companhias nacionais de industrialização e comercialização de material de construção, principalmente cimento, assumindo papel fundamental na infraestrutura e moradia indispensáveis às sociedades e ao seu desenvolvimento sustentável. Somos uma das maiores produtoras do mercado nacional, com 12 unidades industriais para a produção de cimento. Nessas unidades, e em nossa sede administrativa, na capital paulista, atuam com mais de 1.700 colaboradores próprios e 1.750 terceirizados, aos quais nos empenhamos em proporcionar ambientes seguros, respeitosos e motivadores.\nNossos cimentos são comercializados em todo o território nacional sob as marcas Cauê, Goiás e Zebu, nas versões, Uso geral, Estrutura e Exato. Atendemos clientes de todos os portes e setores variados, zelando pela entrega de produtos e serviços com qualidade, confiabilidade e excelência operacional.",
+    "inventoriesId": [
+        2612,
+        632,
+        2096,
+        1625,
+        97,
+        2928,
+        3295,
+        3634,
+        4054,
+        4395,
+        4815,
+        5467,
+        6309,
+        7057,
+        8523
+    ],
+    "logoId": "7198edb3-7a05-46db-b35c-6250b13c0892",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

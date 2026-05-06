@@ -1,0 +1,35 @@
+{
+    "id": 4490,
+    "name": "Grupo SOMA",
+    "about": "O Grupo de Moda SOMA S.A é uma sociedade anônima com capital aberto no Novo Mercado da B3 S.A. – Brasil, Bolsa, Balcão. A companhia tem sede na cidade do Rio de Janeiro e atua na área de confecção e comércio de vestuário e de acessórios.\n\nO Grupo nasceu em 2014, como resultado da evolução da união de duas grandes marcas cariocas de expressão nacional – Animale e FARM, que aconteceu em 2010, e culminou com a sua institucionalização como Grupo. Atualmente conta com FARM, FARM Global, Animale, Animale Jeans, Animale ORO, CRIS BARROS, NV, Maria Filó, Foxton, Fábula, Off Premium, Hering, Hering Kids, Hering Intimates e DZARM, reunindo a história, o estilo e o talento criativo de 15 marcas em uma empresa. O SOMA cuida das operações, da inteligência e do planejamento. As marcas têm então liberdade, tempo e autonomia para criar. ",
+    "inventoriesId": [
+        6417,
+        7671
+    ],
+    "logoId": "565f199f-32db-4bb9-ac04-833924d78fc7",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

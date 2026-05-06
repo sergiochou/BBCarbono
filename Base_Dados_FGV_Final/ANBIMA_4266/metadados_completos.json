@@ -1,0 +1,45 @@
+{
+    "id": 4266,
+    "name": "ANBIMA ",
+    "about": "Somos a Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais.\r\n\r\nFalamos em nome de instituições como bancos, gestoras, corretoras, distribuidoras e administradoras. Reunimos diversas empresas diferentes entre si com o objetivo de reproduzir dentro de casa a pluralidade dos mercados. Nascemos em 2009 a partir da união de duas entidades, mas representamos os mercados há quatro décadas. Nosso modelo de atuação é organizado em torno de quatro compromissos: representar, autorregular, informar e educar.\r\n\r\nVisão\r\nMercado forte se faz com instituições fortes.\r\n\r\nMissão\r\nFortalecer a representação do setor e apoiar a evolução de um mercado de capitais capaz de financiar o desenvolvimento econômico e social local e influenciar o mercado global.\r\n\r\n",
+    "inventoriesId": [
+        5628,
+        5987,
+        7078,
+        9091
+    ],
+    "logoId": "fe89038b-44f7-47f8-ac71-d157501b424a",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

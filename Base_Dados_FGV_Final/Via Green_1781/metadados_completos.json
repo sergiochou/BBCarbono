@@ -1,0 +1,35 @@
+{
+    "id": 1781,
+    "name": "Via Green ",
+    "about": null,
+    "inventoriesId": [
+        306,
+        2214
+    ],
+    "logoId": "a63969a0-c368-43e3-86d3-ea35d47c1487",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 5501,
+    "name": "Zago Consultoria",
+    "about": "Somos uma empresa de consultoria ambiental com equipe multidisciplinar, formada por profissionais que possuem vasta experiência de mercado. Realizamos os estudos necessários para atestar a viabilidade de novos projetos e a conformidade ambiental dos empreendimentos com auxílio de tecnologia avançada, por todo o Brasil. Acreditamos em um trabalho ágil, bem-feito e com respaldo técnico sendo o nosso principal objetivo produzir projetos e estudos que contribuirão para o desenvolvimento sustentável do país preservando os recursos naturais.\n\nA Zago possui mais de 15 anos no mercado de consultoria. Trabalhamos nas diversas fases do licenciamento ambiental, desde a concepção até a operação com foco em empreendimentos de médio e grande porte. Além disso, também fornecemos soluções para o ESG (Environmental, Social and Governance).\n\nÉ uma empresa que está na vanguarda da Gestão Ambiental Inteligente. Reduzindo de forma significativa custos e tempos dos processos de Licenciamento Ambiental em empreendimentos diversos. Com atuação em todo território nacional e time próprio de todas as disciplinas envolvidas.",
+    "inventoriesId": [
+        6460,
+        7062,
+        9248
+    ],
+    "logoId": "f0919944-c8b5-419c-8d9f-62066866cf50",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

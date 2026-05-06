@@ -1,0 +1,40 @@
+{
+    "id": 4630,
+    "name": "BROOKFIELD PROPERTIES",
+    "about": "A Brookfield Properties é líder mundial em desenvolvimento e operação de ativos imobiliários de alta qualidade, atuando nos setores de edifícios corporativos, shopping centers, multifamily, parques logísticos, hotelaria, entre outros. Operamos mais de 1,1 mil propriedades e 36 milhões de metros quadrados de imóveis, em grandes metrópoles globais, em nome da Brookfield Asset Management; uma das maiores gestoras de ativos alternativo do mundo. Com foco na sustentabilidade, compromisso com a excelência e o impulso para a inovação no planejamento, desenvolvimento e gestão de edifícios e seus arredores, a Brookfield Properties está reimaginando o mercado imobiliário comercial. ",
+    "inventoriesId": [
+        5841,
+        7028,
+        8124
+    ],
+    "logoId": "85834c12-ace9-427b-aa5d-86cade3175e4",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

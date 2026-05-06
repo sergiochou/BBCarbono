@@ -1,0 +1,35 @@
+{
+    "id": 6127,
+    "name": "Brava Energia S.A.",
+    "about": "Com sede na cidade do Rio de Janeiro, a BRAVA Energia é fruto da fusão entre a 3R Petroleum e a Enauta Energia (em 1 de agosto de 2024), consolidando-se como uma das principais empresas independentes e integradas do setor de óleo e gás da América Latina. Atuamos de forma verticalizada em toda a cadeia produtiva — da exploração e produção (upstream), ao escoamento, processamento (midstream), refino e comercialização (downstream) — com foco na geração de valor e na segurança energética do país. No segmento upstream, priorizamos a otimização operacional e a extensão da vida útil dos ativos. Nosso portfólio é composto por oito ativos produtores onshore e offshore localizados em seis bacias sedimentares: Potiguar (RN/CE), Recôncavo (BA), Campos (RJ/ES), Santos (SP/RJ), Espírito Santo (ES) e Camamu-Almada (BA). Além dos ativos atualmente em produção, a empresa mantém participações em 25 blocos exploratórios, que representam possibilidades de desenvolvimento futuro de portifólio. Essa diversidade geográfica proporciona maior resiliência, sinergias operacionais e flexibilidade frente às condições de mercado. No mid & downstream, operamos o Ativo Industrial de Guamaré (ATI), no Rio Grande do Norte, que compreende a Refinaria Clara Camarão, o Terminal Aquaviário de Guamaré e Unidades de Processamento de Gás Natural (UPGNs), conectadas às redes de transporte do Nordeste e do Sudeste. Essa infraestrutura permite o processamento, estocagem e comercialização de óleo e gás, ampliando nosso alcance a mercados nacional e internacional, e reduzindo a dependência de terceiros. A integração das operações ao longo da cadeia de valor nos confere maior eficiência, escalabilidade e competitividade. Contamos com aproximadamente 1.100 colaboradores, distribuídos entre a sede corporativa e as bases operacionais, cuja expertise técnica e capacidade de inovação são fundamentais para a execução da nossa estratégia. Além da geração de valor econômico, nossa atuação está comprometida com o desenvolvimento socioeconômico das regiões onde operamos, com ênfase na segurança, eficiência e responsabilidade ambiental. Estamos alinhados às melhores práticas ESG (ambiental, social e de governança), com um modelo de governança que assegura a supervisão da Diretoria Executiva, do Conselho de Administração e do Comitê de Sustentabilidade, em articulação com as áreas técnicas da Companhia. As mudanças climáticas representam um dos principais desafios globais para a indústria de óleo e gás, dada a relação direta entre as emissões de gases de efeito estufa e o uso de combustíveis fósseis. Reconhecendo esse contexto, a BRAVA Energia adota uma abordagem estratégica e integrada de gestão climática, com foco na avaliação contínua dos riscos e oportunidades relacionados ao clima e seus potenciais impactos sobre a criação de valor e a sustentabilidade do negócio. Nosso modelo de gestão climática busca identificar e implementar medidas viáveis de mitigação e adaptação, promovendo a resiliência operacional e o alinhamento às expectativas de investidores, reguladores e da sociedade. Essa abordagem é orientada por princípios de melhoria contínua e pela adoção de soluções com menor impacto socioambiental, visando à manutenção da competitividade nos curto e longo prazos. Em 2026, conduziremos  o nosso Plano de Gestão de Mudanças Climáticas, Carbono e Recursos Hídricos: Riscos, Oportunidades e Exposição Financeira, com o objetivo de refletir a nova configuração da Companhia, bem como o reposicionamento estratégico do portfólio de ativos. O plano atualizará diretrizes e ações prioritárias de descarbonização, adaptação e gestão de riscos climáticos. Nosso processo de gestão climática está alinhado a frameworks internacionais reconhecidos, como o Registro Público de Emissões do Programa Brasileiro GHG Protocol (PBGHG), o TCFD (Task Force on Climate-related Financial Disclosures), o SASB (Sustainability Accounting Standards Board), CDP (antigo Carbon Disclosure Project) e as diretrizes do GRI (Global Reporting Initiative), promovendo transparência, comparabilidade e governança na divulgação de informações. Além disso, em 2025, estudos foram conduzidos para adequação às novas normas internacionais de sustentabilidade (IFRS S1 e S2) do ISSB (International Sustainability Standards Board). ",
+    "inventoriesId": [
+        6915,
+        8495
+    ],
+    "logoId": "51bf7bcd-8cc7-ad88-1d92-3a19c399ea04",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

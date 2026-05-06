@@ -1,0 +1,35 @@
+{
+    "id": 6034,
+    "name": "IGUATEMI S/A",
+    "about": "A Iguatemi é uma das maiores empresas full service no setor de shopping centers do Brasil. Suas atividades englobam a concepção, o planejamento, o desenvolvimento e a administração de shopping centers regionais, e-commerce premium no modelo marketplace, premium outlets e complexos imobiliários de uso misto com torres comerciais e residenciais. A Companhia foi pioneira ao inaugurar o primeiro shopping center do país, o Iguatemi São Paulo, que completa 59 anos de atuação no mercado, e atualmente detém participação em 17 shopping centers, dois premium outlets, um e-commerce premium no modelo marketplace e quatro torres comerciais. Os empreendimentos juntos totalizam 790,8 mil m² de ABL total média, sendo a sua ABL própria correspondente a 450,3 mil m² As ações da Iguatemi estão listadas na B3 [IGTI11] e fazem parte do índice Ibovespa. Além disso, desde o dia 02 de janeiro de 2024, a Companhia passou a compor a carteira do Índice de Sustentabilidade Empresarial da B3 (“ISE B3”), referência nacional em sustentabilidade corporativa.",
+    "inventoriesId": [
+        6964,
+        8879
+    ],
+    "logoId": "1bd13496-e107-f3fa-bde7-3a1326633a3b",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

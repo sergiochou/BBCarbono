@@ -1,0 +1,45 @@
+{
+    "id": 4299,
+    "name": "HIDROVIAS DO BRASIL",
+    "about": "A Hidrovias do Brasil é uma empresa especializada em soluções logísticas integradas, focada no transporte hidroviário na América do Sul. Com atuação nos setores de serviços, transporte e infraestrutura, a Companhia oferece operações em quatro frentes de atuação distintas: transporte hidroviário, operação de terminais, cabotagem e integração de soluções logísticas – atendendo às necessidades de setores como agronegócio e mineração.\nNo Corredor Norte – entre os estados de Mato Grosso, Amazonas e Pará – a Empresa navega pelos rios Tapajós e Amazonas. No Norte do Brasil é líder em transporte fluvial de grãos, com capacidade para movimentar quase 8 milhões de toneladas anuais. Também opera com cabotagem no Pará, movimentando até 6 milhões de toneladas de bauxita por ano em navegação costeira de Trombetas a Barcarena, no Pará.\nNo Corredor Sul, opera na Hidrovia Paraguai-Paraná, integrando Brasil, Paraguai, Argentina e Uruguai. Na região, movimenta quase 6 milhões de toneladas anuais de produtos como minério de ferro, grãos e fertilizantes. \nAtua ainda no Porto de Santos com capacidade para movimentar até 2,5 milhões de toneladas por ano. Realiza operações com fertilizantes e sal a partir do terminal STS20, com acesso acesso aos modais rodoviário e ferroviário.\nA Hidrovias do Brasil foi fundada em 2010, com a missão de transformar a logística no Brasil e na América do Sul, priorizando a utilização de hidrovias para promover eficiência e sustentabilidade no transporte de cargas. A Companhia iniciou sua jornada com a visão de conectar as regiões produtoras aos portos marítimos por rotas de 2.600 km, utilizando vias navegáveis.",
+    "inventoriesId": [
+        5567,
+        6266,
+        7310,
+        8332
+    ],
+    "logoId": "c065eada-2c21-47b9-d756-3a1a0f7cf13c",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

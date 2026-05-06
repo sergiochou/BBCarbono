@@ -1,0 +1,35 @@
+{
+    "id": 5039,
+    "name": "NSL Confinamento e Estação de Pré-Embarque (EPE)",
+    "about": "A NSL Confinamento e Estação de Pré-Embarque (EPE) foi criada no ano de 2021, com início de operação da EPE no ano de 2022. Conta com uma área de 50 hectares, e aproximadamente 5 km de cocho, com capacidade para confinamento de até 20 mil animais. Todas as operações da EPE e embarques são rastreadas pelo Ministério de Agricultura e Pecuária, com fiscalização da Secretária de Agricultura, sempre priorizando o bem estar animal e as boas práticas de manejo. \r\n",
+    "inventoriesId": [
+        6169,
+        6952
+    ],
+    "logoId": "04c2673b-e4ca-48e3-94b6-e45f82456be1",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

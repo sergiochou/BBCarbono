@@ -1,0 +1,614 @@
+[
+    {
+        "empresa_pasta": "Pieralisi do Brasil_5625",
+        "id_fgv": 5625,
+        "nome_oficial": "Pieralisi do Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 19.014,
+                    "emissoes_escopo_2": 7.457,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 26.471,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 14.517,
+                    "emissoes_escopo_2": 5.526,
+                    "emissoes_escopo_3": 1243.877,
+                    "total_emissoes": 1263.92,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pif Paf Alimentos_2761",
+        "id_fgv": 2761,
+        "nome_oficial": "Pif Paf Alimentos",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 78438.301,
+                    "emissoes_escopo_2": 7525.558,
+                    "emissoes_escopo_3": 15352.107,
+                    "total_emissoes": 101315.966,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 83868.545,
+                    "emissoes_escopo_2": 8180.645,
+                    "emissoes_escopo_3": 18426.88,
+                    "total_emissoes": 110476.07,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 58816.899,
+                    "emissoes_escopo_2": 7320.846,
+                    "emissoes_escopo_3": 22051.217,
+                    "total_emissoes": 88188.962,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 81647.891,
+                    "emissoes_escopo_2": 15199.94,
+                    "emissoes_escopo_3": 18492.612,
+                    "total_emissoes": 115340.443,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 49095.779,
+                    "emissoes_escopo_2": 3706.353,
+                    "emissoes_escopo_3": 33975.989,
+                    "total_emissoes": 86778.121,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Piramidal_3281",
+        "id_fgv": 3281,
+        "nome_oficial": "Piramidal",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 926.169,
+                    "emissoes_escopo_2": 7.266,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 933.435,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 772.729,
+                    "emissoes_escopo_2": 10.002,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 782.731,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 722.302,
+                    "emissoes_escopo_2": 3.549,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 725.851,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 681.909,
+                    "emissoes_escopo_2": 3.159,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 685.068,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,❖armazenagem❖e❖correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "CDM Project 0164: Bandeirantes Landfill Gas Energy Project (BLFGE)",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2021",
+                "Inventário 2021 - Piramidal",
+                "Nova Piramidal Thermoplastics S/A",
+                "Nome fantasia: Piramidal",
+                "CNPJ: 09.220.921/0001-34",
+                "Setor econômico: Transporte, armazenagem e correio",
+                "Subsetor: Armazenamento e atividades auxiliares dos transportes",
+                "Endereço: Rua Olimpíadas - 205 - andar 4. Conj 42 e 43. sala 449 - Vila Olímpia - São Paulo"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PlanoPlano_8468",
+        "id_fgv": 8468,
+        "nome_oficial": "Plano&Plano",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Planton_6108",
+        "id_fgv": 6108,
+        "nome_oficial": "Planton",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.964,
+                    "total_emissoes": 0.964,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades❖profissionais,❖científicas❖e❖técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "PLIN Energia_7676",
+        "id_fgv": 7676,
+        "nome_oficial": "PLIN Energia ",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 0.38,
+                    "emissoes_escopo_2": 0.669,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1.049,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Plural_1671",
+        "id_fgv": 1671,
+        "nome_oficial": "Plural ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6695.78,
+                    "emissoes_escopo_2": 734.0,
+                    "emissoes_escopo_3": 72181.0,
+                    "total_emissoes": 79610.78,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6069.29,
+                    "emissoes_escopo_2": 1644.33,
+                    "emissoes_escopo_3": 77088.88,
+                    "total_emissoes": 84802.5,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5974.002,
+                    "emissoes_escopo_2": 954.0,
+                    "emissoes_escopo_3": 84649.801,
+                    "total_emissoes": 91577.803,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5520.195,
+                    "emissoes_escopo_2": 2140.0,
+                    "emissoes_escopo_3": 51626.905,
+                    "total_emissoes": 59287.1,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6088.151,
+                    "emissoes_escopo_2": 3351.561,
+                    "emissoes_escopo_3": 52803.617,
+                    "total_emissoes": 62243.329,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5464.681,
+                    "emissoes_escopo_2": 4488.921,
+                    "emissoes_escopo_3": 47877.203,
+                    "total_emissoes": 57830.805,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4755.039,
+                    "emissoes_escopo_2": 4009.442,
+                    "emissoes_escopo_3": 1183.921,
+                    "total_emissoes": 9948.402,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5075.114,
+                    "emissoes_escopo_2": 2554.584,
+                    "emissoes_escopo_3": 41043.23,
+                    "total_emissoes": 48672.928,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4526.017,
+                    "emissoes_escopo_2": 2626.945,
+                    "emissoes_escopo_3": 44118.57,
+                    "total_emissoes": 51271.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4247.565,
+                    "emissoes_escopo_2": 1968.939,
+                    "emissoes_escopo_3": 19448.737,
+                    "total_emissoes": 25665.241,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4174.959,
+                    "emissoes_escopo_2": 1907.022,
+                    "emissoes_escopo_3": 12431.364,
+                    "total_emissoes": 18513.345,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3294.039,
+                    "emissoes_escopo_2": 1511.816,
+                    "emissoes_escopo_3": 8554.924,
+                    "total_emissoes": 13360.779,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3974.486,
+                    "emissoes_escopo_2": 3309.438,
+                    "emissoes_escopo_3": 15688.417,
+                    "total_emissoes": 22972.341,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4033.274,
+                    "emissoes_escopo_2": 1070.973,
+                    "emissoes_escopo_3": 1067.541,
+                    "total_emissoes": 6171.788,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4231.91,
+                    "emissoes_escopo_2": 989.614,
+                    "emissoes_escopo_3": 1107.477,
+                    "total_emissoes": 6329.001,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias❖de❖transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pluvie Carbono e Sustentabilidade_9420",
+        "id_fgv": 9420,
+        "nome_oficial": "Pluvie Carbono e Sustentabilidade",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 0.341,
+                    "emissoes_escopo_2": 0.035,
+                    "emissoes_escopo_3": 0.532,
+                    "total_emissoes": 0.908,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Polícia Federal_1440",
+        "id_fgv": 1440,
+        "nome_oficial": "Polícia Federal",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 14614.0,
+                    "emissoes_escopo_2": 2366.0,
+                    "emissoes_escopo_3": 4600.0,
+                    "total_emissoes": 21580.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 16707.0,
+                    "emissoes_escopo_2": 1236.0,
+                    "emissoes_escopo_3": 3242.0,
+                    "total_emissoes": 21185.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 19067.47,
+                    "emissoes_escopo_2": 2652.72,
+                    "emissoes_escopo_3": 3237.69,
+                    "total_emissoes": 24957.88,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 15532.388,
+                    "emissoes_escopo_2": 1539.076,
+                    "emissoes_escopo_3": 2662.19,
+                    "total_emissoes": 19733.654,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 15400.677,
+                    "emissoes_escopo_2": 3267.656,
+                    "emissoes_escopo_3": 2838.202,
+                    "total_emissoes": 21506.535,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 13772.798,
+                    "emissoes_escopo_2": 4930.826,
+                    "emissoes_escopo_3": 2106.142,
+                    "total_emissoes": 20809.766,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 22896.57,
+                    "emissoes_escopo_2": 4757.0,
+                    "emissoes_escopo_3": 780.84,
+                    "total_emissoes": 28434.41,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 15363.843,
+                    "emissoes_escopo_2": 4652.908,
+                    "emissoes_escopo_3": 1308.409,
+                    "total_emissoes": 21325.16,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 10516.74,
+                    "emissoes_escopo_2": 4540.75,
+                    "emissoes_escopo_3": 108.619,
+                    "total_emissoes": 15166.109,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 16161.886,
+                    "emissoes_escopo_2": 4437.276,
+                    "emissoes_escopo_3": 2.189,
+                    "total_emissoes": 20601.351,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 12545.616,
+                    "emissoes_escopo_2": 6505.854,
+                    "emissoes_escopo_3": 2816.07,
+                    "total_emissoes": 21867.54,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 12667.124,
+                    "emissoes_escopo_2": 3281.689,
+                    "emissoes_escopo_3": 1857.199,
+                    "total_emissoes": 17806.012,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2009",
+                "Inventário 2009 - Polícia Federal",
+                "Departamento de Polícia Federal",
+                "Nome fantasia: Polícia Federal",
+                "CNPJ: 00.394.494/0014-50",
+                "Setor econômico: Administração pública, defesa e seguridade social",
+                "Subsetor: Administração pública, defesa e seguridade social",
+                "Endereço: SAS, Quadra 6, Bloco A - lt 9/10 - Edifício Sede da PF - Asa Sul - Brasília - DF -"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Pontal Energy_8313",
+        "id_fgv": 8313,
+        "nome_oficial": "Pontal Energy",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1209.699,
+                    "emissoes_escopo_2": 6.569,
+                    "emissoes_escopo_3": 576.881,
+                    "total_emissoes": 1793.149,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "id": 5311,
+    "name": "Caixa Seguridade",
+    "about": "A Caixa Seguridade é uma empresa de participações que consolida os investimentos da CAIXA em empresas dos ramos de seguros, previdência privada, capitalização, consórcio, serviços de assistência e corretagem de seguros e atua principalmente por meio do sistema de Bancassurance1 na rede de distribuição da CAIXA. \r\n\r\nComo uma holding de controle e de forma a cumprir seu objeto social, a Caixa Seguridade: \r\n(i) administra o relacionamento de suas empresas participadas com os canais de distribuição da CAIXA e de seus parceiros; \r\n(ii) atua de forma conjunta com as empresas operacionais no desenvolvimento e aprimoramento de soluções em seguridade; \r\n(iii) atua de forma conjunta com as áreas gestoras da CAIXA na definição das estratégias de comercialização de soluções em seguridade ofertadas pelo canal bancário; \r\n(iv) acompanha as decisões deliberadas pelos conselhos e comitês técnicos de todas as empresas participadas, por meio de estrutura de governança corporativa; e \r\n(v) avalia a realização de investimentos, criação de novas empresas, estruturação de participações e parcerias relacionadas aos negócios de seguridade. \r\n\r\nO principal diferencial da Companhia é o direito exclusivo que possui, até 2050, renovável por períodos sucessivos de 35 anos, de acessar a base de clientes da CAIXA e de explorar economicamente a marca “CAIXA” e sua rede de agências próprias, revendedores lotéricos, correspondentes bancários, o internet banking, caixas eletrônicos e outros canais de distribuição, atuais e futuros.",
+    "inventoriesId": [
+        6333,
+        7083
+    ],
+    "logoId": "1ebc86c6-cde3-4bca-8241-f152eb69e53e",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

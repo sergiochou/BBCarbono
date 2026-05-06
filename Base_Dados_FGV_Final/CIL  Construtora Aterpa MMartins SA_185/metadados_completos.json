@@ -1,0 +1,30 @@
+{
+    "id": 185,
+    "name": "CIL - Construtora Aterpa MMartins SA",
+    "about": null,
+    "inventoriesId": [
+        3065
+    ],
+    "logoId": "84fbd788-d90c-4cde-89f9-5f5942e4530f",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1643,
+    "name": "Lutha Uniformes Profissionais",
+    "about": "No ano de 2018, a Lutha Uniformes Profissionais completa 25 anos de existência. Nessa trajetória, aprendemos a produzir uniformes que ofereçam conforto e segurança, promovam o bem-estar dos colaboradores, valorizem e reforcem a imagem do cliente. Assim, capricho, técnica, acolhimento, colaboração e responsabilidade são valores vitais no nosso dia-a-dia. \r\nNo âmbito da responsabilidade, dentre tantos compromissos, nos destacamos com nosso empenho a favor do desenvolvimento sustentável, também tangibilizado através da adesão ao Programa Brasileiro GHG Protocol. Desde 2012 compreendemos cotidianamente a complexidade, importância e desafios que o temas socioambientais abordam.",
+    "inventoriesId": [
+        2540,
+        2074,
+        510,
+        2753,
+        3167,
+        3452
+    ],
+    "logoId": "d2afd195-3ea7-4cee-b546-878b46d78bd8",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

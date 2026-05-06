@@ -1,0 +1,35 @@
+{
+    "id": 7697,
+    "name": "C&A",
+    "about": "Somos uma empresa de moda focada em propor experiências que vão além do vestir. \nFundada em 1841 pelos irmãos Clemens e August na Holanda, entendemos e defendemos a moda como um dos mais fundamentais canais de conexão das pessoas consigo mesmas, com todos à sua volta e, por isso, coloca os nossos clientes no centro da estratégia. A C&A é uma das maiores varejistas do mundo e, no Brasil, estamos presentes desde 1976. Atualmente, operamos com mais de 330 lojas em todo o território nacional, além do e-commerce.",
+    "inventoriesId": [
+        7483,
+        8679
+    ],
+    "logoId": "70e7a7fc-aaac-6eeb-4857-3a1305c2cc5e",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

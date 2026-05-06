@@ -1,0 +1,546 @@
+[
+    {
+        "empresa_pasta": "Milhão Ingredients_7376",
+        "id_fgv": 7376,
+        "nome_oficial": "Milhão Ingredients",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 1584.631,
+                    "emissoes_escopo_2": 619.903,
+                    "emissoes_escopo_3": 383.656,
+                    "total_emissoes": 2588.19,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 2097.527,
+                    "emissoes_escopo_2": 1123.722,
+                    "emissoes_escopo_3": 520060.267,
+                    "total_emissoes": 523281.516,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MILLS LOCAÇÃO SERVIÇOS E LOGÍSTICA SA_3868",
+        "id_fgv": 3868,
+        "nome_oficial": "MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2909.586,
+                    "emissoes_escopo_2": 342.33,
+                    "emissoes_escopo_3": 27712.608,
+                    "total_emissoes": 30964.524,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2715.829,
+                    "emissoes_escopo_2": 136.998,
+                    "emissoes_escopo_3": 121540.775,
+                    "total_emissoes": 124393.602,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 4049.25,
+                    "emissoes_escopo_2": 115.987,
+                    "emissoes_escopo_3": 154734.38,
+                    "total_emissoes": 158899.617,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras\u0002atividades\u0002de\u0002serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mineração Paragominas SA_2245",
+        "id_fgv": 2245,
+        "nome_oficial": "Mineração Paragominas S.A.",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias‑extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 84506.778,
+                    "emissoes_escopo_2": 15976.571,
+                    "emissoes_escopo_3": 5399.603,
+                    "total_emissoes": 105882.952,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 87673.878,
+                    "emissoes_escopo_2": 14384.83,
+                    "emissoes_escopo_3": 13610.992,
+                    "total_emissoes": 115669.7,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mineração Taboca SA_4391",
+        "id_fgv": 4391,
+        "nome_oficial": "Mineração Taboca S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 86065.61,
+                    "emissoes_escopo_2": 5331.38,
+                    "emissoes_escopo_3": 78845.53,
+                    "total_emissoes": 170242.52,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 99136.93,
+                    "emissoes_escopo_2": 5218.16,
+                    "emissoes_escopo_3": 93697.64,
+                    "total_emissoes": 198052.73,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 117091.953,
+                    "emissoes_escopo_2": 1517.24,
+                    "emissoes_escopo_3": 88396.629,
+                    "total_emissoes": 207005.822,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mineração Usiminas_4656",
+        "id_fgv": 4656,
+        "nome_oficial": "Mineração Usiminas",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 33376.782,
+                    "emissoes_escopo_2": 8294.365,
+                    "emissoes_escopo_3": 102172.034,
+                    "total_emissoes": 143843.181,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 38008.421,
+                    "emissoes_escopo_2": 8635.046,
+                    "emissoes_escopo_3": 289793.958,
+                    "total_emissoes": 336437.425,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mineração Vale Verde_3814",
+        "id_fgv": 3814,
+        "nome_oficial": "Mineração Vale Verde",
+        "estado": "AL",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 21811.938,
+                    "emissoes_escopo_2": 46.28,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 21858.218,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 10587.224,
+                    "emissoes_escopo_2": 7776.83,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 18364.054,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 49921.972,
+                    "emissoes_escopo_2": 4329.956,
+                    "emissoes_escopo_3": 10276.547,
+                    "total_emissoes": 64528.475,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 27231.393,
+                    "emissoes_escopo_2": 4753.13,
+                    "emissoes_escopo_3": 25909.663,
+                    "total_emissoes": 57894.186,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Minerva Foods_2817",
+        "id_fgv": 2817,
+        "nome_oficial": "Minerva Foods",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 193532.0,
+                    "emissoes_escopo_2": 16883.886,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 210415.886,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 225027.187,
+                    "emissoes_escopo_2": 12058.1,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 237085.287,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 222686.739,
+                    "emissoes_escopo_2": 15530.116,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 238216.855,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 290919.455,
+                    "emissoes_escopo_2": 13246.094,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 304165.549,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 102024.522,
+                    "emissoes_escopo_2": 13864.845,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 115889.367,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 87874.822,
+                    "emissoes_escopo_2": 11262.658,
+                    "emissoes_escopo_3": 34541.274,
+                    "total_emissoes": 133678.754,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 93540.309,
+                    "emissoes_escopo_2": 21477.065,
+                    "emissoes_escopo_3": 6186297.76,
+                    "total_emissoes": 6301315.134,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 165545.405,
+                    "emissoes_escopo_2": 8508.614,
+                    "emissoes_escopo_3": 7670699.37,
+                    "total_emissoes": 7844753.389,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 170139.113,
+                    "emissoes_escopo_2": 8172.097,
+                    "emissoes_escopo_3": 8750179.533,
+                    "total_emissoes": 8928490.743,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2035,
+                "descricao": ", assumiu a meta de tornar-se carbono neutro até 2035 e atuar pelo desmatamento ilegal zero em toda a cadeia de abastecimento da Amér"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mitre Realty_3778",
+        "id_fgv": 3778,
+        "nome_oficial": "Mitre Realty",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 59.354,
+                    "emissoes_escopo_2": 29.402,
+                    "emissoes_escopo_3": 13958.896,
+                    "total_emissoes": 14047.652,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 46.362,
+                    "emissoes_escopo_2": 112.648,
+                    "emissoes_escopo_3": 23745.271,
+                    "total_emissoes": 23904.281,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 63.307,
+                    "emissoes_escopo_2": 61.093,
+                    "emissoes_escopo_3": 35440.499,
+                    "total_emissoes": 35564.899,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 73.698,
+                    "emissoes_escopo_2": 82.067,
+                    "emissoes_escopo_3": 37160.344,
+                    "total_emissoes": 37316.109,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mitsidi_5148",
+        "id_fgv": 5148,
+        "nome_oficial": "Mitsidi",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 13.435,
+                    "total_emissoes": 13.435,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 27.143,
+                    "total_emissoes": 27.143,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 27.949,
+                    "total_emissoes": 27.949,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto de Restauração ecológica - Corredores de Vida III",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2023",
+                "Inventário 2023 - Mitsidi",
+                "Mitsidi Serviços e Projetos LTDA",
+                "Nome fantasia: Mitsidi",
+                "CNPJ: 19.568.875/0001-12",
+                "Setor econômico: Atividades profissionais, científicas e técnicas",
+                "Subsetor: Pesquisa e desenvolvimento científico",
+                "Endereço: RuaBelaCintra,478-Consolação-SãoPaulo-01415-000"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mobyan_9183",
+        "id_fgv": 9183,
+        "nome_oficial": "Mobyan",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 88.118,
+                    "emissoes_escopo_2": 41.413,
+                    "emissoes_escopo_3": 791.699,
+                    "total_emissoes": 921.23,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

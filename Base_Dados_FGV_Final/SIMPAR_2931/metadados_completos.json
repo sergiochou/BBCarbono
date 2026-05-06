@@ -1,0 +1,55 @@
+{
+    "id": 2931,
+    "name": "SIMPAR",
+    "about": "A SIMPAR é controladora de sete empresas – JSL, Movida, VAMOS, CS Brasil, Automob, Banco BBC Digital, CS Infra e Ciclus Ambiental – que atuam com o compromisso em entender para atender com qualidade aos diferentes perfis de clientes dos segmentos de logística, mobilidade, locação e concessionárias de automóveis, máquinas e serviços financeiros e de infraestrutura. A Companhia é listada na B3 (SIMH3) no Novo Mercado e está presente no Índice de Sustentabilidade Empresarial (ISE) e em outros relevantes índices e rankings ESG. ",
+    "inventoriesId": [
+        4270,
+        4534,
+        5580,
+        6462,
+        7500,
+        8481
+    ],
+    "logoId": "8ec80982-87ba-4744-b633-43c77f25c2b1",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

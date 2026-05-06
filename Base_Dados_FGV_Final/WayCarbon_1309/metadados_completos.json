@@ -1,0 +1,80 @@
+{
+    "id": 1309,
+    "name": "WayCarbon",
+    "about": "Uma visão inovadora de sustentabilidade capaz de impulsionar a capacidade competitiva de nossos clientes e gerar impactos positivos para a sociedade. Somos a WayCarbon, uma empresa que, por meio do conhecimento, experiência e tecnologia, soluciona desafios relacionados a mitigação e adaptação às mudanças climáticas, gestão dos recursos hídricos e do território e valoração da biodiversidade. Temos na inovação nosso principal pilar estratégico e no desenvolvimento sustentável nosso direcionador de atuação. Entregamos resultados e construímos relações éticas e de confiança, reflexos da competência de nossa equipe e sua constante busca pela excelência. \r\nWayCarbon, transformando inovação e sustentabilidade em competitividade e liderança.",
+    "inventoriesId": [
+        2617,
+        1768,
+        2744,
+        3200,
+        3456,
+        4025,
+        4293,
+        4509,
+        5368,
+        6271,
+        7082
+    ],
+    "logoId": "6c6034c6-1405-39d1-dd11-3a146e8bb551",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

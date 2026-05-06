@@ -1,0 +1,40 @@
+{
+    "id": 5528,
+    "name": "GL Foods",
+    "about": "Como parceiro global de desenvolvimento de produtos, nos especializamos em ingredientes alimentícios de alta qualidade. Estamos empenhados em ajudar nossos clientes a criar produtos melhores - assim como um mundo melhor e mais sustentável.",
+    "inventoriesId": [
+        6480,
+        7492,
+        8115
+    ],
+    "logoId": "19bb9643-4521-4917-9a16-332ddeb9d87b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

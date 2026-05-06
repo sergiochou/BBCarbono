@@ -1,0 +1,462 @@
+[
+    {
+        "empresa_pasta": "Sete Cachoeiras Estate Coffee_3764",
+        "id_fgv": 3764,
+        "nome_oficial": "Sete Cachoeiras Estate Coffee",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Agricultura,\u0002pecuária,\u0002produção\u0002florestal,\u0002pesca\u0002e\u0002aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 2489.455,
+                    "emissoes_escopo_2": 110.248,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2599.703,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "(tCOe) verificado?",
+                "The Envira Amazonia Project - A Tropical Forest Conservation Project in Acre,",
+                "Brazil",
+                "Certificate of Verified Carbon Unit (VCU) Retirement",
+                "Project Name",
+                "VCU Serial Number",
+                "Additional Certifications",
+                "Powered by"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SG4_7213",
+        "id_fgv": 7213,
+        "nome_oficial": "SG4",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 3.943,
+                    "emissoes_escopo_2": 0.156,
+                    "emissoes_escopo_3": 3.463,
+                    "total_emissoes": 7.562,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SGS_17",
+        "id_fgv": 17,
+        "nome_oficial": "SGS",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 3.571,
+                    "emissoes_escopo_2": 31.856,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 35.427,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 32.473,
+                    "emissoes_escopo_2": 143.644,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 176.117,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.289,
+                    "emissoes_escopo_2": 7.64,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7.929,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sicoob Central Unicoob_8793",
+        "id_fgv": 8793,
+        "nome_oficial": "Sicoob Central Unicoob",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 59.586,
+                    "emissoes_escopo_2": 27.939,
+                    "emissoes_escopo_3": 147.194,
+                    "total_emissoes": 234.719,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sicoob Crediluz_2470",
+        "id_fgv": 2470,
+        "nome_oficial": "Sicoob Crediluz",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 18.077,
+                    "emissoes_escopo_2": 10.53,
+                    "emissoes_escopo_3": 30.524,
+                    "total_emissoes": 59.131,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 10.778,
+                    "emissoes_escopo_2": 6.72,
+                    "emissoes_escopo_3": 5.36,
+                    "total_emissoes": 22.858,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 63.855,
+                    "emissoes_escopo_2": 7.795,
+                    "emissoes_escopo_3": 4.205,
+                    "total_emissoes": 75.855,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 12.34,
+                    "emissoes_escopo_2": 4.231,
+                    "emissoes_escopo_3": 2.988,
+                    "total_emissoes": 19.559,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 12.34,
+                    "emissoes_escopo_2": 4.231,
+                    "emissoes_escopo_3": 2.988,
+                    "total_emissoes": 19.559,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sicredi  Sistema de Crédito Cooperativo_3026",
+        "id_fgv": 3026,
+        "nome_oficial": "Sicredi - Sistema de Crédito Cooperativo",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 5133.533,
+                    "emissoes_escopo_2": 3946.024,
+                    "emissoes_escopo_3": 26712.707,
+                    "total_emissoes": 35792.264,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 5687.328,
+                    "emissoes_escopo_2": 3865.96,
+                    "emissoes_escopo_3": 12121.479,
+                    "total_emissoes": 21674.767,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 7396.237,
+                    "emissoes_escopo_2": 8571.232,
+                    "emissoes_escopo_3": 5215.014,
+                    "total_emissoes": 21182.483,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 8878.351,
+                    "emissoes_escopo_2": 3707.926,
+                    "emissoes_escopo_3": 16016.036,
+                    "total_emissoes": 28602.313,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 8047.732,
+                    "emissoes_escopo_2": 3249.187,
+                    "emissoes_escopo_3": 17598.897,
+                    "total_emissoes": 28895.816,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades٫financeiras,٫de٫seguros٫e٫serviços٫relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto REDD+ Jari Pará",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com asEspecificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV:Ernst & Young Auditores Independentes",
+                "Nome da OI:SICREDI - Sistema de Crédito Corporativo",
+                "Nome do verificador líder:Kin Honda Nome do responsável pelo inventário:Aline Simões"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sidermin_8176",
+        "id_fgv": 8176,
+        "nome_oficial": "Sidermin",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Siemens Eletroeletrônica_762",
+        "id_fgv": 762,
+        "nome_oficial": "Siemens Eletroeletrônica",
+        "estado": "AM",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 40.98,
+                    "emissoes_escopo_2": 364.15,
+                    "emissoes_escopo_3": 10793.1,
+                    "total_emissoes": 11198.23,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3.119,
+                    "emissoes_escopo_2": 232.766,
+                    "emissoes_escopo_3": 11384.519,
+                    "total_emissoes": 11620.404,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SIEMENS HEALTHINEERS_7271",
+        "id_fgv": 7271,
+        "nome_oficial": "SIEMENS HEALTHINEERS",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 573.305,
+                    "emissoes_escopo_2": 208.338,
+                    "emissoes_escopo_3": 906.38,
+                    "total_emissoes": 1688.023,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sika SA_1173",
+        "id_fgv": 1173,
+        "nome_oficial": "Sika SA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4506.94,
+                    "emissoes_escopo_2": 227.27,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4734.21,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3829.12,
+                    "emissoes_escopo_2": 143.243,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3972.363,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4005.044,
+                    "emissoes_escopo_2": 145.843,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4150.887,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3845.039,
+                    "emissoes_escopo_2": 217.263,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4062.302,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3648.437,
+                    "emissoes_escopo_2": 148.461,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3796.898,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5050.298,
+                    "emissoes_escopo_2": 3601.281,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 8651.579,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4717.663,
+                    "emissoes_escopo_2": 131.966,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4849.629,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

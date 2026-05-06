@@ -1,0 +1,75 @@
+{
+    "id": 184,
+    "name": "Deloitte",
+    "about": "A Deloitte refere-se a uma ou mais empresas da Deloitte Touche Tohmatsu Limited (“DTTL”), sua rede global de firmas-membro e suas entidades relacionadas (coletivamente, a “organização Deloitte”). A DTTL (também chamada de “Deloitte Global”) e cada uma de suas firmas-membro e entidades relacionadas são legalmente separadas e independentes, que não podem se obrigar ou se vincular a terceiros. A DTTL, cada firma-membro da DTTL e cada entidade relacionada são responsáveis ??apenas por seus próprios atos e omissões, e não entre si. A DTTL não fornece serviços para clientes. Por favor, consulte www.deloitte.com/about para saber mais.\r\n\r\nA Deloitte é líder global de auditoria, consultoria empresarial, assessoria financeira, gestão de riscos, consultoria tributária e serviços correlatos. Nossa rede global de firmas-membro e entidades relacionadas, presente em mais de 150 países e territórios (coletivamente, a “organização Deloitte”), atende a quatro de cada cinco organizações listadas pela Fortune Global 500®. Saiba como os cerca de 335 mil profissionais da Deloitte impactam positivamente seus clientes em www.deloitte.com.\r\n\r\n© 2021. Para mais informações, contate a Deloitte Global.",
+    "inventoriesId": [
+        2386,
+        1799,
+        2776,
+        3149,
+        3451,
+        4082,
+        4458,
+        4953,
+        5509,
+        6474
+    ],
+    "logoId": "5b483aa3-314b-44cf-be59-e1d46e77ade2",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

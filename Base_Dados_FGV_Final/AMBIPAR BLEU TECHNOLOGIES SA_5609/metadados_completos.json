@@ -1,0 +1,30 @@
+{
+    "id": 5609,
+    "name": "AMBIPAR BLEU TECHNOLOGIES S/A",
+    "about": "Fundada em 2017, a Ambipar Bleu Technologies é uma das pioneiras na criação e desenvolvimento de tecnologia baseada em Blockchain. Nossa missão é contribuir para a evolução e difusão desse ecossistema, oferecemos soluções para um mundo mais verde aliando nossa expertise em Tecnologia Blockchain ao desejo de um desenvolvimento mais sustentável e seguro.",
+    "inventoriesId": [
+        6605
+    ],
+    "logoId": "e5bb4d6c-42c7-4fad-a89f-ee579d861d35",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

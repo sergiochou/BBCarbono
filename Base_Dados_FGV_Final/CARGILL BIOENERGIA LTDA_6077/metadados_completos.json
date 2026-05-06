@@ -1,0 +1,45 @@
+{
+    "id": 6077,
+    "name": "CARGILL BIOENERGIA LTDA",
+    "about": "A Cargill Bioenergia é produtora de açúcar VHP, etanol (anidro e hidratado), eletricidade, fibras, proteína e óleo vegetal. Com atuação no mercado nacional e internacional, a empresa está localizada no estado de Goiás, com duas unidades agroindustriais: Cachoeira Dourada (Usina Rio Dourado) e Quirinópolis (Usina São Francisco).\n A Cargill Bioenergia tem compromisso com a vida, aplica políticas de segurança do trabalho em todos os processos, visando ao bem-estar dos funcionários, e aposta em alternativas energéticas renováveis, bem como, tem o compromisso com a proteção à privacidade e dados pessoais de todos que interagem com a Empresa, sejam funcionários ou terceiros, por meio dos sistemas, site, redes sociais, aplicativos e mesmo fisicamente em nossas instalações.",
+    "inventoriesId": [
+        6992,
+        6969,
+        6851,
+        8472
+    ],
+    "logoId": "e12d3085-e89a-830c-0e95-3a19a8ce189a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

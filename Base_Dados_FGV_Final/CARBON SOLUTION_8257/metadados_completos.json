@@ -1,0 +1,30 @@
+{
+    "id": 8257,
+    "name": "CARBON SOLUTION",
+    "about": "A CBS é uma empresa dedicada ao setor de gestão, beneficiamento e comércio de resíduos sólidos industriais, comprometida em fornecer soluções ambientalmente sustentáveis para a destinação eficiente e responsável desses materiais.\n\nA empresa atua como um elo entre os geradores de resíduos e as indústrias que buscam fontes alternativas de energia e matérias-primas sustentáveis . Por meio de um processo de seleção e beneficiamento, transformamos esses resíduos em produtos, impulsionando a economia circular e contribuindo para a redução do impacto ambiental.\n\nContamos com uma infraestrutura moderna, que nos permite realizar o armazenamento, processamento e distribuição eficientes dos resíduos industriais. Nossos profissionais qualificados garantem que todos os nossos processos estejam em conformidade com as normas ambientais e de segurança, garantindo a qualidade dos nossos produtos e serviços.\nAlém da gestão, beneficiamento e comércio de resíduos industriais, a CBS também investe em pesquisa e desenvolvimento, buscando constantemente novas tecnologias e inovações para valorizar esses resíduos, bem como explorar oportunidades de utilização em setores variados. \n\nAo adotar práticas sustentáveis de gestão de resíduos sólidos industriais, podemos promover um futuro mais equilibrado, preservando o meio ambiente para as gerações futuras.",
+    "inventoriesId": [
+        8875
+    ],
+    "logoId": "d155d200-1ef6-d0ab-51c1-3a1b449e0bbf",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

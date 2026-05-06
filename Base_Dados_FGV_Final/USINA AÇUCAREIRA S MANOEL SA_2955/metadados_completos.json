@@ -1,0 +1,60 @@
+{
+    "id": 2955,
+    "name": "USINA AÇUCAREIRA S. MANOEL S.A.",
+    "about": "A Usina Açucareira São Manoel é uma tradicional unidade industrial produtora de Cana, Açúcar, Etanol Anidro e Hidratado e Levedura Seca Inativa. \n\nPersistente na busca de contínuo aprimoramento, a empresa valoriza o ser humano,  a integração com a sociedade e a preservação do meio ambiente, o que lhe permite crescer de maneira ordenada e sustentável com garantia de qualidade nos processos e nos produtos finais derivados da cana-de-açúcar.\n\nMissão\nConstruir uma Empresa sustentável, contribuindo para um mundo melhor por meio da excelência em pessoas e gestão\n\nVisão\nSer uma empresa perene.\n\nValores\nRespeito: Colocar-se no lugar do outro tratando a todos de maneira como cada um gostaria de ser tratado.\nTransparência: Expressar-se e agir de maneira franca e honesta.\nEngajamento: Vestir a camisa da empresa contagiando a todos com suas atitudes e exemplos.\nInovação: Fazer melhor o nosso dia-a-dia.",
+    "inventoriesId": [
+        4460,
+        4461,
+        4850,
+        5135,
+        6052,
+        7033,
+        8797
+    ],
+    "logoId": "4fea6664-4eef-461b-a046-bab26781d727",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,417 @@
+[
+    {
+        "empresa_pasta": "Socimol_405",
+        "id_fgv": 405,
+        "nome_oficial": "Socimol",
+        "estado": "PI",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 248.078,
+                    "emissoes_escopo_2": 393.418,
+                    "emissoes_escopo_3": 7.282,
+                    "total_emissoes": 648.778,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto de REDD+"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Somos  Gestão de Ações Coletivas_4367",
+        "id_fgv": 4367,
+        "nome_oficial": "Somos - Gestão de Ações Coletivas",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 29.146,
+                    "emissoes_escopo_2": 8.004,
+                    "emissoes_escopo_3": 57.981,
+                    "total_emissoes": 95.131,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SONEL_2237",
+        "id_fgv": 2237,
+        "nome_oficial": "SONEL",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 1206.689,
+                    "emissoes_escopo_2": 0.246,
+                    "emissoes_escopo_3": 3.182,
+                    "total_emissoes": 1210.117,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Souza Cruz_292",
+        "id_fgv": 292,
+        "nome_oficial": "Souza Cruz",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 25537.69,
+                    "emissoes_escopo_2": 4123.01,
+                    "emissoes_escopo_3": 177680.06,
+                    "total_emissoes": 207340.76,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 28048.93,
+                    "emissoes_escopo_2": 9655.57,
+                    "emissoes_escopo_3": 162484.23,
+                    "total_emissoes": 200188.73,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 29291.58,
+                    "emissoes_escopo_2": 5764.58,
+                    "emissoes_escopo_3": 165227.33,
+                    "total_emissoes": 200283.49,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 30188.834,
+                    "emissoes_escopo_2": 13164.0,
+                    "emissoes_escopo_3": 152040.121,
+                    "total_emissoes": 195392.955,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 32734.365,
+                    "emissoes_escopo_2": 20750.696,
+                    "emissoes_escopo_3": 163323.599,
+                    "total_emissoes": 216808.66,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Spaipa_646",
+        "id_fgv": 646,
+        "nome_oficial": "Spaipa",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4456.637,
+                    "emissoes_escopo_2": 2022.932,
+                    "emissoes_escopo_3": 1545.737,
+                    "total_emissoes": 8025.306,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SPECIAL DOG COMPANY_8816",
+        "id_fgv": 8816,
+        "nome_oficial": "SPECIAL DOG COMPANY",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 18912.533,
+                    "emissoes_escopo_2": 1879.973,
+                    "emissoes_escopo_3": 225769.83,
+                    "total_emissoes": 246562.336,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2025,
+                "descricao": "icativas em real gasto. 11/08/2025 11:14 10 Inventário 2024 - SPECIAL DOG COMPANY Fator de emissão Referência Fonte de emissão aplicada Fatores de emi"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SPIC Brasil_4112",
+        "id_fgv": 4112,
+        "nome_oficial": "SPIC Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 883.39,
+                    "emissoes_escopo_2": 84.659,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 968.049,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 283.644,
+                    "emissoes_escopo_2": 10.439,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 294.083,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade\u0002e\u0002gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SSA_3273",
+        "id_fgv": 3273,
+        "nome_oficial": "SSA",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 19634.327,
+                    "emissoes_escopo_2": 6518.346,
+                    "emissoes_escopo_3": 13023.023,
+                    "total_emissoes": 39175.696,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 30114.977,
+                    "emissoes_escopo_2": 14038.68,
+                    "emissoes_escopo_3": 5138.602,
+                    "total_emissoes": 49292.259,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 18460.113,
+                    "emissoes_escopo_2": 4950.874,
+                    "emissoes_escopo_3": 34033.934,
+                    "total_emissoes": 57444.921,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 29260.717,
+                    "emissoes_escopo_2": 4978.18,
+                    "emissoes_escopo_3": 34894.714,
+                    "total_emissoes": 69133.611,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "STATE GRID BRAZIL HOLDING SA_4737",
+        "id_fgv": 4737,
+        "nome_oficial": "STATE GRID BRAZIL HOLDING S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade\u0002e\u0002gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 4415.334,
+                    "emissoes_escopo_2": 213953.058,
+                    "emissoes_escopo_3": 1767.335,
+                    "total_emissoes": 220135.727,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3779.844,
+                    "emissoes_escopo_2": 73746.579,
+                    "emissoes_escopo_3": 8147.793,
+                    "total_emissoes": 85674.216,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 2863.978,
+                    "emissoes_escopo_2": 57804.874,
+                    "emissoes_escopo_3": 11934.014,
+                    "total_emissoes": 72602.866,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "STELLANTIS_2790",
+        "id_fgv": 2790,
+        "nome_oficial": "STELLANTIS",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 16281.5,
+                    "emissoes_escopo_2": 11882.976,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 28164.476,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 23758.42,
+                    "emissoes_escopo_2": 13721.661,
+                    "emissoes_escopo_3": 3227.54,
+                    "total_emissoes": 40707.621,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 58935.414,
+                    "emissoes_escopo_2": 29974.42,
+                    "emissoes_escopo_3": 4101.876,
+                    "total_emissoes": 93011.71,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 62763.617,
+                    "emissoes_escopo_2": 29776.154,
+                    "emissoes_escopo_3": 2884.767,
+                    "total_emissoes": 95424.538,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 52121.156,
+                    "emissoes_escopo_2": 26089.693,
+                    "emissoes_escopo_3": 1652.434,
+                    "total_emissoes": 79863.283,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 69321.202,
+                    "emissoes_escopo_2": 58841.36,
+                    "emissoes_escopo_3": 1749.364,
+                    "total_emissoes": 129911.926,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

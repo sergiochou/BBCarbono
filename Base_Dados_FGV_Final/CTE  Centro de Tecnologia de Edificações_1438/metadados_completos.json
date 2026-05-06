@@ -1,0 +1,40 @@
+{
+    "id": 1438,
+    "name": "CTE - Centro de Tecnologia de Edificações",
+    "about": "Uma empresa de consultoria e gerenciamento que oferece soluções em gestão, qualidade, tecnologia, sustentabilidade, inovação e capacitação, para as empresas da cadeia produtiva da construção e para as etapas de concepção, projeto, especificações, obras e operação de empreendimentos.",
+    "inventoriesId": [
+        2586,
+        1774,
+        8094
+    ],
+    "logoId": "4b6b2cea-116c-c5d5-f644-3a193747587f",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

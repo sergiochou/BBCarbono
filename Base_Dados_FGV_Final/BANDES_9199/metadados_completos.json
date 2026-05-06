@@ -1,0 +1,30 @@
+{
+    "id": 9199,
+    "name": "BANDES",
+    "about": "O Banco de Desenvolvimento do Espírito Santo (Bandes) é uma instituição pública que há mais de 50 anos impulsiona o desenvolvimento socioeconômico do Estado. Com um compromisso sólido em fomentar iniciativas sustentáveis e inovadoras, o Bandes oferece soluções financeiras estratégicas para empresas e municípios, contribuindo diretamente para a geração de emprego, renda e qualidade de vida para os capixabas.\nMais informações em www.bandes.com.br",
+    "inventoriesId": [
+        8949
+    ],
+    "logoId": "2735ef71-2c01-6e06-c6f0-3a1a1faa85ac",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

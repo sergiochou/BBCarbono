@@ -1,0 +1,35 @@
+{
+    "id": 7231,
+    "name": "EuroChem",
+    "about": "A EuroChem é uma das líderes globais em fertilizantes. Produz os três principais macronutrientes da agricultura: Nitrogênio, Fósforo e Potássio. \n\nIniciamos nossa jornada na América Latina em 2016 e, desde então, somos a empresa do segmento de fertilizantes que mais investe no país. Atualmente contamos com mais de 30 mil colaboradores que constroem diariamente o Grupo EuroChem ao redor do mundo. Nossos produtos estão em 100 países, incluindo todo o Brasil, com as 22 unidades de mistura e distribuição da EuroChem Fertilizantes Tocantins e da Fertilizantes Heringer, da qual detemos o controle acionário. E com a EuroChem Salitre, primeira unidade de produção fora da Europa, que contribuirá a partir de 2024 com 15% do consumo brasileiro de fertilizantes fosfatados. \n\nDe norte a sul, impulsionamos o desenvolvimento da agricultura com soluções inovadoras, contribuindo com a produção de alimentos. De fertilizantes convencionais aos produtos premium de alta performance, nossas fórmulas suprem as demandas de todas as culturas e fornecem nutrição equilibrada com maior eficiência para as plantas, proporcionando maior produtividade no campo e mais rentabilidade para o produtor.\n\nSetor: Agricultura\nTamanho da empresa: + de 10.001 funcionários\nSede: São Paulo, SP\nFundada em: 2001\nEspecializações: Fertilizantes, Nutrição Vegetal, Fertilizantes Solúveis, Agronegócio, Potássio, Fósforo e Nitrogênio\n\nSite: https://www.eurochemsam.com\nLinkedin: https://www.linkedin.com/company/eurochembrasil/about/\n",
+    "inventoriesId": [
+        7300,
+        9073
+    ],
+    "logoId": "75c18686-50ec-d55e-0cab-3a131edede0c",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

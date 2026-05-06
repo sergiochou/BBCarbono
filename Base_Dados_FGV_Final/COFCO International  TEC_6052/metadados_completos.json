@@ -1,0 +1,30 @@
+{
+    "id": 6052,
+    "name": "COFCO International - TEC",
+    "about": null,
+    "inventoriesId": [
+        7779
+    ],
+    "logoId": "e3aa6192-ae77-8cb6-2038-3a132a044730",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

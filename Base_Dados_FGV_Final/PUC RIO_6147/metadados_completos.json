@@ -1,0 +1,30 @@
+{
+    "id": 6147,
+    "name": "PUC RIO",
+    "about": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é uma instituição de ensino superior comunitária, filantrópica e sem fins lucrativos da Secretaria de Regulação e Supervisão da Educação Superior. Sediada na Gávea, Rio de Janeiro, no Brasil.\n\nFoi fundada em 1941 por D. Sebastião Leme e pelo padre Leonel Franca, S.J., e reconhecida oficialmente pelo Decreto 8.681, de 15 de janeiro de 1946. Por Decreto da Congregação dos Seminários, de 20 de janeiro de 1947, a universidade recebeu o título de pontifícia.\n\nNos tempos atuais, é reconhecida como uma das melhores e mais prestigiadas universidades da América Latina.",
+    "inventoriesId": [
+        6970
+    ],
+    "logoId": "3578152b-6b69-0ac6-c34e-3a1241101fb2",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 3098,
+    "name": "CGN Brasil Energia e Participações S.A. ",
+    "about": "A CGN Brasil Energia e Participações S.A. é uma empresa multinacional do setor de energia, afiliada à CGN Energy International Holdings Co., Limited. A empresa entrou no mercado brasileiro em 2019, estabeleceu uma empresa brasileira e adquiriu com sucesso o projeto de energia eólica da Atlantic Energias Renováveis.\r\n\r\nA Segurança e a Qualidade são fatores indissociáveis da estratégia de negócios da CGNBE. Nas regiões onde a empresa atua, as operações têm foco na redução de impactos ambientais, no desenvolvimento das comunidades da região e na segurança dos colaboradores.",
+    "inventoriesId": [
+        4443,
+        4834,
+        5414,
+        6421,
+        7563,
+        9160
+    ],
+    "logoId": "1c2fb963-a042-a6e6-a4cc-3a131e76dde7",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

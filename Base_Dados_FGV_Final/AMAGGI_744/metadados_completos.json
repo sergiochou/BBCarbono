@@ -1,0 +1,85 @@
+{
+    "id": 744,
+    "name": "AMAGGI",
+    "about": "Fundada em 1977, a AMAGGI está presente em todas as regiões do Brasil, além da Argentina, Paraguai, Holanda, Noruega e Suiça. Atualmente, é composta por quatro grandes áreas de negócio – Commodities, Agro, Energia e Logística e Operações – e atua na originação, comercialização de grãos e insumos; produção agrícola e de sementes de soja; operações portuárias, transporte fluvial e geração e comercialização de energia elétrica. No campo social, somam-se os esforços da Fundação André e Lucia Maggi, que apoia as comunidades onde a companhia atua a partir de investimentos em instituições sociais e em programas de apoio à crianças e adolescentes voltados para saúde, cultura, lazer, educação, redução da pobreza e combate à fome. Todos esses empreendimentos são conduzidos por sérios critérios de responsabilidade socioambiental, o que consolida a empresa como uma das maiores e melhores empresas do país, motivo de orgulho para os seus mais de seis mil colaboradores.",
+    "inventoriesId": [
+        2446,
+        2174,
+        2882,
+        3130,
+        3591,
+        3901,
+        4211,
+        4556,
+        5097,
+        6359,
+        7465,
+        8592
+    ],
+    "logoId": "c727e904-8875-49a8-bb80-069e18f4f77c",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

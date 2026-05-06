@@ -1,0 +1,40 @@
+{
+    "id": 5606,
+    "name": "Grupo Maringá",
+    "about": "Somos o Grupo Maringá, organização de capital fechado fundada em 2012, representada pela holding São Eutiquiano Participações S.A. Com sede administrativa na cidade de São Paulo (SP), atuamos nos setores sucroenergético, siderurgia e mineração por intermédio, respectivamente, das companhias Usina Jacarezinho, Canavieira Jacarezinho e Maringá Energia, localizadas no município de Jacarezinho (PR); Maringá Ferro-Liga, situada no município de Itapeva (SP); e Mineração Moema, em Marabá (PA).",
+    "inventoriesId": [
+        6606,
+        7566,
+        8835
+    ],
+    "logoId": "3fd07428-2b06-47b1-94bd-2963d1ccb284",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

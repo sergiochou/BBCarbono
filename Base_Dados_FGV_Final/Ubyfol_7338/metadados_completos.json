@@ -1,0 +1,45 @@
+{
+    "id": 7338,
+    "name": "Ubyfol",
+    "about": "A Ubyfol é uma multinacional brasileira especialista em nutrição vegetal que trabalha no desenvolvimento de produtos especiais, fornecendo macro e micronutrientes para recobrimento de grânulos,  tratamento de sementes, mudas, toletes e aplicações foliares para todas as culturas agrícolas.\nFundada em 1985, a empresa atua em todo território nacional, no Paraguai e em Portugal. Eleita a melhor empresa em nutrição vegetal do Brasil por diversas instituições independentes, a Ubyfol semeia a valorização humana como cultura empresarial e une esforços para levar ao agricultor soluções eficientes, apoiadas no conhecimento científico e no domínio das tecnologias mais recentes.",
+    "inventoriesId": [
+        7178,
+        7038,
+        7105,
+        9260
+    ],
+    "logoId": "44bd24b7-71e1-2018-208a-3a12a831d046",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

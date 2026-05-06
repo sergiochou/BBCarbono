@@ -1,0 +1,85 @@
+{
+    "id": 1178,
+    "name": "Casa da Moeda do Brasil",
+    "about": "A Casa da Moeda do Brasil foi fundada em 8 de março de 1694, como solução para o problema da falta de instrumentos que auxiliassem a circulação das riquezas no Brasil Colonial. Naquela época, as poucas moedas existentes vinham de Portugal ou eram conseguidas do comércio com viajantes estrangeiros. Por isso, o rei de Portugal, D. Pedro II, autorizou a cunhagem de moedas provinciais, genuinamente brasileiras. Desde então, a Casa da Moeda do Brasil vem cumprindo sua função de dar segurança à sociedade brasileira, a qual lida no seu cotidiano com inúmeros produtos e serviços oferecidos pela Casa da Moeda.\n\nO complexo industrial, localizado em Santa Cruz, na Zona Oeste do Rio, é um dos maiores do gênero no mundo e o maior da América Latina. No local, funcionam as fábricas da empresa onde são desenvolvidos produtos com o elevado padrão de qualidade exigido no mercado moderno, com capacidade instalada para produzir aproximadamente 2.6 bilhões de cédulas e 4 bilhões de moedas por ano, assegurando autossuficiência para a produção nacional do meio circulante.\n\nA Casa da Moeda do Brasil continua indo além, alinhada com as transformações tecnológicas e sempre preocupada em incorporar elementos de segurança baseados em soluções digitais, possui uma Sala Cofre categoria Tier 3 com área de 119m², redundante nos aspectos de energia elétrica, climatização e conectividade, com os mais altos padrões de segurança exigidos.",
+    "inventoriesId": [
+        2079,
+        2667,
+        2999,
+        3320,
+        3708,
+        3924,
+        4449,
+        4945,
+        5302,
+        6559,
+        7741,
+        8812
+    ],
+    "logoId": "7f147e4d-f542-4a99-8ec9-a2197e622c27",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

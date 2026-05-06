@@ -1,0 +1,35 @@
+{
+    "id": 4329,
+    "name": "Fazenda Sertãozinho - Orfeu ",
+    "about": "O Orfeu surgiu no mercado de Cafés Especiais em 2005, cultivando grãos de qualidade selecionada nas altas montanhas sul mineiras da Fazenda Sertãozinho, local com tradição de mais de 67 anos em lavouras de café.\r\n\r\nA torrefação foi idealizada e construída na própria fazenda, para completar o ciclo de produção e entregar diretamente aos clientes um produto de alta qualidade e com grande frescor. A unidade de produção é climatizada e conta com equipamentos de última geração para garantir maior qualidade final do produto durante o processo de torrefação, embalagem e expedição.\r\n\r\nA fazenda tem como símbolo um Jequitibá Rosa de 1.500 anos, uma árvore milenar que simboliza a longevidade, o respeito à natureza, a força, a tradição e história de Orfeu.\r\n\r\nSomos compostos por varias fazendas sendo:\r\n\r\nFazenda Sertãozinho\r\n\r\nA lavoura de café mais antiga é de 1948. As variedades cultivadas são Bourbon Amarelo, Icatu, Catuaí, Catucaí, Mundo Novo, Arara, Japy e Guará.\r\n\r\nFazenda Rainha\r\n\r\nPossui a maior lavoura da variedade Bourbon Amarelo no Brasil. Os cafés da Fazenda Rainha são famosos por sua doçura e suavidade. As condições geográficas e o excelente clima do local tornam a propriedade singular para a produção de Cafés Especiais.\r\n\r\nFazenda Laranjal\r\n\r\nAs variedades cultivadas são Bourbon Amarelo, Icatu, Catuaí, Catucaí, Mundo Novo, Canário e Maragogipe. Com relevo muito íngreme, a propriedade propicia a produção de cafés com pontuação alta, ou seja, aromáticos e exóticos.\r\n\r\nQualidade e Sustentabilidade \r\n\r\nAlém de possuir um sistema de pós-colheita certificado ISO 9001:2015, qualidade também é sinônimo de cuidado com as terras em que plantamos aquilo que é mais precioso para nós. Por isso, a preocupação com todo o ecossistema em que as fazendas estão localizadas é essencial.\r\n\r\nAs fazendas possuem rastreabilidade de ponta a ponta. São integralmente divididas em pequenos talhões com características próprias. A produção é mapeada, delimitada e monitorada de forma exclusiva, do plantio até o momento em que o café é embalado.\r\n\r\nDesenvolvemos um robusto sistema de irrigação por gotejamento e utilização de água de reuso, que resulta em economia e consumo consciente. Também utilizamos energia solar em toda a produção.\r\n\r\nAs quatro fazendas somam uma vasta área de reserva superior a 30%, acima das obrigatoriedades legais. A Fazenda Sertãozinho, sozinha, é responsável pelo plantio de cerca de 2 mil árvores por ano, preservando a vegetação nativa da região.\r\n\r\nTudo isso, combinado com as práticas sociais, resultaram em certificações que reafirmam as melhores práticas de produção e condições de trabalho na empresa: o selo Rainforest Alliance, que assegura a produção e a agricultura sustentável para a produção de café e para o bem-estar de todos os nossos trabalhadores.\r\n\r\nPor nossas boas práticas e excelência de nossos produtos, Orfeu também recebeu o selo Ecocert, uma das maiores organizações de certificação orgânica no mundo.\r\n",
+    "inventoriesId": [
+        5635,
+        6254
+    ],
+    "logoId": "251741fd-e160-4f1c-bb2b-b39cdfe9a5f3",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

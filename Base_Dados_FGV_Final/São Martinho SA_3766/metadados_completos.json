@@ -1,0 +1,50 @@
+{
+    "id": 3766,
+    "name": "São Martinho S.A.",
+    "about": "A São Martinho está entre os maiores grupos sucroenergéticos do Brasil, com capacidade aproximada de moagem de 24 milhões de toneladas de cana-de-açúcar. A companhia tem suas ações negociadas no Novo Mercado, segmento mais elevado de governança corporativa da Bolsa de Valores de São Paulo (B3).\nHá quatro unidades em operação, sendo: três localizadas no estado de São Paulo – Unidade São Martinho (Pradópolis), Unidade Santa Cruz (Américo Brasiliense) e Unidade Iracema (Iracemápolis), as quais produzem açúcar, etanol, bioeletricidade, levedura de cana-de-açúcar e biometano (apenas na Unidade Santa Cruz); e uma unidade localizada em Quirinópolis, no estado de Goiás, a Unidade Boa Vista, dedicada à produção de etanol, bioeletricidade, levedura, DDGS e óleo de milho.\nA sustentabilidade é um dos pilares estratégicos da São Martinho e está presente na nossa missão de oferecer energia, alimentos e produtos de fontes renováveis que gerem valor para humanidade.\nPara mais informações, acesso nosso site: https://www.saomartinho.com.br/",
+    "inventoriesId": [
+        5016,
+        5015,
+        5781,
+        6878,
+        8751
+    ],
+    "logoId": "4f9c4153-a4e5-4ce3-92b1-431e74db34e5",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

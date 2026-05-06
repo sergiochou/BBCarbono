@@ -1,0 +1,35 @@
+{
+    "id": 3110,
+    "name": "SERVMAR SERVIÇOS TÉCNICOS AMBIENTAIS LTDA",
+    "about": "Com 40 anos de experiência, construímos um legado humano e sustentável, oferecendo soluções integradas em Engenharia, Meio Ambiente, Facilities, Utilities e Tecnologia. Atuamos com excelência operacional e foco na geração de valor duradouro, promovendo impactos positivos para nossos clientes e para o planeta, sempre orientados por uma visão de futuro sustentável. A Servmar se diferencia por um modelo único baseado em três pilares: resultados sustentáveis, parceria proativa e integração de soluções. Mais do que uma empresa de serviços, somos arquitetos de transformação, unindo expertise técnica, inovação e sustentabilidade para enfrentar desafios complexos de forma integrada. Transformamos nossa visão em ações concretas, como a gestão de áreas contaminadas, soluções para resíduos e recuperação de áreas degradadas, apoiados por um time altamente qualificado e tecnologias inovadoras, garantindo segurança, eficiência e sustentabilidade em cada projeto.\n",
+    "inventoriesId": [
+        7023,
+        8627
+    ],
+    "logoId": "fee0ec86-258b-01fb-3f3d-3a12424da058",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

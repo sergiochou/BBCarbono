@@ -1,0 +1,35 @@
+{
+    "id": 5972,
+    "name": "Pedro II - Soluções em Usinagem",
+    "about": "Sobre a empresa:\nA Indústria e Comércio de Máquinas e Equipamentos Pedro II Ltda, tem sede na cidade de Pederneiras/SP, na Avenida Dr. Alberto Clementino Moreira, n° N-480, Jardim América, CEP 17.280-310. Sua fundação que ocorreu no ano de 1985. \nA Pedro II é certificada ISO9001 e é especializada no ramo metalúrgico na atividade de Usinagem mecânica, com opções de fabricação, industrialização e prestação de serviços. Atendendo os mais diversos segmentos como: equipamentos de construção da linha amarela, florestal, agrícola, aeroespacial, gráfico, farmacêuticos, alimentícios, dentre outros.\n\nCaraterização do ambiente de trabalho:\nO objetivo social da empresa é a fabricação de peças conforme especificação de nossos clientes, fabricação de maquinas e equipamentos, utilizando tecnologia em usinagem mecânica, conformação de metais, montagens de conjuntos, e também prestação de serviços de industrialização, serviços de manutenção mecânica, medições com tridimensional, desenho técnico e treinamento em desenvolvimento profissional.\n\nAtividade e visão geral do processo produtivo:\nPara nossa atividade utilizamos em nosso processo produtivo diversos equipamentos de ponta como; Centro de usinagem CNC, Torno CNC, Fresadoras, Tornos convencionais, Retífica (plana, cilíndrica e centerless), Mandriladora, Rosqueadeira, Eletroerosão a fio, Medição Tridimensional, dentre outros equipamentos.\n\nVisite nosso site: www.pedro2.com.br\nTelefone: 14 32522055\nCelular: 14 996053932 WhatsApp",
+    "inventoriesId": [
+        6767,
+        8727
+    ],
+    "logoId": "66afc2ed-2818-2cf8-f3d5-3a1a0667bf8b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

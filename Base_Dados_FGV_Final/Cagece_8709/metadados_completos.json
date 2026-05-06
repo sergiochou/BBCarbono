@@ -1,0 +1,40 @@
+{
+    "id": 8709,
+    "name": "Cagece",
+    "about": "A Companhia de Água e Esgoto do Estado do Ceará (Cagece) foi fundada em 1971, e é uma empresa de economia mista com capital aberto que tem por finalidade a prestação dos serviços de abastecimento de água, coleta e tratamento de esgoto. A Cagece está presente em 152 municípios do estado, beneficiando cerca de 5,6 milhões de cearenses.",
+    "inventoriesId": [
+        8364,
+        8363,
+        8351
+    ],
+    "logoId": "eb70437e-3d73-d3f1-4372-3a19d7b0a8b5",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

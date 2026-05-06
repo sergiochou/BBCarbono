@@ -1,65 +1,111 @@
-import os
+"""
+extrator_pdf.py
+===============
+Extrai o texto de todos os PDFs baixados (Base_Dados_FGV_Final/) e salva
+em lotes de 10 empresas na pasta JSON_Processados/.
+
+Apos extração bem-sucedida, o PDF original e excluido para liberar espaco.
+
+Uso:
+    python extrator_pdf.py
+"""
+
 import json
+import logging
+from pathlib import Path
+
 import pdfplumber
 from tqdm import tqdm
 
-def extrair_texto_de_pdfs(pasta_raiz):
-    dados_consolidados = []
-    
-    # Lista todas as pastas de empresas
-    pastas_empresas = [f for f in os.listdir(pasta_raiz) if os.path.isdir(os.path.join(pasta_raiz, f))]
-    
-    print(f"--- INICIANDO EXTRAÇÃO DE TEXTO ({len(pastas_empresas)} empresas) ---")
+PASTA_BASE = Path("Base_Dados_FGV_Final")
+PASTA_SAIDA = Path("JSON_Processados")
+TAMANHO_LOTE = 10
 
-    for nome_pasta in tqdm(pastas_empresas, desc="Processando Empresas"):
-        caminho_empresa = os.path.join(pasta_raiz, nome_pasta)
-        
-        # 1. Tenta carregar os metadados que você já baixou
-        metadados = {}
-        caminho_meta = os.path.join(caminho_empresa, "metadados_completos.json")
-        if os.path.exists(caminho_meta):
-            with open(caminho_meta, 'r', encoding='utf-8') as f:
-                metadados = json.load(f)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%H:%M:%S",
+)
+logger = logging.getLogger(__name__)
 
-        # 2. Busca todos os PDFs na pasta da empresa
-        arquivos_pdf = [f for f in os.listdir(caminho_empresa) if f.endswith('.pdf')]
-        
-        textos_extraidos = {}
-        
-        for pdf_nome in arquivos_pdf:
-            caminho_pdf = os.path.join(caminho_empresa, pdf_nome)
-            texto_completo_pdf = ""
-            
-            try:
-                with pdfplumber.open(caminho_pdf) as pdf:
-                    # Extrai o texto de cada página
-                    for pagina in pdf.pages:
-                        texto_pag = pagina.extract_text()
-                        if texto_pag:
-                            texto_completo_pdf += texto_pag + "\n"
-                
-                textos_extraidos[pdf_nome] = texto_completo_pdf
-            except Exception as e:
-                textos_extraidos[pdf_nome] = f"ERRO NA EXTRAÇÃO: {str(e)}"
 
-        # 3. Monta o objeto da empresa com metadados + texto dos PDFs
-        registro = {
-            "empresa_pasta": nome_pasta,
-            "id_fgv": metadados.get("id"),
-            "nome_oficial": metadados.get("name"),
-            "estado": metadados.get("state", {}).get("acronym"),
-            "conteudo_pdfs": textos_extraidos # Dicionário: {"relatorio_1.pdf": "texto...", ...}
-        }
-        
-        dados_consolidados.append(registro)
+def carregar_metadados(pasta_empresa: Path) -> dict:
+    """Carrega o JSON de metadados de uma empresa, se existir."""
+    caminho = pasta_empresa / "metadados_completos.json"
+    if not caminho.exists():
+        return {}
+    with open(caminho, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-    # 4. Salva o resultado final em um JSON gigante organizado
-    with open("dados_fgv_processados.json", "w", encoding="utf-8") as f:
-        json.dump(dados_consolidados, f, indent=4, ensure_ascii=False)
 
-    print(f"\n[FIM] Extração concluída! Arquivo gerado: dados_fgv_processados.json")
+def extrair_texto_pdf(caminho_pdf: Path) -> str:
+    """Extrai todo o texto de um PDF usando pdfplumber."""
+    paginas = []
+    with pdfplumber.open(caminho_pdf) as pdf:
+        for pagina in pdf.pages:
+            texto = pagina.extract_text()
+            if texto:
+                paginas.append(texto)
+    return "\n".join(paginas)
+
+
+def processar_empresa(pasta_empresa: Path) -> dict:
+    """Processa uma empresa: extrai texto dos PDFs e monta o registro."""
+    metadados = carregar_metadados(pasta_empresa)
+    arquivos_pdf = sorted(pasta_empresa.glob("*.pdf"))
+    textos_extraidos = {}
+
+    for pdf_path in arquivos_pdf:
+        try:
+            textos_extraidos[pdf_path.name] = extrair_texto_pdf(pdf_path)
+            pdf_path.unlink()
+        except Exception as e:
+            textos_extraidos[pdf_path.name] = f"ERRO NA EXTRAÇÃO: {e}"
+            logger.warning(f"  Erro ao processar {pdf_path.name}: {e}")
+
+    return {
+        "empresa_pasta": pasta_empresa.name,
+        "id_fgv": metadados.get("id"),
+        "nome_oficial": metadados.get("name"),
+        "estado": metadados.get("state", {}).get("acronym"),
+        "conteudo_pdfs": textos_extraidos,
+    }
+
+
+def salvar_lote(dados: list, numero_lote: int) -> None:
+    """Salva um lote de registros em arquivo JSON."""
+    PASTA_SAIDA.mkdir(exist_ok=True)
+    arquivo = PASTA_SAIDA / f"lote_{numero_lote:02d}.json"
+    with open(arquivo, "w", encoding="utf-8") as f:
+        json.dump(dados, f, indent=4, ensure_ascii=False)
+
+
+def main():
+    if not PASTA_BASE.exists():
+        logger.error(f"Pasta '{PASTA_BASE}' nao encontrada.")
+        return
+
+    pastas_empresas = sorted(
+        p for p in PASTA_BASE.iterdir() if p.is_dir()
+    )
+    total = len(pastas_empresas)
+    logger.info(f"--- INICIANDO EXTRAÇÃO DE TEXTO ({total} empresas) ---")
+
+    lote_atual = []
+    numero_lote = 1
+
+    with tqdm(total=total, desc="Processando Empresas") as pbar:
+        for i, pasta in enumerate(pastas_empresas):
+            lote_atual.append(processar_empresa(pasta))
+            pbar.update(1)
+
+            if len(lote_atual) >= TAMANHO_LOTE or (i + 1) == total:
+                salvar_lote(lote_atual, numero_lote)
+                lote_atual = []
+                numero_lote += 1
+
+    logger.info(f"[FIM] Extracao concluida! Arquivos gerados em '{PASTA_SAIDA}'")
+
 
 if __name__ == "__main__":
-    # Ajuste o caminho abaixo se sua pasta tiver outro nome ou local
-    PASTA_BASE = "Base_Dados_FGV_Final"
-    extrair_texto_de_pdfs(PASTA_BASE)
+    main()

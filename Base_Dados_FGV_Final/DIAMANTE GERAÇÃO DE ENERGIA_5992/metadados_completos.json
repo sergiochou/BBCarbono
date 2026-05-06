@@ -1,0 +1,35 @@
+{
+    "id": 5992,
+    "name": "DIAMANTE GERAÇÃO DE ENERGIA",
+    "about": "A Diamante Geração de Energia é uma empresa brasileira, criada em 2017, com sede em Capivari de Baixo - SC,  com o objetivo  de gerenciar o Complexo Termelétrico Jorge Lacerda (CTJL). Desde outubro de 2021 é controlada por um fundo de investimentos  e se apresenta ao mercado com o propósito de ser um dos pilares da Transição Energética Justa no estado de Santa Catarina.\nO CTJL possui capacidade instalada de 740 MW que produz energia elétrica a partir da queima do carvão mineral, sendo constituído por 7 unidades geradoras de energia, contribuindo com o equivalente a 21% da geração necessária para abastecer o estado.\nO Complexo Termelétrico Jorge Lacerda é a ponta de uma cadeia produtiva que movimenta, anualmente, R$ 6 bilhões em negócios na economia catarinense, gerando cerca de 21 mil empregos diretos e indiretos e impactando na vida de aproximadamente 100 mil pessoas em 15 municípios.",
+    "inventoriesId": [
+        6805,
+        8101
+    ],
+    "logoId": "9c253d35-3be2-fd6a-7494-3a11e059f81a",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

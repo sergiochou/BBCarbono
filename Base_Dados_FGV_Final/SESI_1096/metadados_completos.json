@@ -1,0 +1,35 @@
+{
+    "id": 1096,
+    "name": "SESI",
+    "about": null,
+    "inventoriesId": [
+        1743,
+        1570
+    ],
+    "logoId": "dab1f506-dadb-48bc-8ae4-c8ff7b323fc3",
+    "sector": {
+        "id": 99,
+        "name": "Serviços de assistência social sem alojamento",
+        "parentId": 17,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

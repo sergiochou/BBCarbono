@@ -1,0 +1,45 @@
+{
+    "id": 2356,
+    "name": "Grupo BIG",
+    "about": "Presente no país desde 1995, o Grupo Big, ex-Walmart Brasil, opera hoje com mais de 400 unidades e 50 mil funcionários em 18 estados brasileiros, além do Distrito Federal. São 7 bandeiras entre hipermercados (Big e Big Bompreço), supermercados (Super Bompreço e Nacional), atacado (Maxxi Atacado), clube de compras (Sam’s Club) e lojas de vizinhança (TodoDia), além de postos de combustíveis e farmácias. O Grupo é o terceiro maior conglomerado de varejo alimentar do Brasil. Em julho de 2018, a Advent International anunciou a aquisição de 80% da operação do Walmart Brasil. O Walmart Inc. mantém uma participação de 20% na empresa.",
+    "inventoriesId": [
+        1721,
+        3041,
+        3122,
+        3621
+    ],
+    "logoId": "8139031e-30ef-4da4-97b4-2b8bba1e1cbc",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

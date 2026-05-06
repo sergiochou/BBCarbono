@@ -1,0 +1,35 @@
+{
+    "id": 6149,
+    "name": "GS INIMA BRASIL LTDA",
+    "about": "A GS Inima Brasil é uma empresa de capital fechado que se reporta à GS Inima Environment, com sede na Espanha, pertencente à GS E&C, braço de engenharia do quinto maior conglomerado empresarial da Coreia do Sul. Especializada no tratamento do ciclo integral da água, a companhia é uma das pioneiras em concessões de serviços públicos de saneamento no Brasil e atua há quase 30 anos com foco em sustentabilidade, inovação e eficiência operacional.\n\nA GS Inima Brasil atua como empresa holding, estando estruturada para garantir a continuidade operacional e a performance das empresas concessionárias (SPE’s), operando nos segmentos de Concessões, Industrial e Soluções. Atualmente, possui 14 unidades responsáveis pela prestação de serviços públicos de saneamento em diferentes modelos, além de 4 unidades industriais. Sua presença abrange os estados de Alagoas, Ceará, Espirito Santo, Minas Gerais, Rio Grande do Sul, Santa Catarina e São Paulo, com atuação em todas as etapas do ciclo da água: captação, tratamento, distribuição, coleta e tratamento de esgoto, reúso e devolução segura ao meio ambiente.\n\nEm 2024, a GS Inima Brasil ampliou seu portfólio com quatro novos contratos — Águas de Reúso de Vitória, Ourinhos Saneamento, Concórdia Saneamento e Brodowski Saneamento — reforçando sua posição como uma das principais empresas de saneamento do país.  Um dos marcos do ano foi a conquista do primeiro leilão de subconcessão de água de reúso do Brasil, em Vitória (ES), que resultou na criação da Águas de Reúso de Vitória, consolidando a liderança do Grupo na produção de água reciclada para o atendimento de demandas industriais.\n",
+    "inventoriesId": [
+        6894,
+        8148
+    ],
+    "logoId": "1b824101-d80b-5eba-b62b-3a124127a3f7",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

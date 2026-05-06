@@ -1,0 +1,30 @@
+{
+    "id": 8347,
+    "name": "CEJAM",
+    "about": null,
+    "inventoriesId": [
+        8775
+    ],
+    "logoId": "f3016e4a-f6fc-bcdb-82b2-3a18fff15d88",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,60 @@
+{
+    "id": 1199,
+    "name": "Danone Ltda.",
+    "about": "A Danone Brasil Ltda. é filial do Grupo Danone, multinacional francês. O Grupo é composto por quatro unidades de negócios: Produtos Lácteos Frescos, Águas, Nutrição Infantil e Nutrição Especializada. Essa estrutura organizacional é reproduzida no Brasil, onde cada unidade de negócio atua separadamente e responde diretamente à respectiva unidade do Grupo.\r\n\r\nO presente inventário cobre os aspectos das operações das quatro unidades de negócio.\r\n\r\n",
+    "inventoriesId": [
+        66,
+        2657,
+        2131,
+        1602,
+        376,
+        2981,
+        3403
+    ],
+    "logoId": "cea61a04-66be-4e94-a27c-40c349b972c4",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

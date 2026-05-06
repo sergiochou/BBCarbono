@@ -1,0 +1,45 @@
+{
+    "id": 4665,
+    "name": "COSIMAT",
+    "about": "\r\nA Cosimat produz e comercializa ferro-gusa. É uma empresa certificada em sistema de Gestão de Qualidade- ISO 9.001 e Sistema de Gestão ambiental- ISO 14.001. \r\nA empresa adota um modelo de autossustentabilidade industrial, com a aplicação de tecnologia limpa de siderurgia a carvão vegetal, a partir de biomassa cultivada e reutilização de resíduos na sinterização. Desde que foi inaugurada em 1999, a modernização e o aperfeiçoamento técnico têm sido os pilares da construção da identidade da Cosimat. \r\n",
+    "inventoriesId": [
+        6560,
+        6000,
+        6859,
+        8171
+    ],
+    "logoId": "715d7e10-143b-4df3-a98d-a4362a1486ab",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

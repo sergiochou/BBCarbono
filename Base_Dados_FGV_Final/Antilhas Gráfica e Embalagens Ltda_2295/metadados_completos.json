@@ -1,0 +1,70 @@
+{
+    "id": 2295,
+    "name": "Antilhas Gráfica e Embalagens Ltda.",
+    "about": "A Antilhas é uma das maiores indústrias do mercado de embalagens em papel, cartão e plástico no Brasil com sede administrativa em Santana de Parnaíba, São Paulo. Se dedica desde 1989 a oferecer produtos inovadores que viabilizem soluções sustentáveis e ganhos econômicos aos seus clientes. Com mais de 1.059 colaboradores diretos, fabrica produtos em papel, cartão e plástico\nflexível, como cartuchos, caixas, sacolas com acabamento manual e automático, estojos e kits, envelopes, envoltórios e bobinas técnicas. A empresa atende mais de 12 mil pontos de venda em todas as regiões do país, nos segmentos de cosméticos, perfumaria e higiene pessoal; vestuário, calçados e acessórios; alimentos e bebidas; papel e papelaria; grande varejo; eletroeletrônico; telefonia e outros. Em sua jornada de crescimento, a companhia investe em pesquisa e \ndesenvolvimento, infraestrutura e qualidade para manter-se na vanguarda das novas tecnologias e\ntendências de mercado.",
+    "inventoriesId": [
+        2746,
+        3180,
+        3595,
+        3938,
+        4440,
+        4646,
+        6476,
+        7153,
+        8044
+    ],
+    "logoId": "94aaf7c1-1d4a-db32-4ec6-3a12d2c65ea2",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

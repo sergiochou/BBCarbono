@@ -1,0 +1,30 @@
+{
+    "id": 2806,
+    "name": "Coca-Cola FEMSA",
+    "about": "Coca-Cola FEMSA (NYSE: KOF) e (BMV: Kofl) é o maior engarrafador em volume de vendas de Coca-Cola®.\r\nNós oferecemos um amplo portfólio de bebidas para cada estilo de vida e necessidades de hidratação: refrigerantes, água, sucos, isotônicos, chás enriquecidos com vitaminas e energia, bebidas lácteas e café.\r\nTemos em nosso portfólio 112 marcas líderes, trazendo-as para a vida das pessoas: Coca-Cola, Fanta, Sprite, Crystal, Powerade, Burn, Sucos Del Valle, entre outros.\r\nOperamos focados em nossa estratégia de sustentabilidade: GERAR VALOR ECONÔMICO, SOCIAL e AMBIENTAL, simultaneamente para transformar positivamente as comunidades onde atuamos.\r\nEstamos presentes em 10 países, 9 deles na América Latina: Argentina, Brasil, Colômbia, Costa Rica, Guatemala, México, Nicarágua, Panamá, Venezuela; e nas Filipinas, localizada no sudeste da Ásia.\r\nNossa missão é atender com excelência os consumidores de bebidas de forma sustentável.",
+    "inventoriesId": [
+        3910
+    ],
+    "logoId": "6b56a003-48e7-445d-8440-c332f1dad437",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

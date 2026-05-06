@@ -1,0 +1,502 @@
+[
+    {
+        "empresa_pasta": "Aegea Saneamento_4003",
+        "id_fgv": 4003,
+        "nome_oficial": "Aegea Saneamento ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Água,‑esgoto,‑atividades‑de‑gestão‑de‑resíduos‑e‑descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 312551.696,
+                    "emissoes_escopo_2": 99742.414,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 412294.11,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 801734.025,
+                    "emissoes_escopo_2": 32915.694,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 834649.719,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 1302867.311,
+                    "emissoes_escopo_2": 49693.645,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1352560.956,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AEROPORTO DE BRASÍLIA_2798",
+        "id_fgv": 2798,
+        "nome_oficial": "AEROPORTO DE BRASÍLIA",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1066.449,
+                    "emissoes_escopo_2": 1856.861,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2923.31,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 695.061,
+                    "emissoes_escopo_2": 812.805,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1507.866,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AEROPORTO DE NATAL_2799",
+        "id_fgv": 2799,
+        "nome_oficial": "AEROPORTO DE NATAL",
+        "estado": "RN",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1052.55,
+                    "emissoes_escopo_2": 963.721,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2016.271,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AES Brasil_833",
+        "id_fgv": 833,
+        "nome_oficial": "AES Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 265.89,
+                    "emissoes_escopo_2": 9.1,
+                    "emissoes_escopo_3": 278.0,
+                    "total_emissoes": 552.99,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 312.588,
+                    "emissoes_escopo_2": 5.347,
+                    "emissoes_escopo_3": 225.368,
+                    "total_emissoes": 543.303,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 10442.272,
+                    "emissoes_escopo_2": 395985.227,
+                    "emissoes_escopo_3": 3556084.404,
+                    "total_emissoes": 3962511.903,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 10302.128,
+                    "emissoes_escopo_2": 585120.873,
+                    "emissoes_escopo_3": 4889779.363,
+                    "total_emissoes": 5485202.364,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 10429.453,
+                    "emissoes_escopo_2": 806836.061,
+                    "emissoes_escopo_3": 7566567.564,
+                    "total_emissoes": 8383833.078,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 11340.556,
+                    "emissoes_escopo_2": 697276.389,
+                    "emissoes_escopo_3": 6229363.443,
+                    "total_emissoes": 6937980.388,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 23067.064,
+                    "emissoes_escopo_2": 377413.001,
+                    "emissoes_escopo_3": 3196483.182,
+                    "total_emissoes": 3596963.247,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 334.538,
+                    "emissoes_escopo_2": 609.416,
+                    "emissoes_escopo_3": 219.841,
+                    "total_emissoes": 1163.795,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 360.211,
+                    "emissoes_escopo_2": 803.474,
+                    "emissoes_escopo_3": 298.931,
+                    "total_emissoes": 1462.616,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 264.234,
+                    "emissoes_escopo_2": 328.835,
+                    "emissoes_escopo_3": 260.942,
+                    "total_emissoes": 854.011,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 288.667,
+                    "emissoes_escopo_2": 272.388,
+                    "emissoes_escopo_3": 284.913,
+                    "total_emissoes": 845.968,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1657.292,
+                    "emissoes_escopo_2": 1461.25,
+                    "emissoes_escopo_3": 297.812,
+                    "total_emissoes": 3416.354,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 866.95,
+                    "emissoes_escopo_2": 426.971,
+                    "emissoes_escopo_3": 629.055,
+                    "total_emissoes": 1922.976,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 963.439,
+                    "emissoes_escopo_2": 423.898,
+                    "emissoes_escopo_3": 1166.874,
+                    "total_emissoes": 2554.211,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AETHRA SISTEMAS AUTOMOTIVOS SA_6116",
+        "id_fgv": 6116,
+        "nome_oficial": "AETHRA SISTEMAS AUTOMOTIVOS S.A.",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4407.593,
+                    "emissoes_escopo_2": 1883.101,
+                    "emissoes_escopo_3": 2988.819,
+                    "total_emissoes": 9279.513,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5475.986,
+                    "emissoes_escopo_2": 2885.475,
+                    "emissoes_escopo_3": 2905.387,
+                    "total_emissoes": 11266.848,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AFYA PARTICIPAÇÕES SA_5976",
+        "id_fgv": 5976,
+        "nome_oficial": "AFYA PARTICIPAÇÕES S.A,",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 1978.679,
+                    "emissoes_escopo_2": 1405.53,
+                    "emissoes_escopo_3": 663.69,
+                    "total_emissoes": 4047.899,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 2498.352,
+                    "emissoes_escopo_2": 601.92,
+                    "emissoes_escopo_3": 2436.436,
+                    "total_emissoes": 5536.708,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 3192.448,
+                    "emissoes_escopo_2": 777.761,
+                    "emissoes_escopo_3": 7391.16,
+                    "total_emissoes": 11361.369,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AGEO TERMINAIS E ARMAZÉNS GERAIS SA_3869",
+        "id_fgv": 3869,
+        "nome_oficial": "AGEO TERMINAIS E ARMAZÉNS GERAIS S.A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2077.994,
+                    "emissoes_escopo_2": 1184.648,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3262.642,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2379.003,
+                    "emissoes_escopo_2": 450.376,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2829.379,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2141.18,
+                    "emissoes_escopo_2": 532.01,
+                    "emissoes_escopo_3": 264.444,
+                    "total_emissoes": 2937.634,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,∗armazenagem∗e∗correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AGRICOLA WEHRMANN_9367",
+        "id_fgv": 9367,
+        "nome_oficial": "AGRICOLA WEHRMANN",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 44494.354,
+                    "emissoes_escopo_2": 1069.384,
+                    "emissoes_escopo_3": 43.086,
+                    "total_emissoes": 45606.824,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 51721.373,
+                    "emissoes_escopo_2": 1731.323,
+                    "emissoes_escopo_3": 47.412,
+                    "total_emissoes": 53500.108,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AGROGALAXY_3993",
+        "id_fgv": 3993,
+        "nome_oficial": "AGROGALAXY",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 6509.562,
+                    "emissoes_escopo_2": 1026.267,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7535.829,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 10570.569,
+                    "emissoes_escopo_2": 465.39,
+                    "emissoes_escopo_3": 430.361,
+                    "total_emissoes": 11466.32,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 11455.18,
+                    "emissoes_escopo_2": 444.959,
+                    "emissoes_escopo_3": 399.554,
+                    "total_emissoes": 12299.693,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Agrogenius_3758",
+        "id_fgv": 3758,
+        "nome_oficial": "Agrogenius",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Agricultura,‑pecuária,‑produção‑florestal,‑pesca‑e‑aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    }
+]

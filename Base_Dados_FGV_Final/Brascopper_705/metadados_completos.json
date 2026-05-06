@@ -1,0 +1,30 @@
+{
+    "id": 705,
+    "name": "Brascopper",
+    "about": "A Brascopper é uma indústria de fabricação de condutores elétricos de cobre e alumínio para energia e telefonia, além de produzir vergalhões de alumínio. Fundada em Ribeirão Preto - SP, em 1984, atualmente se caracteriza por uma empresa de grande porte e com capital exclusivamente nacional. Contando com 600 funcionários, a Brascopper atua também com unidades em Três Lagoas - MS, São Luís - MA, Santiago - Chile e Itaguá - Paraguai, além de contar com uma transportadora própria para suas operações de logística.",
+    "inventoriesId": [
+        69
+    ],
+    "logoId": "b5fcc380-fac5-46b1-9830-31f4793899a8",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

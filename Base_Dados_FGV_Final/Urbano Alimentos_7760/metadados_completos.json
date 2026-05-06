@@ -1,0 +1,35 @@
+{
+    "id": 7760,
+    "name": "Urbano Alimentos ",
+    "about": "Fundada em 1960 por Urbano Franzner, a Urbano Agroindustrial está entre as maiores empresas de alimentos do país, atuando no beneficiamento de arroz, feijão, farinha e macarrão de arroz. Sua matriz está alocada na cidade de Jaraguá do Sul – Santa Catarina, suas Unidades estão em outras 16 diferentes cidades e 10 estados do Brasil, com uma área construída de aproximadamente 120 mil m², mais de 1.800 colaboradores diretos, Unidades podem produzir mais de 50 mil toneladas de alimentos por mês e movimentação média de 2 mil carretas ao mês. O que define a essência da Urbano, o valor como empresa e o que fazemos todos os dias é ter a certeza de que nós NUTRIMOS A VIDA DE VERDADE, esse é o nosso propósito. E com ele se cumpre a missão de “proporcionar alimentação saudável e saborosa, com competitividade e eficiência, do campo à mesa”. ",
+    "inventoriesId": [
+        7614,
+        8993
+    ],
+    "logoId": "4ef5c1bb-ca20-724a-7be2-3a13158d6022",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,70 @@
+{
+    "id": 2480,
+    "name": "Kinross Brasil Mineração - Mina Morro do Ouro",
+    "about": "A Kinross atua nas atividades de pesquisa e desenvolvimento mineral, mineração, beneficiamento e comercialização de ouro. É uma das maiores produtoras de ouro do Brasil, responsável por 22% da produção nacional.\n\nCom operação na mina Morro do Ouro, em Paracatu, noroeste de Minas Gerais, escritório em Belo Horizonte, e hidrelétricas em Caçu e Cachoeira Alta (GO), integramos o grupo canadense Kinross Gold Corporation.\n\nImportante empreendimento industrial de Paracatu, respondemos por cerca de 22% dos postos de trabalho formais do município. São cerca de 1.800 empregos diretos e 4 mil terceirizados.\n\nInvestimos em iniciativas que contribuam para o desenvolvimento do território e somos os principais geradores de impostos e fomentadores de outros negócios na cidade de Paracatu. Somos certificados por normas nacionais e internacionais liga-das à saúde, segurança, meio ambiente e responsabilidade social. Destacam-se as certificações do Código Internacional de Cianeto, ISO 45001e ISO 14001.\n\nCom um grande projeto de expansão, elevamos a capacidade de lavra de minério e ampliamos em mais de 15 anos o tempo de vida útil da mina, agora estimado até 2032.\n\nNossos Valores\n\nPessoas em Primeiro Lugar\nSaúde e segurança são compromissos inegociáveis. Tratamos as pessoas sempre de forma justa e respeitosa. Estimulamos e mantemos um ambiente de trabalho que apoia a diversidade, a culturas, os costumes e práticas locais.\n\nCidadania Corporativa Exemplar\nEstamos comprometidos com os mais altos padrões de ética e governança corporativa, valorizando a integridade e a transparência. É uma diretriz reduzirmos qualquer impacto que nossas atividades possam causar ao meio ambiente e à comunidade, bem como contribuir para a melhoria da qualidade de vida da população.\n\nCultura de Alto Desempenho\nSomos orientados para o alcance responsável de resultados. Valorizamos a inovação, a adaptabilidade e o comprometimento da equipe. Por isso, valorizamos e reconhecemos a excelência ao mesmo tempo em que buscamos o aperfeiçoamento contínuo das competências do time.\nRigorosa Disciplina Financeira\nBuscamos constantemente maneiras inovadoras e eficientes de utilizar os recursos e tratar os investimentos de nossos acionistas.\n\nKinross Gold Corporation\n\nA Kinross Paracatu integra a Kinross Gold Corporation, grupo canadense com presença na América do Sul (Brasil e Chile), América do Norte (Estados Unidos e Canadá) e África (Mauritânia).\n\nA Kinross Gold Corporation é uma empresa global com sede no Canadá, criada em 1993. Atualmente, o grupo emprega mais de nove mil pessoas e, em 2011, passou de oitavo para quinto maior produtor mundial de ouro.\n\nA companhia está focada em fornecer valor através da excelência operacional, de um robusto balanço patrimonial, do crescimento disciplinado e da mineração responsável. Suas ações são negociadas nas Bolsas de Valores de Toronto e Nova Iorque.\n\nSe quiser consultar os relatórios de desempenho da Kinross Gold Corporation, acesse www.kinross.com",
+    "inventoriesId": [
+        3126,
+        3729,
+        4081,
+        4349,
+        4921,
+        5106,
+        5868,
+        7641,
+        8580
+    ],
+    "logoId": "433a49bd-ee55-45b0-8dd7-f8b818a76855",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7721,
+    "name": "CONFEDERAÇÃO BRASILEIRA DE VOLEIBOL",
+    "about": null,
+    "inventoriesId": [
+        7482,
+        9184
+    ],
+    "logoId": "b6d224dc-4bc1-3260-ccd5-3a1314916035",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

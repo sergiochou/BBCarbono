@@ -1,0 +1,30 @@
+{
+    "id": 5442,
+    "name": "GRUPO IQUINE",
+    "about": null,
+    "inventoriesId": [
+        6423
+    ],
+    "logoId": "2bec7041-3041-357e-2943-3a12ad9a4fb5",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

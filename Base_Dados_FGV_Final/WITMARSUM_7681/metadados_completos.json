@@ -1,0 +1,30 @@
+{
+    "id": 7681,
+    "name": "WITMARSUM",
+    "about": "Pautada sob os valores: fé, força e determinação; em 28 de outubro de 1952, nascia a Cooperativa Witmarsum. Fundada por imigrantes russos- alemães, há 70 anos vem construindo uma história sólida, baseada no trabalho e no cooperativismo. Localizada em meio à beleza dos Campos Gerais, no município de Palmeira (PR), é reconhecida pela qualidade de seus produtos, cumprindo com a visão de ser referência em cooperativismo para seus associados, clientes e colaboradores. Seu setor de laticínios vem ganhando destaque em premiações de reconhecimento nacional e internacional pelos queijos finos de alta qualidade. Tem por missão oferecer produtos e serviços de qualidade, com excelência e que promovam crescimento e retorno sustentáveis, aos associados, clientes e colaboradores.",
+    "inventoriesId": [
+        7362
+    ],
+    "logoId": "0c345bb9-07ff-6faa-206d-3a130149a15b",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

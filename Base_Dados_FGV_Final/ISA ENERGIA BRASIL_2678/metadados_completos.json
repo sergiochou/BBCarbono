@@ -1,0 +1,65 @@
+{
+    "id": 2678,
+    "name": "ISA ENERGIA BRASIL",
+    "about": "A ISA ENERGIA BRASIL é uma Companhia líder no segmento de transmissão de energia no País, por meio da gestão de 35 concessões que impulsionam a transição energética, possibilitando a expansão das fontes renováveis e implementando novas tecnologias que agregam flexibilidade e confiabilidade ao sistema de transmissão. \nEstamos presentes em 18 estados, respondendo por cerca de 30% da energia elétrica transmitida em âmbito nacional e aproximadamente 95% no estado de São Paulo. \nNosso sistema elétrico e composto por mais de 31 mil quilômetros de circuitos (cerca de 28,4 mil em operação e 3,3 mil em construção), incluindo ativos próprios e controlados em conjunto, e 136 subestações próprias (129 em operação e 7 em construção) com tensão de até 550 kV.\nNosso acionista majoritário é a ISA (Interconexión Elétrica S.A.), é uma empresa multilatina pertencente ao Grupo Ecopetrol, com mais de 57 anos de atuação nos setores fundamentais de infraestrutura, como os de energia elétrica, rodovias e telecomunicações. \nNo Brasil, as ações da ISA ENERGIA BRASIL são negociadas na B3, bolsa de valores brasileira. Tanto as ações ordinárias (ISAE3) e preferenciais (ISAE4) estão listadas no Nível 1 de governança da B3, com a adoção de boas práticas e de acesso à informação pelos investidores adicionais às exigidas pela legislação. \nA Companhia tem uma equipe de mais de 1,6 mil colaboradores e instalações que proporcionam qualidade e confiabilidade na prestação dos serviços para operar com eficiência o complexo sistema de transmissão brasileiro.  Comprometidos com o desenvolvimento da infraestrutura energética, realizamos contínuos investimentos, mantendo nossa rede modernizada, com investimentos focados em reforços e melhorias, e contribuindo diretamente para a expansão do sistema de transmissão nacional. \nSomos pioneiros no desenvolvimento de tecnologias, como as primeiras subestações digital e 4.0, o primeiro sistema de armazenamento de energia em baterias em larga escala e o\nprimeiro sistema com tecnologia FACTS (Flexible Alternating Current Transmission Systems) do tipo smart valves do Brasil.\nCom o olhar para o crescimento, até 2029, está previsto um aporte de cerca de R$ 13 bilhões em novos projetos de transmissão, sendo R$ 5,5 bilhões destinados a mais de 210 projetos de reforços e melhorias já aprovados pela ANEEL e aproximadamente R$ 8 bilhões para os seis projetos licitados que temos em construção, que quando energizados, vão adicionar cerca de R$ 1 bilhão a nossa Receita Anual Permitida (RAP) do ciclo 2024/2025.\nNa ISA ENERGIA BRASIL, participamos da construção do futuro da empresa e da transição energética do país, com segurança e excelência, de forma íntegra e em linha com as melhores práticas de governança, que sempre nortearam nossas atividades. Celebramos 25 anos de conquistas olhando para um futuro em que a energia limpa, segura e confiável seja acessível a todos, impulsionando o desenvolvimento do Brasil.",
+    "inventoriesId": [
+        3683,
+        3865,
+        4294,
+        4582,
+        5400,
+        5887,
+        7008,
+        8338
+    ],
+    "logoId": "779960e4-796b-146a-5e2d-3a19d6ad79f9",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

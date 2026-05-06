@@ -1,0 +1,40 @@
+{
+    "id": 4656,
+    "name": "Mineração Usiminas",
+    "about": "A Mineração Usiminas nasceu de uma joint venture entre a Usiminas e o grupo japonês Sumitomo Corporation, em 2010. A empresa se posiciona como importante fornecedora de minério para o mercado nacional e internacional. Oferecer minério de ferro de alta qualidade, usando inovação e tecnologia, com segurança e respeito ao meio ambiente, contribuindo para o desenvolvimento econômico e social de Itatiaiuçu e região. Esse é o objetivo da Mineração Usiminas S/A. ",
+    "inventoriesId": [
+        5937,
+        7265,
+        9221
+    ],
+    "logoId": "f4883812-607b-480a-85e0-ba637b019a7c",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

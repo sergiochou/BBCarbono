@@ -1,0 +1,90 @@
+{
+    "id": 43,
+    "name": "GPA",
+    "about": "Como uma das maiores companhias do varejo alimentar no Brasil, onde iniciamos nossa jornada em 1948, nos orgulhamos de fazer parte da vida de milhões de pessoas. \n\nMantemos presença, por meio de nossas lojas físicas, em 14 estados e no Distrito Federal, além de nossos sites e aplicativos, com diferentes formatos, atendendo a públicos dos mais diversos perfis, aos quais buscamos antecipar as necessidades por meio da identificação contínua de tendências de consumo e comportamento.  \n\nReunimos um time comprometido de mais de 39,3 mil colaboradores(as), que atuam em nossas 726 lojas das bandeiras Pão de Açúcar, Extra Mercado, Minuto Pão de Açúcar, Mini Extra e Pão de Açúcar Fresh. Nossa estrutura comporta 12 centrais de distribuição e depósitos, além da sede administrativa, localizada na capital paulista.\n\nDetemos, também, Marcas Próprias e Exclusivas como Qualitá, Taeq, PraValer, Club des Sommeliers, entre outras, reconhecidas pelos atributos de qualidade, praticidade e sustentabilidade e que refletem demandas dos(as) consumidores(as), cada vez mais exigentes e interessados(as) em conhecer a origem e os processos desses produtos.\n\nTrabalhamos diariamente para construir um futuro sólido e sustentável, focados na evolução do mercado alimentar brasileiro, crescendo e mantendo a rentabilidade e a sustentabilidade como centro da nossa estratégia.",
+    "inventoriesId": [
+        501,
+        2499,
+        1776,
+        2940,
+        3205,
+        3567,
+        3797,
+        4385,
+        4578,
+        5310,
+        5821,
+        6912,
+        8051
+    ],
+    "logoId": "3e79b917-0c3e-2f14-eeb7-3a187faace51",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

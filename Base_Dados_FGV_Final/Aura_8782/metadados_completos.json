@@ -1,0 +1,30 @@
+{
+    "id": 8782,
+    "name": "Aura",
+    "about": "A Aura é uma mineradora de ouro e cobre com atuação nas Américas, com operações no Brasil, México e Honduras, e projetos em desenvolvimento no Brasil, Colômbia e Guatemala. Seus escritórios corporativos estão localizados em Miami (EUA) e São Paulo (Brasil).\nA Companhia tem como objetivo crescer de forma responsável e sustentável, seguindo altos padrões ambientais, de segurança e responsabilidade social, em conformidade com os princípios do Responsible Gold Mining Principles (RGMP) do World Gold Council e o Pacto Global da ONU.",
+    "inventoriesId": [
+        9223
+    ],
+    "logoId": "22b160f1-c77e-0853-9523-3a19e7a3abb9",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

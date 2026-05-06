@@ -1,0 +1,30 @@
+{
+    "id": 8056,
+    "name": "Motorola",
+    "about": null,
+    "inventoriesId": [
+        7729
+    ],
+    "logoId": "44e0fbc0-4d2b-0b08-addc-3a1324c75a46",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

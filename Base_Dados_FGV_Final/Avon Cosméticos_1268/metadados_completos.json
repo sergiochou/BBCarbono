@@ -1,0 +1,55 @@
+{
+    "id": 1268,
+    "name": "Avon Cosméticos",
+    "about": "A Avon, parte do grupo Natura &Co desde 2020, é uma das maiores empresas de venda direta no mundo. Fundada em 1886, trabalha pela elevação da autoestima, democratização da beleza e a promoção do empreendedorismo feminino. Concentra no Brasil, onde está desde 1958, a sua maior operação e força de vendas – mais de 1 milhão de revendedoras.  A Avon é mais do que uma empresa de beleza: é um movimento global pelo empoderamento das mulheres, com um modelo de negócios ancorado na inovação, geração de oportunidades e na ampliação de suas habilidades empreendedoras para tornar as economias e as sociedades mais fortes.\r\n\r\nSeu portfólio diverso inclui produtos inovadores e de alta tecnologia, com marcas reconhecidas mundialmente como Renew e Color Trend. Além disso, seu catálogo também oferece diversos itens para Moda & Casa.\r\n\r\nPara obter mais informações sobre a Avon, visite o site: www.avon.com.br \r\n",
+    "inventoriesId": [
+        2664,
+        2821,
+        3423,
+        3715,
+        4400,
+        4399
+    ],
+    "logoId": "7b195090-1d34-4fa4-a40b-f16f57d95687",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

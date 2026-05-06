@@ -1,0 +1,70 @@
+{
+    "id": 1204,
+    "name": "Ultragaz",
+    "about": "A Ultragaz atua com soluções em energia para negócios e domicílios de forma segura, eficiente e ambientalmente responsável. Com inovação e sempre pensando em levar o melhor para nossos clientes, quando e onde precisarem, trabalhamos para oferecer energias mais limpas e renováveis, tendo como propósito usar nossa energia para mudar a vida das pessoas.\nNos últimos anos, reforçamos nosso protagonismo na transição energética vivida pelo Brasil, investindo em infraestrutura, tecnologia e novas alternativas de energia para os consumidores. ",
+    "inventoriesId": [
+        2402,
+        1779,
+        3077,
+        3380,
+        3551,
+        3942,
+        5933,
+        7439,
+        8680
+    ],
+    "logoId": "ca92a2b8-da5e-4610-9fa6-d4b0683e765b",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

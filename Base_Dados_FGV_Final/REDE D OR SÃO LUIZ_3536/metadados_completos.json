@@ -1,0 +1,50 @@
+{
+    "id": 3536,
+    "name": "REDE D OR SÃO LUIZ",
+    "about": "Somos a maior empresa de saúde da América Latina, com hospitais e clínicas que oferecem serviços em todas as modalidades, a maior rede integrada de tratamento oncológico do país, uma das maiores redes diagnósticas, com uma extensa operação de banco de sangue e a maior consultoria de benefícios em saúde do país.\n\nNossa história começa em 1977, no Rio de Janeiro (RJ), com a fundação do Grupo Labs. Pouco mais de 20 anos depois, em 1998, demos início, de forma pioneira, a uma nova era na oferta de recursos de atendimento hospitalar no Brasil com a inauguração do Hospital Barra D’Or.\n\nDeterminados oferecer nossos serviços a cada vez mais brasileiros, começamos nossa estratégia de expansão nacional em 2007 e, atualmente, contamos 76 hospitais próprios e 3 administrados, 61 clínicas, e 11 laboratórios, numa estrutura que engloba 13 estados além do Distrito Federal.",
+    "inventoriesId": [
+        4853,
+        5288,
+        5913,
+        7015,
+        8461
+    ],
+    "logoId": "612d8965-0ecb-467f-8d29-0f0d5f3a6498",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

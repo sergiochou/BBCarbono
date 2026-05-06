@@ -1,0 +1,90 @@
+{
+    "id": 1131,
+    "name": "INDSH",
+    "about": "O INDSH é uma Organização Social de Saúde que administra instituições de saúde públicas e privadas. O INDSH está apto a prestar serviços de prevenção, proteção e promoção nas áreas de assistência social e saúde, por meio de gestão de hospitais, clínicas, unidades de referência e de pronto-atendimento, promovendo a boa gestão médico-hospitalar e o bem-estar dos pacientes, com excelência no atendimento.\r\n\r\nCriado inicialmente como Associação de Proteção à Maternidade e à Infância de Pedro Leopoldo no ano de 1950, até a constituição do Instituto, administrava apenas o Hospital e Maternidade Dr. Eugênio Gomes de Carvalho, em Pedro Leopoldo, em MG.\r\n\r\nCom o passar dos anos, diante da perspectiva de expandir suas atividades para outros estados, passou a denominar-se Instituto Nacional de Desenvolvimento Social e Humano.",
+    "inventoriesId": [
+        2697,
+        2024,
+        583,
+        2831,
+        3316,
+        3725,
+        3849,
+        4178,
+        4641,
+        5534,
+        6338,
+        6883,
+        8759
+    ],
+    "logoId": "f3f6cc85-f129-4b1b-b541-bb08f498f2c7",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

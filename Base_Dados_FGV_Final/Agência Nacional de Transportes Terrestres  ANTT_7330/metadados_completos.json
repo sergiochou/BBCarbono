@@ -1,0 +1,30 @@
+{
+    "id": 7330,
+    "name": "Agência Nacional de Transportes Terrestres - ANTT",
+    "about": "A Agência Nacional de Transportes Terrestres (ANTT) é uma autarquia federal brasileira responsável pela regulação das atividades de exploração da infraestrutura ferroviária e rodoviária federal e de prestação de serviços de transporte terrestre, conforme o artigo 1º do decreto que regulamenta suas atividades.",
+    "inventoriesId": [
+        7060
+    ],
+    "logoId": "8917f7ef-5b83-0e57-3ebe-3a1299ed4c87",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

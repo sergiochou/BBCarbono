@@ -1,0 +1,40 @@
+{
+    "id": 4680,
+    "name": "PICCADILLY COMPANY",
+    "about": "A A. Grings Sociedade Anônima é uma empresa de capital fechado, especializada na fabricação de calçados femininos sob a marca PICCADILLY. A marca PICCADILLY é como nos apresentamos no mercado nacional e internacional de calçados. Nosso compromisso com a atuação global reflete o crescimento do nosso negócio e a adaptação às transformações do mundo atual. Estamos sempre alinhados com as mudanças e buscamos incorporar novas ideias em nosso caminho rumo ao sucesso. ",
+    "inventoriesId": [
+        5924,
+        7398,
+        9005
+    ],
+    "logoId": "927bd84e-25e2-4d1f-8e91-f4be6ecbd214",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

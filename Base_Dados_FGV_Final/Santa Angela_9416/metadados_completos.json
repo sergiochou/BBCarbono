@@ -1,0 +1,30 @@
+{
+    "id": 9416,
+    "name": "Santa Angela",
+    "about": null,
+    "inventoriesId": [
+        9201
+    ],
+    "logoId": "af5bd129-947b-e5a6-70f0-3a1a30134ff4",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

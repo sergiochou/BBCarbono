@@ -1,0 +1,45 @@
+{
+    "id": 5976,
+    "name": "AFYA PARTICIPAÇÕES S.A,",
+    "about": "Somos um  hub que atua para transformar a saúde no Brasil em conjunto com quem tem a Medicina como vocação. Nosso diferencial está no relacionamento de longo prazo, ao longo de toda a carreira do médico, desde a Graduação, passando pela Educação Médica Continuada e as Soluções para a Prática Médica (SPM). \n\nEm nosso modelo de negócio, o médico está sempre no centro das decisões e soluções, que são construídas para apoiar toda a sua jornada, desde a graduação até a prática diária. A integração das soluções digitais nessa trilha oferece aos nossos clientes ferramentas que apoiam sua decisão clínica, gestão de atividades e da carreira e sua contínua formação.\n\nA visão integrada entre educação e carreira permite que cada profissional possa viver o melhor da Medicina, transformando realidades, para que a saúde seja mais acessível e eficiente a todos os brasileiros",
+    "inventoriesId": [
+        7126,
+        7123,
+        7109,
+        8581
+    ],
+    "logoId": "992a3911-77d9-e561-1585-3a1b27469302",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

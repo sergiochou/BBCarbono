@@ -1,0 +1,30 @@
+{
+    "id": 8231,
+    "name": "RENOVAR OLEOS VEGETAIS",
+    "about": "A Renovar Óleos Vegetais é uma empresa que une inovação, sustentabilidade e responsabilidade social, consolidando-se como um verdadeiro modelo de transformação e reinvestimento na comunidade de Ipameri, Goiás. Fundada em 2011 e liderada por Renato Sales Vaz, a Renovar construiu uma trajetória inspiradora marcada pela superação de desafios e pela busca constante por práticas éticas e sustentáveis. Localizada na Rodovia GO 213, Km 217, na Vila Estrela, a empresa é reconhecida por sua atuação na fabricação de óleos vegetais em bruto (exceto óleo de milho), contribuindo para a cadeia produtiva e promovendo a economia circular. A Renovar Óleos Vegetais aposta na transformação de resíduos e na reciclagem de óleo, refletindo o compromisso de “nada se perde, tudo se transforma”. Essa filosofia se traduz em ações que geram benefícios ambientais e sociais, reforçando a importância do desenvolvimento sustentável e do apoio à comunidade local.\nAlém de sua excelência no segmento industrial, a Renovar se destaca pelo reinvestimento em iniciativas sociais que visam melhorar a qualidade de vida dos habitantes de Ipameri. A empresa busca, constantemente, promover parcerias e ações que contribuam para o fortalecimento econômico e social da região, demonstrando que crescimento e sustentabilidade caminham lado a lado.\n",
+    "inventoriesId": [
+        8334
+    ],
+    "logoId": "b7042ef5-5adc-28b1-1984-3a19fbce1c60",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

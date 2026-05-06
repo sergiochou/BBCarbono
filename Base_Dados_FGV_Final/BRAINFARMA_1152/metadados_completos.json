@@ -1,0 +1,40 @@
+{
+    "id": 1152,
+    "name": "BRAINFARMA",
+    "about": "A Brainfarma Indústria Química e Farmacêutica S.A. é uma das maiores fabricantes de medicamentos do Brasil. Conta hoje com um dos mais modernos centros de pesquisa e desenvolvimento de produtos farmacêuticos no país.\n\nNossas principais unidades estão localizadas em Anápolis, no Estado de Goiás, e em Barueri e Itapecerica no Estado de São Paulo.\n\n",
+    "inventoriesId": [
+        2577,
+        2955,
+        3166
+    ],
+    "logoId": "cd7300e7-0e70-4342-a632-b4b69272ff90",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

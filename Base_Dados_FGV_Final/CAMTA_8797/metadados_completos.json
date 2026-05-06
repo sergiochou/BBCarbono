@@ -1,0 +1,30 @@
+{
+    "id": 8797,
+    "name": "CAMTA",
+    "about": "A CAMTA iniciou suas atividades em 1929, pelos imigrantes japoneses, para colonizar a região de Tomé-Açu e cultivar o cacaueiro, hortaliças e arroz. As adversidades da floresta Amazônica e o fracasso dos cultivos pioneiros obrigaram os imigrantes a enfrentar extrema pobreza, intensificadas por doenças tropicais, ocasionando abandono de inúmeras famílias da colônia, para outras cidades mais estruturadas do país. A cultura da Pimenta-do-Reino, apesar de introduzida em 1930, prosperou e após a II Guerra Mundial, transformando-se no “Diamante Negro”, trazendo prosperidade e riqueza para o desenvolvimento da região, que elevou o Brasil ao maior exportador mundial desta piperácea. No final da década de 60, começou a declinar a fase áurea da Pimenta-do-Reino, devido ao surgimento da doença da Fusariose, dizimando os monocultivos, alertando-se para a necessidade da diversificação do sistema de produção na região Amazônica. Os cultivos agroflorestais começaram na década de 70, para superar a decadência da monocultura de Pimenta-do-Reino, visando estabilidade econômica dos produtores, baseados na vivência dos povos ribeirinhos, habitantes das margens dos rios da Amazônia, que plantavam quintais de policultivos com frutíferas e florestais imitando a Floresta. Foram testados mais de 200 modelos agroflorestais (Homma, 2006) ao longo do tempo, os promissores foram reaplicados com definição agronômica de espaçamentos, consorciados em harmoniosas combinações de plantas anuais, frutíferas e florestais, culminando no desenvolvimento do Sistema Agroflorestal de Tomé- Açu - Safta. Nas últimas décadas, a CAMTA se tornou referência nacional e internacional no desenvolvimento, inovação e disseminação do Safta, no Brasil, Bolívia e Ghana na África, tendo recebido diversos prêmios e homenagens. Atualmente a CAMTA conta com a força de 172 cooperados, somados a mais de 1.800 produtores familiares cadastrados, que transformou Tomé-Açu, em importante pólo exportador de frutas tropicais e um verdadeiro laboratório Agroflorestal na Amazônia. A verticalização da produção começou em 1987, através implantação da Agroindústria Camta com apoio da Agência de Cooperação Internacional do Japão (JICA), que tem desenvolvido a região com sustentabilidade econômico-ecológico e social, gerando cerca de 10 mil empregos diretos e indiretos, garantia da estabilidade econômica através da comercialização da Pimenta-do-Reino, Amêndoas Cacau, Óleos vegetais nobres e 15 sabores de polpas de frutas tropicais a nível nacional e internacional. ",
+    "inventoriesId": [
+        8683
+    ],
+    "logoId": "2062267e-e548-4aaf-d063-3a19ebe8ab51",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

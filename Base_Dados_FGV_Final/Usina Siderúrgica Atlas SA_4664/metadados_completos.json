@@ -1,0 +1,30 @@
+{
+    "id": 4664,
+    "name": "Usina Siderúrgica Atlas S/A",
+    "about": "A Usina Siderúrgica Atlas S/A, empresa de sociedade anônima, foi fundada em 12 de maio de 2017 no município de Itabira em Minas Gerais. É uma empresa do setor siderúrgico  na produção e comercialização de ferro gusa, destinados principalmente aos setores de bens de capital e de bens de consumo, além da indústria. Possui um alto forno, com capacidade instalada de 96.000,00 toneladas anuais. A Usina Siderúrgica Atlas atua onde o aço tem importância estratégica. Trabalhando com criatividade para conceber soluções adequadas à realidade e necessidade de cada cliente e viabilizar a entrega do ferro-gusa com excelência e segurança.\r\n\r\nNessa primeira etapa, denominada Redução, o minério de ferro, carvão vegetal, cal e outros materiais são introduzidos no alto forno e as altas temperaturas do seu interior provocam o desprendimento do oxigênio do minério, transformando-o em um metal líquido (ferro gusa), que posteriormente é resfriado e solidificado.\r\nConsciente de sua importância estratégica, a Atlas trabalha com criatividade para conceber soluções adequadas à realidade e necessidade de cada cliente e viabiliza a entrega do ferro gusa com excelência.\r\n",
+    "inventoriesId": [
+        6253
+    ],
+    "logoId": "c659efd3-bf8c-4a92-af34-d1634ad7c71e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

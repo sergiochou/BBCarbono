@@ -1,0 +1,30 @@
+{
+    "id": 8294,
+    "name": "Elea Data Centers ",
+    "about": "Somos a principal plataforma de infraestrutura digital sustentável enraizada no Brasil, com um portfólio robusto de nove data centers, abrangendo 100% das principais cidades do país, para além do eixo Rio-São Paulo. Como a plataforma de maior capilaridade do país, estamos estrategicamente presentes nas principais áreas metropolitanas, oferecendo soluções que vão desde o edge até os grandes provedores de cloud e conteúdo, com um ecossistema incomparável, sustentável e inovador.\nOperamos data centers 100% alimentados por energia renovável, refletindo nosso compromisso com a sustentabilidade. Integrar sólidas práticas ESG é fundamental para nós, demonstrando nossa dedicação a um futuro digital responsável e visionário. Combinamos a experiência e o conhecimento de nossa equipe para fornecer infraestrutura de TI confiável e flexível, garantindo que a sua empresa possa escalar o seu ambiente tecnológico de acordo com as demandas do mercado, mantendo custos otimizados, inovação e eficiência operacional.",
+    "inventoriesId": [
+        9002
+    ],
+    "logoId": "d7ed9acb-50d8-5dc4-360d-3a18a2150acf",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

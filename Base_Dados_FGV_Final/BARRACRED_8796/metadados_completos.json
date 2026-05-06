@@ -1,0 +1,30 @@
+{
+    "id": 8796,
+    "name": " BARRACRED",
+    "about": "Fundada em 1996 na cidade de Barra Bonita, São Paulo, a Barracred surgiu com o propósito de melhorar a vida de seus cooperados, oferecendo soluções financeiras acessíveis e humanizadas. Somos uma cooperativa de crédito que vai além da simples oferta de produtos financeiros, pois somos uma instituição social e financeira, comprometida com o desenvolvimento humano e a transformação das realidades de nossos cooperados. Nosso modelo de negócios é baseado em princípios cooperativistas, com foco no trabalho coletivo e na construção de um futuro mais justo e próspero para todos. \nComo cooperativa, fazemos parte do Sistema Financeiro Nacional, submetidos à Lei nº 5.764/1971 direcionada pela Política Nacional de Cooperativismo e, respondemos à Resolução nº 3.859/2009 do Banco Central. \nCom mais de 40.000 cooperados, estamos presentes em 24 estados brasileiros e impactamos positivamente as comunidades em que atuamos. Nossos serviços incluem poupança com rendimentos superiores à poupança tradicional, linhas de crédito com taxas vantajosas e programas que fomentam o empreendedorismo e a inclusão digital, como o Barracred Conecta, que capacita jovens em tecnologia da informação, preparando-os para o mercado de trabalho e oferecendo novas oportunidades. A Barracred também se dedica ao desenvolvimento social, incentivando práticas sustentáveis e a economia local por meio de parcerias comerciais e linhas de crédito para projetos socioambientais. Hoje, estamos presentes em 852 cidades e contamos com 43 postos de atendimento estrategicamente localizados, além de nossa sede administrativa em Barra Bonita. \n A cooperativa também valoriza seu capital humano e, atualmente, possui 101 colaboradores, sendo 70,3% mulheres, refletindo nosso compromisso com a diversidade e a equidade de gênero. \nNosso compromisso com o crescimento estratégico e humano é o que nos permite transformar vidas, oferecendo um atendimento próximo e soluções financeiras que atendem às necessidades de cada cooperado, sempre com um olhar atento e dedicado.\n",
+    "inventoriesId": [
+        8716
+    ],
+    "logoId": "4363830f-5177-8e18-9763-3a19ebde40cb",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

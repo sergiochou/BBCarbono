@@ -1,0 +1,30 @@
+{
+    "id": 9211,
+    "name": "SUPREMO TRIBUNAL FEDERAL",
+    "about": "O Supremo Tribunal Federal (STF) é a mais alta instância do Poder Judiciário brasileiro, incumbido de assegurar a supremacia da Constituição Federal e a integridade do Estado Democrático de Direito.",
+    "inventoriesId": [
+        9003
+    ],
+    "logoId": "2dfba794-bb36-8189-afea-3a1a207a4a0c",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

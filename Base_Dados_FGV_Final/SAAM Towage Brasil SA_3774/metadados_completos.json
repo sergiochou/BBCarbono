@@ -1,0 +1,45 @@
+{
+    "id": 3774,
+    "name": "SAAM Towage Brasil S.A.",
+    "about": "A SAAM Towage Brasil (STB) é parte da SAAM, empresa multinacional fundada no Chile em 1961. Por meio de suas divisões de negócio – Rebocadores e Logística de Carga Aérea – a companhia, em suas seis décadas, tornou-se um ator principal para o comércio exterior e o desenvolvimento econômico do continente. No Brasil, a STB é referência na prestação de serviços de reboque portuário, garantindo segurança e confiabilidade, atuando com alto padrão de qualidade e produtividade nos principais portos e terminais ao longo de toda a costa brasileira.\n\nO comprometimento da SAAM Towage Brasil com a qualidade e a melhoria contínua é respaldado há mais de uma década pela Certificação ISO 9001:2015. No que se refere à gestão ambiental, a companhia vem, há alguns anos, desenvolvendo e aprimorando práticas sustentáveis em suas operações, alcançando em 2024 a Certificação ISO 14001:2015, que consolida a maturidade e a eficácia do seu Sistema de Gestão Ambiental. Uma das principais frentes de sustentabilidade da Companhia é o Programa de Gestão de Emissões de Gases do Efeito Estufa (GEE), tendo recebido em 2022 e 2023 a certificação PAS 2060, por ser uma empresa 100% neutra em carbono. Esta certificação é um reconhecimento pela redução das emissões relativas e compensação de todos os gases de efeito estufa gerados nos escopos 1 e 2.",
+    "inventoriesId": [
+        5428,
+        6395,
+        7206,
+        9046
+    ],
+    "logoId": "44fec022-2d03-4ccd-8ada-23703f9b5b98",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

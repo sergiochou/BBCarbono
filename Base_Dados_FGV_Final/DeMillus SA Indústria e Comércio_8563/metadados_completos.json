@@ -1,0 +1,30 @@
+{
+    "id": 8563,
+    "name": "DeMillus S/A Indústria e Comércio",
+    "about": "A DeMillus é uma empresa industrial e comercial que há mais de 75 anos se destaca no mercado têxtil, buscando inovação tecnológica e atendendo às demandas de suas consumidoras(res) e revendedoras, tornando-se assim, uma empresa líder no mercado de lingerie. \nDurante todo o seu crescimento, a DeMillus preza também pelo compromisso com o Meio Ambiente. A missão da empresa: “Ser uma empresa sustentável e de larga escala, para vestir cada vez melhor oferecendo conforto, beleza, qualidade e inovação. Tudo isto a preço justo!”, revela seu objetivo em atender às demandas do mercado ao mesmo tempo em que mantém o compromisso do desenvolvimento sustentável, visando a proteção ao meio ambiente e a prevenção de impactos ambientais.\n",
+    "inventoriesId": [
+        8198
+    ],
+    "logoId": "0f89120b-547c-e128-7d56-3a193d381129",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

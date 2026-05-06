@@ -1,0 +1,55 @@
+{
+    "id": 2790,
+    "name": "STELLANTIS",
+    "about": "Stellantis is a leading global mobility player guided by a clear mission: to provide freedom of movement for all through distinctive, appealing, affordable and sustainable mobility solutions. Our Company’s strength lies in the breadth of our iconic brand portfolio, the diversity and passion of our 300,000 people, and our deep roots in the communities in which we operate.\r\n\r\nIn this new era of mobility, our portfolio of brands is uniquely positioned to offer distinctive and sustainable solutions to meet the evolving needs of customers, as they embrace electrification, connectivity, autonomous driving and shared ownership. Founded by visionaries who infused them with passion and competitive spirit, these brands have made automotive history for more than a century and continue to speak to customers and inspire our employees today.\r\n\r\nWe offer a full spectrum of choice from luxury, premium and mainstream passenger vehicles to pickup trucks, SUVs and light commercial vehicles, as well as dedicated mobility, financial, and parts and service brands.\r\n\r\nThe driving force behind us is the diverse and talented group of men and women around the world who bring their passion and experience to their work every day. And while we are a truly global organization, we remain deeply rooted in the communities in which we operate and our people live and work.\r\n\r\nWith industrial operations in nearly 30 countries and a commercial presence in more than 130 markets, Stellantis has the ability to consistently exceed the evolving needs and expectations of customers, while creating superior value for all stakeholders.",
+    "inventoriesId": [
+        4128,
+        4129,
+        4076,
+        4367,
+        4939,
+        5634
+    ],
+    "logoId": "413b652b-0391-4877-b17c-8f7744826d0a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

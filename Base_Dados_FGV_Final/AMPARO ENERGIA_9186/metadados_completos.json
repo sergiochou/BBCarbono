@@ -1,0 +1,30 @@
+{
+    "id": 9186,
+    "name": "AMPARO ENERGIA",
+    "about": "A Amparo Energia é uma holding que integra uma comercializadora de energia elétrica com atuação no Mercado Livre de Energia e uma Pequena Central Hidrelétrica (PCH) localizada em Santa Helena de Goiás (GO), operando tanto no mercado livre quanto no regulado. Presente em quase todo o território nacional, o grupo oferece soluções energéticas eficientes e sustentáveis.\nCom uma visão voltada para a sustentabilidade e o desenvolvimento social, a Amparo Energia investe em fontes renováveis, contribuindo para a diversificação da matriz energética, a segurança do sistema elétrico brasileiro e a promoção de um futuro mais sustentável para as próximas gerações.",
+    "inventoriesId": [
+        9019
+    ],
+    "logoId": "314ab38e-20fa-abe5-f8b1-3a1a1ea177ff",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

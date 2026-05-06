@@ -1,0 +1,40 @@
+{
+    "id": 4646,
+    "name": "GT Soluções Logísticas",
+    "about": "A GT Soluções Logísticas é composta por três negócios que se interagem estrategicamente, o Transporte, a Logística e a Engenharia. O nosso foco são os segmentos químicos, agroquímicos e todo o mercado que exija especialização.\r\n\r\nTrabalhamos para oferecer soluções logísticas diferenciadas, serviços avançados, customizados, através da necessidade do mercado.\r\n\r\nA empresa conta com uma estrutura completa e profissionalizada para atender prontamente seus Clientes com tecnologia de ponta, know how e muita segurança.\r\n\r\nTodos os armazéns são equipados e monitorados com a mais alta tecnologia de movimentação de cargas e automação, para atender os grandes volumes de produtos, que permitem a concretização do projeto logístico junto às Empresas.\r\n\r\nCom uma estrutura operacional dinâmica, possui uma frota diversificada, com idade média de cinco anos, especificados conforme as necessidades de seus Clientes. Toda a frota possui um rígido programa na manutenção preventiva e gerenciamento centralizado.\r\n\r\nContamos com uma equipe de profissionais dedicados, que passam por constantes treinamentos de reciclagem e aperfeiçoamento, sendo responsáveis pelo alto nível de qualidade dos serviços e pelo atendimento personalizado.\r\n\r\nO compromisso com o Cliente é reforçado pela busca constante pela melhoria e evolução, pela Governança Corporativa - que garante a perpetuação do negócio.",
+    "inventoriesId": [
+        6475,
+        6853,
+        8118
+    ],
+    "logoId": "200179d7-ab08-47a5-900a-a34bbcb3dbd7",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

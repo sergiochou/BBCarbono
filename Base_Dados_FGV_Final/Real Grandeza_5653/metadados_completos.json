@@ -1,0 +1,35 @@
+{
+    "id": 5653,
+    "name": "Real Grandeza",
+    "about": "Criada em 1971, a Real Grandeza é uma das pioneiras do setor de previdência complementar fechada.\n\nProporciona a seus participantes os meios para construção de um patrimônio sólido, capaz de assegurar um futuro seguro, tranquilidade e bem-estar.\n\nTem, como patrocinadoras, a Eletrobras, Eletronuclear e a própria Real Grandeza, abrangendo um universo de quase 13 mil pessoas, entre participantes ativos e aposentados.\n\nÉ, também, operadora de planos de assistência à saúde na modalidade Autogestão, com ampla cobertura e extensa rede credenciada, onde possui mais de 32 mil vidas em carteira.\n\nPara um fundo de pensão, longevidade é sinônimo de vitalidade. Significa que muitas pessoas já usufruem benefícios de aposentadoria complementar.\n\nCom mais de 50 anos de compromissos cumpridos, resultado de uma gestão responsável, que prioriza a segurança e a transparência na administração de recursos.\n\nNo campo da sustentabilidade, suas iniciativas abrangem os pilares econômico, social, ambiental e cultural que incluem desde a adoção de práticas para o investimento responsável até aquelas relacionadas à promoção da equidade de gênero e raça no âmbito da organização.",
+    "inventoriesId": [
+        6638,
+        9055
+    ],
+    "logoId": "dc96775c-8267-4251-ad6f-28a510f5a7a2",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

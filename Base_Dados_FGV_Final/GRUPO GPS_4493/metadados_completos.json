@@ -1,0 +1,35 @@
+{
+    "id": 4493,
+    "name": "GRUPO GPS",
+    "about": "Somos líderes no mercado brasileiro de serviços terceirizados, oferecendo um portfólio completo de soluções de facilities, segurança, logística indoor, engenharia de utilidades, serviços industriais, \nalimentação, mão de obra temporária, field marketing e serviços de infraestrutura. \n\nCom +60 anos de história, aliamos tecnologia, solidez financeira, abrangência nacional e experiência consolidada em diversos segmentos de mercado. Dessa forma, construímos relações de longo prazo, conquistamos resultados sustentáveis e oferecemos sempre a melhor relação custo-benefício para os nossos Clientes.\n\nSomos mais de 180.000 colaboradores em fase de expansão acelerada por meio da combinação de crescimento orgânico e aquisições. Atendemos a mais de 4.700 Clientes e investimos na expansão da cultura de dono, na inovação de processos e soluções, na gestão da segurança e saúde no trabalho como pilar para fidelizar e atrair novos Clientes.\n\nConstruímos nossa história em bases solidas, através do compromisso permanente com a satisfação do cliente e geração de valor para todos os nossos stakeholders. Direcionamos estratégias para contribuir de forma sustentável na construção de um futuro mais seguro para o clima e uma sociedade mais resiliente.\n\nTemos consciência do nosso papel e estamos nessa jornada com o firme propósito de criarmos um planeta melhor e mais justo. Isso é possível com pessoas dedicadas, talentosas e competentes que atuam com retidão para esse propósito. ",
+    "inventoriesId": [
+        7612,
+        8630
+    ],
+    "logoId": "077280ab-fb7d-49d1-989f-4623701caf8d",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

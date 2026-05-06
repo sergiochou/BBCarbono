@@ -1,0 +1,40 @@
+{
+    "id": 4655,
+    "name": "IBC",
+    "about": "Fundada em 2005, a IBC – Indústria Brasileira de Cacau vem atuando nos segmentos alimentício, principalmente, e cosmético, sendo especialista no fornecimento de matérias-primas de cacau (commodities, orgânicas, origens e especiais) para as principais e mais conceituadas empresas do Brasil e do mundo.  \n\nCom autonomia de processamento de cacau desde a amêndoa até a obtenção de seus produtos (massa de cacau (liquor), manteiga de cacau e cacau em pó), a IBC se destaca pela expertise no processamento, na garantia da qualidade e em projetos especiais diferenciados desenvolvidos sob medida (Tailor Made), aliados à certificações como Orgânica, Rainforest Alliance e Kosher.\n\nO Inventário de GEE para nós é uma oportunidade de mapear nossas emissões e trabalhar em melhorias em nossos processos e assim contribuir para o enfrentamento da crise climática. Nosso sonho é zerar as emissões de nossas plantas em um curto espaço de tempo.   \n\nUnidade OCRA cacau da Amazônia\n(controle operacional 100%)\n\nA Ocra Cacau da Amazônia é a mais nova esmagadora de cacau do Brasil com forte atuação na Amazônia brasileira no estado do Pará- PA. Com capacidade de esmagamento de 36.000 toneladas/ ano, ela é especialista em produtos derivados do cacau como: massa de cacau, manteiga de cacau e cacau em pó. Atendendo tanto o mercado interno, como o mercado de exportação. A empresa ainda conta com um de seus maiores diferenciais: operar com amêndoas de única determinação – “SINGLE ORIGEM 100% Amazônia brasileira”. O que garante aos seus clientes a alta qualidade de matérias-primas somadas a uma robusta base de originação sustentável, certificada, rastreável e segura. Com papel fundamental na cadeia regional da comercialização do cacau sustentável de comunidades locais, a Ocra tem como responsabilidade levar os sabores das florestas brasileiras à mesa de milhares de pessoas do mundo inteiro. Produzindo e servindo com orgulho, carinho e dedicação as maiores fábricas mundiais de chocolates, bolos, biscoitos, achocolatados e cosméticos, a Ocra Cacau é destaque no mercado interno e principalmente na exportação de origem determinada.",
+    "inventoriesId": [
+        6022,
+        7330,
+        8962
+    ],
+    "logoId": "2ee9ba64-a638-c3d2-8a18-3a131912c1b9",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7976,
+    "name": "Pro Solus",
+    "about": "Tornando a vida dos produtores rurais mais eficiente e produtiva, através do emprego da tecnologia no campo, a Pro Solus, criada em Campo Mourão/PR em 2003, fabrica equipamentos de precisão oferecendo soluções para que os agricultores diminuam seus custos de produção e aumentem sua lucratividade no plantio e na pulverização. A companhia conta com uma linha de monitores de plantio, guias GPS, piloto automático, pulverizadores de sulco e pulverizadores de barras, que otimizam o uso de insumos agrícolas, reduzem o consumo de combustíveis fósseis durante as aplicações e auxiliam na operação das máquinas, prevenindo acidentes e desperdícios.\nApesar de ser uma empresa de alta tecnologia, a Pro Solus oferece o melhor custo-benefício e garante o investimento em sua linha de produtos. As soluções da companhia melhoram a condição de vida e de trabalho dos produtores rurais, reduzindo o desperdício de recursos naturais.\n",
+    "inventoriesId": [
+        7605,
+        8553
+    ],
+    "logoId": "9f9a1df1-2a5c-b742-bc87-3a131a6af020",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

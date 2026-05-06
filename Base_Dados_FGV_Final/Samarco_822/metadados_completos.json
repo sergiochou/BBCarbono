@@ -1,0 +1,80 @@
+{
+    "id": 822,
+    "name": "Samarco",
+    "about": "A Samarco é uma empresa de capital fechado que atua no segmento de mineração, uma joint venture de propriedade da Vale e BHP Brasil. Com sede em Belo Horizonte (MG), tem unidades operacionais em Minas Gerais e no Espírito Santo. O principal produto são as pelotas de minério de ferro, matéria-prima para a produção de aço pela indústria siderúrgica. A Samarco retornou suas as operações de uma maneira diferente, com novas tecnologias e mais segurança, buscando gerar valor duradouro para os territórios onde atua.",
+    "inventoriesId": [
+        64,
+        2692,
+        2215,
+        1563,
+        1605,
+        605,
+        3361,
+        5494,
+        5829,
+        6976,
+        8102
+    ],
+    "logoId": "4a54068e-cc1e-4075-878f-9f68dc061386",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

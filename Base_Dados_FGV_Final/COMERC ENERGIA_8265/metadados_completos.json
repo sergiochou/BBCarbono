@@ -1,0 +1,30 @@
+{
+    "id": 8265,
+    "name": "COMERC ENERGIA",
+    "about": "A Comerc Energia é a Divisão de Soluções em Energias Renováveis e Descarbonização da Vibra, com mais de duas décadas de expertise no setor elétrico brasileiro. Sua história começou com a migração e gestão de consumidores, geradores e distribuidoras no Mercado Livre de Energia e, ao longo dos anos, expandiu-se para outras três verticais de negócio: Eficiência Energética (projetos, telemetria e baterias para armazenamento de energia), Energia Elétrica (comercialização, parcerias em geração e assinatura de energia solar) e Descarbonização (I-REC, créditos de carbono e Jornada de Descarbonização).",
+    "inventoriesId": [
+        8777
+    ],
+    "logoId": "699964c4-5721-e853-257f-3a1860c177be",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

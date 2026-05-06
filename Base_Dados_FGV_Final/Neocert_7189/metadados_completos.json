@@ -1,0 +1,35 @@
+{
+    "id": 7189,
+    "name": "Neocert",
+    "about": "A Neocert é uma certificadora acreditada internacionalmente para\ncertificação FSC® (a única brasileira a ter escopo global) e PEFC em\nmanejo florestal e cadeia de custódia, e certificação LIFE de\nBiodiversidade. Além disso, estamos habilitados a realizar auditorias\nflorestais independentes (AFI) em contratos de concessão de\nflorestas públicas.\nRealizamos verificações de terceira parte em processos de Due\nDiligence, inventário de emissões de GEE e avaliação da\nperformance ESG (Score ESG), para agregar valor aos negócios\ncom credibilidade",
+    "inventoriesId": [
+        7250,
+        8521
+    ],
+    "logoId": "2fa598eb-3bee-d13d-6338-3a1251a009f9",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

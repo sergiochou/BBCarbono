@@ -1,0 +1,50 @@
+{
+    "id": 3267,
+    "name": "Gonçalves Packaging",
+    "about": "Com modernas unidades no Brasil e no México projetadas especialmente para a atividade gráfica, a Gonçalves ocupa uma posição de destaque no mercado de embalagens de papel-cartão. Com suas soluções que combinam qualidade, inovação e sustentabilidade, atende clientes de diferentes setores, principalmente o farmacêutico, o de cosméticos/cuidados pessoais e o alimentício.\r\nAo longo de sua história de mais de oito décadas, a Gonçalves tem seguido uma jornada de sólido crescimento, com constantes investimentos em tecnologia e capacitação de seus profissionais, aprimoramento de processos que agregam performance e competividade e incorporação de políticas e práticas sintonizadas com os princípios ESG. Certificações como a ISO 14001, FSC (Forest Stewardship Council) e Empresa B (Sistema B) atestam seu real compromisso com a dimensão socioambiental.\r\nA estratégia da Gráfica Gonçalves alimenta um ciclo virtuoso focando um duplo propósito: ser uma empresa que, por sua excelência, soluções inovadoras e sustentáveis e capacidade de atender bem os clientes, se destaca no mercado de embalagens e, ao mesmo tempo, ser uma organização que, por meio de seus valores e práticas, embala um mundo melhor para as pessoas e para o planeta.",
+    "inventoriesId": [
+        4547,
+        5054,
+        5890,
+        6867,
+        8917
+    ],
+    "logoId": "efad8c27-0e4b-d277-b8e1-3a12226a210d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

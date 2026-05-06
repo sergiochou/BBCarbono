@@ -1,0 +1,30 @@
+{
+    "id": 8793,
+    "name": "Sicoob Central Unicoob",
+    "about": "O que é o Sicoob? \n\" Imagine mais de 8,5 milhões de pessoas construindo juntas um mundo com mais cooperação, pertencimento, responsabilidade social e justiça financeira: este é o Sicoob – Sistema de Cooperativas Financeiras do Brasil. Hoje, somos centenas de cooperativas financeiras com atuação em todos os estados brasileiros, sempre regidas por esses valores. \n\nQuem faz parte do Sicoob conta com mais de 4,6 mil pontos de atendimento, milhares de caixas eletrônicos e uma diversidade de canais digitais que permitem o acesso a um portfólio completo de produtos e serviços financeiros – como conta corrente, investimentos, crédito, cartões, previdência, consórcio, seguros, cobrança e muito mais –, com taxas bem mais justas que as encontradas no mercado financeiro convencional. \n\nIsso acontece porque, aqui, quem se associa não é apenas um cliente: é um cooperado e, como dono do empreendimento, participa democraticamente das decisões e dos resultados financeiros – resultados esses que são reinvestidos no desenvolvimento regional, em um círculo virtuoso de prosperidade socioeconômica.\". \n\nO que é uma Cooperativa Centrral? \n\"As cooperativas centrais são as entidades regionais que promovem a integração sistêmica das cooperativas singulares a elas filiadas, coordenando-as e oferecendo-lhes apoio. Hoje, o Sicoob opera com  14 centrais distribuídas pelo território nacional.\". \n\nO que é o Sicoob Central Unicoob? \n\"Com o propósito de conectar pessoas para promover justiça financeira e prosperidade, o Sicoob Unicoob é uma das Centrais que integram o sistema Sicoob no Brasil. Sua sede fica localizada em Maringá, no Paraná. \n\nTeve início em 2001, quando três cooperativas de crédito do Paraná se uniram para formar uma cooperativa central, na época chamada de Sicoob Central PR. Com o rápido crescimento, logo houve expansão da área de atuação para outros estados.  Em 2014, a Central Amazônia, atuante no Pará e Amapá, foi incorporada. Com isso, a denominação foi alterada para Sicoob Unicoob. \nHoje, o Sicoob Unicoob conta com 15 cooperativas singulares filiadas, presentes em sete estados: Amapá, Mato Grosso do Sul, Paraná, Pará, Rio Grande do Sul, Santa Catarina e São Paulo.\". ",
+    "inventoriesId": [
+        8621
+    ],
+    "logoId": "9b57c8cf-c018-a5e6-3343-3a19ebbd4f2c",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 4381,
+    "name": "Bristol Parts",
+    "about": "Bristol Parts é uma empresa que atua desde 1968 no mercado de componentes de alumínio anodizado para embalagens   de   perfumaria   e cosméticos, abrangendo a linha de tampas  (para  perfumes,  lápis  e rímel), estojos e luvas de batom, bandejas  para  sombra,  capuz para válvulas pump e aerossóis. Nossa  experiência  em  repuxo profundo    com    ferramentas progressivas   e   transfers   nos possibilita  desenvolver  variados tipos de peças estampadas de alta complexidade  e  precisão.  Contando com  equipe  técnica  especializada, maquinário com tecnologia adequada e ferramentaria  própria,  temos  condições para  desenvolver  desde  a  concepção  do projeto até a fabricação final do produto, com rapidez, flexibilidade e garantia de sigilo. \r\nCom  Integridade,  Respeito,  Responsabilidade  e Inovação, os quatro valores que praticamos em  nossa  empresa,  pudemos  avançar  na construção de ações estratégicas, através do planejamento  e  execução  de  cada  desafio, reformulando  e  melhorando  nosso  organograma, tudo isso acompanhado do modelo de governança  que  permite  mensurar  nossos avanços.\r\nTemos como missão combinar conhecimento, arte e alta tecnologia na produção de componentes de alumínio, anodizados e materiais afins, com foco no mercado de perfumaria e cosméticos, buscando a melhoria contínua dos processos e a capacitação do capital humano, assegurando inovação, flexibilidade, lead time e qualidade em produtos e serviços, como diferencial de mercado, conduzindo seus negócios de forma ética e sustentável.\r\nNossa visão é ser a líder do mercado latino-americano e reconhecida pelos clientes como a melhor empresa fornecedora de soluções inovadoras para produtos com alumínio anodizados e materiais.\r\n",
+    "inventoriesId": [
+        5673
+    ],
+    "logoId": "cdde385c-584b-4911-80ef-e08d9b6cb750",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

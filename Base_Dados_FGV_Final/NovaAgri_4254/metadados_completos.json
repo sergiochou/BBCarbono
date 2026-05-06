@@ -1,0 +1,45 @@
+{
+    "id": 4254,
+    "name": "NovaAgri",
+    "about": "A NovaAgri foi fundada em 2007 e desde 2015 faz parte do grupo Toyota Tsusho Corporation. Seu objetivo é oferecer serviços ao agronegócio, atuando diretamente com os clientes a fim de oferecer serviços de armazenagem de commodities agrícolas, integração da fazenda até o porto, e alternativas para a comercialização. ",
+    "inventoriesId": [
+        5576,
+        5795,
+        7337,
+        8916
+    ],
+    "logoId": "7823541f-0be9-43ab-9087-ec5ef94f152e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

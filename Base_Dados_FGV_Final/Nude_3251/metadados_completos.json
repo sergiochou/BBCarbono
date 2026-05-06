@@ -1,0 +1,50 @@
+{
+    "id": 3251,
+    "name": "Nude.",
+    "about": "Em 2020, chegou o único Nude possível. U-hum. Feito de aveia, e o nome? Vem de transparência. Com mais de 50% de mulheres na liderança. Empresa B. Uma foodtech brasileira de bebida de aveia (e etcetera), sem ingredientes impróprios e que, de quebra, faz tudo o que aquele ~outro leite~ faz. Sem lero-lero. O sabor? Tão gostoso que até quem não liga vai (ajudar a) salvar o planeta. Calculamos as emissões da nossa cadeia e estampamos a pegada de carbono na caixinha de cada produto. Isso é ~transparência climática~ e estamos fazendo uma tremenda ginástica para reduzir a nossa pegada de carbono e a do planeta. Nosso objetivo é ajudar a indústria e o consumidor na transição para uma economia de baixo carbono. Criamos o movimento #MostraSuaPegada para convidar mais marcas a monitorar e comunicar o impacto climático de seus produtos.",
+    "inventoriesId": [
+        4532,
+        5047,
+        5915,
+        6852,
+        7883
+    ],
+    "logoId": "80c50384-336a-48fd-8941-2ad79217ddc8",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 4558,
+    "name": "COOCACER",
+    "about": "A Cooperativa dos Cafeicultores do Cerrado de Araguari e Região Ltda – COOCACER foi fundada em 20 de dezembro de 1993 por um grupo visionário de cafeicultores pioneiros em Araguari. Unidos por um objetivo comum, buscaram autonomia para armazenar, preparar e comercializar melhor sua produção por meio de um armazém próprio.\nIntegrante da Região do Cerrado Mineiro, a COOCACER atua junto a seus cooperados — pessoas físicas e jurídicas — promovendo o fortalecimento da cafeicultura regional. Por meio de ações estratégicas, eventos, pesquisas, convênios e parcerias, buscamos incentivar, valorizar e aprimorar a atividade cafeeira na região.\nCom mais de 30 anos de atuação, nos consolidamos como agentes de agregação de valor ao negócio café. Reafirmamos nosso compromisso com a sustentabilidade dos cooperados, guiados por uma gestão estratégica voltada para o futuro, alicerçada em três pilares:\nConstruir e Desenvolver, Promover e Apoiar, Valorizar.\na.\tConstruir e Desenvolver parcerias e ações sustentáveis que beneficiem cooperativa e cooperados;\nb.\tPromover e Apoiar a melhoria contínua da qualidade na produção, armazenamento, preparo e comercialização do café;\nc.\tValorizar nossos produtores, a origem e a identidade do café da Região do Cerrado Mineiro.\nEm 2023, iniciamos nosso inventário de carbono com o objetivo de monitorar com precisão as emissões de CO₂. \nEm 2025, alcançamos um marco importante ao obter o nível ouro de verificação, por meio de uma certificadora credenciada ao GHG Protocol, reforçando a eficácia do nosso sistema de gestão ambiental e o compromisso com a transparência e a qualidade das informações.\nEm 2026, daremos continuidade a esse trabalho, mantendo o nível ouro de verificação, consolidando ainda mais nossos processos, a gestão dos dados e o compromisso permanente com a responsabilidade e o desempenho ambiental.\n",
+    "inventoriesId": [
+        5809,
+        7027,
+        8103
+    ],
+    "logoId": "85b6b15a-58ca-4192-b6f9-d2d2c0e65977",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

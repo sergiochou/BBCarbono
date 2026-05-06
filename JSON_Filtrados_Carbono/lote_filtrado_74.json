@@ -1,0 +1,355 @@
+[
+    {
+        "empresa_pasta": "SANTA CRUZ COMERCIO E EXPORTACAO DE CAFE LTDA_4263",
+        "id_fgv": 4263,
+        "nome_oficial": "SANTA CRUZ COMERCIO E EXPORTACAO DE CAFE LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 725.596,
+                    "emissoes_escopo_2": 25.702,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 751.298,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 330.258,
+                    "emissoes_escopo_2": 2.243,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 332.501,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 579.61,
+                    "emissoes_escopo_2": 1.557,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 581.167,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1046.069,
+                    "emissoes_escopo_2": 7.541,
+                    "emissoes_escopo_3": 44.96,
+                    "total_emissoes": 1098.57,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Santista Têxtil_8666",
+        "id_fgv": 8666,
+        "nome_oficial": "Santista Têxtil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10065.245,
+                    "emissoes_escopo_2": 4885.656,
+                    "emissoes_escopo_3": 7192.928,
+                    "total_emissoes": 22143.829,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10070.318,
+                    "emissoes_escopo_2": 4581.875,
+                    "emissoes_escopo_3": 8446.439,
+                    "total_emissoes": 23098.632,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias٫de٫transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Santos Brasil_5980",
+        "id_fgv": 5980,
+        "nome_oficial": "Santos Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,٫armazenagem٫e٫correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "SAP Brasil_1495",
+        "id_fgv": 1495,
+        "nome_oficial": "SAP Brasil ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 832.95,
+                    "emissoes_escopo_2": 39.08,
+                    "emissoes_escopo_3": 5225.24,
+                    "total_emissoes": 6097.27,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 999.581,
+                    "emissoes_escopo_2": 17.722,
+                    "emissoes_escopo_3": 5595.041,
+                    "total_emissoes": 6612.344,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Scala Data Centers_7206",
+        "id_fgv": 7206,
+        "nome_oficial": "Scala Data Centers",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação٫e٫comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "s. O nosso objetivo é atingir Net Zero até 2050 e continuar a reduzir significativamente a intensidade das nossas emissões até"
+            },
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Schulz SA_8271",
+        "id_fgv": 8271,
+        "nome_oficial": "Schulz S.A.",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 13294.552,
+                    "emissoes_escopo_2": 11445.719,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 24740.271,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sea Master Serviços Maritimos_8135",
+        "id_fgv": 8135,
+        "nome_oficial": "Sea Master Serviços Maritimos",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 411.54,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 4.404,
+                    "total_emissoes": 415.944,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SEA1 Offshore_4548",
+        "id_fgv": 4548,
+        "nome_oficial": "SEA1 Offshore",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 17403.842,
+                    "emissoes_escopo_2": 0.06,
+                    "emissoes_escopo_3": 366.748,
+                    "total_emissoes": 17770.65,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 16388.9,
+                    "emissoes_escopo_2": 4.615,
+                    "emissoes_escopo_3": 371.928,
+                    "total_emissoes": 16765.443,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias٫extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SEBRAE MT_2534",
+        "id_fgv": 2534,
+        "nome_oficial": "SEBRAE MT ",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 19.242,
+                    "emissoes_escopo_2": 31.89,
+                    "emissoes_escopo_3": 5.476,
+                    "total_emissoes": 56.608,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SEBRAE PB_7564",
+        "id_fgv": 7564,
+        "nome_oficial": "SEBRAE PB",
+        "estado": "PB",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 127.357,
+                    "emissoes_escopo_2": 33.932,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 161.289,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 147.572,
+                    "emissoes_escopo_2": 32.634,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 180.206,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras٫atividades٫de٫serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "id": 4186,
+    "name": "Cogna Educação",
+    "about": "Com uma trajetória de 55 anos de trabalho pela educação, a Cogna é uma companhia brasileira e uma das principais organizações educacionais do mundo. O trabalho que teve início com cinco professores amigos que construíram um curso pré-vestibular em Belo Horizonte (MG) foi agregando marcas relevantes da educação no seu compromisso de impactar as pessoas pela educação.\r\nA Companhia é formada pelas empresas Kroton e Platos, do ensino superior; a SOMOS Educação, com um portfólio completo de soluções para as escolas privadas da educação básica; e a Saber, uma unidade de outros negócios que inclui o atendimento do Programa Nacional do Livro Didático (PNLD), B2G (Business to Government – Negócio para governos), a escola de inglês Red Balloon, e SETS. O portfólio da Cogna reúne marcas icônicas da educação brasileira, englobando os sistemas de ensino Anglo, Pitágoras e pH na educação básica, as faculdades Anhanguera e Unopar e as quatro maiores editoras do Brasil: Ática, Scipione, Saraiva e Atual.\r\nNa educação básica, em novembro de 2021 encerramos nossa participação na gestão de escolas próprias com a venda das mais de 50 unidades que mantínhamos e focamos nossa atuação no desenvolvimento e fornecimento de soluções de ensino para as escolas privadas de todo o país. A proposta une transformação digital e ensino baseado na ciência e na educação integral dos estudantes. Por meio do Programa Nacional do Livro Didático (PNLD), nossos conteúdos também chegam a mais de 36 milhões de estudantes da rede pública em todo o Brasil.\r\nNossa atuação é pautada pela inovação e pela capilaridade de nossas operações. Estamos presentes em todo o ecossistema de ensino brasileiro, atendemos mais de 2,4 milhões de estudantes, sendo 860 mil diretamente no ensino superior e na pós-graduação e outros 1,6 milhão por meio das escolas de educação básica parceiras.\r\nPor meio dos nossos braços sociais, Fundação Pitágoras, Instituto SOMOS e o movimento Aliança Brasileira pela Educação, queremos contribuir com a melhoria da educação pública, da empregabilidade, do ecossistema empreendedor e promover o desenvolvimento local, especialmente nas regiões em que estamos presentes.\r\nNossas atividades e programas sociais geram um impacto positivo na sociedade avaliado em R$ 9 bilhões, cálculo realizado por meio da metodologia de retorno social do investimento (SROI, na sigla em inglês). \r\nMantemos nossa sede administrativa em São Paulo (SP) e estamos presentes em mais de 1.900 municípios, em todos os estados do país. Nossa força de trabalho é formada por 23,3 mil colaboradores diretos. ",
+    "inventoriesId": [
+        6079,
+        6082,
+        6076,
+        6059,
+        7325,
+        8433
+    ],
+    "logoId": "bc119e94-2894-4b2a-9e37-5ae7baf38a62",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 8330,
+    "name": "TES - TERMINAL EXPORTADOR DE SANTOS S.A.",
+    "about": "O TES - Terminal Exportador, em Santos, é uma Joint Venture entre as companhias LDC e Cargill Agrícola S. A., desde dezembro de 2015. O terminal traz um novo conceito para o Porto de Santos, incluindo 8 silos de concreto e equipamentos de embarque mais modernos e eficientes para reduzir a emissão de particulados durante o embarque. O terminal movimenta granel sólido vegetal, incluindo milho, soja e farelo de soja.",
+    "inventoriesId": [
+        8876,
+        7911
+    ],
+    "logoId": "38d84006-254b-5f87-98e0-3a18c5e39054",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

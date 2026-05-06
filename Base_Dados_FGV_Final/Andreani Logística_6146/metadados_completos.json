@@ -1,0 +1,35 @@
+{
+    "id": 6146,
+    "name": "Andreani Logística ",
+    "about": "A Andreani Logística Brasil faz parte do Grupo Logístico Andreani, fundado em 1945 na Argentina e hoje é líder em serviços de logística de alto valor agregado para as indústrias Farmacêuticas, Cosméticas, Equipamentos Hospitalares, Tecnologia Médica, Diagnóstica, Produtos para saúde animal e outros mercados.\n\nCom operação no Brasil desde 2001, a Andreani Logística se especializou nas regiões sul, sudeste e centro oeste desenvolvendo infraestrutura adequada às demandas e requisitos do segmento Healthcare, fornecendo serviços que integram a armazenagem, distribuição e a logística reversa.",
+    "inventoriesId": [
+        6896,
+        8376
+    ],
+    "logoId": "86577fc5-e724-4e01-1115-3a1240fd4009",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

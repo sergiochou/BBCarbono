@@ -1,0 +1,45 @@
+{
+    "id": 3836,
+    "name": "Grupo Sengés ",
+    "about": "O Grupo Sengés é composto por quatro empresas (Sengés Papel e Celulose, Sengés Florestadora e Agrícola, Transportadora Cemil e Continental Embalagens) localizadas nos estados do Paraná e São Paulo. As empresas nasceram da idéia de unir a base florestal com a produção de papel. Em 1971 foi criada a Sengés Papel e Celulose, empresa que produz e comercializa papel kraft. Essa empresa foi criada pela união da base florestal localizada nos municípios de Sengés, Jaguariaiva, Castro e Dr. Ulysses ao know how de fazer papel, advinda da família Sguário, conforme nosso Histórico. Com o passar dos anos, tornou-se importante o transporte dos produtos produzidos pelo Grupo, então foi criada a Transportadora Cemil, responsável por parte do transporte e logística do Grupo. Para verticalizar ainda mais seu processo e com finalidade de atingir novos mercados, surgiu a Continental Embalagens, empresa que converte a produção da Sengés Papel e Celulose em caixas para embalagens. Atualmente as empresas do Grupo Sengés se destacam no mercado interno, produzindo madeira, papel e embalagens, gerando mais de 3 mil empregos diretos e indiretos.  ",
+    "inventoriesId": [
+        5424,
+        5853,
+        7481,
+        8904
+    ],
+    "logoId": "17b5a22c-2ca5-4360-9d40-7e99e90d8fce",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

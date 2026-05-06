@@ -1,0 +1,30 @@
+{
+    "id": 8176,
+    "name": "Sidermin",
+    "about": "A Sidermin Siderúrgica Mineira atua no mercado brasileiro desde 2002, produzindo e comercializando ferro gusa de qualidade. Localizada no município de Sete Lagoas, possui uma logística privilegiada devido sua posição central, facilitando o escoamento de sua produção.\nA conduta empresarial é pautada no respeito mútuo às pessoas, à vida e na responsabilidade, compartilhada por todos, pelo crescimento de seus profissionais e de seus negócios.",
+    "inventoriesId": [
+        7900
+    ],
+    "logoId": "4ff3cd7c-7db1-7acc-a87f-3a189cbe23a2",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

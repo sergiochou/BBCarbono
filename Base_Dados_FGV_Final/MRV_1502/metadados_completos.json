@@ -1,0 +1,80 @@
+{
+    "id": 1502,
+    "name": "MRV ",
+    "about": "Fundada em primeiro de outubro de 1979, a MRV Engenharia é considerada hoje a maior construtora da América Latina segundo dados da consultoria Economática. É a única companhia presente em 163 cidades e 22 estados brasileiros, além do Distrito Federal, já tendo entregue mais de 460 mil chaves.\r\n\r\nCrescer na construção civil ao mesmo tempo reduzir potenciais impactos ambientais negativos é o foco da companhia. Trilhando o caminho da eficiência operacional, do aprimoramento de processos e operações e da mobilização da cadeia como um todo, temos em foco o binômio viabilidade e sustentabilidade; além de evoluir em práticas e normativas internas, a MRV firmou compromissos públicos e adotou metas ambiciosas – especialmente nos aspectos de vulnerabilidade climática.",
+    "inventoriesId": [
+        2493,
+        2941,
+        3224,
+        3487,
+        3906,
+        4450,
+        4660,
+        5524,
+        6288,
+        7758,
+        9258
+    ],
+    "logoId": "f675118d-4b69-4222-8a5b-2360600a2944",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

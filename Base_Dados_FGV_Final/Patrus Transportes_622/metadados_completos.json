@@ -1,0 +1,35 @@
+{
+    "id": 622,
+    "name": "Patrus Transportes",
+    "about": "http://www.patrus.com.br/patrus-verde.php",
+    "inventoriesId": [
+        389,
+        2025
+    ],
+    "logoId": "fb5d80c9-5c0f-401b-9bce-e4179b07b7aa",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

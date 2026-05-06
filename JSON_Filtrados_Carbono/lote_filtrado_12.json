@@ -1,0 +1,557 @@
+[
+    {
+        "empresa_pasta": "BNDES_1119",
+        "id_fgv": 1119,
+        "nome_oficial": "BNDES",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Atividades‑financeiras,‑de‑seguros‑e‑serviços‑relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades‑financeiras,‑de‑seguros‑e‑serviços‑relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades‑financeiras,‑de‑seguros‑e‑serviços‑relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Atividades‑financeiras,‑de‑seguros‑e‑serviços‑relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 55.353,
+                    "emissoes_escopo_2": 795.669,
+                    "emissoes_escopo_3": 260.233,
+                    "total_emissoes": 1111.255,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BOM FUTURO AGRICOLA LTDA_3292",
+        "id_fgv": 3292,
+        "nome_oficial": "BOM FUTURO AGRICOLA LTDA",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 30677.923,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 30677.923,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 136488.552,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 136488.552,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 225669.217,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 225669.217,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 244859.338,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 244859.338,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,∗pecuária,∗produção∗florestal,∗pesca∗e∗aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bom Jesus Agropecuária e ABJ Comércio_7499",
+        "id_fgv": 7499,
+        "nome_oficial": "Bom Jesus Agropecuária e ABJ Comércio",
+        "estado": "MT",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura,‑pecuária,‑produção‑florestal,‑pesca‑e‑aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Bosch_4038",
+        "id_fgv": 4038,
+        "nome_oficial": "Bosch",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2681.747,
+                    "emissoes_escopo_2": 11188.326,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 13870.073,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2129.609,
+                    "emissoes_escopo_2": 3848.357,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5977.966,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2240.629,
+                    "emissoes_escopo_2": 3217.83,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 5458.459,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Compra dos créditos de carbono para emissão no escopo 1",
+                "Compra dos créditos de carbono",
+                "Compra de créditos de carbono",
+                "Projetos de sequestro de carbono",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório."
+            ],
+            "metas_net_zero": {
+                "ano": 2025,
+                "descricao": "dimensões de sustentabilidade 2025, compostas por 6 pilares, um deles é a neutralidade do carbono, objeto desse case, que possui forte contribuição co"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Box Print_2794",
+        "id_fgv": 2794,
+        "nome_oficial": "Box Print",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 304.688,
+                    "emissoes_escopo_2": 453.114,
+                    "emissoes_escopo_3": 28.423,
+                    "total_emissoes": 786.225,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 198.537,
+                    "emissoes_escopo_2": 464.224,
+                    "emissoes_escopo_3": 30.938,
+                    "total_emissoes": 693.699,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 201.679,
+                    "emissoes_escopo_2": 441.782,
+                    "emissoes_escopo_3": 11.025,
+                    "total_emissoes": 654.486,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 175.61,
+                    "emissoes_escopo_2": 959.25,
+                    "emissoes_escopo_3": 72.7,
+                    "total_emissoes": 1207.56,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 142.193,
+                    "emissoes_escopo_2": 323.881,
+                    "emissoes_escopo_3": 281.405,
+                    "total_emissoes": 747.479,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 155.667,
+                    "emissoes_escopo_2": 317.134,
+                    "emissoes_escopo_3": 25042.256,
+                    "total_emissoes": 25515.057,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 156.776,
+                    "emissoes_escopo_2": 574.77,
+                    "emissoes_escopo_3": 31158.565,
+                    "total_emissoes": 31890.111,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Silvicultura B Print Empreendimentos",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2019",
+                "Inventário 2019 - Box Print",
+                "BOX PRINT LTDA",
+                "Nome fantasia: Box Print",
+                "CNPJ: 92.750.629/0001-77",
+                "Setor econômico: Indústrias de transformação",
+                "Subsetor: Impressão e reprodução de gravações",
+                "Endereço: Avenida dos Municípios - 5238 - - Santa Lucia - Campo Bom - RS - 93700-000"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BP  A Beneficência Portuguesa de São Paulo_2920",
+        "id_fgv": 2920,
+        "nome_oficial": "BP - A Beneficência Portuguesa de São Paulo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 5932.305,
+                    "emissoes_escopo_2": 1307.481,
+                    "emissoes_escopo_3": 5443.486,
+                    "total_emissoes": 12683.272,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 5246.154,
+                    "emissoes_escopo_2": 1156.947,
+                    "emissoes_escopo_3": 3021.388,
+                    "total_emissoes": 9424.489,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúdehumanaeserviçossociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "bp bioenergy_3821",
+        "id_fgv": 3821,
+        "nome_oficial": "bp bioenergy",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 769198.247,
+                    "emissoes_escopo_2": 5426.417,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 774624.664,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 508249.993,
+                    "emissoes_escopo_2": 1900.293,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 510150.286,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 530962.621,
+                    "emissoes_escopo_2": 1266.902,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 532229.523,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 484236.658,
+                    "emissoes_escopo_2": 2279.85,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 486516.508,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bracell_4953",
+        "id_fgv": 4953,
+        "nome_oficial": "Bracell",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 614672.636,
+                    "emissoes_escopo_2": 5258.355,
+                    "emissoes_escopo_3": 935183.261,
+                    "total_emissoes": 1555114.252,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 597454.382,
+                    "emissoes_escopo_2": 9611.29,
+                    "emissoes_escopo_3": 1094603.405,
+                    "total_emissoes": 1701669.077,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Brado Logística_3687",
+        "id_fgv": 3687,
+        "nome_oficial": "Brado Logística",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2430.111,
+                    "emissoes_escopo_2": 745.267,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3175.378,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2542.741,
+                    "emissoes_escopo_2": 1534.226,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4076.967,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3451.102,
+                    "emissoes_escopo_2": 731.584,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 4182.686,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3215.581,
+                    "emissoes_escopo_2": 515.502,
+                    "emissoes_escopo_3": 65453.066,
+                    "total_emissoes": 69184.149,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BRAINFARMA_1152",
+        "id_fgv": 1152,
+        "nome_oficial": "BRAINFARMA",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7755.617,
+                    "emissoes_escopo_2": 4771.747,
+                    "emissoes_escopo_3": 1728.56,
+                    "total_emissoes": 14255.924,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10366.188,
+                    "emissoes_escopo_2": 5231.472,
+                    "emissoes_escopo_3": 3026.793,
+                    "total_emissoes": 18624.453,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 15266.919,
+                    "emissoes_escopo_2": 3828.167,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 19095.086,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

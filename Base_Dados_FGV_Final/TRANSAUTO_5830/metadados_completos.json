@@ -1,0 +1,40 @@
+{
+    "id": 5830,
+    "name": "TRANSAUTO",
+    "about": "Fundada em 1959, a Transauto conquistou tradição e liderança no mercado brasileiro como empresa especializada no transporte de veículos. Suas carretas (cegonhas/pranchas) carregam desde automóveis até chassis de ônibus, passando por furgões, vans, caminhões leves, médios e pesados.\nCom grande experiência e amplo conhecimento no setor de transportes e logística de veículos, a Transauto vai além do modal rodoviário, pois ao longo dos anos já desenvolveu e utilizou parcerias com os modais ferroviário, marítimo/cabotagem e aéreo.\nA localização estratégica dos seus centros de consolidação resulta em agilidade, segurança e excelência na distribuição de veículos para todo o território nacional. Suas unidades situam-se em áreas próximas às grandes montadoras nacionais instaladas em diversos estados do Brasil. Isso otimiza sua capacidade de transporte, que está preparada para atingir a marca de 310 mil veículos por ano.\n\nAlém das maiores montadoras do País, entre seus clientes destacam-se importadores, concessionários, locadoras, grandes frotistas e particulares.",
+    "inventoriesId": [
+        6726,
+        7696,
+        9176
+    ],
+    "logoId": "8e1fa0af-208b-4164-9b56-5b49f8f25f36",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

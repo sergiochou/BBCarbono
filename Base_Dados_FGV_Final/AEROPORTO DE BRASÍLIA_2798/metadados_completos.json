@@ -1,0 +1,35 @@
+{
+    "id": 2798,
+    "name": "AEROPORTO DE BRASÍLIA",
+    "about": "A Inframerica é a atual administradora dos Aeroportos de Brasília e Natal. É controlada pela Corporación América Airports,  uma das maiores operadoras aeroportuárias do mundo.\r\n\r\nCom todo o know how na área de Aeroportos, a Corporación América Airports integrou o Consórcio Inframerica com o objetivo de disputar as concessões dos Terminais aéreos brasileiros.\r\n\r\nEm agosto de 2011, saiu vitoriosa no 1º leilão de concessões do país. A Inframerica passou a ser responsável pela construção, manutenção e exploração do Aeroporto Internacional de São Gonçalo do Amarante - Aeroporto de Natal, na região metropolitana de Natal, por um período de 28 anos, tornando-o o 1º Aeroporto brasileiro 100% privatizado.\r\n\r\nQuase seis meses depois, em um novo leilão realizado no início de 2012, o Consórcio arrematou também o Aeroporto Internacional de Brasília - Presidente Juscelino Kubitscheck, onde detém 51% de participação na concessão para operar, reformar e ampliar o sítio aeroportuário brasiliense por 25 anos.\r\n\r\nDiferentemente do Terminal potiguar, em Brasília, a Infraero é sócia da Inframerica e mantém 49% de participação na concessão.\r\n\r\nNestes dez anos de concessão (de 2012 a 2022), a Inframerica já investiu mais de R$2 bilhões nos dois Aeroportos, aumentando a capacidade, o conforto e a eficiência destes importantes Terminais aéreos brasileiros.",
+    "inventoriesId": [
+        3837,
+        6007
+    ],
+    "logoId": "bcb35d26-cd3b-49c4-a74d-55e7a6014b42",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 836,
+    "name": "RIO PARANAPANEMA ENERGIA",
+    "about": "A CTG Brasil opera 12 usinas hidrelétricas (UHEs) e duas pequenas centrais hidrelétricas (PCHs), além de deter participações em outras três UHEs e 11 parques eólicos, sendo assim a segunda maior geradora privada de energia do país. Os ativos totalizam 8,3 GW de capacidade instalada, o que representa 5% do parque gerador brasileiro, e são gerenciados por quatro empresas operacionais controladas: Rio Paraná, Rio Paranapanema, Rio Canoas e Rio Verde.\r\n\r\nA empresa RIO PARANAPANEMA ENERGIA S.A. é responsável pela concessão das seguintes usinas: UHEs Jurumirim, Chavantes, Salto Grande, Canoas I e Canoas II, Capivara, Taquaruçu, e Rosana, no Rio Paranapanema, na divisa entre os Estados de São Paulo e Paraná (exceto a UHE Jurumirim, que se encontra no Estado de São Paulo), e das PCHs Palmeiras e Retiro, no Rio Sapucaí, no estado de São Paulo, sob a controlada Rio Sapucaí-Mirim Ltda.",
+    "inventoriesId": [
+        3127,
+        3507,
+        3810
+    ],
+    "logoId": "00ddbce3-0840-44c6-bc65-2fc44c428e43",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

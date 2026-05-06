@@ -1,0 +1,30 @@
+{
+    "id": 8635,
+    "name": "Cooperliquidos",
+    "about": "A Cooperlíquidos nasceu em 08 de setembro de 2016, a partir de uma\nnecessidade identificada no setor de transporte, sob a liderança da\nsócia/presidente Etiane Clavijo. O modelo societário adequado para os sócios\ninvestidores é o modelo cooperativo. Pioneiro no ramo transporte de produtos\nperigosos no estado do Rio Grande do Sul.\nDesde sua fundação, a Cooperlíquidos segue em constante expansão, colhendo\nos frutos da intercooperação e consolidando-se no mercado por meio de soluções\nem transporte e logística eficientes e atendimento personalizado, reflexo direto da\nforça da cooperação.\nTransportar vai além do movimento, nosso trabalho é movido pelo propósito de\nunir pessoas e agregar valor ao transporte de produtos perigosos através da\ntecnologia, inovação e sustentabilidade.\nA Cooperlíquidos é uma transportadora certificada com os padrões globais de\nqualidade, segurança e meio ambiente: ISO 9001 gestão de qualidade, ISO 39001\nsegurança viária e ISO 14001 gestão ambiental. Somos uma empresa associada à\nABIQUIM , Associação Brasileira da Industria Quimica e certificados com o\nSASSMAQ, Sistema de Saúde , segurança meio ambiente e qualidade.\nNossas certificações atestam a qualidade do serviço, compromisso com a\nexcelência, sustentabilidade, a inovação e a responsabilidade social que nos\ndefine como referência no mercado\nComprometidos com o futuro, adotamos práticas sustentáveis para minimizar\nnosso impacto ambiental. Nossa estratégia ESG (Environmental, Social e\nGovernance) orienta nossas decisões. Nossa empresa realiza inventario de\nemissões de gases de efeito estufa com intuito de monitorar e reduzir as\nemissões, para alcançar nosso objetivo de se tornar uma empresa carbono\nNeutro.\nProteja seu negócio e o meio ambiente com nosso transporte especializado.\nJuntos, construímos um futuro melhor.",
+    "inventoriesId": [
+        8834
+    ],
+    "logoId": "e94bcdb2-e286-c9a6-7418-3a1fd06a1b70",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

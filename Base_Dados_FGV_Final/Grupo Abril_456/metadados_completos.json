@@ -1,0 +1,65 @@
+{
+    "id": 456,
+    "name": "Grupo Abril",
+    "about": "Ao longo de toda a sua trajetória, o Grupo Abril vem contribuindo para a ampliação do conhecimento da sociedade sobre desenvolvimento sustentável em todos os níveis – ambiental, econômico e social. Uma história marcada pela determinação da defesa pela liberdade de expressão e o direito à informação. \r\n\r\nNo campo da responsabilidade corporativa, o primeiro grande passo foi a criação da Fundação Victor Civita, em 1985, com a missão de contribuir para a melhoria da educação básica no país. Nos anos seguintes, o Grupo passou a incentivar e desenvolver diversas iniciativas focadas na promoção da educação, da saúde, da cultura e na preservação do meio ambiente. Entre elas, o Prêmio Claudia, o Guia Exame de Sustentabilidade, o Prêmio Planeta Casa, entre outras tantas. \r\n\r\nDesde o final de 2007 estamos desenvolvendo a estratégia da Abril em sustentabilidade na gestão dos seus negócios. Atualmente temos várias áreas do Grupo envolvidas neste processo: Logística e Distribuição, a Gráfica e Administração e Suprimentos que formam uma cadeia. Além destas, temos: Marketing de Relacionamento e Eventos, TI e Abril Educação, com a perspectiva de novas áreas entrantes. Estamos também fomos envolvidos na construção da ferramenta do GHG Protocol no Brasil – Greenhouse Gas Protocol, onde nos comprometemos a mapear e gerenciar as emissões de gases de efeito estufa do Grupo. A Abril é a primeira empresa brasileira de comunicação a subscrever esse protocolo. \r\n\r\nTodas estas estratégias estão sendo desenvolvidas pelas áreas, numa metodologia que chamamos de “Construção Coletiva”. Uma forma de construirmos soluções a partir da promoção do diálogo permanente entre as pessoas, levando em consideração seus conhecimentos e as questões sociais, ambientais e econômicas, juntas.\r\n",
+    "inventoriesId": [
+        1539,
+        71,
+        2695,
+        2163,
+        1573,
+        1522,
+        505,
+        3054
+    ],
+    "logoId": "94ad37f9-a1b2-4904-8589-46facb4fbfca",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

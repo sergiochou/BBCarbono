@@ -1,0 +1,40 @@
+{
+    "id": 4585,
+    "name": "KAPPESBERG",
+    "about": "A história do Grupo K1 teve início no ano de 1991, quando Carlos Luiz Sost e o amigo Celso Theisen tiveram a ideia de fabricar e comercializar peças de artesanato em horários fora do expediente em que ambos trabalhavam. Movidos pela energia empreendedora, logo se dedicaram a produzir móveis sob medida. Em 1995, enquanto buscavam recursos e incentivos para ampliar suas atividades, receberam da Prefeitura de Tupandi-RS a oferta de um terreno e auxílio para iniciar a construção da Móveis Kappesberg, onde hoje fica a Matriz . Desde a sua fundação, trabalhar com emoção e realização, proporcionando que todas as pessoas vivam no lar dos seus sonhos tem sido a missão do Grupo K1. Com 25 anos no mercado moveleiro completados em dezembro de 2020, a companhia é hoje o maior grupo do segmento da América Latina. A empresa atua em todo o território nacional, além de exportar seus produtos para 47 países em todos os continentes, fato este que premia o Grupo pela 8ª vez consecutiva com o “Prêmio de Maior exportador de Móveis da América Latina. Atualmente, a Matriz conta com uma área fabril de mais de 200.000 m², em Tupandi, produzindo móveis seriados da marca Kappesberg (presente em cerca de 25 mil pontos de vendas), móveis planejados das marcas My Home (19 franquias e 12 lojas multimarcas) e Idélli Ambientes (possui 26 franquias de móveis planejados, sendo uma em Miami), injetados da UZ Utilidades (disponível em 25 mil pontos de vendas no país) e a linha de jantar cromada da Crome. ",
+    "inventoriesId": [
+        5929,
+        7143,
+        9079
+    ],
+    "logoId": "84f1aceb-3bb7-438b-8c1a-3b497d857ec0",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

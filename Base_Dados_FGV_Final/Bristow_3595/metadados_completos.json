@@ -1,0 +1,30 @@
+{
+    "id": 3595,
+    "name": "Bristow",
+    "about": null,
+    "inventoriesId": [
+        8901
+    ],
+    "logoId": "10ea8a02-8dce-b75e-fead-3a1a1f8a65f9",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

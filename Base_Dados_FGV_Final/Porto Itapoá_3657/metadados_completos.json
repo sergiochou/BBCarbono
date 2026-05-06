@@ -1,0 +1,50 @@
+{
+    "id": 3657,
+    "name": "Porto Itapoá",
+    "about": " Porto Itapoá iniciou suas operações em junho de 2011, sendo considerado um dos terminais mais ágeis e eficientes da América Latina e um dos maiores e mais importantes do País na movimentação de cargas conteinerizadas. De administração privada, possui uma estrutura capaz de movimentar 1,8 milhão de TEUs por ano e está rumo a fase final de sua expansão que possibilitará a movimentação de 2 milhões de TEUs anualmente.\n\nLocalizado no litoral norte de Santa Catarina, o Porto Itapoá está posicionado entre as regiões mais produtivas do Brasil, contemplando importadores e exportadores dos mais diversos segmentos empresariais. Além da sua localização estratégica, o Terminal integra a Baía da Babitonga, possuindo condições seguras e facilitadas para a atracação dos navios. Com águas calmas e profundas, a baía é ideal para receber embarcações de grande porte, uma tendência cada vez mais adotada na navegação mundial.\n\nNascendo como um dos mais modernos terminais do mundo, o Porto Itapoá se insere no município de Itapoá como um projeto greenfield, situado longe do perímetro urbano da cidade, com ligação direta à BR 101, possui uma área de 12 milhões de m², definida pelo Plano Diretor do Município para receber empreendimentos complementares.\n\nLocalizado no litoral norte de Santa Catarina, o Porto Itapoá está posicionado entre as regiões mais produtivas do Brasil, contemplando importadores e exportadores dos mais diversos segmentos empresariais. Além da sua localização estratégica, o Terminal integra a Baía da Babitonga, possuindo condições seguras e facilitadas para a atracação dos navios. Com águas calmas e profundas, a baía é ideal para receber embarcações de grande porte, uma tendência cada vez mais adotada na navegação mundial.\n\nProjetado para ser sustentável e integrado ao meio ambiente, o Porto Itapoá segue a tendência dos portos mais modernos do mundo, com mínima interferência no meio ambiente. A preocupação com a sustentabilidade está presente no seu tripé social, ambiental e econômico desde a concepção do empreendimento.\n\nDesde o início de sua construção, o Terminal investe em programas de educação ambiental, recuperação da fauna e flora ocupada, além do monitoramento constante da vida marinha nas proximidades de suas instalações, possui também uma estrutura em tempo integral para o atendimento imediato no caso de acidentes ambientais ligados a operação portuária.\n\nAlém de contribuir para melhorar a infraestrutura de logística e transporte do país, o empreendimento também alavanca o desenvolvimento econômico e social do norte catarinense e vem sendo apontado como o responsável pelo rápido desenvolvimento do município, levando mais qualidade de vida para a população local.\n\nInvestindo nas pessoas e na comunidade, o porto já gerou mais de 1300 empregos diretos, principalmente para Itapoá e região. Além do Porto, avalia-se que a cadeia industrial e de serviços atrelados ao contexto portuário pode resultar no surgimento de mais postos de trabalho para a comunidade.\n \nNascendo como um dos mais modernos terminais do mundo, o Porto Itapoá se insere no município de Itapoá como um projeto greenfield, situado longe do perímetro urbano da cidade, com ligação direta à BR 101, possui uma área de 12 milhões de m², definida pelo Plano Diretor do Município para receber empreendimentos complementares. \n",
+    "inventoriesId": [
+        4906,
+        5076,
+        5815,
+        6800,
+        8446
+    ],
+    "logoId": "8efd169a-960a-473b-90a4-ca05c2c8f5f8",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

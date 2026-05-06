@@ -1,0 +1,40 @@
+{
+    "id": 5055,
+    "name": "ELECTRO AÇO ALTONA S A",
+    "about": null,
+    "inventoriesId": [
+        6458,
+        7067,
+        8348
+    ],
+    "logoId": "e71a7bee-a8c0-46ab-94fd-cdfedcb404a0",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

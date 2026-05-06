@@ -1,0 +1,40 @@
+{
+    "id": 3993,
+    "name": "AGROGALAXY",
+    "about": "O AgroGalaxy é uma das principais plataformas de varejo de insumos agrícolas e serviços voltados para o agronegócio brasileiro, atuando na comercialização de insumos\r\nagrícolas, produção de sementes, originação, armazenamento e comercialização de grãos, além de prestação de serviços agrícolas. Com cobertura geográfica nacional, a Companhia possui um ecossistema integrado, entregando produtos e oferecendo soluções únicas para a necessidade do produtor rural, sendo reconhecida pelo alto valor agregado que entrega aos seus clientes e por ser a parceira de produtividade do agricultor brasileiro. Formada a partir da aquisição de plataformas líderes em diferentes regiões brasileiras, a Companhia possui os benefícios da integração, enquanto mantém as características e marcas originais de cada plataforma, além de todo o histórico local e proximidade com o agricultor. Em 31 de junho de 2023, a Companhia contava com 169 lojas, incluindo pontos comerciais, 28 silos, 13 unidades de sementes e 11 CTAs (Centro Tecnológico Agronômico), situados em 14 estados, cobrindo mais de 1.000 cidades e 10 milhões de hectares em propriedades de mais de 30 mil clientes, consolidando sua estratégia de ter forte capilaridade nas regiões mais estratégicas do agronegócio brasileiro e com próximo relacionamento com os produtores, entregando soluções de ponta com agilidade.",
+    "inventoriesId": [
+        5345,
+        6304,
+        6914
+    ],
+    "logoId": "309409ed-aaaa-47ac-99e7-c38d2dff71fc",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

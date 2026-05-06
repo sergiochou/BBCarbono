@@ -1,0 +1,30 @@
+{
+    "id": 9165,
+    "name": "Opy Health",
+    "about": "Somos a Opy Health, a primeira plataforma integrada de ativos de infraestrutura e prestação de serviços não clínicos ao setor de saúde do Brasil.",
+    "inventoriesId": [
+        8855
+    ],
+    "logoId": "ed4ad2dc-9057-b2a3-ce4f-3a1a10868f62",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

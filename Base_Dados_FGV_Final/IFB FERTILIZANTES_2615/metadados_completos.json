@@ -1,0 +1,75 @@
+{
+    "id": 2615,
+    "name": "IFB FERTILIZANTES",
+    "about": "Apresentação DA EMPRESA: \n\t\nUma História de Empreendedorismo, Pesquisas e acima de tudo: Inovações Tecnológicas.\n\nDepois de trabalhar ao longo de mais de 40 anos com fertilizantes químicos tradicionais, o Agrônomo Paulo Henrique de Rezende Murgel começou a dedicar-se a uma nova linha de pesquisas entre 1989 e 1990 com o objetivo de conseguir a solubilização biológica de fosfatos naturais, utilizando como base o trabalho desenvolvido pelo Agrônomo indiano J.S. Dahr, numa estação experimental em Indore, na região central da Índia, onde Dahr conseguiu uma pequena solubilização de fosfato natural acrescentando um enorme volume de matéria orgânica ao mesmo. \n\nEm 1993, após o sucesso em alguns passos no processo, foi necessário aprofundar as pesquisas na área microbiológica, onde passou a incorporar no projeto o Profº.  Doutor Samuel Murgel Branco, Biólogo da USP, introdutor do Curso de Engenharia Sanitária no Brasil, eleito pesquisador do século nesta área, que após mais de 3 anos de trabalho, conseguiu descobrir e adaptar micro-organismos para a solubilização do fosfato natural, tornando o processo economicamente viável, pois utiliza fosfatos naturais residuais dos processos de concentração para indústria química, fosfatos estes que não teriam aproveitamento comercial. \n\nEm 1998 surge a IFB Biotecnologia por iniciativa e visão do empreendedor Antônio Ribeiro Parrode Filho, que vislumbrou neste projeto um grande potencial de contribuição à agricultura nacional e organizou a transferência desta tecnologia para o Estado de Goiás. \n\nNesta mesma época, o Engº. Agrônomo Paulo Henrique Murgel passou a integrar o quadro societário da IFB, sendo responsável pelo desenvolvimento das bases técnicas de produção e critérios agronômicos de aplicação deste novo e revolucionário fertilizante. \n\nDesta forma iniciou-se em Goiânia o Grupo IFB, que conta hoje com empresas dedicadas aos setores de:\n\n•\tFertilizantes orgânicos e organominerais;\n•\tReciclagem de resíduos;\n•\tInsumos minerais. \n\nA sinergia entre estas empresas e o constante investimento em pesquisas e controles de processos são pilares que contribuem com o sucesso dos nossos clientes, garantido por rigoroso Sistema de Gestão Integrada [SGI]: ABNT NBR ISO 9.001 [Sistema de Gestão da Qualidade - Requisitos] e ABNT NBR ISO 14.001 [Sistema de Gestão Ambiental - Requisitos com orientações para uso].\n\nA IFB desenvolveu e implementou o Sistema de Gestão Integrada - SGI para garantir a satisfação dos seus Clientes, a proteção ao Meio Ambiente e o comprometimento de todos os Colaboradores com os objetivos da empresa, garantindo sua competitividade no mercado em que atua.\n\nO Manual de Gestão - MG empresarial descreve o funcionamento do SGI conforme as diretrizes estabelecidas nas duas normas de gestão: ABNT NBR ISO 9.001 e ABNT NBR ISO 14.001, sendo aprovado pelos Diretores da Empresa mediante assinaturas e datas e/ou via eletrônica - [http://sgi.grupoifb.com.br]\n\nO controle deste documento estratégico está definido no procedimento PG.01 - Controle de Documentos, Registros e Dados do SGI.\n",
+    "inventoriesId": [
+        3763,
+        3762,
+        3760,
+        3816,
+        4280,
+        4591,
+        5465,
+        6445,
+        6986,
+        9295
+    ],
+    "logoId": "38cc1558-5b96-4b34-9241-4bd1cacdb46e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

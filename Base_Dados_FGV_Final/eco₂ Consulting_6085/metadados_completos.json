@@ -1,0 +1,30 @@
+{
+    "id": 6085,
+    "name": "eco₂ Consulting",
+    "about": "A eco₂ Consulting é uma empresa de consultoria especializada em ESG e mercado de carbono. Nosso objetivo é entender as necessidades e demandas dos nossos clientes para criar e propor soluções customizadas capazes de gerar alto valor. O portfólio de serviços da eco₂ Consulting foi desenvolvido sobre os temas de sustentabilidade, florestas e meio ambiente, tendo como base 4 pilares: ESG e Sustentabilidade Corporativa, Descarbonização e Mercado de Carbono, Recursos Naturais e Meio Ambiente e Finanças Verdes.",
+    "inventoriesId": [
+        6860
+    ],
+    "logoId": "62bfbc1c-9307-9302-5656-3a1208c207b6",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

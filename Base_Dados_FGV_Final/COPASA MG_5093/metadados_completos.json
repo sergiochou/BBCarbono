@@ -1,0 +1,40 @@
+{
+    "id": 5093,
+    "name": "COPASA MG",
+    "about": "Com sede em Belo Horizonte e com mais de 60 anos de história, a COPASA MG está entre as maiores empresas de saneamento do Brasil. As ações da COPASA MG são negociadas na B3 – Brasil, Bolsa, Balcão, sob o código CSMG3, sendo integrante do Novo Mercado, segmento que exige maior compromisso com regras de transparência e governança corporativa. De acordo com o Estatuto Social da Companhia, as atividades fins da empresa são abastecimento de água potável (captação, tratamento e distribuição da água tratada até o consumidor final); esgotamento sanitário (coleta, transporte, tratamento e disposição final do esgoto sanitário, da ligação predial até o lançamento final no meio ambiente); limpeza urbana e manejo de resíduos sólidos (coleta, transporte, transbordo, tratamento e destino final do lixo urbano e do lixo originário da varrição e limpeza urbana) e prestação de outros serviços e exploração de subprodutos relacionados ou derivados das atividades de saneamento básico. A COPASA MG, junto com as suas subsidiárias, atingiu, em dezembro de 2025, 636 concessões para a prestação dos serviços de abastecimento de água, atendendo a 11,9 milhões de pessoas por meio de 5,79 milhões de economias (unidades consumidoras). Em relação aos serviços de esgotamento sanitário, o número de concessões era de 309, na mesma data, sendo atendidas 8,8 milhões de pessoas com serviços de esgoto, por meio de 4,28 milhões de economias. Ao longo de cerca de 60 anos de história, a Companhia acredita ter conquistado as seguintes vantagens competitivas: base de clientes diversificada e pulverizada; excelência técnica e operacional; percentual relevante da receita proveniente de contratos de longo prazo; e qualidade reconhecida na prestação de serviços.",
+    "inventoriesId": [
+        6155,
+        6888,
+        8335
+    ],
+    "logoId": "d90172c0-53fd-2523-1d50-3a1222774e81",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,60 @@
+{
+    "id": 3323,
+    "name": "AVB",
+    "about": "Filosofia de sustentabilidade é o carro chefe das operações industriais da Aço Verde do Brasil, empresa do Grupo Ferroeste, localizada em Açailândia (MA). Sua usina integrada de aços longos, é pautada pela inovação e, desenvolvimento contínuo da sua equipe e, dos processos e produtos, assegurando desta forma uma produção de aço livre de combustíveis fósseis.\n\nNo segmento siderúrgico, a AVB tem como foco a produção do “aço verde”, conceito criado para um aço produzido 100% com energia renovável e uma pegada de baixo carbono. Para isso, a Aço Verde do Brasil investe maciçamente no setor florestal e em novas tecnologias para sua usina de aços longos.",
+    "inventoriesId": [
+        4803,
+        4802,
+        4804,
+        5112,
+        5892,
+        7298,
+        8260
+    ],
+    "logoId": "56167efe-7164-4ea4-8b2e-64398598728d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 10,
+        "acronym": "MA",
+        "name": "Maranhão"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

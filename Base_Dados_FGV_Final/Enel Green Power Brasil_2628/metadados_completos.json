@@ -1,0 +1,40 @@
+{
+    "id": 2628,
+    "name": "Enel Green Power Brasil",
+    "about": "Enel Green Power é uma empresa pertencente ao grupo ENEL SpA, que assim como outras empresas de geração na América do Sul fazem parte da Linha de Negócios de Energias Renováveis Global. Desta forma, à nível do Grupo, a Enel Green Power é responsável por: Desenvolver as atividades do Grupo relacionadas à geração de energia a partir de fontes renováveis (hidroelétrica, eólica, solar, geotérmica e biomassa). No Brasil, a Enel Green Power desenvolve atividades de geração a partir de empreendimentos hidrelétricos, solares e eólicos.\r\nO grupo vem atuando no Brasil desde 2007  se consolidando hoje como o maior Player na geração fotovoltaica e eólica no Brasil.\r\nO Sistema Integrado de Gestão de Qualidade, Segurança e Saúde, Meio Ambiente da Enel Green Power está certificado conforme as normas ISO 9001:2015, ISO 14001:2015, ISO 45001:2018 e ISO 37001:2016.\r\nAs emissões atmosféricas são uma preocupação da empresa e desta forma, ao longo dos anos, a mesma foi desenvolvendo formas de identificar as fontes de emissão e formas de monitorar as mesmas.\r\n",
+    "inventoriesId": [
+        3453,
+        3911,
+        4296
+    ],
+    "logoId": "3c4dd783-2b51-4b4a-bdff-0bb81a27e7d3",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

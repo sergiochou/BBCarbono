@@ -1,0 +1,55 @@
+{
+    "id": 1141,
+    "name": "RG LOG - Matriz São Paulo",
+    "about": "A RGLOG é uma empresa nacional que atua como Operador Logístico Multimodal, especializado nas operações de armazenagem e transporte para\r\nos mais variados segmentos como:\r\nTransporte de trânsito aduaneiro, controlado pela receita federal em regime DTA;\r\nTransporte de produtos perigosos e controlados;\r\nTransferência entre armazéns alfandegados (Container);\r\nSite especializado para Armazengem e Cross-docking de produtos industrializados localizado em Barueri - atual matriz administrativa da empresa ;\r\nDistribuição de carga fracionada para toda Região Metropolitana de São Paulo e principais cidades brasileiras;\r\nOperação In House na fábrica Caoa Montadora em Anápolis - Goias;\r\n100% de nossa frota dispõe de sistema de Telemetria e rastreamento on line, acompanhado 24hrs pela nossa própria gerenciadora; sendo esta frota própria e moderna com idade média de uso de 2,8 anos;\r\nCom mais de 200.000 mts2 de área operacional, entre pátios de contêineres, armazéns e áreas de suporte operacional a RGLOG filiais nos principais pontos do Sudeste e Centro-Oeste Brasileiro;\r\nNossos motoristas são altamente capacitados, estando em constante treinamento com o objetivo de garantir a segurança nas estradas e a satisfação de nossos\r\nclientes;\r\nEmpresa possui unidades certificadas com certificados de qualidade como ISO 9001:2008; SASSMAQ para produtos perigosos granel e ANVISA para transporte de:\r\nmedicamentos, medicamentos controlados, cosméticos, produtos para saúde e alimentos;\r\nA RG LOG possui ainda um sistema de gestão ambiental com o objetivo de evitar ao máximos as emissões de suas operações, bem como neutralizar os impactos ambientais causados por nossas atividades, tendo hoje uma área ampla no interior de Goias onde desde 2012 estão sendo plantadas milhares de mudas de seringueiras em um projeto amplo para realizar condições para a natureza mais oxigênio do que CO2 que emitimos.\r\n\r\n",
+    "inventoriesId": [
+        2731,
+        2088,
+        121,
+        2087,
+        3063,
+        3432
+    ],
+    "logoId": "451b5cda-9b02-4d95-953c-aca96ace57a6",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

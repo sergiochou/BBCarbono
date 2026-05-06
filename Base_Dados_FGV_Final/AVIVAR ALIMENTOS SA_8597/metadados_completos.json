@@ -1,0 +1,30 @@
+{
+    "id": 8597,
+    "name": "AVIVAR ALIMENTOS S/A ",
+    "about": "A Avivar Alimentos está presente no mercado desde 1999. Criada no interior de Minas Gerais, seguimos o propósito de alimentar bem um mundo em movimento, sempre avançando e investindo em novas tecnologias, causando um impacto real na vida de mais de 3 mil colaboradores diretos da Avivar.\n\nA Avivar oferece um mix com mais de 130 produtos entre cortes de frango in natura congelados, resfriados e industrializados nas marcas Avivar, Belavida e Rara.",
+    "inventoriesId": [
+        8438
+    ],
+    "logoId": "3ea0f0a4-061a-43be-7f54-3a19e0e4764a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 5834,
+    "name": "BioRevita Soluções Ambientais",
+    "about": "A BioRevita é uma empresa (ME) de consultoria ambiental liderada por mulheres e de atuação multidisciplinar, que oferece soluções ambientais para negócios, da avaliação da viabilidade de empreendimentos, até sua implantação e operação, do compliance à adequação da organização às práticas de sustentabilidade. A empresa atua principalmente com Estudos de Viabilidade Ambiental para novos empreendimentos; Licenciamento Ambiental, assim como adequação à legislação ambiental competente; Estudos e Projetos Ambientais (EIA-RIMA, RAP, EAS, EIV, RCA, PCA, PRAD); Levantamento de Fauna e Flora; Manejo Arbóreo e Compensação Ambiental; Due Diligence; Auditoria Ambiental; Princípios do Equador; Sustentabilidade; ESG.",
+    "inventoriesId": [
+        6731
+    ],
+    "logoId": "429b0f30-2421-4ce4-a318-2d0d573f0b4e",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

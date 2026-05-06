@@ -1,0 +1,50 @@
+{
+    "id": 3409,
+    "name": "Iguá",
+    "about": "A Iguá Saneamento S.A. atua no gerenciamento e na operação de sistemas de abastecimento de água e esgotamento sanitário. \nO seu volume de serviços a coloca entre os principais operadores privados do setor de saneamento do país. Com operações em 121 municípios de seis estados: Alagoas, Mato Grosso, Paraná, Rio de Janeiro, São Paulo e Sergipe. Presta serviços de saneamento básico que beneficiam aproximadamente 6 milhões de pessoas, por meio de sete concessões e três parcerias público-privadas.\nSite: https://igua.com.br/",
+    "inventoriesId": [
+        4626,
+        5257,
+        5773,
+        6775,
+        8063
+    ],
+    "logoId": "a19c603d-73c7-468d-8f7b-a3653b92295a",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

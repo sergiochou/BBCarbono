@@ -1,0 +1,512 @@
+[
+    {
+        "empresa_pasta": "Delurb Ambiental_3266",
+        "id_fgv": 3266,
+        "nome_oficial": "Delurb Ambiental",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 98.608,
+                    "emissoes_escopo_2": 1.639,
+                    "emissoes_escopo_3": 662.05,
+                    "total_emissoes": 762.297,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 274.407,
+                    "emissoes_escopo_2": 4.755,
+                    "emissoes_escopo_3": 1962.476,
+                    "total_emissoes": 2241.638,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 304.56,
+                    "emissoes_escopo_2": 1.74,
+                    "emissoes_escopo_3": 13390.905,
+                    "total_emissoes": 13697.205,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 738.474,
+                    "emissoes_escopo_2": 1.071,
+                    "emissoes_escopo_3": 62953.411,
+                    "total_emissoes": 63692.956,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,▶esgoto,▶atividades▶de▶gestão▶de▶resíduos▶e▶descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "DeMillus SA Indústria e Comércio_8563",
+        "id_fgv": 8563,
+        "nome_oficial": "DeMillus S/A Indústria e Comércio",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2379.382,
+                    "emissoes_escopo_2": 1113.299,
+                    "emissoes_escopo_3": 2380.646,
+                    "total_emissoes": 5873.327,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "DENSO DO BRASIL LTDA_4305",
+        "id_fgv": 4305,
+        "nome_oficial": "DENSO DO BRASIL LTDA",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2545.375,
+                    "emissoes_escopo_2": 3923.49,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6468.865,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5123.254,
+                    "emissoes_escopo_2": 2030.992,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7154.246,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5526.638,
+                    "emissoes_escopo_2": 2014.054,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7540.692,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "e) verificado?",
+                "Agrocortex / Fortaleza Ituxi / Florestal Santa Maria / Madre de Dios",
+                "Amazon.",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Associação Brasileira de Normas"
+            ],
+            "metas_net_zero": {
+                "ano": 2025,
+                "descricao": "somente fontes renováveis); 4ºCarbono Neutro, utilizando da Compra de créditos de carbono voltado para projetos de reflorestamento, até 2025, sendo po"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Desenvolve SP_9082",
+        "id_fgv": 9082,
+        "nome_oficial": "Desenvolve SP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesfinanceiras,deseguroseserviçosrelacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Destilaria Água Bonita_665",
+        "id_fgv": 665,
+        "nome_oficial": "Destilaria Água Bonita",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 29655.676,
+                    "emissoes_escopo_2": 2.684,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 29658.36,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Parque Ecológico",
+                "APP + Mata Ciliar"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Destino Verde_2481",
+        "id_fgv": 2481,
+        "nome_oficial": "Destino Verde",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.152,
+                    "emissoes_escopo_2": 0.201,
+                    "emissoes_escopo_3": 1.542,
+                    "total_emissoes": 1.895,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Programa Destino Verde Empresa Sustentável"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Dexco SA_62",
+        "id_fgv": 62,
+        "nome_oficial": "Dexco S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 235426.406,
+                    "emissoes_escopo_2": 81021.036,
+                    "emissoes_escopo_3": 137992.611,
+                    "total_emissoes": 454440.053,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 216607.264,
+                    "emissoes_escopo_2": 118396.21,
+                    "emissoes_escopo_3": 152499.007,
+                    "total_emissoes": 487502.481,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 198272.597,
+                    "emissoes_escopo_2": 101936.192,
+                    "emissoes_escopo_3": 153330.816,
+                    "total_emissoes": 453539.605,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 189496.204,
+                    "emissoes_escopo_2": 61609.099,
+                    "emissoes_escopo_3": 128431.625,
+                    "total_emissoes": 379536.928,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 156280.63,
+                    "emissoes_escopo_2": 64277.163,
+                    "emissoes_escopo_3": 164184.579,
+                    "total_emissoes": 384742.372,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 164615.308,
+                    "emissoes_escopo_2": 66209.23,
+                    "emissoes_escopo_3": 98778.687,
+                    "total_emissoes": 329603.225,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 151445.783,
+                    "emissoes_escopo_2": 51548.224,
+                    "emissoes_escopo_3": 87973.124,
+                    "total_emissoes": 290967.131,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 277629.208,
+                    "emissoes_escopo_2": 50978.03,
+                    "emissoes_escopo_3": 78900.857,
+                    "total_emissoes": 407508.095,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 328892.674,
+                    "emissoes_escopo_2": 111205.875,
+                    "emissoes_escopo_3": 98525.477,
+                    "total_emissoes": 538624.026,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 287133.446,
+                    "emissoes_escopo_2": 35541.109,
+                    "emissoes_escopo_3": 97593.501,
+                    "total_emissoes": 420268.056,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "DIAMANTE GERAÇÃO DE ENERGIA_5992",
+        "id_fgv": 5992,
+        "nome_oficial": "DIAMANTE GERAÇÃO DE ENERGIA",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Diatom_4693",
+        "id_fgv": 4693,
+        "nome_oficial": "Diatom",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 45686.342,
+                    "emissoes_escopo_2": 488.181,
+                    "emissoes_escopo_3": 1380.805,
+                    "total_emissoes": 47555.328,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 45917.687,
+                    "emissoes_escopo_2": 504.867,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 46422.554,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Preservação de Floresta Nativa e Reflorestamento de Eucaliptos",
+                "Reduções Nome da entidade Quantidade O projeto O projeto verificado",
+                "Nome do projeto vendidas compradora ou reduzida foi foi verificado a partir",
+                "? receptora (tCOe) verificado? do padrão",
+                "Utilização de Biomassa proveniente de Não",
+                "reflorestamento de Eucalipto para a",
+                "geração de vapor nas unidades da",
+                "Diatom - unidade Mogi das Cruzes e",
+                "Copasil - unidade de Indaiatuba em",
+                "substituição do Gás Natural.n"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Dimensional_3265",
+        "id_fgv": 3265,
+        "nome_oficial": "Dimensional",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 1239.644,
+                    "emissoes_escopo_2": 17.537,
+                    "emissoes_escopo_3": 1828.687,
+                    "total_emissoes": 3085.868,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 706.081,
+                    "emissoes_escopo_2": 30.089,
+                    "emissoes_escopo_3": 848.562,
+                    "total_emissoes": 1584.732,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 3414.115,
+                    "emissoes_escopo_2": 9.47,
+                    "emissoes_escopo_3": 3021.923,
+                    "total_emissoes": 6445.508,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 3569.106,
+                    "emissoes_escopo_2": 7.99,
+                    "emissoes_escopo_3": 5241.006,
+                    "total_emissoes": 8818.102,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

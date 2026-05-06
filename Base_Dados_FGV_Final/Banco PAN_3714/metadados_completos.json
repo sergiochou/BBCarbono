@@ -1,0 +1,40 @@
+{
+    "id": 3714,
+    "name": "Banco PAN",
+    "about": "Banco PAN é uma instituição financeira licenciada e operante no Brasil. Com sede em São Paulo (SP) e mais de 2.600 colaboradores, o banco atua majoritariamente nos segmentos de crédito e serviços financeiros transacionais para pessoas físicas. Por meio de uma plataforma digital completa e uma rede robusta de correspondentes bancários, o banco conecta seus 28 milhões de clientes a soluções financeiras contextuais com simplicidade, utilizando a tecnologia para democratizar o acesso de milhões de pessoas ao sistema financeiro. O Banco PAN oferece uma plataforma completa de soluções financeiras, abrangendo a concessão de crédito onde possui um longo histórico e forte posicionamento de mercado, e toda uma gama de serviços financeiros incluindo a transacionalidade financeira, alternativas simples de investimentos e consumo (“Marketplace”) além de uma gama completa de seguros. \n\nEm 2023, geramos R$ 11,9 bilhões em receitas e distribuímos um total de R$7,9 bilhões, incluindo pagamentos a fornecedores, colaboradores e provedores de capital e tributos. A carteira de crédito do Banco PAN fechou o ano de 2023 em R$ 41,8 bilhões, um aumento de 7% na comparação anual, entregando um lucro líquido de R$ 777 milhões. \nEm 2020 o Banco PAN iniciou sua agenda ESG, consolidando medidas de governança, gestão ambiental e climática e iniciativas sociais sob uma equipe específica. Em 2021 o banco implementou seu Comitê ESG, divulgou seu primeiro inventário de carbono e seu primeiro Relatório Anual no formato GRI. Ao longo de 2022, o Banco PAN alinhou toda sua estrutura de riscos ao Conglomerado Prudencial do BTG Pactual, que possui controle da instituição, com 73,9% das ações.\n\nNesse processo, o Comitê ESG passou a se chamar Comissão ESG e a reportar-se diretamente ao Conselho de Administração do Banco PAN e ao Comitê ESG do BTG Pactual, líder do Conglomerado. Além disso, o PAN evoluiu sua agenda ESG, passando a reportar os indicadores de 2022 e 2023 de forma auditada pela KPMG Auditores Independentes Ltda em formato GRI (Global Reporting Initiative) e SASB (Sustainability Accounting Standards Board).\n",
+    "inventoriesId": [
+        5081,
+        5871,
+        6864
+    ],
+    "logoId": "73691c25-fd32-4d4a-a60d-8147397be7e4",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

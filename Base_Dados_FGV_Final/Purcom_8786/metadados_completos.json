@@ -1,0 +1,30 @@
+{
+    "id": 8786,
+    "name": "Purcom",
+    "about": null,
+    "inventoriesId": [
+        9178
+    ],
+    "logoId": "98c927c2-b0d8-0c02-974c-3a19eb520deb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

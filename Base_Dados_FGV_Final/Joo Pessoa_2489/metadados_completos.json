@@ -1,0 +1,35 @@
+{
+    "id": 2489,
+    "name": "Jo?o Pessoa",
+    "about": "Sempre sob a inspiração dos valores cristãos, a Associação Congregação de Santa Catarina (ACSC) atua de forma integrada à comunidade e aos órgãos públicos, com o objetivo de promover o desenvolvimento humano e acolher pessoas em situação de risco e vulnerabilidade social.\r\n\r\nCom mais de 100 anos de atuação no Brasil, a ACSC está estruturada como uma rede social a serviço da vida. É responsável pela administração de 23 entidades em três segmentos de atuação: Saúde, Educação e Assistência Social.\r\n\r\nA ACSC criou um modelo de negócio no qual instituições que geram superávit transferem recursos para as obras sociais, a fim de executar dignamente suas atividades e acolher cada ser humano na sua integralidade, conciliando eficácia organizacional e compromisso com as necessidades das comunidades e valores cristãos. \r\n\r\nAo todo, são cerca de 13.000 colaboradores distribuídos em diversas instituições de saúde, mantendo inúmeros estabelecimentos de ensino e acolhendo crianças, adultos e idosos em espaços assistenciais, com atendimento humanizado e serviços de qualidade para milhares de pessoas em 6 estados brasileiros (Espírito Santo, Goiás, Minas Gerais, Rio de Janeiro, Santa Catarina e São Paulo). \r\n\r\nAtualmente, as entidades de saúde da ACSC são 10 hospitais próprios, 4 contratos de gestão de unidades públicas através de qualificação como OSS (Organização Social de Saúde). 111 mil internações, 558 mil atendimentos de urgência e emergência; 2 milhões e 913 mil exames; 73,7% dos atendimentos destinados aos usuários Sistema Único de Saúde (SUS); Qualificação técnica, instalações modernas e atendimento centrado no cuidado humano. Na Educação são 7 unidades, 4.934 alunos atendidos com ensino de qualidade; 1.005 estudantes com bolsas integrais assistenciais. Na Assistência Social são 02 unidades, mais de 600 pessoas em vulnerabilidade e risco social beneficiadas por projetos sociais da ACSC, atendimento a todo clico da vida: crianças, jovens, adultos e idosos.",
+    "inventoriesId": [
+        3314,
+        3905
+    ],
+    "logoId": "f8a18343-b6e2-46e6-be2b-d91860a311b9",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

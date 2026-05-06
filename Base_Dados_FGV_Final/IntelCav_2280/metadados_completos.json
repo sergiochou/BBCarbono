@@ -1,0 +1,35 @@
+{
+    "id": 2280,
+    "name": "IntelCav",
+    "about": "A IntelCav revolucionou o padrão de qualidade na fabricação de cartões no Brasil. Depois, conquistou a confiança de algumas das mais respeitadas instituições bancárias, financeiras e varejistas, nacionais e estrangeiras, que adotaram cartões produzidos, gravados, manuseados e expedidos pela empresa. Foi assim que a IntelCav se posicionou entre os maiores fabricantes de cartões bancários do mundo, oferecendo as mais modernas e seguras soluções em diversos outros segmentos.",
+    "inventoriesId": [
+        63,
+        1599
+    ],
+    "logoId": "d76bd522-ad53-4334-b6aa-422d712405d1",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

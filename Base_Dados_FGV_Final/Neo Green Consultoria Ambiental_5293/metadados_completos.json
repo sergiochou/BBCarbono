@@ -1,0 +1,40 @@
+{
+    "id": 5293,
+    "name": "Neo Green Consultoria Ambiental",
+    "about": "A Neo Green Consultoria Ambiental é especializada na prestação de consultoria ambiental para diversos segmentos públicos e privados, trabalhando principalmente nas áreas de licenciamento ambiental, elaboração de inventário de gases de efeito estufa e projetos de credito de carbono, com atuação em todo o Brasil.",
+    "inventoriesId": [
+        6284,
+        6892,
+        8325
+    ],
+    "logoId": "26b6e959-5747-c51a-d6a2-3a18cbee5dbf",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

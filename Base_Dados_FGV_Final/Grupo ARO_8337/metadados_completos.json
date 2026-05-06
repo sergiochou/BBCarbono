@@ -1,0 +1,30 @@
+{
+    "id": 8337,
+    "name": "Grupo ARO",
+    "about": "Somos um grupo econômico dedicado à criação sustentável de suínos e estamos em processo de construção de nosso próprio frigorífico para abate e processamento da carne. Nossa produção se destacará pela integração com florestas de eucalipto e espécies nativas, promovendo o sequestro de carbono e adotando práticas de manejo que garantam o bem-estar animal, exclusivamente da raça Duroc.",
+    "inventoriesId": [
+        8114
+    ],
+    "logoId": "a8572bb7-246b-3179-9fd7-3a1970ed4b82",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

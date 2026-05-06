@@ -1,0 +1,40 @@
+{
+    "id": 1016,
+    "name": "Laboratório Leme",
+    "about": "O Leme - Leme Laboratório de Endocrinologia e Metabologia da Bahia Ltda com 44 anos de atuação em Salvador e Região Metropolitana, sempre prezando por uma relação transparente, alicerçada pelo cuidado e compromisso pela excelência em serviços de laboratório, pela inovação e pioneirismo na área de saúde, buscando a melhoria contínua, compreende que, a geração de valor para o negócio só se torna completa através da maneira como nos relacionamos com a sociedade e o meio ambiente.\r\nO Leme possui modernas instalações em suas unidades de atendimento, com um ambiente acolhedor, atendimento humanizado e equipamentos de alta tecnologia sob a responsabilidade de uma equipe técnica especializada, além de contar com uma sede administrativa (Matriz), onde funciona a área técnica operacional, os setores de apoio administrativo e o serviço de coleta móvel. Buscando a melhoria de seus processos e mais do que a satisfação, a fidelização dos seus clientes, o Leme seguiu investindo em equipamentos de tecnologia de ponta, mantendo um alto padrão de qualidade e realizando mais de 2000 tipos de exames em sua área técnica e/ou nos Laboratórios de Apoio. Em 2016, foram realizados cerca de 4 milhões de exames e mais de 255 mil clientes foram atendidos.\r\nO Leme sempre buscou ter a sustentabilidade como diretriz estratégica do seu negócio e isso foi notório em toda a sua trajetória, a busca pelo cumprimento das legislações de saúde e ambientais, a implantação dos critérios da ISO 14001 (Gestão Ambiental), a divulgação do Relatório de Sustentabilidade e premiações como o Ser Humano Oswaldo Checchia (2014 na modalidade Desenvolvimento Sustentável e Responsabilidade Social) e em 2015, o prêmio Ser Humano Luíz Tarquínio, onde recebeu o reconhecimento de Empresa detentora do selo de Diversidade Étnico Racial da Secretaria de Reparação Social de Salvador (2015 e 2016).\r\nCom o objetivo de continuar gerenciando o seu crescimento de uma maneira sustentável, em 2015, o Leme se tornou signatária do Pacto Global.\r\nO Leme investiu desde a década de 90 em Qualidade através das certificações ISO 9001 e PALC – Programa de Acreditação para Laboratórios Clínicos. Em 2013 foram implantadas as normas OHSAS 18001 (Saúde e Segurança do trabalho), ISO 31000 (Gestão de Riscos) e ISO 27001 (Gestão da Segurança da Informação). Além disto, investiu na implantação dos critérios de excelência através da Premiação para o PGQB – Prêmio Gestão Qualidade Bahia, alcançando os níveis bronze (2012) e prata (2013). Outros prêmios também foram conquistados: Benchmarking Saúde Bahia (sempre alcançando os primeiros lugares), Guia Você SA (2013, 2014, 2015 e 2016 figurando entre as 150 melhores empresas para se trabalhar), GPTW Brasil (2014 ocupou o 14º lugar entre as médias e pequenas empresas para melhor trabalhar no Brasil, em 2015 - 9° lugar e em 2016 - 7° lugar), GPTW América Latina (2014 compôs a lista entre as empresas de médio porte, em 2015 - 29° lugar e em 2016 - 26° lugar).\r\nEm 2011, por estratégia, o Laboratório Leme inaugura o Centro de Vacinação – o IMUNIZA. O objetivo da parceria foi oferecer, no mesmo local, serviços complementares na prevenção e cuidado com a saúde. Em 2013, o Imuniza recebeu o certificado de acreditação da Sociedade Brasileira de Imunização (SBIM). \r\nNo final de dezembro de 2016, o Laboratório Leme é adquirido pelo Grupo DASA (Diagnósticos da América) passando a compor às 26 marcas do Grupo. A DASA é a maior empresa prestadora de serviços de medicina diagnóstica da América Latina, oferecendo mais de 3 mil tipos de exames de análises clínicas e diagnósticos por imagem.\r\nA empresa atua nas seguintes linhas de negócio: \r\n - Unidades de Atendimento (Premium): são 11 unidades distribuídas em Salvador e Região Metropolitana, no estado da Bahia. A busca contínua por inovação e o desenvolvimento sustentável, levou a inauguração, em 2012, da primeira unidade sustentável, simbolizando um grande diferencial no segmento de Laboratório. A partir disto, o Leme estabeleceu esse padrão como estratégia para as próximas instalações. Ao longo dos últimos anos, inaugurou três unidades com este perfil de infraestrutura verde que incluem, dentre outros avanços, uso de madeira de reflorestamento, concreto reciclado, ar-condicionado com gás ecológico, vidros refletivos, sistema dual flux nos toaletes e reaproveitamento de águas pluviais no sistema hidráulico.\r\n- Laboratório de Apoio: efetua análises que o laboratório contratante não tem estrutura/equipamentos para realizar. Na maioria das vezes, são exames de média ou alta complexidade e que precisam de profissionais especializados e maquinário com alto valor de mercado para serem processados.\r\n - Imunização: O Centro de Vacinação Imuniza, instalada nas Unidades de Atendimento do Laboratório Leme, tem uma proposta diferenciada. Os clientes do Imuniza também podem desfrutar de toda a comodidade, conforto, infraestrutura do Laboratório e uma grande variedade de vacinas com o mais alto padrão de qualidade.\r\nO Laboratório Leme foi a primeira empresa do segmento de saúde do Norte/Nordeste a participar do Programa Brasileiro GHG Protocol reafirmando o seu comprometimento com o desenvolvimento sustentável e garantindo a busca contínua por melhores práticas em sustentabilidade. \r\n",
+    "inventoriesId": [
+        2539,
+        2789,
+        3175
+    ],
+    "logoId": "a9a2f01d-fc40-40cd-ae94-0bdd693d94c7",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

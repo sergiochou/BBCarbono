@@ -1,0 +1,45 @@
+{
+    "id": 3816,
+    "name": "FLEX",
+    "about": "Somos 200 mil inovadores dedicados em melhor servir o cliente. Presente em 30 países, instalados em mais de 100 localidades, nos 5 continentes. Somente no Brasil, somos 12 mil, espalhados em 3 fábricas, 3 institutos de tecnologia, pesquisa e desenvolvimento e 1 centro de inovação em sustentabilidade. Vivemos transpondo obstáculos para desenvolver soluções inovadoras aos desa¬fios deste século. Estimulamos uma cultura para que nossos colaboradores ultrapassem os limites e trabalhem juntos, globalmente, para atingir metas além do imaginado. Acreditamos que vencemos, somente quando nossos clientes vencem. Nosso propósito é a criação de uma vida mais simples, inclusiva e mais próspera, por meio da tecnologia. A nova revolução, unindo tecnologia e o meio ambiente, já começou e nós estamos prontos!",
+    "inventoriesId": [
+        5675,
+        6706,
+        7707,
+        9129
+    ],
+    "logoId": "77672091-308b-45ac-9ffc-912929bbe387",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

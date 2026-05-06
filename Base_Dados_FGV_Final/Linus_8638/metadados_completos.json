@@ -1,0 +1,30 @@
+{
+    "id": 8638,
+    "name": "Linus",
+    "about": null,
+    "inventoriesId": [
+        8327
+    ],
+    "logoId": "f031d315-bc20-f2da-b9fa-3a19b80cbd83",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,566 @@
+[
+    {
+        "empresa_pasta": "Finnet SA  Tecnologia_1340",
+        "id_fgv": 1340,
+        "nome_oficial": "Finnet S/A - Tecnologia",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 11.041,
+                    "emissoes_escopo_2": 4.277,
+                    "emissoes_escopo_3": 52.701,
+                    "total_emissoes": 68.019,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 7.776,
+                    "emissoes_escopo_2": 9.985,
+                    "emissoes_escopo_3": 45.543,
+                    "total_emissoes": 63.304,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 6.951,
+                    "emissoes_escopo_2": 14.358,
+                    "emissoes_escopo_3": 42.046,
+                    "total_emissoes": 63.355,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 2.515,
+                    "emissoes_escopo_2": 21.845,
+                    "emissoes_escopo_3": 34.936,
+                    "total_emissoes": 59.296,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 1.139,
+                    "emissoes_escopo_2": 18.232,
+                    "emissoes_escopo_3": 44.947,
+                    "total_emissoes": 64.318,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 0.519,
+                    "emissoes_escopo_2": 12.478,
+                    "emissoes_escopo_3": 17.06,
+                    "total_emissoes": 30.057,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 16.444,
+                    "emissoes_escopo_2": 16.015,
+                    "emissoes_escopo_3": 42.573,
+                    "total_emissoes": 75.032,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 23.398,
+                    "emissoes_escopo_2": 9.39,
+                    "emissoes_escopo_3": 50.483,
+                    "total_emissoes": 83.271,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Pequena Central Hidrelétrica Garganta da Jararaca",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2012",
+                "Inventário 2012 - Finnet S/A - Tecnologia",
+                "Finnet S/A - Tecnologia",
+                "Nome fantasia: Finnet S/A - Tecnologia",
+                "CNPJ: 05.607.266/0001-10",
+                "Setor econômico: Informação e comunicação",
+                "Subsetor: Atividades dos serviços de tecnologia da informação",
+                "Endereço: Alameda Araguaia - 2044 - conj. 310,311,312 - Alphaville - Barueri - SP - 06455-"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "FLEX_3816",
+        "id_fgv": 3816,
+        "nome_oficial": "FLEX",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2729.239,
+                    "emissoes_escopo_2": 6459.506,
+                    "emissoes_escopo_3": 1077449.05,
+                    "total_emissoes": 1086637.795,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1131.984,
+                    "emissoes_escopo_2": 2117.483,
+                    "emissoes_escopo_3": 791070.23,
+                    "total_emissoes": 794319.697,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1928.704,
+                    "emissoes_escopo_2": 1891.213,
+                    "emissoes_escopo_3": 708448.551,
+                    "total_emissoes": 712268.468,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ford_1963",
+        "id_fgv": 1963,
+        "nome_oficial": "Ford",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 25925.0,
+                    "emissoes_escopo_2": 17392.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 43317.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 26826.0,
+                    "emissoes_escopo_2": 8758.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 35584.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 48834.23,
+                    "emissoes_escopo_2": 18620.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 67454.23,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 36215.28,
+                    "emissoes_escopo_2": 10655.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 46870.28,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 35263.41,
+                    "emissoes_escopo_2": 23769.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 59032.41,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 41073.78,
+                    "emissoes_escopo_2": 35854.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 76927.78,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 32908.227,
+                    "emissoes_escopo_2": 44140.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 77048.227,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 32965.622,
+                    "emissoes_escopo_2": 35464.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 68429.622,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 26082.86,
+                    "emissoes_escopo_2": 20041.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 46123.86,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 28814.85,
+                    "emissoes_escopo_2": 32023.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 60837.85,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 25787.17,
+                    "emissoes_escopo_2": 20662.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 46449.17,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 705.757,
+                    "emissoes_escopo_2": 462.56,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1168.317,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1213.05,
+                    "emissoes_escopo_2": 924.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2137.05,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "rica renovável até 2035 e ser Carbono Neutro até 2050. 4.2 Descrição de indicadores de emissão de GEE para as atividades da organizaç"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Foresea_7459",
+        "id_fgv": 7459,
+        "nome_oficial": "Foresea",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 20033.667,
+                    "emissoes_escopo_2": 30.4,
+                    "emissoes_escopo_3": 186777.735,
+                    "total_emissoes": 206841.802,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 8177.226,
+                    "emissoes_escopo_2": 34.313,
+                    "emissoes_escopo_3": 197905.662,
+                    "total_emissoes": 206117.201,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Forship_6079",
+        "id_fgv": 6079,
+        "nome_oficial": "Forship",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 0.03,
+                    "emissoes_escopo_2": 2.646,
+                    "emissoes_escopo_3": 8048618.996,
+                    "total_emissoes": 8048621.672,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Foundever  São Paulo_6027",
+        "id_fgv": 6027,
+        "nome_oficial": "Foundever  São Paulo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 341.964,
+                    "emissoes_escopo_2": 90.564,
+                    "emissoes_escopo_3": 385.858,
+                    "total_emissoes": 818.386,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Foundever Curitiba_6028",
+        "id_fgv": 6028,
+        "nome_oficial": "Foundever Curitiba",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 20.938,
+                    "emissoes_escopo_3": 11.856,
+                    "total_emissoes": 32.794,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Foz do Chapecó Energia_2016",
+        "id_fgv": 2016,
+        "nome_oficial": "Foz do Chapecó Energia",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 45.894,
+                    "emissoes_escopo_2": 1.131,
+                    "emissoes_escopo_3": 23.961,
+                    "total_emissoes": 70.986,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 51.903,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 46.944,
+                    "total_emissoes": 98.847,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 53.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 46.928,
+                    "total_emissoes": 99.928,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 40.962,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1203.537,
+                    "total_emissoes": 1244.499,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "FR INCORPORADORA LTDA_6124",
+        "id_fgv": 6124,
+        "nome_oficial": "FR INCORPORADORA LTDA",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 154.728,
+                    "emissoes_escopo_2": 38.817,
+                    "emissoes_escopo_3": 97.646,
+                    "total_emissoes": 291.191,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "FREDINI ALIMENTOS_8569",
+        "id_fgv": 8569,
+        "nome_oficial": "FREDINI ALIMENTOS",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento▶e▶alimentação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    }
+]

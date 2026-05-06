@@ -1,0 +1,30 @@
+{
+    "id": 8291,
+    "name": "Unidas Locações e Serviços S.A.",
+    "about": null,
+    "inventoriesId": [
+        8365
+    ],
+    "logoId": "e0a2a4a8-e8f9-b8c1-6b51-3a189931f9e6",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

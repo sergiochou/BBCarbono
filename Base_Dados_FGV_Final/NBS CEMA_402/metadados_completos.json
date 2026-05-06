@@ -1,0 +1,30 @@
+{
+    "id": 402,
+    "name": "NBS CEMA",
+    "about": "Em 1998 surge a NBS CEMA associação de duas tradicionais empresas de consultoria, que atuavam em parceria desde 1995. As competências complementares da NBS em Gestão Empresarial e as da CEMA em Meio Ambiente, vem permitindo um atendimento mais abrangente e completo a seus clientes.\r\n\r\nA NBS CEMA deste sua criação dedica-se a a integração de Sistemas de Gestão Ambiental e de Segurança à Sistemas de Gestão da Qualidade, podendo inclusive:\r\n\r\n- Gerenciar e Desenvolver com apoio do conhecimento de suas Controladoras NBS e CEMA projetos complementares.\r\n- Realizar Inventários de Gases de Efeito Estufa, Avaliações Ambiental e de Saúde e Segurança Ocupacional iniciais, Auditorias de Sistemas, Treinamentos e Capacitação do Pessoal e Projetos de sustentabilidade também estão no escopo do trabalho da NBS CEMA.\r\n\r\nNestes anos de atuação, a NBS CEMA tem se destacado em diversos segmentos, com clientes como Boticário, Syngenta, Volkswagen, GM, Yamana Gold, Eternit, Sama Mineração, Ajinomoto, Vale, Itambé, Essencis, Estre, GlobalPack, DeBeers, Encalço Engenharia etc.",
+    "inventoriesId": [
+        1841
+    ],
+    "logoId": "5c4405d1-527a-48cd-bb95-93d97ef8c722",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

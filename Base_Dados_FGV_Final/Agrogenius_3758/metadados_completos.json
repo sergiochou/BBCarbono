@@ -1,0 +1,30 @@
+{
+    "id": 3758,
+    "name": "Agrogenius",
+    "about": "A Agrogenius nasceu do sonho de seu Fundador Marcio Mitidieri em 1996. Empresa especializada na prestação de serviços para a preparação de propriedades rurais e indústrias que possuem o objetivo de certificar seus processos e produtos.\r\n\r\nPrestando serviço de consultoria padronizado para facilitar o processo de adequação e conformidade, refinados desde 1996, para garantir maior tranquilidade ao produtor.\r\n    \r\nDisponibilizando uma solução completa de serviços de segurança no trabalho, regularização ambiental, certificações e gestão para simplificar e economizar tempo e dinheiro, que poderão ser melhor utilizados pelo empreendedor e o seu negócio.\r\n",
+    "inventoriesId": [
+        5163
+    ],
+    "logoId": "8d93845b-f4ef-4639-a836-d99e3bd05aa8",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

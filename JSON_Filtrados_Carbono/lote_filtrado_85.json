@@ -1,0 +1,446 @@
+[
+    {
+        "empresa_pasta": "ULTRACARGO_3866",
+        "id_fgv": 3866,
+        "nome_oficial": "ULTRACARGO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 10715.149,
+                    "emissoes_escopo_2": 569.09,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 11284.239,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 5814.379,
+                    "emissoes_escopo_2": 1358.2,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7172.579,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 8173.121,
+                    "emissoes_escopo_2": 514.188,
+                    "emissoes_escopo_3": 43114.667,
+                    "total_emissoes": 51801.976,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 8637.654,
+                    "emissoes_escopo_2": 364.39,
+                    "emissoes_escopo_3": 78286.541,
+                    "total_emissoes": 87288.585,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ultragaz_1204",
+        "id_fgv": 1204,
+        "nome_oficial": "Ultragaz",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 22023.001,
+                    "emissoes_escopo_2": 2218.135,
+                    "emissoes_escopo_3": 99883.609,
+                    "total_emissoes": 124124.745,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 20732.455,
+                    "emissoes_escopo_2": 3169.034,
+                    "emissoes_escopo_3": 96025.347,
+                    "total_emissoes": 119926.836,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 18215.936,
+                    "emissoes_escopo_2": 2863.964,
+                    "emissoes_escopo_3": 89489.249,
+                    "total_emissoes": 110569.149,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 16032.977,
+                    "emissoes_escopo_2": 1737.685,
+                    "emissoes_escopo_3": 90123.848,
+                    "total_emissoes": 107894.51,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 15716.878,
+                    "emissoes_escopo_2": 1952.971,
+                    "emissoes_escopo_3": 95825.532,
+                    "total_emissoes": 113495.381,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 15527.974,
+                    "emissoes_escopo_2": 1602.328,
+                    "emissoes_escopo_3": 110167.085,
+                    "total_emissoes": 127297.387,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade\u0002e\u0002gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 15420.402,
+                    "emissoes_escopo_2": 876.257,
+                    "emissoes_escopo_3": 106759.626,
+                    "total_emissoes": 123056.285,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 15147.042,
+                    "emissoes_escopo_2": 1003.308,
+                    "emissoes_escopo_3": 6269979.7,
+                    "total_emissoes": 6286130.05,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Unicred União_8759",
+        "id_fgv": 8759,
+        "nome_oficial": "Unicred União",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesfinanceiras,deseguroseserviçosrelacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Unidas Locações e Serviços SA_8291",
+        "id_fgv": 8291,
+        "nome_oficial": "Unidas Locações e Serviços S.A.",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Unidas_2928",
+        "id_fgv": 2928,
+        "nome_oficial": "Unidas",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 50.415,
+                    "emissoes_escopo_2": 540.79,
+                    "emissoes_escopo_3": 289002.195,
+                    "total_emissoes": 289593.4,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2359.031,
+                    "emissoes_escopo_2": 543.778,
+                    "emissoes_escopo_3": 366084.633,
+                    "total_emissoes": 368987.442,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 12340.847,
+                    "emissoes_escopo_2": 1078.893,
+                    "emissoes_escopo_3": 367095.996,
+                    "total_emissoes": 380515.736,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Créditos de Carbono Premium",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Instituto Totum Nome da OI: Unidas S.A",
+                "Nome do verificador líder: Roberta Bertoni Nome do responsável pelo inventário: Fernanda Cotta",
+                "E-mail: ro_bertoni@yahoo.com.br E-mail: fernanda.cotta@unidas.com.br"
+            ],
+            "metas_net_zero": {
+                "ano": 2028,
+                "descricao": "ompromisso de ser uma empresa Carbono Neutro até 2028. Programa Unidas Carbono Neutro, principais pilares: aquisição de energia renov"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Unilever_30",
+        "id_fgv": 30,
+        "nome_oficial": "Unilever",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 91424.09,
+                    "emissoes_escopo_2": 25275.77,
+                    "emissoes_escopo_3": 164211.32,
+                    "total_emissoes": 280911.18,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 84681.983,
+                    "emissoes_escopo_2": 13676.354,
+                    "emissoes_escopo_3": 122781.936,
+                    "total_emissoes": 221140.273,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 74139.701,
+                    "emissoes_escopo_2": 34622.155,
+                    "emissoes_escopo_3": 126643.808,
+                    "total_emissoes": 235405.664,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 86124.747,
+                    "emissoes_escopo_2": 31720.895,
+                    "emissoes_escopo_3": 110626.009,
+                    "total_emissoes": 228471.651,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 95081.404,
+                    "emissoes_escopo_2": 77771.636,
+                    "emissoes_escopo_3": 127233.001,
+                    "total_emissoes": 300086.041,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Unimed Curitiba_8255",
+        "id_fgv": 8255,
+        "nome_oficial": "Unimed Curitiba",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Unimed do Brasil_7771",
+        "id_fgv": 7771,
+        "nome_oficial": "Unimed do Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Uniodonto Porto Alegre_8760",
+        "id_fgv": 8760,
+        "nome_oficial": "Uniodonto Porto Alegre",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúdehumanaeserviçossociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "UNIVERSIDADE DO VALE DO ITAJAÍ_6158",
+        "id_fgv": 6158,
+        "nome_oficial": "UNIVERSIDADE DO VALE DO ITAJAÍ",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 615.298,
+                    "emissoes_escopo_2": 244.058,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 859.356,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "id": 2890,
+    "name": "CREA-SP",
+    "about": "Crea-SP é a sigla que identifica o Conselho Regional de Engenharia e Agronomia do Estado de São Paulo - o maior Conselho de Fiscalização de Exercício Profissional da América Latina e provavelmente um dos maiores do mundo. O Crea-SP é responsável pela fiscalização de atividades profissionais nas áreas da Engenharia, Agronomia, Geologia, Geografia e Meteorologia, além das atividades dos Tecnólogos. \r\n\r\nO Crea-SP fiscaliza, controla , orienta e aprimora o exercício e as atividades profissionais da Engenharia Civil, Engenharia Ambiental, Engenharia Sanitarista, Engenharia de Infraestrutura Aeronáutica, Engenharia Hídrica, Engenharia Elétrica, Engenharia de Computação, Engenharia de Telecomunicações, Engenharia de Controle e Automação, Engenharia Eletrônica e Eletrotécnica, Engenharia Mecânica, Engenharia Industrial, Engenharia de Produção, Engenharia de Operação, Engenharia Metalúrgica, Engenharia Aeronáutica, Engenharia Naval, Engenharia Química, Engenharia de Alimentos, Engenharia de Materiais, Engenharia Têxtil, Geologia, Engenharia de Minas, Engenharia de Geologia, Engenharia de Agrimensura, Engenharia Cartográfica, Geografia, Agronomia (ou Engenharia Agronômica), Engenharia Florestal, Engenharia Agrícola, Engenharia de Pesca, Engenharia de Aquicultura, Meteorologia e Engenharia de Segurança do Trabalho.",
+    "inventoriesId": [
+        4404,
+        4964,
+        5695,
+        6727,
+        7821,
+        9231
+    ],
+    "logoId": "ef99c65e-febc-42c1-bf28-a734e7981ed6",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

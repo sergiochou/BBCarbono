@@ -1,0 +1,30 @@
+{
+    "id": 1586,
+    "name": "Governo do Estado de Santa Catarina",
+    "about": "O Inventário de Emissões de GEE do Governo do Estado de Santa Catarina é constituído pela contabilização das emissões de 27 instituições da administração pública direta, 36 Secretarias de Desenvolvimento Regional e 29 instituições da administração pública indireta. \r\n\r\nEntre os principais desafios observados neste trabalho, pode-se destacar a singularidade da estrutura pública administrativa do Estado. Como a organização passa por alterações frequentemente, observa-se a segregação e também a união de dados, o que pode dificultar ou facilitar a coleta destes. Além disso, em muitas situações as informações necessárias ao Inventário de Emissões de GEE não são contabilizadas previamente pelo Estado, uma vez que este não possui controle sobre suas emissões até então. Além disso, tem o fato do pioneirismo de Santa Catarina em um trabalho deste porte.\r\n\r\nEste trabalho contou com o envolvimento de 113 servidores públicos estaduais, os quais foram capacitados não só nas ferramentas específicas do inventário como também em uma visão de sustentabilidade que certamente servirá para suas vidas profissionais e particulares. Uns tiveram maior envolvimento e demonstraram maior aptidão técnica que outros, fato que pode explicar algumas possíveis incertezas nos dados.\r\n\r\nSugere-se uma continuidade neste trabalho no sentido de organização dos dados necessários, uma vez que esta traria maior eficiência ao trabalho administrativo do Governo do Estado de Santa Catarina em sua totalidade. ",
+    "inventoriesId": [
+        349
+    ],
+    "logoId": "0ec313c2-31f1-4617-88b3-e07e654b9474",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

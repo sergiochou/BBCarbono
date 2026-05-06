@@ -1,0 +1,30 @@
+{
+    "id": 8159,
+    "name": "JLR Brasil",
+    "about": "A Jaguar Land Rover é a maior fabricante de automóveis do Reino Unido. A empresa conta com mais de 37 mil colaboradores em todo o mundo e comercializa seus produtos em mais de 170 países.\nNosso país foi escolhido como o primeiro da América Latina a contar com linha de produção local desde 14 de junho de 2016, mantendo a mesma qualidade britânica reconhecida no mundo todo. A unidade nacional fabrica o modelo da Land Rover mais vendido no Brasil: o Discovery Sport, com produção voltada para a demanda de consumidores brasileiros. Hoje, os veículos nacionais estão em toda a rede de concessionários da empresa, presente nas cinco regiões do país.",
+    "inventoriesId": [
+        7925
+    ],
+    "logoId": "5f66ba36-e156-dd5c-8a81-3a14a123f576",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

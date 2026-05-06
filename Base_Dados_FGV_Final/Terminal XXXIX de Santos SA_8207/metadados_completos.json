@@ -1,0 +1,40 @@
+{
+    "id": 8207,
+    "name": "Terminal XXXIX de Santos SA",
+    "about": null,
+    "inventoriesId": [
+        8279,
+        8275,
+        8276
+    ],
+    "logoId": "af4ba2c5-8901-dfd3-22ac-3a17163f9f52",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

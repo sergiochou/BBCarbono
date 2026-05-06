@@ -1,0 +1,80 @@
+{
+    "id": 1049,
+    "name": "COMBIO ENERGIA",
+    "about": "A ComBio Energia promove a substituição do uso de combustíveis fosseis pelo uso de biomassa renovável, na geração de vapor e energia para o segmento industrial. Promovendo redução de custos aliada a redução de emissões de CO2 aos nossos clientes.\r\nO modelo de negocio inclui o investimento nos ativos, operação e manutenção dos mesmos e o suprimento da biomassa, de modo que o cliente não incorre em riscos financeiros ou operacionais.\r\nA biomassa tem origem comprovada e sustentável. Na maioria dos casos, consiste em resíduos agrícolas e/ou florestais que muitas vezes são destinadas de forma inadequada ao meio ambiente gerando impactos negativos tais como a formação de gás metano, potente precursor do efeito estufa.",
+    "inventoriesId": [
+        2295,
+        2973,
+        3391,
+        3597,
+        3814,
+        4355,
+        4694,
+        5321,
+        5997,
+        6926,
+        8554
+    ],
+    "logoId": "51c7359c-a72a-ccec-243d-3a18bbff11b2",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

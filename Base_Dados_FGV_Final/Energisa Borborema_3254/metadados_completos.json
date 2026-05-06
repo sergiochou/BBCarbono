@@ -1,0 +1,30 @@
+{
+    "id": 3254,
+    "name": "Energisa Borborema",
+    "about": null,
+    "inventoriesId": [
+        4755
+    ],
+    "logoId": "a4827031-63c8-4e38-b601-fa52c1f19793",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 15,
+        "acronym": "PB",
+        "name": "Paraíba"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

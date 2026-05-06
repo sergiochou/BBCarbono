@@ -1,0 +1,30 @@
+{
+    "id": 1612,
+    "name": "CENTRO VIANEI DE EDUCAÇÃO POPULAR",
+    "about": "O Centro Vianei de Educação Popular é uma entidade da sociedade civil, Organização Não Governamental (ONG), sem fins lucrativos, fundado em 1983, com atuação nos Movimentos e Organizações Populares e na assessoria aos trabalhadores rurais organizados ou em processo de organização. O trabalho busca na essência uma sociedade democrática, participativa, justa e solidária. É filiado desde 1991, à Associação Vianei de Cooperação e Intercâmbio no Trabalho, Educação, Cultura e Saúde (AVICITECS). Ocupou-se nos três últimos anos em: assessorar processos nas áreas do cooperativismo de crédito; formação de jovens nas CFR s; capacitação técnica e política através de Cursos de Educação Popular (CEP s) e outros cursos; produção agroecológica de alimentos; comercialização direta da produção; agroindustrialização artesanal e certificação de produtos agroecológicos. O Centro Vianei tem se firmado em sua área de ação como sujeito histórico mediador de um projeto de fortalecimento da sociedade civil, em relações que buscam democratizar o Estado.\r\n\r\nOs programas da entidade se orientam dentro de dois eixos básicos: Educação Popular (capacitação) e Agroecologia.",
+    "inventoriesId": [
+        2093
+    ],
+    "logoId": "6530f30c-c0ab-4c31-abed-868bfea035b6",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

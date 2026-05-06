@@ -1,0 +1,40 @@
+{
+    "id": 906,
+    "name": "Enel Distribuição São Paulo",
+    "about": "A Enel Distribuição São Paulo\r\n\r\nSomos a maior distribuidora do país em número de clientes. Atendemos 7,2 milhões de unidades consumidoras, conectando 18 milhões de pessoas, em 24 municípios da região metropolitana de São Paulo, incluindo a capital paulista, um dos principais centros econômico-financeiros do Brasil e do mundo. Para atender essa população, prestamos nossos serviços 24 horas por dia, todos os dias. Somos mais de 7 mil colaboradores próprios e 15 mil colaboradores contratados unidos em um desafio constante: o de levar energia com qualidade e segurança para todos os nossos clientes.\r\n\r\nSobre o grupo Enel\r\n\r\nSomos uma empresa multinacional e um dos principais players integrados dos mercados globais de energia e gás. Estamos presentes em mais de 30 países e levamos energia a 73 milhões de usuários finais ao redor do mundo.\r\nNo Brasil, somos a maior empresa privada do setor elétrico e desempenhamos papel de liderança no desenvolvimento das fontes renováveis de energia no país. Atuamos em toda a cadeia energética, com atividades nas áreas de geração, distribuição, transmissão e comercialização, além de soluções em energia. Por meio de quatro distribuidoras, nos estados do Rio de Janeiro, Ceará, Goiás e São Paulo, levamos energia a cerca de 17 milhões de clientes . ",
+    "inventoriesId": [
+        3536,
+        4007,
+        4382
+    ],
+    "logoId": "08a1b9b9-eb8a-4596-bd4e-d6a0273f5e98",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

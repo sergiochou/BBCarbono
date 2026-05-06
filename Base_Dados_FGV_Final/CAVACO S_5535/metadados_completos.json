@@ -1,0 +1,30 @@
+{
+    "id": 5535,
+    "name": "CAVACO S",
+    "about": "Fundada no ano de 2003, a Cavaco’s é uma indústria de beneficiamento e fabricação de combustível de biomassa, descaracterização e destinação final dos resíduos de madeira, sendo pioneiros nesse segmento. Tem como produto principal a Biomassa para queima e geração de energia em diversos setores e necessidades. Combustível de alta eficiência e ambientalmente correto com custo benefício considerável substituindo combustíveis fósseis não renováveis estimulando a economia circular.",
+    "inventoriesId": [
+        6669
+    ],
+    "logoId": "be4c38a8-d938-43c9-96d9-ffa859f68bb1",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

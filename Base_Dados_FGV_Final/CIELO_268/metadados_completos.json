@@ -1,0 +1,75 @@
+{
+    "id": 268,
+    "name": "CIELO",
+    "about": "A Cielo S.A. tem como objetivo principal a prestação de serviços relacionados a cartões de crédito e de débito e outros meios de pagamento, bem como a prestação de serviços correlatos, tais como o credenciamento de estabelecimentos comerciais e de prestadores de serviços; o aluguel, a instalação e a manutenção de terminais eletrônicos; e a coleta de dados e de processamento de transações eletrônicas e manuais.\r\n\r\nObservação: O inventário de Gases de Efeito estufa da Cielo S.A. contempla as emissões da controlada direta Servinet Serviços Ltda. (“Servinet”), Aliança Pagamentos e Participações Ltda e Stelo.",
+    "inventoriesId": [
+        22,
+        2323,
+        1897,
+        409,
+        2769,
+        3119,
+        3449,
+        3791,
+        4180,
+        4644
+    ],
+    "logoId": "e4629231-3155-4edb-b2ad-8d83e53f7f81",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

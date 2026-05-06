@@ -1,0 +1,40 @@
+{
+    "id": 4043,
+    "name": "Porto de Rio Grande",
+    "about": "A Portos RS é uma empresa pública responsável por organizar, gerenciar e fiscalizar todo o sistema hidroportuário do Estado do Rio Grande do Sul. Este sistema conta com os portos públicos de Rio Grande, Pelotas e Porto Alegre, além de 17 terminais de uso privado. São mais de 754 km de vias navegáveis com ampla capacidade de receber novos complexos industriais. ",
+    "inventoriesId": [
+        6061,
+        7092,
+        9251
+    ],
+    "logoId": "58aa3947-8d73-4955-b40c-64e035a6b39d",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

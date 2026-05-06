@@ -1,0 +1,40 @@
+{
+    "id": 7555,
+    "name": "Brasol Participações e Empreendimentos S/A",
+    "about": "A Brasol é uma das principais desenvolvedoras, investidores e operadoras de infraestrutura de transição energética no Brasil, com um portfólio que inclui energia solar, subestações, carregamento de veículos elétricos e sistemas de armazenamento de baterias. Apoiada pelos acionistas Siemens e BlackRock, a Brasol fornece infraestrutura de energia em contratos de locação de desempenho que geram eficiência de custos de energia, confiabilidade e sustentabilidade para clientes comerciais e industriais. E, por meio de suas iniciativas estratégicas no mercado de capitais, a Brasol oferece aos investidores oportunidades de retornos atraentes e ajustados ao risco, apoiando a transição energética. Ao criar valor para clientes, comunidades e investidores, a Brasol está construindo o futuro da energia.",
+    "inventoriesId": [
+        7260,
+        7261,
+        8451
+    ],
+    "logoId": "ac48e5be-3279-66ea-7a56-3a19e765ee40",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

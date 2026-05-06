@@ -1,0 +1,40 @@
+{
+    "id": 4530,
+    "name": "Ferroport",
+    "about": "A FERROPORT Logística Comercial Exportadora S. A., ou simplesmente denominada FERROPORT, é uma joint venture, para exportação de minério de ferro, em forma de pellet feed, através de estrutura portuária para exportação de uso privativo.  \n\nO minério de ferro, proveniente da Anglo American extraído na região de Conceição de Mato Dentro, estado de Minas Gerais, é transportado até o Porto do Açu sob a forma de polpa através de um mineroduto com 530 km de extensão, com capacidade de transporte de 4.329 t/h de polpa de minério em água, sendo estas atividades de propriedade e responsabilidade da Anglo American.\n\nNa Unidade de filtragem da Anglo American localizada no terminal portuário o minério de ferro é desaguado da polpa, e segue para a FERROPORT para estocagem em pilhas sob a forma de pellet feed até o momento do embarque, com auxilio da recuperadora coloca-se  o minério nas correias transportadoras, que percorrem um caminho de aproximadamente 6 km até o píer. No píer, o shiploader realiza o embarque do minério de ferro nos navios, que seguem para vários destinos no mundo.\n\n",
+    "inventoriesId": [
+        5790,
+        6795,
+        7869
+    ],
+    "logoId": "09421b0e-0523-d396-53ce-3a20bdf77aec",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

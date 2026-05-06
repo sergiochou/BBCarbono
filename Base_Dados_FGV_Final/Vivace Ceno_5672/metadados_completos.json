@@ -1,0 +1,40 @@
+{
+    "id": 5672,
+    "name": "Vivace Ceno ",
+    "about": "Comprometimento, excelência, ética e transparência na elaboração e montagem de estandes, cenografias e displays especiais.",
+    "inventoriesId": [
+        6641,
+        7338,
+        9294
+    ],
+    "logoId": "93b91f9e-15d6-0e31-6b60-3a13004a29ea",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

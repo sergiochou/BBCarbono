@@ -1,0 +1,30 @@
+{
+    "id": 8349,
+    "name": "APSEN FARMACÊUTICA S/A",
+    "about": "Nossa história de valor.\n\nA Apsen nasceu com o propósito de levar aos brasileiros a paixão pela saúde e pelo cuidado.\nHá mais de cinco décadas, desenvolvemos soluções inovadoras em saúde, incentivando o autocuidado e promovendo a ciência e o bem-estar coletivo.\n\nFundada em 1969 pelos imigrantes italianos Mario e Irene Spallicci, a Apsen iniciou suas atividades com um pequeno laboratório no bairro de Santo Amaro, em São Paulo (SP), dedicado inicialmente à produção de insumos derivados de fontes animais para a indústria farmacêutica.\n\nCom anos de experiência no mercado, ampliamos nossas instalações e, hoje, nosso complexo abriga as áreas administrativas, industriais e de Pesquisa e Desenvolvimento (P&D), além da recente abertura do nosso novo Centro Logístico Apsen em Varginha (MG), que fortalece ainda mais nossa capacidade logística.\n\nNossa sólida presença nacional no mercado farmacêutico e de suplementos alimentares é capaz de atender a diversas especialidades terapêuticas. Graças aos parceiros da nossa cadeia de valor, estamos presentes em farmácias, hospitais e clínicas, além de atender órgãos públicos, como secretarias de saúde estaduais e municipais.\n\nCom 55 anos de história, a Apsen continua crescendo de forma sólida e responsável, gerando milhares de empregos, mantendo o seu compromisso com a inovação, a sustentabilidade e o respeito às pessoas e ao meio ambiente, e contribuindo diretamente para o desenvolvimento social, econômico e científico no Brasil.",
+    "inventoriesId": [
+        8033
+    ],
+    "logoId": "82b9fc33-ff4c-9b6a-ffad-3a19e1683f85",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

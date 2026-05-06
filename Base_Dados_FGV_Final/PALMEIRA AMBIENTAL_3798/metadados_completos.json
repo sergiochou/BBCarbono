@@ -1,0 +1,45 @@
+{
+    "id": 3798,
+    "name": "PALMEIRA AMBIENTAL",
+    "about": "Fundada em 1991, a Palmeira Ambiental Ltda. atua no gerenciamento de resíduos industriais, oferecendo soluções para tratamento e destinação ambientalmente adequada. Com sede em Ponta Grossa, atende a região Sul do Brasil, operando em conformidade com a legislação ambiental vigente e com foco na sustentabilidade.\nA empresa possui estrutura operacional própria, garantindo eficiência e controle ambiental em suas atividades.\nComo reconhecimento de suas práticas, evoluiu da Categoria B para a Categoria A no Selo Clima Paraná, evidenciando a melhoria contínua na gestão das emissões de gases de efeito estufa (GEE), além de participar do Programa Brasileiro GHG Protocol.\nComplementarmente, desenvolve ações socioambientais com foco em educação ambiental e economia circular, destacando-se a parceria com a Prefeitura de Ponta Grossa para execução de programas de educação ambiental voltados à coleta seletiva, atingindo mais de 500 crianças em 2025, além da parceria com a Universidade Estadual de Ponta Grossa (UEPG) para destinação de óleo usado de colaboradores na produção de sabão.\nComo estratégia climática, realiza a compensação de emissões por meio da aquisição de créditos de carbono e, neste ciclo, passa a incorporar também certificados de energia renovável (I-RECs), visando a mitigação das emissões associadas ao consumo de energia elétrica.",
+    "inventoriesId": [
+        5027,
+        6066,
+        7101,
+        8045
+    ],
+    "logoId": "f9f80d6b-13f2-43f0-b880-c11b3c3f6380",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7512,
+    "name": "Arauco do Brasil ",
+    "about": "Somos uma empresa global, com mais de 50 anos de história produzindo e administrando recursos florestais renováveis, com atuação global nos negócios de celulose, madeira, painéis e energia, fazendo um uso integral dos recursos florestais. Por meio da natureza e de fontes renováveis, contribuímos com as pessoas e com o planeta. Temos orgulho em ser a primeira empresa do setor certificada Carbono Neutro e seguimos avançando na estratégia para mitigação da crise climática, com a aprovação das nossas metas de descarbonização baseadas na ciência junto ao SBTi (Science Balance Target Iniciativa). Somos a Arauco e criamos produtos renováveis para uma vida melhor.",
+    "inventoriesId": [
+        7215,
+        8452
+    ],
+    "logoId": "33fe310f-2885-521a-cdb5-3a13065c1056",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

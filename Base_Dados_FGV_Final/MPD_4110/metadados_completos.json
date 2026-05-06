@@ -1,0 +1,45 @@
+{
+    "id": 4110,
+    "name": "MPD",
+    "about": "A MPD atua há mais de quatro décadas na construção de indústrias, hospitais, universidades, galpões de logística, shopping centers e na incorporação e construção de apartamentos e escritórios de médio e alto padrão, prezando pela qualidade de acabamento, responsabilidade socioambiental, entrega 100% no prazo e respeito pelos nossos clientes e colaboradores. Além disso, investe em desenvolvimento tecnológico e boas práticas construtivas, sem deixar de lado as responsabilidades social e ambiental. Por meio do Instituto MPD, braço de responsabilidade social e organização sem fins lucrativos ligado à MPD Engenharia, desenvolve programas focados em construção, educação e sustentabilidade, a fim de gerar impactos positivos e transformar vidas por meio de ações consistentes e campanhas solidárias, possibilitando aos beneficiados exercer com plenitude e confiança o seu direito à cidadania. Para realizar seus programas, o Instituto MPD colocou em prática uma política de trabalho voluntário com envolvimento direto dos colaboradores da MPD Engenharia. Para a construtora e incorporadora, seus colaboradores são seu principal pilar, sendo primordiais para que alcance seus objetivos de negócio. Pela constante valorização de sua equipe, a empresa já foi reconhecida, em anos recentes, com o premiações de Lugares Incríveis para Trabalhar, uma parceria entre FIA e o UOL; Prêmio Valor Carreira como uma das Melhores Empresas na Gestão de Pessoas; Melhores Empresas para Você Trabalhar da revista Você S.A; além de já ter sido classificada várias vezes entre as 10 maiores empresas construtoras do país pelo Ranking Intec. Para mais informações, acesse: https://www.mpd.com.br/",
+    "inventoriesId": [
+        5324,
+        5830,
+        6885,
+        8519
+    ],
+    "logoId": "019c8738-61f3-4f5f-9b43-2f1a4d0bde90",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

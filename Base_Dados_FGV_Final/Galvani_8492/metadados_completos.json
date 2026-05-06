@@ -1,0 +1,30 @@
+{
+    "id": 8492,
+    "name": "Galvani",
+    "about": "A Galvani é uma empresa 100% brasileira, especializada na produção, beneficiamento e distribuição de fertilizantes. Com presença consolidada no setor desde a década de 60, a companhia é líder na região agrícola do MATOPIBA (Maranhão, Tocantins, Piauí e Bahia). A companhia conta com escritórios corporativos na capital paulista, opera um complexo industrial em Luís Eduardo Magalhães e uma unidade de mineração em Campo Alegre de Lourdes, além de expandir suas operações com novos projetos na Bahia e no Ceará.",
+    "inventoriesId": [
+        8300
+    ],
+    "logoId": "c3e17654-39d2-3e2d-72bd-3a192c909762",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

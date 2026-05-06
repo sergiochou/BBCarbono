@@ -1,0 +1,95 @@
+{
+    "id": 2090,
+    "name": "NIVEA",
+    "about": "Reconhecida como uma das maiores empresas de cosméticos do mundo, a NIVEA está entre as marcas que mais investem no desenvolvimento de novos produtos para o cuidado e beleza da pele. Pertencente a alemã Beiersdorf, com sede em Hamburgo, a história da NIVEA começa em 1911, quando Oskar Troplowitz, então proprietário do grupo, desenvolveu pioneiramente um agente emoliente que permitiu a mistura homogênea entre a agua e o óleo. Denominado Eucerit, tal componente permitiu o desenvolvimento do primeiro hidratante do mundo, o NIVEA Creme.\nHoje presente em cerca de 150 países, no Brasil a marca tem uma trajetória que remonta\na 1914, quando ocorreu a primeira importação de produtos NIVEA no País, processo que ganhou forca na década de 30. Porém, foi em 1975 que a empresa instalou-se efetivamente por aqui, com a abertura de seu escritório em Sao Paulo.\nEm 2003, foi inaugurada a fábrica Beiersdorf no município de Itatiba (SP), decisão motivada pela expressiva expansão do segmento de cosméticos, produzindo localmente loções hidratantes para o corpo, protetores solares, sabonetes líquidos e desodorantes em formato roll-on. No Brasil, a marca oferece produtos em sete categorias – protetores solares e labiais, hidratantes corporais e faciais, itens para cuidados masculinos, para banho e desodorantes. \nCom mais de 140 anos de expertise nos cuidados com a pele, a Beiersdorf assumiu, em 2020, uma nova Agenda de Sustentabilidade, denominada Cuidado Além da Pele, na qual firma compromissos para encontrar soluções para os principais desafios sociais, ambientais e de governança. Com base na Agenda 2030 da Organização das Nações Unidas (ONU), a Beiersdorf elegeu 12 objetivos de desenvolvimento sustentável (ODS) para guiar seus compromissos nos pilares Meio Ambiente, Sociedade e Consumidor.\nO cuidado com o meio ambiente para todas as marcas do grupo Beiersdorf é um compromisso fundamental. Com base em resultados de 2018, a companhia estabeleceu metas ambientais para conquistar até 2025: \n•\tReduzir em 30% a emissão de gases do efeito estufa em toda a cadeia; \n•\tNeutralizar as emissões de carbono até 2030, por meio da compensação ou compra de créditos; \n•\tReduzir em 25% o consumo de água na produção;  \n•\t100% das embalagens refil, reutilizáveis ou recicláveis; \n•\tTodos os ingredientes renováveis de fontes sustentáveis e desmatamento zero;\n•\tReduzir em 50% o uso de plástico novo de origem fóssil (ano base 2019). \n\nNo Brasil, a BDF NIVEA conta com um Grupo de Afinidade com foco em Sustentabilidade Meio Ambiente que identifica oportunidades para reduzir o impacto do negócio para o planeta. Este grupo é formado por colaboradores voluntários de diversas áreas que compartilham interesses e dialogam para implementar ideais e projetos que gerem resultados reais.\n\n",
+    "inventoriesId": [
+        15,
+        2350,
+        2083,
+        579,
+        2984,
+        3246,
+        3589,
+        3907,
+        4229,
+        4584,
+        5724,
+        6633,
+        7299,
+        8494
+    ],
+    "logoId": "c4afa2eb-9c5a-4074-968f-0cd79ba6ed49",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3965,
+    "name": "Ascenty Matriz",
+    "about": "Fundada em 2010, a Ascenty consolidou-se como a maior empresa de infraestrutura de Data Centers da América Latina. Em 2025, a companhia opera ou possui em construção 38 data centers distribuídos estrategicamente pelo Brasil, Chile, México e Colômbia, formando um ecossistema altamente resiliente e escalável para atender cargas críticas, ambientes híbridos e demandas intensivas de cloud e inteligência artificial.\n\nTodas as unidades da Ascenty estão interligadas por uma rede própria de fibra óptica, com cerca de 4.000 km de extensão, conectada diretamente aos principais cabos submarinos da América Latina e aos maiores provedores globais de nuvem. Essa infraestrutura garante baixa latência, alta disponibilidade e conectividade carrier neutral**, suportando operações de empresas globais e hyperscalers.\n\nA operação dos data centers segue padrões internacionais de eficiência energética, sustentabilidade e segurança**. Em 2025, a Ascenty manteve a operação com energia elétrica 100% renovável, além de atuar como empresa carbono neutro, reforçando seu compromisso com a agenda climática. A companhia utiliza o GHG Protocol como metodologia oficial para o inventário e a gestão das emissões de gases de efeito estufa, abrangendo Escopos 1, 2 e 3, assegurando transparência e confiabilidade nos dados ambientais reportados.\n\nPor meio de iniciativas estruturantes, como contratos de energia renovável de longo prazo, otimização contínua da infraestrutura crítica, resfriamento eficiente e monitoramento permanente de emissões, a Ascenty busca reduzir sua pegada de carbono e, ao mesmo tempo, apoiar seus clientes em suas próprias estratégias de descarbonização, oferecendo uma base tecnológica alinhada às melhores práticas ESG do mercado. \n\nO reconhecimento internacional da Ascenty também se intensificou em 2025. De acordo com o relatório ISG Provider Lens™ 2025, a empresa foi reconhecida como Líder em Serviços de Colocation no Brasil pelo sexto ano consecutivo. O estudo destacou a infraestrutura moderna e preparada para IA, a conectividade de baixíssima latência, a operação com energia 100% limpa, a neutralidade de carbono e a consistência operacional como fatores determinantes para a liderança da companhia no setor. \n\nO propósito da Ascenty segue inalterado, porém cada vez mais fortalecido: cuidar da infraestrutura que sustenta as informações do mundo, ampliando sua atuação com foco em responsabilidade climática, eficiência operacional e impacto positivo de longo prazo para a sociedade e para os negócios digitais da América Latina.",
+    "inventoriesId": [
+        5164,
+        6637,
+        5843,
+        7829,
+        8380
+    ],
+    "logoId": "e7aef77c-d5bb-4c06-b0b6-be03ad432a33",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

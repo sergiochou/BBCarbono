@@ -1,0 +1,35 @@
+{
+    "id": 7536,
+    "name": "Zilor Agroindustrial",
+    "about": "A Zilor dedica-se ao processamento da cana-de-açúcar para a produção de açúcar e etanol, além de exportar energia elétrica gerada a partir da biomassa, uma fonte limpa e renovável.\n\nEssa operação ocorre em três unidades localizadas no interior do estado de São Paulo: Barra Grande (Lençóis Paulista), São José (Macatuba) e Quatá.\n\nA cana-de-açúcar que abastece nossas unidades industriais é cultivada de acordo com as melhores práticas ambientais e de segurança ocupacional.\n\nO plantio e a colheita são realizados por equipes próprias para o fornecimento à usina Quatá. As unidades industriais, Barra Grande e São José, recebem a matéria-prima de Parceiros Agrícolas, que gerenciam a operação em suas fazendas ou em propriedades arrendadas.\n\nO modelo de Parcerias Agrícolas, programa pioneiro iniciado pela Zilor há 20 anos, está consolidado como uma prática de inclusão, geração e distribuição de renda e crescimento sustentável da economia local. Nessa parceria, os produtores firmam contratos de longo prazo e são orientados com base nos requisitos do Compromisso de Conduta e Desempenho Socioambiental da Zilor.\n\nA Zilor é uma das acionistas da Copersucar, maior empresa brasileira de açúcar e etanol e uma das maiores exportadoras mundiais desses produtos.A Zilor é associada à União da Indústria de Cana-de-Açúcar (UNICA), maior organização representativa do setor de açúcar e bioetanol do Brasil.\n\nA energia elétrica exportada para o Sistema Interligado Nacional (SIN) é negociada pela Zilor com distribuidoras (no mercado regulado) e comercializadoras (no mercado livre e spot).",
+    "inventoriesId": [
+        7520,
+        8963
+    ],
+    "logoId": "ad7377ba-f24c-01b6-8b9e-3a12f2c4286d",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

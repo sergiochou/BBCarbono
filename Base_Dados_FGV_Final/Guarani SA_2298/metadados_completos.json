@@ -1,0 +1,30 @@
+{
+    "id": 2298,
+    "name": "Guarani S.A.",
+    "about": "Grupo de sete usinas de processamento de cana-de-açúcar localizadas no Noroeste do Estado de São Paulo, produtora de Etano, Açúcar e Energia Elétrica.",
+    "inventoriesId": [
+        2750
+    ],
+    "logoId": "b199f8e1-388a-46af-aa89-e96c8ba2e709",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,80 @@
+{
+    "id": 569,
+    "name": "Centro de Inovação e Tecnologia SENAI FIEMG",
+    "about": "O Centro de Inovação e Tecnologia SENAI FIEMG (CIT) é uma unidade SENAI, parte integrante do Sistema FIEMG (Federação das Indústrias do Estado de Minas Gerais) que atua há mais de 70 anos na geração e disseminação de conhecimentos aplicados ao desenvolvimento da indústria mineira. O CIT é composto por um conjunto de institutos de inovação e de tecnologia capazes de gerar soluções tecnológicas e promover a inovação na indústria, contribuindo para o fortalecimento do setor e para o desenvolvimento sustentável no país. Conta com um corpo técnico especializado, com larga experiência em sistemas voltados para o desenvolvimento econômico, social e ambiental, figurando como instituição de tradição em pesquisa, extensão e prestação de serviços.",
+    "inventoriesId": [
+        2397,
+        2795,
+        3213,
+        3529,
+        3915,
+        4386,
+        4521,
+        5278,
+        6622,
+        6898,
+        8088
+    ],
+    "logoId": "2fac8323-ad98-4439-fc2e-3a1a33b98cc9",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6118,
+    "name": "Voke",
+    "about": "A Voke S.A. é uma empresa do segmento de outsourcing de tecnologia registrada na CVM categoria A, com sede em São Paulo - SP, que opera com fins lucrativos no Brasil.",
+    "inventoriesId": [
+        6907,
+        8233
+    ],
+    "logoId": "f615e0d8-b469-ba48-f19b-3a121ec8bba2",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

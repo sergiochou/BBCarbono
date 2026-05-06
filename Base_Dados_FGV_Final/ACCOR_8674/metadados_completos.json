@@ -1,0 +1,30 @@
+{
+    "id": 8674,
+    "name": "ACCOR ",
+    "about": "A Accor é um grupo de hospitalidade líder mundial que oferece estadias e experiências em mais de 110 países, com mais de 5.600 hotéis e resorts, 10.000 bares e restaurantes, instalações de bem-estar e espaços de trabalho flexíveis. O Grupo possui um dos ecossistemas de hospitalidade mais diversificados do setor, abrangendo cerca de 45 marcas de hotéis de luxo a econômicos, bem como Lifestyle com a Ennismore. O ALL, plataforma de reservas e programa de fidelidade, incorpora a promessa da Accor durante e após a estadia no hotel, dando a seus membros acesso a experiências únicas. A Accor está focada em impulsionar ações positivas por meio da ética empresarial, turismo responsável, sustentabilidade ambiental, envolvimento da comunidade, diversidade e inclusão. A missão da Accor está refletida no propósito do Grupo: Pioneiros na arte da hospitalidade responsável, conectando culturas com paixão e generosidade. Fundada em 1967, a Accor SA está sediada na França. Incluído no índice CAC 40, o Grupo está cotado publicamente na Bolsa de Valores Euronext Paris (código ISIN: FR0000120404) e no Mercado OTC (Ticker: ACCYY) nos Estados Unidos. Para obter mais informações, acesse group.accor.com ou siga-nos no X, Facebook, LinkedIn, Instagram e TikTok.  ",
+    "inventoriesId": [
+        8902
+    ],
+    "logoId": "e20f44d9-798c-09b5-91ce-3a19c33c8bb7",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

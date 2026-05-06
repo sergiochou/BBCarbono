@@ -1,0 +1,70 @@
+{
+    "id": 1538,
+    "name": "Esco Brasil",
+    "about": "Com mais de um século de práticas inovadoras, a ESCO Corporation é um grupo de empresas com abrangência global e líder mundial em produtos e componentes metálicos resistentes ao desgaste.\r\n\r\nA ESCO SOLDERING - como a empresa é conhecida no Brasil - é a preferência dos clientes em Qualidade, Valor e Velocidade (QVV). Utilizando-se da melhoria contínua e do Lean Manufacturing, as instalações da empresa tornaram-se eficazes na eliminação de desperdícios, na redução do tempo de produção e nas técnicas de padronização da produção.\r\n\r\nAlém da equipe mais qualificada e da melhor capacidade técnica e Engenharia de Aplicação, a ESCO SOLDERING possui a mais completa linha de produtos resistentes ao desgaste, utilizando tecnologia mundial de ponta para a sua fabricação e desenvolvimento.",
+    "inventoriesId": [
+        622,
+        98,
+        2632,
+        1986,
+        2879,
+        3421,
+        3526,
+        4089,
+        4305
+    ],
+    "logoId": "5f75f61f-f489-4235-9e1a-5f03ac6baacf",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

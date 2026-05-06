@@ -1,0 +1,30 @@
+{
+    "id": 8325,
+    "name": "Venturus",
+    "about": "Somos um centro de tecnologia, pesquisa, desenvolvimento e inovação que cria e desenvolve soluções personalizadas com tecnologia de ponta.\nMapeamos todo o cenário para entregar a solução certa para o seu negócio. Com isso, reduzimos riscos, economizamos tempo e fazemos entregas de valor para nossos parceiros.",
+    "inventoriesId": [
+        8872
+    ],
+    "logoId": "e41e38dc-69f2-3ed0-053e-3a1a34c942fa",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

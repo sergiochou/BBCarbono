@@ -1,0 +1,30 @@
+{
+    "id": 4876,
+    "name": "CVC BRASIL",
+    "about": "A CVC Corp é um dos maiores grupos de viagens da América Latina, com marcas que atuam no Brasil, Argentina e Estados Unidos, nos segmentos de férias e lazer, corporativo/negócios, educação (intercâmbio cultural no exterior), gestão e locação de residências (nos EUA e Brasil). No Brasil, atua com as marcas CVC \r\n(líder em viagens de férias e lazer); Submarino Viagens (venda de viagens on-line, para fins de lazer ou negócios); RexturAdvance e Esferatur (no segmento B2B, via agentes independentes); Trend (viagens corporativas e de lazer via agências independentes); Experimento Intercâmbio Cultural (cursos no exterior e intercâmbio cultural), Visual (ecoturismo, resorts e hospedagens de charme e requinte) e VHC (locação e gestão de casas, com atuação no Brasil e forte presença nos Estados Unidos, com portfólio de casas para \r\nlocação em Miami e Orlando). Nos Estados Unidos, além da VHC, também possui participação na WeTrek \r\n(EUA), aplicativo para viajantes independentes. Já na Argentina, atua com o Grupo Bibam (marca de luxo \r\nBiblos e a online Avantrip); Ola (dedicada ao canal agências independentes) e Almundo (plataforma digital e \r\nlojas). Por meio de suas marcas, agrupadas em unidades de negócios (B2C, B2B e Argentina), a CVC Corp \r\noferece uma gama diversificada de produtos e serviços de viagens, para diferentes perfis de público, que \r\ncombinam tarifas aéreas, transporte terrestre, hospedagem, seguro de viagem e outros serviços \r\ncomplementares de viagem a preços acessíveis, com condições de pagamento flexíveis e completa assistência \r\nao viajante. Mais informações no site da companhia.",
+    "inventoriesId": [
+        6045
+    ],
+    "logoId": "bcc74f41-f3fd-4cbc-83af-8974ae416698",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

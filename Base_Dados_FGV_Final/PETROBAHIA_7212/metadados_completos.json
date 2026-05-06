@@ -1,0 +1,35 @@
+{
+    "id": 7212,
+    "name": "PETROBAHIA",
+    "about": "Fundada em 1996, a Petrobahia foi uma das primeiras distribuidoras regionais a entrar em operação no país, se tornando sinônimo de empreendedorismo na nova fase que se iniciou no setor de combustíveis. Nessa época, os fundadores da empresa já atuavam na área - com uma rede de postos e uma das mais conceituadas transportadoras do mercado - e decidiram que era hora de uma nova e desafiadora empreitada: formar uma distribuidora de combustível regional com características muito específicas. A ideia, que logo se concretizou, foi atuar junto a pequenas cidades, que não possuíam postos, e em locais não assistidos pelas distribuidoras multinacionais, atendendo de perto às necessidades de cada cliente.\n\nTodo o trabalho foi desenvolvido com muito planejamento e seriedade, logo tornando a Petrobahia reconhecida por duas importantes características: a solidez e a credibilidade. Hoje, a empresa continua aberta à inovação e atenta às oportunidades de mercado, contando com números expressivos de bases (próprias + terceiros) para melhor atendimento aos clientes. São resultados diretamente ligados ao trabalho de uma equipe amplamente preparada e à manutenção de uma relação forte e fidelizada com nossos clientes. Uma história de sucesso escrita a cada dia e movida a cada novo desafio.\n",
+    "inventoriesId": [
+        7080,
+        8506
+    ],
+    "logoId": "7004f2b1-dbe5-a0f3-a55d-3a126589d4a9",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

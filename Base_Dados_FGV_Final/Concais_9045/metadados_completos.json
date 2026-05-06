@@ -1,0 +1,30 @@
+{
+    "id": 9045,
+    "name": "Concais ",
+    "about": "A Concais S/A é uma empresa privada operadora e administradora do Terminal Marítimo de Passageiros Giusfredo Santini.\nO Terminal Marítimo de Passageiros Giusfredo Santini - Concais -, inaugurado em 23 de novembro de 1998, é o mais moderno terminal da América Latina. Com 41.895.01 m², está há mais de duas décadas servindo e atendendo com excelência armadores, passageiros e todos os envolvidos no dia a dia do segmento de Cruzeiros Marítimos.\nNa temporada 2024/25, tivemos uma movimentação 1.034.332 passageiros.",
+    "inventoriesId": [
+        8811
+    ],
+    "logoId": "9ce570cc-bdd3-9e1d-c473-3a1a06522a2d",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

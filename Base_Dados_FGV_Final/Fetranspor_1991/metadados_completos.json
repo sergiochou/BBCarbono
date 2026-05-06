@@ -1,0 +1,35 @@
+{
+    "id": 1991,
+    "name": "Fetranspor",
+    "about": null,
+    "inventoriesId": [
+        61,
+        1604
+    ],
+    "logoId": "ca841665-d6d2-49a1-8623-56638a125a64",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3789,
+    "name": "ERO Brasil Caraíba",
+    "about": "A ERO BRASIL é uma mineradora com unidades operacionais de produção de cobre situadas no norte da Bahia (Vale do Curaçá). Geramos cerca de 3500 empregos (entre diretos e terceirizados). Somos a principal produtora de concentrado de cobre do Nordeste e uma das principais produtoras do país. Estamos num momento de franca expansão com abertura de novas minas, investimentos expressivos em sondagem e descobertas geológicas que garantirão o futuro da Companhia.",
+    "inventoriesId": [
+        5019,
+        6683
+    ],
+    "logoId": "ec7be501-5747-459c-b2ef-c422fac9a6a2",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

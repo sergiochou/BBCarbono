@@ -1,0 +1,55 @@
+{
+    "id": 1165,
+    "name": "FINNET S/A - TECNOLOGIA",
+    "about": "Há mais de duas décadas liderando a transformação digital do departamento financeiro, transformando desafios das operações de contas a pagar e a receber em soluções inovadoras, com segurança de ponta. A partir do nosso Open Finance empresarial, conectamos sua empresa às principais instituições financeiras do mercado.\n\nComo uma das mais sólidas companhias neste segmento, a Finnet conquistou 40 das 100 maiores empresas do país para sua carteira de clientes e, atualmente, conta com mais de 3 milhões de CNPJs integrados aos seus sistemas, além de integração com mais de 120 instituições financeiras.\n\nMais informações em https://finnet.com.br/.\n",
+    "inventoriesId": [
+        4418,
+        4574,
+        5301,
+        5862,
+        6910,
+        8263
+    ],
+    "logoId": "7a5b90b5-0560-468c-be20-28e44baa07c1",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

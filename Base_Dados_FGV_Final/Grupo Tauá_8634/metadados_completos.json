@@ -1,0 +1,30 @@
+{
+    "id": 8634,
+    "name": "Grupo Tauá",
+    "about": "O Grupo Tauá de Hotéis é uma rede brasileira de hotéis e resorts, com quase 40 anos de mercado, com forte atuação no setor de lazer e eventos, presente em diferentes regiões do país por meio das seguintes unidades: Tauá Resort Caeté (MG), Tauá Resort Atibaia (SP), Tauá Resort Alexânia (GO), Grande Hotel Termas de Araxá (MG), Alegro Hotel Atibaia (SP) e, em breve, o Tauá Resort João Pessoa (PB), além dos escritórios corporativos localizados em Belo Horizonte (MG) e Nova Lima (MG). Desde janeiro de 2022, o Grupo Tauá integra voluntariamente o Pacto Global da ONU, reafirmando seu compromisso com os Objetivos de Desenvolvimento Sustentável (ODS) por meio de práticas empresariais éticas, responsáveis e ambientalmente conscientes. ",
+    "inventoriesId": [
+        8245
+    ],
+    "logoId": "06dd2037-a4dd-b0e0-d039-3a1b26a6d805",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

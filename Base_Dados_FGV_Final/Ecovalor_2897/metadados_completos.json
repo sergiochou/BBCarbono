@@ -1,0 +1,30 @@
+{
+    "id": 2897,
+    "name": "Ecovalor ",
+    "about": "Guiar organizações e pessoas rumo à sustentabilidade: com este propósito, a Ecovalor assessora as organizações nas suas jornadas rumo à consolidação de uma cultura de sustentabilidade, a partir da aplicação das melhores práticas internacionalmente reconhecidas. Desde PMEs até as grandes, todas as corporações e suas pessoas enfrentam seus próprios desafios perante a nova economia - sustentável, circular e de baixo carbono, e a missão da Ecovalor é oferecer suporte personalizado, desde a conformidade legal até a geração de valor por meio da gestão estratégica. No âmbito da gestão de emissões GEE, recomendamos e assessoramos às organizações a gerir suas emissões por meio das diretrizes e metodologias do GHG Protocol, com o registro público anual das emissões junto ao Programa Brasileiro GHG Protocol.\r\n\r\nSite: www.ecovalor.eco.br\r\nLinkedIn: https://www.linkedin.com/company/ecovalor/",
+    "inventoriesId": [
+        4328
+    ],
+    "logoId": "a80a755e-e424-4708-bd7f-0ddfd42b78b2",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

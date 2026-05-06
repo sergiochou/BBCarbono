@@ -1,0 +1,35 @@
+{
+    "id": 7232,
+    "name": "DP World Santos",
+    "about": "A DP World é a empresa responsável pela operação de um dos maiores e mais modernos terminais privados multipropósito do Brasil, instalado na margem esquerda do Porto de Santos (SP). Com investimentos de R$ 2,3 bilhões, proporciona mais de 1.400 empregos diretos e 5.000 indiretos.   \nInstalado em área estratégica com acesso por via marítima, rodoviária e ferroviária, o empreendimento conta com 1.100 metros de cais e uma área total de 845.000 m2 e capacidade de movimentação anual de 1,2 milhão de TEU (unidade equivalente a um container de 20 pés) e 3,6 milhões de toneladas de celulose. \nMais informações no portal: https://www.dpworld.com/pt-br/brazil\n",
+    "inventoriesId": [
+        7661,
+        8125
+    ],
+    "logoId": "1bcc66fc-5a43-3cfc-6e84-3a131f7be0ef",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

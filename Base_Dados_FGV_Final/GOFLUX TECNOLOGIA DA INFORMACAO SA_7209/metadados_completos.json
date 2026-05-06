@@ -1,0 +1,35 @@
+{
+    "id": 7209,
+    "name": "GOFLUX TECNOLOGIA DA INFORMACAO S/A",
+    "about": "A goFlux representa o maior marketplace de fretes do Brasil. Através da conexão de embarcadores à transportadoras potencializando a geração de negócios.\nPlataforma digital B2B, modelo SaaS voltada à cotação, contratação e gestão de fretes rodoviários.\nDestacando-se nos segmentos agribusiness, alimentos, cimento, fertilizantes, papel, celulose e siderurgia atuando nas maiores artérias do agro e do mercado logístico proporcionando a otimização da operação em todos os clientes. \nEcossistema completo de soluções logísticas, através do goFlux View, carbonFree e naConta.\n\ngoFlux carbonFree\nO goFlux carbonFree conecta a logística à preservação ambiental por meio de uma solução tecnológica completa para mensuração, monitoramento e compensação das emissões de CO₂ no transporte rodoviário. Utilizando a calculadora goFlux — adaptada à realidade brasileira — e a Torre de controle de CO₂, possibilitamos uma gestão precisa e em tempo real da pegada de carbono.\nMais do que uma ferramenta, o goFlux carbonFree atua como uma ponte estratégica entre embarcadores e transportadoras, promovendo transparência, eficiência e valor para ambos os lados. Ao integrar tecnologia e sustentabilidade, o goFlux carbonFree possibilita a gestão precisa das emissões de CO₂ no transporte rodoviário e sua compensação por meio de investimentos em projetos certificados. De forma a contribuir para a neutralização do impacto ambiental, promovendo uma cadeia de transporte mais responsável e alinhada às metas globais.\n\ngoFlux View\nO goFlux View é uma plataforma inteligente que revoluciona a tomada de decisões no transporte de carga. Integrando inteligência artificial e um poderoso motor de dados, oferece análises detalhadas dos padrões históricos de fretes praticados no mercado.\nUm dos grandes diferenciais da plataforma é o recurso exclusivo de Forecast, uma ferramenta pioneira que projeta com precisão os custos futuros de frete, proporcionando uma vantagem estratégica para embarcadores, transportadoras e demais tomadores de decisão.\nAlém disso, o goFlux View mantém os usuários atualizados com informações semanais sobre safras — incluindo dados de plantio, colheita e produção em todo o Brasil — além de indicadores econômicos relevantes que impactam o setor logístico.\nCom dados abrangentes para mais de 16 mil rotas, o goFlux View capacita seus usuários a tomar decisões mais informadas, estratégicas e eficientes, impulsionando a competitividade e o sucesso dos negócios no mercado de transporte de cargas.\n\ngoFlux naConta\nAtravés do serviço naConta, as transportadoras têm acesso a recursos financeiros de forma rápida e descomplicada. O processo é caracterizado por sua agilidade e total digitalização, eliminando burocracias. O serviço oferece antecipação de recebíveis para transportadoras de maneira simples e transparente, proporcionando uma solução eficaz para suas necessidades financeiras.\n",
+    "inventoriesId": [
+        6978,
+        8127
+    ],
+    "logoId": "9aa55ce2-0810-a043-b1a6-3a12652362bd",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

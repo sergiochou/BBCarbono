@@ -1,0 +1,45 @@
+{
+    "id": 3908,
+    "name": "BUNZL EPI",
+    "about": "A BUNZL Plc. é um grupo internacional fundado em 1854 com sede em Londres, Reino Unido e se destaca na atuação nas áreas de distribuição e logística.\nTrabalhamos com as principais marcas internacionais e locais para permitir aos nossos clientes o acesso aos melhores e mais adequados produtos e serviços e contamos com operações na América, Europa, Ásia e Oceania.\nNo Brasil desde 2008, o grupo BUNZL Plc. possui atuação nos segmentos de Equipamento de Proteção Individual (EPI), Higiene e Limpeza, Saúde e Food Service e hoje atualmente com 14 operações no Brasil:\n1. Bunzl EPI\n2. Danny\n3. Talge\n4. Volk do Brasil\n5. SP Equipamentos\n6. Bunzl Higiene e Limpeza\n7. Medcorp Hospitalar\n8. Labor Health Supply\n9. Dental Sorria\n10. Corsul\n11. Leal Equipamentos de Proteção\n12. Endolog Logística\n13. SP Intervention\n14. Lanlimp-Pactual",
+    "inventoriesId": [
+        5250,
+        5796,
+        7615,
+        8459
+    ],
+    "logoId": "64daeaea-6736-4a96-9742-9230e2abfbc5",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

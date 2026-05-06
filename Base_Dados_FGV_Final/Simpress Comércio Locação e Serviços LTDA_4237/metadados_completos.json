@@ -1,0 +1,45 @@
+{
+    "id": 4237,
+    "name": "Simpress Comércio Locação e Serviços LTDA",
+    "about": "A Simpress, empresa do grupo HP e especialista em outsourcing de soluções e equipamentos de TI, conta com mais de 2,4 mil funcionários em suas 16 filiais, faz a gestão de mais de 700 mil equipamentos em mais de 2,8 mil clientes ativos atendidos pelo País. Sua atuação é voltada para o público corporativo de grandes e médias empresas e conta com uma rede de revendedores e agentes digitais para o mercado SMB (Small Business).\nOs produtos que as empresas usam no dia a dia do trabalho, tais como notebook, desktop, impressoras, plotters, coletores de dados, multifuncionais, smartphones, tablets, scanners, impressoras térmicas são oferecidos pela Simpress no modelo de outsourcing, rentabilizando melhor o investimento em TI, com total apoio técnico.\n \nOs equipamentos são suportados com diversas soluções embarcadas e infraestrutura Simpress, que ajudam seus clientes em novas formas de fazer com que seus negócios sejam mais eficientes e competitivos, possibilitando a adoção de processos conectados e inteligentes.",
+    "inventoriesId": [
+        5431,
+        6380,
+        7713,
+        9104
+    ],
+    "logoId": "a7e7876a-aef8-4312-87ad-aa74561da41d",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

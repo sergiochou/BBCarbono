@@ -1,0 +1,35 @@
+{
+    "id": 6156,
+    "name": "TESC",
+    "about": "\n\nO terminal multipropósito TESC,  está localizado no Complexo Portuário de São Francisco do Sul e operando há mais de 25 anos, possui uma área arrendada de mais de 68 mil m². O terminal é estrategicamente situado próximo às rodovias BR-280 e BR-101, e faz parte do Grupo TESC, que inclui a WRC Operadores Portuários S.A. e a WRC filial, área REDEX e armazenagem retro portuária com 72 mil m².\n \nO Grupo TESC é essencial para a logística nacional, abrangendo diversas regiões produtoras e movimentando produtos como grãos agrícolas, fertilizantes, produtos florestais e siderúrgicos. Com mais de 40 milhões de toneladas movimentadas ao longo de sua história, o terminal opera atualmente com uma variedade de cargas, embarcando e desembarcando mercadorias globalmente. \n\nO Grupo TESC adota uma estratégia de negócio focada na sustentabilidade corporativa, aplicando práticas ESG para agregar valor e minimizar impactos ambientais, promovendo bem-estar social e transparência nas relações.",
+    "inventoriesId": [
+        6904,
+        9147
+    ],
+    "logoId": "54b1bda4-b52a-ff51-801f-3a124222a208",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

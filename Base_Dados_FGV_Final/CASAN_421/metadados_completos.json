@@ -1,0 +1,35 @@
+{
+    "id": 421,
+    "name": "CASAN",
+    "about": "A CASAN, empresa pública de economia mista e de capital aberto, atua como concessionária do setor de saneamento em 66% dos municípios catarinenses, além de 1 município paranaense, fornecendo também água tratada para outros 4 municípios clientes, beneficiando 3 milhões de pessoas aproximadamente.  Opera por meio de contratos de programas e convênios, \ncom investimentos na expansão de suas operações e na melhoria contínua do desempenho \noperacional com foco na universalização desses serviços em Santa Catarina. \n",
+    "inventoriesId": [
+        7679,
+        7873
+    ],
+    "logoId": "d2dee9b9-d56e-4b42-b3e6-2a0316f50337",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

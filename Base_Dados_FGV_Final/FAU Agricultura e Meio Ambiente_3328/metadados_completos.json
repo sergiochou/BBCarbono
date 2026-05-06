@@ -1,0 +1,50 @@
+{
+    "id": 3328,
+    "name": "FAU Agricultura e Meio Ambiente",
+    "about": "A FAU – Agricultura e Meio Ambiente desenvolve projetos na área ambiental desde 2010. Atualmente, o escopo de atuação da empresa direciona para ações de gestão ambiental em empresas de diversas áreas, focando desde projetos de compensação de emissões de gases de efeito estufa – GEE até a adequação de propriedades rurais quanto às questões legais como, identificação e orientações para resolução de não conformidades em áreas de APP e RL, análise e retificação do CAR.\nJá atendemos mais de 5.000 clientes, com atuação em 07 estados brasileiros (RS, SC, PR, SP, MG, GO, PA), especialmente do Agronegócio.\nAtualmente, a FAU – Agricultura e Meio Ambiente atende cerca de 1.200 propriedades rurais por ano, entregando valor pra diferentes cadeias. Produção de grãos orgânicos, índices de sustentabilidade em sistemas agrícolas, governança climática e balanço de carbono são algumas das temáticas apoiadas em nossas ações. Foi finalista nos programas: Centelha RS (5ºlugar geral), Sebrae AgTechs SP (Top 10) e BRDE Labs (PoC Desafio 02), todos em 2022, com o lançamento da plataforma AKVO-ESG.\n\nVisite nosso site: http://www.fauconsultoria.com/\n",
+    "inventoriesId": [
+        4600,
+        5718,
+        5813,
+        6961,
+        8439
+    ],
+    "logoId": "a003db4a-58b6-4a52-893b-e6be5ccfb74f",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

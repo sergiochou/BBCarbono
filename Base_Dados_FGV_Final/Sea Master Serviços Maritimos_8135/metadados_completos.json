@@ -1,0 +1,30 @@
+{
+    "id": 8135,
+    "name": "Sea Master Serviços Maritimos",
+    "about": null,
+    "inventoriesId": [
+        7929
+    ],
+    "logoId": "02aacc71-544e-6dc7-b63f-3a13d4413fab",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 3190,
+    "name": "Magalu",
+    "about": "Magazine Luiza, ou Magalu, é uma empresa de tecnologia e logística voltada para o varejo. A partir de um varejista tradicional do interior de São Paulo com foco\nem bens duráveis para a classe média brasileira, a Companhia transformou-se em uma empresa de tecnologia, fornecendo uma ampla gama de produtos e\nserviços para brasileiros de todas as classes. O Magalu possui uma forte presença geográfica, com 21 centros de distribuição estrategicamente\nlocalizados que atendem uma rede de 1.245 lojas distribuídas em 20 estados, entre lojas próprias do Magalu e quiosques nas lojas Marisa (franquias).\n\nNo centro do sucesso do Magalu está uma plataforma de varejo multicanal,\ncapaz de alcançar clientes através de aplicativos, site e lojas físicas. Uma grande parte do sucesso da empresa também se deve à sua equipe interna de\ndesenvolvimento, o Luizalabs, que é composto por mais de 1.500 desenvolvedores e especialistas. Entre outras coisas, o Luizalabs utiliza tecnologias como big\ndata e machine learning para criar aplicativos para as diversas áreas da Companhia, como atendimento, logística, financeiro e gestão de estoque, com o objetivo\nde eliminar qualquer fricção no processo do varejo, melhorando a rentabilidade, os prazos de entrega e a experiência do cliente. A empresa tem estado na\nvanguarda da adoção do e-commerce na América Latina e a operação online, incluindo o marketplace, representa 70% das vendas totais. O Magalu também\npossui um modelo logístico único e inovador. As operações logísticas online e offline são 100% integradas, e permitem que a Companhia aproveite sua presença\nfísica para reduzir radicalmente os custos e os prazos de entrega no Brasil.",
+    "inventoriesId": [
+        4437,
+        4643,
+        5185,
+        6470,
+        7256,
+        9227
+    ],
+    "logoId": "d68c9593-8d93-4ebe-a5aa-4c79e72ceac6",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

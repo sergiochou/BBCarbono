@@ -1,0 +1,100 @@
+{
+    "id": 492,
+    "name": "Givaudan",
+    "about": "Mantemos a nossa posição de liderança desafiando-nos diariamente, inspirando as nossas parcerias em todo o mundo e servindo os nossos clientes com o coração e a alma.\nCom nossas duas atividades de negócios, Taste & Wellbeing e Fragrance & Beauty, oferecemos aos clientes uma ampla gama de soluções que atendem às demandas dos consumidores por ingredientes limpos, orgânicos e naturais, além de sermos seu parceiro criativo preferido. Nossa proposta de valor reflete o propósito da Empresa de criar vidas mais felizes, saudáveis ​​e com amor pela natureza.\n\nJuntamente com os nossos clientes, proporcionamos experiências gastronômicas, criamos fragrâncias inspiradas e desenvolvemos soluções de beleza e bem-estar que fazem as pessoas parecerem e sentirem-se bem. Da sua bebida favorita à sua refeição diária, dos perfumes de prestígio aos cuidados com a roupa, os nossos produtos ajudam as pessoas a viver vidas mais felizes e saudáveis ​​e nós os criamos de uma forma que respeita os recursos naturais e o ambiente.\n\n'Humano por natureza': Nossa marca celebra a beleza da experiência humana e a conexão com a natureza.\n\nCom a nossa herança que remonta a mais de 250 anos, temos uma longa história de criação e inovação de aromas e sabores. Nossas criações inspiram emoções cotidianas e encantam milhões de consumidores em todo o mundo.\n\nEstamos na vanguarda da inovação, com 10% do volume de negócios anual investido em investigação, exploração e descoberta de novos e excitantes ingredientes e tecnologias para adicionar às nossas vastas paletas e portfólios. \n\nA cocriação e a colaboração com clientes e parceiros permitem-nos inovar e desenvolver produtos e soluções revolucionários. Temos uma rede global de co-inovação de aceleradores e incubadoras que nos permite aproveitar as ideias empreendedoras e inovadoras que as start-ups têm para oferecer. Além disso, fazemos parceria com muitos dos principais players do setor para expandir e aumentar o pensamento inovador e acelerar o ritmo e a qualidade da idealização com os principais fornecedores.\n\nNa Givaudan, nos esforçamos para criar um local de trabalho diversificado e inclusivo onde todos se sintam capacitados e valorizados. A nossa diversidade alimenta a criatividade, impulsiona a inovação e permite o desenvolvimento de produtos e soluções inovadoras, contribuindo para o crescimento sustentável mútuo, beneficiando tanto a nossa organização como o nosso pessoal.\n\nEstamos empenhados em impulsionar um crescimento de longo prazo orientado por um propósito, com a intenção de aumentar o nosso impacto positivo no mundo, inovando em soluções sustentáveis, ao mesmo tempo que demonstramos o nosso amor pela natureza e lideramos o caminho para melhorar a felicidade e a saúde das pessoas.",
+    "inventoriesId": [
+        290,
+        2671,
+        48,
+        2152,
+        1613,
+        2826,
+        3160,
+        3576,
+        4030,
+        4162,
+        4564,
+        5045,
+        6396,
+        7399,
+        9182
+    ],
+    "logoId": "da16b06c-73f3-79b8-1e5b-3a1b4ee6c0c1",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

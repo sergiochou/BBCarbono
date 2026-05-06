@@ -1,0 +1,80 @@
+{
+    "id": 2214,
+    "name": "Enaex Brasil",
+    "about": "Com a força do Grupo Enaex, um dos líderes mundiais em produção de nitrato de amônio, a Enaex Brasil é líder de mercado e de satisfação no Brasil. Da mineração à construção civil, a empresa reúne quase 60 anos de experiência na produção de explosivos e na prestação de serviços de fragmentação de rocha, utilizando um amplo portfólio de produtos e equipamentos de alta tecnologia.\nEm todas as unidades, suas equipes demonstram compromisso com a excelência, atuando como verdadeiros parceiros de negócios, investindo em inovação e colocando a vida sempre em primeiro lugar. Sua paixão é entregar soluções de valor excepcional aos clientes, e seu propósito é construir um futuro sustentável em todos os segmentos em que atua.",
+    "inventoriesId": [
+        2665,
+        2997,
+        3202,
+        3623,
+        3917,
+        4304,
+        4527,
+        5116,
+        5889,
+        7056,
+        8350
+    ],
+    "logoId": "6101f7d5-4a55-4a78-b236-66382ccc9a7a",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

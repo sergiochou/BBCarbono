@@ -1,0 +1,45 @@
+{
+    "id": 3964,
+    "name": "Grupo CBO",
+    "about": "O Grupo CBO opera com uma frota de 45 embarcações de apoio marítimo de médio e grande porte, incluindo modelos especializados com alta capacidade de navegação e embarcações robustas, especialmente adequadas para operações em águas profundas, como as da região do pré-sal. A Companhia ocupa posição de destaque entre os líderes do setor, impulsionada por um sólido plano de crescimento que contempla a ampliação da frota e o investimento contínuo em tecnologia.\nCom mais de quatro décadas de atuação, a CBO constrói sua trajetória com base na excelência operacional, valorização de seu time e compromisso com a entrega de resultados. Essa combinação de tradição, pioneirismo e inovação fortalece relações de confiança com acionistas, colaboradores, credores e demais partes interessadas, gerando valor de forma sustentável e duradoura.\nA partir de um estudo estruturado, que considerou a percepção de stakeholders internos e externos, as melhores práticas do setor de energia offshore e as demandas prioritárias da sociedade, foram identificados os principais riscos e oportunidades para o desenvolvimento sustentável do negócio. Como resultado, definiram-se 13 temas materiais prioritários que passaram a orientar o planejamento estratégico ASG (Ambiental, Social e Governança Corporativa) da Companhia, com validação da alta liderança. Para ampliar o impacto das ações, esses temas também foram alinhados aos Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU).\n",
+    "inventoriesId": [
+        5133,
+        5857,
+        7018,
+        8112
+    ],
+    "logoId": "015d0caa-fa16-4d73-9aee-2d8ef9eeb136",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

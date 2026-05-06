@@ -1,0 +1,30 @@
+{
+    "id": 7676,
+    "name": "PLIN Energia ",
+    "about": "A PLIN Energia leva economia e energia limpa para centenas de empresas e condomínios, distribuindo e gerenciando os créditos energéticos gerados pelas nossas fazendas solares parceiras.\n\nNosso modelo de negócio é 100% digital e acessível, nosso compromisso é com a transparência e a excelência, e nosso papel é de impulsionador para o seu negócio prosperar com mais tecnologia, otimização e consciência.",
+    "inventoriesId": [
+        7634
+    ],
+    "logoId": "ba342546-ae07-7c78-3240-3a130136baa4",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

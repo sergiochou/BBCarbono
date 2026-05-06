@@ -1,0 +1,40 @@
+{
+    "id": 6016,
+    "name": "CMOC Brasil",
+    "about": "Somos uma indústria que atua na mineração e no beneficiamento de nióbio e fosfatos, minerais essenciais para o desenvolvimento da indústria global e o crescimento da agricultura no Brasil.\n\nAtuamos como subsidiária da China Molybdenum Co., Ltd.(CMOC), companhia chinesa com um diversificado portfólio de ativos, a CMOC Brasil acredita e investe no crescimento sustentável dos negócios, por meio da sinergia entre os ativos, a excelência operacional, a inovação e a qualidade de seus produtos e relacionamentos.",
+    "inventoriesId": [
+        7249,
+        7242,
+        8693
+    ],
+    "logoId": "b8c5013b-419b-bd7b-0396-3a1b2b0079b3",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

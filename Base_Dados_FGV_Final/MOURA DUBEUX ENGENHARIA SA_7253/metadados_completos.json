@@ -1,0 +1,35 @@
+{
+    "id": 7253,
+    "name": "MOURA DUBEUX ENGENHARIA S/A",
+    "about": "Atuando há mais de 40 anos no segmento de edifícios de médio, alto padrão e luxo no Nordeste, atualmente a Moura Dubeux é líder em market share na região, e desde fevereiro de 2020 integra o Novo Mercado da B3 seguindo os mais altos padrões de governança corporativa. Também possui forte presença no segmento composto por flats, hotéis e resorts (“Segunda Residência”), voltado para consumidores de alto padrão. Tendo iniciado suas atividades em Pernambuco, a “Moura Dubeux”, também está presente nos estados do Ceará, Rio Grande do Norte, Paraíba, Alagoas, Sergipe e da Bahia.\n\nA Companhia possui um modelo de negócios 100% integrado e participa diretamente em todas as fases da atividade de incorporação imobiliária, além de executar as obras de todos os empreendimentos que incorpora. A Moura Dubeux também atua no segmento de “Obras por Regime de Administração”, na qual identifica potencial demanda de mercado para um determinado projeto e busca um terreno que atenda às características dessa demanda. Assim, a Companhia presta serviços preliminares de consultoria imobiliária que abrange: (i) contratação do terreno, (ii) formatação do produto, e (iii) aprovação do projeto que será executado pelo futuro “Condomínio de Construção”.\n\nAlém disso, a empresa atua como prestadora de serviços de administração dessas obras e por isto, recebe uma remuneração mensal denominada “Taxa de Administração”. Todos os pagamentos são realizados pelo “Condomínio de Construção” com os recursos arrecadados junto aos condôminos, haja vista que estes são os únicos responsáveis pelo custeamento e financiamento de toda a obra.\n\nVale destacar que, em 2001, a Companhia obteve o certificado internacional de qualidade ISO 9.001 em construção e desenvolvimento imobiliário. Além disso, possui um sistema de gestão integrada com os certificados internacionais de saúde e segurança (ISO 45.001) e meio ambiente (ISO 14.001).\n\nCom o propósito de ser a empresa que entrega o melhor produto imobiliário com a melhor experiência para o cliente, a Moura Dubeux concentra suas operações em três principais pilares: (i) construções por meio de engenharia eficiente e 100% verticalizada, (ii) busca pelo melhor produto, e (iii) comercialização de seus produtos através da sua força própria de vendas (“MD Vendas) e plataformas digitais.\n\nA austeridade, competência e vontade de inovar, sempre acompanhados pelos valores (transparência, confiança e compromisso) da Moura Dubeux, nortearam o crescimento da Companhia, que desde a sua fundação, já entregou mais de 230 empreendimentos, totalizando mais de 3,5 milhões de metros quadrados construídos distribuídos em mais de 20 mil unidades, marcas relevantes dentro do setor imobiliário.\n\n",
+    "inventoriesId": [
+        7223,
+        8310
+    ],
+    "logoId": "66778e5b-11b0-2982-df62-3a1a24f5aa20",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

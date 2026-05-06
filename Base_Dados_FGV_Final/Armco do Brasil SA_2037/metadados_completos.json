@@ -1,0 +1,35 @@
+{
+    "id": 2037,
+    "name": "Armco do Brasil S.A.",
+    "about": "A Armco do Brasil S.A. é uma empresa de capital nacional com unidades fabris em São Paulo, São Bernardo do Campo, Sorocaba e Manaus, líder na produção de aços relaminados de baixo, médio e alto carbono, aços ligados, inoxidáveis e revestidos. A Armco possui a mais completa linha de produtos disponível no mercado, atendendo aos mais variados segmentos industriais. Essa diversificação está baseada apenas em uma filosofia: a de ver em cada cliente uma necessidade e em cada produto e serviço uma solução.\r\n\r\n ",
+    "inventoriesId": [
+        80,
+        1636
+    ],
+    "logoId": "1697fed0-d865-4078-bcca-309ced446641",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

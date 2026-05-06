@@ -1,0 +1,55 @@
+{
+    "id": 2832,
+    "name": "Localiza & Co.",
+    "about": "A Localiza é a maior empresa de aluguel de carros na América Latina em número de agências. Encerramos 2023 com 712 agências, das quais 616 no Brasil, 10 no México e 86 em outros 5 países da América do Sul. Trata-se de uma Companhia de capital aberto listada no Novo Mercado na B3 e com elevado nível de governança corporativa, a Localiza traz em sua história resultados extraordinários de protagonismo e inovação. Fundada em Belo Horizonte, em 1973, ao longo do tempo consolidou-se como uma plataforma de negócios de mobilidade composta por Aluguel de Carros e Gestão de Frotas.\n\nEm 2022, concluímos a combinação de negócios com a Locamerica, aprovada pelo Conselho Administrativo de Defesa Econômica (CADE), em 2021. Com essa transformação, passamos a ter uma escala que nos posicionou como líder nacional nos segmentos de aluguel de carros, gestão de frotas, carros por assinatura e de ride hailing. Este marco, que veio com sinergias operacionais e financeiras, também garantiu à Localiza&Co a complementariedade em novos escopos de atuação, como o de veículos pesados, veículos especiais e agro.\n\nA publicação deste inventário já reflete a combinação de negócios supracitada.",
+    "inventoriesId": [
+        4085,
+        4456,
+        4944,
+        5611,
+        6710,
+        7797
+    ],
+    "logoId": "95272f7a-86ec-da06-954d-3a136cd1ade2",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

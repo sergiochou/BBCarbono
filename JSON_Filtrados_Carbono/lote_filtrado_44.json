@@ -1,0 +1,645 @@
+[
+    {
+        "empresa_pasta": "Grupo Carrefour Brasil_4269",
+        "id_fgv": 4269,
+        "nome_oficial": "Grupo Carrefour Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 78163.6,
+                    "emissoes_escopo_2": 65937.05,
+                    "emissoes_escopo_3": 62499.55,
+                    "total_emissoes": 206600.2,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 87770.809,
+                    "emissoes_escopo_2": 143219.289,
+                    "emissoes_escopo_3": 103164.218,
+                    "total_emissoes": 334154.316,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 126187.748,
+                    "emissoes_escopo_2": 47389.102,
+                    "emissoes_escopo_3": 146939.842,
+                    "total_emissoes": 320516.692,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;▶reparação▶de▶veículos▶automotores▶e▶motocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Green Farm CO2Free",
+                "CERTIFICADO DE NEUTRALIZAÇÃO DE CARBONO 2021",
+                "O projeto Green Farm certifica o CARREFOUR COMÉRCIO E INDÚSTRIA LTDA pela compensação de",
+                "consulta e registrados na Plataforma de Negócios em Bens e Serviços Ambientais e Ecossistêmicos de",
+                "Mato Grosso – PNBSAE/MT.",
+                "Número de Série PNBSAE: 00065891 a 00089891 Cuiabá, MT, 01 de julho de 2021.",
+                "Realização Técnica:",
+                "Marcelo C. Mammana",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2021"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Casas Bahia_1280",
+        "id_fgv": 1280,
+        "nome_oficial": "Grupo Casas Bahia ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 44090.198,
+                    "emissoes_escopo_2": 3443.149,
+                    "emissoes_escopo_3": 6518.198,
+                    "total_emissoes": 54051.545,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 29386.631,
+                    "emissoes_escopo_2": 7121.864,
+                    "emissoes_escopo_3": 66363.777,
+                    "total_emissoes": 102872.272,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 18112.725,
+                    "emissoes_escopo_2": 9780.517,
+                    "emissoes_escopo_3": 49866.959,
+                    "total_emissoes": 77760.201,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 448.549,
+                    "emissoes_escopo_2": 15257.608,
+                    "emissoes_escopo_3": 58903.295,
+                    "total_emissoes": 74609.452,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 2199.618,
+                    "emissoes_escopo_2": 10388.316,
+                    "emissoes_escopo_3": 50100.498,
+                    "total_emissoes": 62688.432,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 6341.846,
+                    "emissoes_escopo_2": 24069.47,
+                    "emissoes_escopo_3": 65232.037,
+                    "total_emissoes": 95643.353,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo CBO_3964",
+        "id_fgv": 3964,
+        "nome_oficial": "Grupo CBO",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 37539.113,
+                    "emissoes_escopo_2": 248.925,
+                    "emissoes_escopo_3": 238527.364,
+                    "total_emissoes": 276315.402,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 76538.675,
+                    "emissoes_escopo_2": 71.404,
+                    "emissoes_escopo_3": 295842.829,
+                    "total_emissoes": 372452.908,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 62241.678,
+                    "emissoes_escopo_2": 74.386,
+                    "emissoes_escopo_3": 294525.442,
+                    "total_emissoes": 356841.506,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "e) verificado?",
+                "Santana I SHP CDM Project (JUN 1118)",
+                "SHPs Tambaú, das Pedras and Rio do Sapo CDM Project (JUN1132), Brazil",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: Instituto Totum Nome da OI: CBO Holding S.A"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Centroflora_270",
+        "id_fgv": 270,
+        "nome_oficial": "Grupo Centroflora",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 3248.65,
+                    "emissoes_escopo_2": 127.85,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3376.5,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4177.021,
+                    "emissoes_escopo_2": 96.176,
+                    "emissoes_escopo_3": 335.927,
+                    "total_emissoes": 4609.124,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4118.366,
+                    "emissoes_escopo_2": 233.912,
+                    "emissoes_escopo_3": 577.214,
+                    "total_emissoes": 4929.492,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4347.176,
+                    "emissoes_escopo_2": 336.164,
+                    "emissoes_escopo_3": 591.592,
+                    "total_emissoes": 5274.932,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5114.419,
+                    "emissoes_escopo_2": 497.079,
+                    "emissoes_escopo_3": 398.826,
+                    "total_emissoes": 6010.324,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4665.941,
+                    "emissoes_escopo_2": 466.036,
+                    "emissoes_escopo_3": 354.008,
+                    "total_emissoes": 5485.985,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6041.342,
+                    "emissoes_escopo_2": 305.142,
+                    "emissoes_escopo_3": 336.196,
+                    "total_emissoes": 6682.68,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4853.824,
+                    "emissoes_escopo_2": 324.888,
+                    "emissoes_escopo_3": 107.106,
+                    "total_emissoes": 5285.818,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2011",
+                "Inventário 2011 - Grupo Centroflora",
+                "Anidro do Brasil Extrações S/A",
+                "Nome fantasia: Grupo Centroflora",
+                "CNPJ: 66.715.459/0002-60",
+                "Setor econômico: Indústrias de transformação",
+                "Subsetor: Fabricação de produtos farmoquímicos e farmacêuticos",
+                "Endereço: Rodovia Eduardo Zuccari (km) - 21 - Unidade de Extratos Vegetais - Zona Rural -"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "GRUPO CONCEITO_7455",
+        "id_fgv": 7455,
+        "nome_oficial": "GRUPO CONCEITO",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 3316.138,
+                    "emissoes_escopo_2": 42.022,
+                    "emissoes_escopo_3": 41646.581,
+                    "total_emissoes": 45004.741,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Euro17_8248",
+        "id_fgv": 8248,
+        "nome_oficial": "Grupo Euro17",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades✅financeiras,✅de✅seguros✅e✅serviços✅relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo Fleury_389",
+        "id_fgv": 389,
+        "nome_oficial": "Grupo Fleury",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 162.911,
+                    "emissoes_escopo_2": 1009.81,
+                    "emissoes_escopo_3": 1195.973,
+                    "total_emissoes": 2368.694,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1036.447,
+                    "emissoes_escopo_2": 626.759,
+                    "emissoes_escopo_3": 1744.458,
+                    "total_emissoes": 3407.664,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1049.416,
+                    "emissoes_escopo_2": 1599.017,
+                    "emissoes_escopo_3": 1694.332,
+                    "total_emissoes": 4342.765,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 2391.618,
+                    "emissoes_escopo_2": 5688.34,
+                    "emissoes_escopo_3": 3174.81,
+                    "total_emissoes": 11254.768,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3250.122,
+                    "emissoes_escopo_2": 6259.608,
+                    "emissoes_escopo_3": 809.538,
+                    "total_emissoes": 10319.268,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 2972.009,
+                    "emissoes_escopo_2": 5692.851,
+                    "emissoes_escopo_3": 1612.105,
+                    "total_emissoes": 10276.965,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4400.987,
+                    "emissoes_escopo_2": 3244.994,
+                    "emissoes_escopo_3": 3299.196,
+                    "total_emissoes": 10945.177,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3837.01,
+                    "emissoes_escopo_2": 4390.791,
+                    "emissoes_escopo_3": 1845.803,
+                    "total_emissoes": 10073.604,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 6632.947,
+                    "emissoes_escopo_2": 3710.588,
+                    "emissoes_escopo_3": 2057.192,
+                    "total_emissoes": 12400.727,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4117.926,
+                    "emissoes_escopo_2": 2502.075,
+                    "emissoes_escopo_3": 761.364,
+                    "total_emissoes": 7381.365,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 3931.604,
+                    "emissoes_escopo_2": 3562.936,
+                    "emissoes_escopo_3": 751.131,
+                    "total_emissoes": 8245.671,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 5286.613,
+                    "emissoes_escopo_2": 7249.425,
+                    "emissoes_escopo_3": 1109.802,
+                    "total_emissoes": 13645.84,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 4257.145,
+                    "emissoes_escopo_2": 2633.976,
+                    "emissoes_escopo_3": 2252.792,
+                    "total_emissoes": 9143.913,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 7918.579,
+                    "emissoes_escopo_2": 3755.063,
+                    "emissoes_escopo_3": 141173.833,
+                    "total_emissoes": 152847.475,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde▶humana▶e▶serviços▶sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "GRUPO FORMITEX_7190",
+        "id_fgv": 7190,
+        "nome_oficial": "GRUPO FORMITEX",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "GRUPO GPS_4493",
+        "id_fgv": 4493,
+        "nome_oficial": "GRUPO GPS",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 67006.487,
+                    "emissoes_escopo_2": 385.992,
+                    "emissoes_escopo_3": 22.218,
+                    "total_emissoes": 67414.697,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras▶atividades▶de▶serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Grupo HDI_8637",
+        "id_fgv": 8637,
+        "nome_oficial": "Grupo HDI",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades\u0002financeiras,\u0002de\u0002seguros\u0002e\u0002serviços\u0002relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 370.373,
+                    "emissoes_escopo_2": 130.611,
+                    "emissoes_escopo_3": 60241.886,
+                    "total_emissoes": 60742.87,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶financeiras,▶de▶seguros▶e▶serviços▶relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "id": 8331,
+    "name": "Cattalini Terminais Marítimos",
+    "about": "A Cattalini Terminais Marítimos está localizada no Porto de Paranaguá, o segundo maior porto brasileiro em termos de movimentação de líquidos, sua localização estratégica permite conexões intermodais no Paraná. O Porto está conectado ao resto do país através da malha ferroviária da ALL/RUMO e das rodovias BR-116 e BR-277.\nAtualmente a empresa possui 570 colaboradores efetivos com horário de funcionamento operacional de 24 horas por dia, 7 dias por semana e horário administrativo de segunda-feira a sexta-feira das 07:30 horas às 18:15 horas. A infraestrutura dos terminais é composta por 137 tanques e conta com 618 mil m³ de espaço físico para armazenagem de diversos produtos. Tais produtos são distribuídos nos atuas 4 centros de tancagens alfandegados e entrepostados e interligados por sistema de tubulações independentes, garantindo a segregabilidade e segurança dos produtos armazenados. Operação multimodal, por meio do embarque e desembarque marítimo, carregamento e descarga rodoviária e ferroviária.",
+    "inventoriesId": [
+        7923
+    ],
+    "logoId": "2c54f385-9694-9d88-142f-3a18c6f2501e",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

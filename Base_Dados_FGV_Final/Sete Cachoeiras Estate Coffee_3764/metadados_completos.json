@@ -1,0 +1,35 @@
+{
+    "id": 3764,
+    "name": "Sete Cachoeiras Estate Coffee",
+    "about": "As unidades de produção da Sete Cachoeiras Estate Coffee estão localizadas no Sul de Minas Gerais, região maior produtora de café arábica do mundo. De uma área total de 1497,88 hectares, mais de 804,6 hectares abrigam cerca de três milhões e seiscentos mil de cafeeiros em produção.\r\nAs fazendas Pinheiros (sede administrativa do grupo) e Mirante estão localizadas entre os município de Campos Gerais. As Fazendas Sete Cachoeiras (antiga sede do grupo) e Charneca, contribuem para fazer do município de Três Pontas terceiro maior produtor de café do Brasil. Berço de grandes músicos e com tradição centenária na atividade cafeeira, Três Pontas tem privilegiada localização geográfica, mão-de-obra qualificada, topografia suave, altitude média de 900 metros, grande disponibilidade de recursos hídricos, clima ameno e solos férteis.\r\n\r\nA Sete Cachoeiras Estate Coffee figura dentre as propriedades pioneiras na cafeicultura de Três Pontas, com destaque para a majestosa sede construída em 1930. O nome se originou da existência de sete cachoeiras no Ribeirão também denominado Sete Cachoeiras que margeia a fazenda. A atividade cafeeira sobreviveu às gerações e passou por grandes transformações para se tornar modelo de gestão e produção sustentável. Desde 1994, sob novo gerenciamento, o parque cafeeiro foi renovado, o processo produtivo foi cuidadosamente modernizado e, com foco na qualidade dos produtos, as parcerias comerciais foram ampliadas e fortalecidas.\r\n\r\nA missão da empresa é produzir cafés especiais e de alta qualidade, respeitando e conservando o meio ambiente, bem como dando melhores condições de trabalho aos seus colaboradores e participar junto à sociedade colaborando para o desenvolvimento socio econômico da mesma.\r\nTem como visão a melhoria contínua para alcançar os objetivos de qualidade total do nosso produto e satisfação dos clientes internos e externos, fornecedores e sociedade como um todo.\r\n\r\nA política de grupo praticada é pugnar sempre pela justiça social, em prol de uma sociedade mais justa e humana, buscando uma sustentabilidade social e ambiental da produção agrícola por meio da conservação da biodiversidade, do desenvolvimento humano sustentável, mediante cumprimentos de normas sociais e ambientais.\r\nA adoção de práticas agrícolas sustentáveis permite a rastreabilidade das operações ao longo de todo o processo de produção do café e incorpora qualidade de vida no meio rural, com normas que atendem às exigências internacionais de mercado. A Sete Cachoeiras Estate Coffee realizou uma efetiva transformação nas unidades de produção, seguindo os princípios que norteiam às rígidas normas sugeridas pelas certificações Rainforest Alliance, 4C, C.A.F.E. Practices, Certifica Minas.\r\n\r\nO café produzido na Sete Cachoeiras Estate Coffee pode estampar o selo destas renomadas certificações por possuir alto padrão de sustentabilidade ambiental, social e econômica. O destaque não está apenas no parque cafeeiro conduzido com tecnologias modernas e ecológicas, mas também na área ocupada por florestas nativas e de reflorestamento, que ocupam 29% da área da área total, superior aos 20% da exigência legal. Visando a orientação técnica para o reflorestamento da mata ciliar e nativa, o grupo firmou uma parceria com a organização S.O.S Mata Atlântica, com destaque para a construção de corredores ecológicos e diversificação da fauna e flora.\r\n\r\nO comprometimento da Sete Cachoeiras Estate Coffee não se limita a produzir cafés de qualidade diferenciada, mas inclui zelo ambiental ao investir no tratamento das águas residuais do processamento de café cereja descascado, por meio de baterias de lagoas de decantação. Também disponibiliza a capitação de água para abastecer a cidade de Três Pontas (MG), com 70 mil habitantes, tendo sua qualidade monitorada em todo o percurso. Os funcionários e familiares também participam de um intenso trabalho de conscientização quanto à preservação ambiental, tornando-se parceiros na defesa das nascentes, cursos de água, das matas e dos animais que são fartamente encontrados nas propriedades.\r\n\r\nA Sete Cachoeiras Estate Coffee teve suas iniciativas sustentáveis destacadas no livro “Do grão a xícara: como a escolha do consumidor afeta cafeicultores e meio ambiente”, e do documentário “Just Coffee”, numa iniciativa da Consumers Internation em parceria com o Instituto Brasileiro de Defesa do Consumidor (IDEC) e o Centro de Café Alcides Carvalho, do Instituto Agronômico de Campinas (IAC). O projeto foi vinculado nos cinco continentes e recebe o apoio de mais de 230 organizações de consumidores, representados pela Consumers International, em 113 países.\r\n",
+    "inventoriesId": [
+        5497,
+        6593
+    ],
+    "logoId": "161e7991-81d7-496c-8a61-906c9f9105bb",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,100 @@
+{
+    "id": 1048,
+    "name": "Hospital Israelita Albert Einstein",
+    "about": "A Sociedade Beneficente Israelita Brasileira Albert Einstein foi fundada em 4 de junho de 1955 por membros da comunidade judaica da cidade de São Paulo. Ao longo desses 70 anos de existência, o Einstein tornou-se referência para médicos e pacientes, e engloba diferentes unidades que fornecem serviços de qualidade e executam a medicina baseada em evidências científicas em todas as frentes da saúde – promoção, prevenção, diagnóstico, tratamento e reabilitação. Conta com uma equipe de mais de 20 mil colaboradores além de nosso corpo clínico e está sediada em São Paulo. \nQuatro pilares estratégicos de atuação orientam o trabalho: Assistência à Saúde com unidades próprias, entre elas o Hospital Israelita Albert Einstein; Educação e Ensino, responsável por desenvolver estudos de ponta e oferecer cursos técnicos, de graduação em Enfermagem e Medicina, pós-graduação e consultoria; Pesquisa e Inovação no qual consta um Centro de Inovação Tecnológica, o Innovation Lab e a incubadora de startups da área de saúde Eretz.bio; Responsabilidade Social que faz a gestão e operação de 35 unidades do Sistema Único de Saúde (SUS) e também é composto pelo Departamento de Voluntários que promove diversas iniciativas para manter e ampliar suas ações sociais.",
+    "inventoriesId": [
+        33,
+        2641,
+        2140,
+        1610,
+        390,
+        3049,
+        3369,
+        3745,
+        3934,
+        4174,
+        4610,
+        5080,
+        6074,
+        7673,
+        9191
+    ],
+    "logoId": "8220693e-4285-2709-3283-3a1b5053a38f",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

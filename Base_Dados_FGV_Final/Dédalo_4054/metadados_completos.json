@@ -1,0 +1,35 @@
+{
+    "id": 4054,
+    "name": "Dédalo",
+    "about": "A Dédalo Engenharia, empresa especializada em projetos, tornou-se referência no fornecimento de soluções integradas de engenharia.\r\nNenhuma solução pode ser isolada de seus contextos político, econômico, social e cultural.",
+    "inventoriesId": [
+        5282,
+        6483
+    ],
+    "logoId": "8c654adc-36ff-446f-aa5b-b4a78069770a",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

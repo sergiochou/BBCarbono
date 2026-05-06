@@ -1,0 +1,70 @@
+{
+    "id": 2541,
+    "name": "Algar",
+    "about": "Somos a Algar Telecom, uma empresa de telecomunicações e tecnologia da informação do grupo Algar. Nossa atuação é dedicada a conectar pessoas e negócios, para melhorar o desempenho de empresas e garantir mais oportunidades e acessos às comunidades.\nNosso propósito é claro: Gente Servindo Gente. Assim, priorizamos a proximidade com os clientes. É essa é chave para entendermos suas reais necessidades e definir nosso foco de entrega para cada dia ofertar mais soluções que facilitem o dia a dia das pessoas.\nCom sede em Uberlândia, Minas Gerais, temos mais de 70 anos de trajetória e uma moderna e extensa infraestrutura, construída com tecnologia de ponta e suportada por uma rede de 137 mil km de fibra ótica, nos permite oferecer serviços de alta qualidade quase de 1,3 milhão de clientes empresariais e residenciais em diversas localidades de 16 estados brasileiros e no Distrito Federal. Somos reconhecidos por oferecer produtos e serviços inovadores, robustos e com tecnologias que priorizam a segurança de dados, atendendo grandes corporações, pequenas e médias empresas, clientes residenciais.\nTrabalhamos para crescer junto com nossos clientes de forma sustentável, com integridade e respeito à sociedade e ao meio ambiente. Nossa proposta de valor consiste em aliar um portfólio inovador.\nNos baseamos em ciclos estratégicos, com diretrizes que norteiam nossos investimentos e tomadas de decisão em prazos médios de cinco anos, sempre desenvolvendo a evolução digital. O ciclo atual prevê expansão geográfica e atuando com a identidades que formam as localidades onde estamos inseridos.\nEm cada uma de nossas ações, buscamos beneficiar, manter e desenvolver nossa sociedade, economia e natureza, em conformidade com as melhores práticas ESG (Ambiental, Social e Governança).\nNo eixo ambiental, há mais de 16 anos, instituímos projetos e iniciativas que buscam constantemente garantir a governança climática efetiva das operações e o engajamento das partes com as quais a companhia se relaciona, contribuindo para uma agenda conjunta de preservação do meio ambiente\nNossa gestão sustentável no quesito ambiental se baseia em três princípios:\nRedução dos impactos ambientais, de acordo com as prioridades condicionais pela Matriz de Relevância e diagnóstico de emissão de gases de efeito estufa feito pela Companhia 3;\nIncentivo às ações em prol do meio ambiente em toda a nossa rede de relacionamento, princípio denominado como Influência Sustentável.\nConformidade de nossas práticas, focadas na busca constante pelo compliance e certificações relacionadas aos nossos negócios 3.\nNo eixo social, além de contribuir eficazmente com a inclusão digital de pessoas e empresas, temos um sólido trabalho de responsabilidade social por meio do Instituto Algar, uma associação sem fins lucrativos que tem iniciativas nas frentes educacionais e culturais.\nCom um jeito genuíno de servir, aliado à determinação de sempre oferecer recursos de interação rápida e fácil, estabelecemos relações de longo prazo com nossos clientes. Queremos seguir crescendo de forma sustentável, sendo relevantes no mercado e, ao mesmo tempo, responsáveis com a sociedade, o meio ambiente e a solidez financeira da companhia.",
+    "inventoriesId": [
+        3342,
+        3446,
+        3829,
+        4225,
+        4616,
+        5065,
+        5976,
+        6801,
+        8328
+    ],
+    "logoId": "f008d83f-1fc0-f452-0590-3a1fcfee06df",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

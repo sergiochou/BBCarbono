@@ -1,0 +1,35 @@
+{
+    "id": 7696,
+    "name": "RD Saúde",
+    "about": "Somos a RD Saúde, um ecossistema de saúde integral, com 3 mil farmácias em todo o Brasil e negócios em saúde que dividem o mesmo propósito: contribuir para uma sociedade mais saudável. Nossa jornada começou em novembro de 2011, fruto da união entre Droga Raia e Drogasil, crescendo até se tornar a maior rede de farmácias do Brasil e expandindo para além do varejo farmacêutico, integrando soluções B2B e plataformas digitais.\nCom mais de um milhão de vidas atendidas diariamente em todo o país, temos vocação de cuidar dos nossos clientes e das nossas pessoas. Somos um grupo comprometido em construir o futuro da saúde com tecnologia e calor humano, por meio de um ecossistema aberto de soluções em saúde. Temos a sustentabilidade no centro da nossa estratégia, dividindo nossa ambição em três pilares: pessoas, negócio e planeta mais saudáveis.",
+    "inventoriesId": [
+        7446,
+        9117
+    ],
+    "logoId": "ac8ee38b-8be9-c327-5662-3a136cd359ae",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 432,
+    "name": "Coopercarga",
+    "about": "Fundada em 1990 em Concórdia-SC, a Coopercarga foi instituída por um grupo de 143 transportadores com base no modelo cooperativo. Oferecendo soluções logísticas integradas, a organização passou a atuar, ao longo dos anos, nos mais diversos negócios e segmentos e, hoje, suas atividades estão concentradas nas operações com centros de armazenagem, transporte rodoviário de cargas, distribuição urbana, operações florestais e off road e postos de combustíveis, além de possuir uma equipe especializada e qualificada na formatação de projetos logísticos que sejam adequados a necessidade de cada cliente.\r\nA Coopercarga possui unidades localizadas estrategicamente em todo Brasil, e uma frota composta de 1,9 mil caminhões com idade média de quatro anos e monitorada 24h por equipamentos de última geração. Atualmente, está entre as maiores e melhores empresas de transporte do Brasil de acordo com o ranking Exame.\r\n\r\nPara maiores informações acesse: www.coopercarga.com.br ",
+    "inventoriesId": [
+        502,
+        75,
+        2153
+    ],
+    "logoId": "bbb8fb76-4449-440b-a533-fa5a329d69e6",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

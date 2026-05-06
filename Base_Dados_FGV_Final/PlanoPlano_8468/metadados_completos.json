@@ -1,0 +1,30 @@
+{
+    "id": 8468,
+    "name": "Plano&Plano",
+    "about": "Desde 1997 atuando no mercado brasileiro, somos uma das maiores incorporadoras e construtoras do país, reconhecidos pela nossa presença na B3 como PLPL3. Construímos uma sólida reputação ao longo desses anos, realizando o sonho da casa própria para mais de 59 mil famílias.\n\nAcreditamos profundamente na força contida na união. Cultivamos relações fortes e duradouras com todos os nossos públicos, com base em valores sólidos de ética, responsabilidade e respeito.\n\nSomos a Plano&Plano: uma construtora de gente, feita por gente, e para toda gente!",
+    "inventoriesId": [
+        9140
+    ],
+    "logoId": "69badc4e-869b-00a1-3f55-3a19144c62b5",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

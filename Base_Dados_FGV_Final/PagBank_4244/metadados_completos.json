@@ -1,0 +1,55 @@
+{
+    "id": 4244,
+    "name": "PagBank",
+    "about": "O PagBank é uma empresa privada, com 8.595 profissionais (em dez/2024), que atua no mercado brasileiro desde 2006 e está listada na New York Stock Exchange (NYSE) desde janeiro de 2018. Provedor de soluções e serviços de tecnologia financeira inovadores focado, principalmente, em consumidores, empreendedores individuais, microempresas e pequenas e médias empresas no Brasil. Dentre seus pares, o PagBank é o único prestador de serviços de tecnologia financeira no Brasil cujo negócio oferece um ecossistema de dois lados, proporcionando uma experiência bancária e de pagamentos de alto nível por meio de uma única interface, com aplicativo, plataforma e suporte ao cliente. \n\nO PagBank é uma empresa do Grupo UOL e tem duas unidades de negócios principais: Adquirência e Serviços financeiros. O PagBank oferece uma maneira fácil, segura e descomplicada de ter uma conta digital gratuita, vinculada à plataforma do Banco Central do Brasil, com o recurso de aceitar pagamentos, onde seus clientes podem realizar transações e gerenciar seu dinheiro, ter um cartão de débito ou crédito, economizar dinheiro e encontrar um grande portfólio de investimentos disponíveis. Nosso ecossistema de pagamentos de ponta a ponta permite que os clientes aceitem uma ampla gama de métodos de pagamento on-line e presenciais, incluindo cartões de crédito, cartões de débito, cartões de vale-refeição, boletos, transferências bancárias e depósitos em dinheiro.\n\n",
+    "inventoriesId": [
+        5506,
+        5507,
+        5505,
+        6487,
+        7864,
+        9036
+    ],
+    "logoId": "e87d46e6-f662-4f8c-acb1-24e273dda257",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

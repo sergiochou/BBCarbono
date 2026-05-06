@@ -1,0 +1,55 @@
+{
+    "id": 1280,
+    "name": "Grupo Casas Bahia ",
+    "about": "O Grupo Casas Bahia é uma das maiores empresas do varejo de eletrônicos, eletrodomésticos e móveis do Brasil. Com sede na cidade em São Paulo, está presente em mais de 500 municípios brasileiros, 22 estados e no Distrito Federal, com mais de mil lojas físicas e mais de 30 mil colaboradores em todo o país. Por meio de suas lojas físicas e suas plataformas digitais de e-commerce e marketplace (sites e aplicativos), comercializa milhões de produtos por ano. O Grupo Casas Bahia S.A administra as seguintes marcas: Casas Bahia, Ponto Frio, Extra.com.br, Bartira, BanQi e CBFull. Para saber mais sobre as marcas, acesse:\nhttps://ri.via.com.br/a-companhia/nossas-marcas/",
+    "inventoriesId": [
+        4463,
+        4897,
+        5129,
+        5826,
+        7198,
+        8933
+    ],
+    "logoId": "6baf3b9a-816e-e957-d351-3a121ebfd706",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

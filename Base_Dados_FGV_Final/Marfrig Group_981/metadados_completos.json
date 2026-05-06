@@ -1,0 +1,40 @@
+{
+    "id": 981,
+    "name": "Marfrig Group",
+    "about": "O Grupo Marfrig é uma das maiores empresas globais de alimentos à base de carnes bovina, suína, de aves, ovinos e peixes. Sua plataforma operacional diversificada e flexível é composta por unidades produtivas, comerciais e de distribuição instaladas em 22 países e em 5 continentes. Considerada uma das companhias brasileiras de alimentos mais internacionalizadas e diversificadas, seus produtos estão presentes hoje em mais de 160 países.\r\n\r\nCom aproximadamente 90 mil funcionários, o Grupo Marfrig é o maior produtor de ovinos na América do Sul, a maior companhia de carnes na Argentina, o maior produtor de aves no Reino Unido e a maior companhia privada no Uruguai e na Irlanda do Norte.\r\n\r\nEm 2010, foi eleita a “Melhor Empresa do Agronegócio” e “Melhor Empresa de Carnes” pela Revista Exame Maiores e Melhores, a “Melhor Empresa em Sustentabilidade Financeira” pela Revista Isto É Dinheiro e a “Melhor Indústria de Carnes” pela Revista Globo Rural. Em 2011 foi eleita novamente a “Melhor Empresa de Carnes” pela Revista Exame Maiores e Melhores e recebeu o “Troféu Transparência” da ANEFAC – Associação Nacional dos Executivos de Finanças e Administração, pela qualidade, transparência e padronização das suas demonstrações financeiras.\r\n\r\nCom ações negociadas no Novo Mercado da BM&FBOVESPA sob o ticker MRFG3, a Marfrig faz parte dos principais indicadores de desempenho do mercado de capitais brasileiro, como o Ibovespa, o IBrX-50 e o ICO2, carteira teórica composta por companhias que adotaram práticas transparentes com relação a suas emissões de gases efeito estufa (GEE).\r\n\r\nCom o objetivo de garantir no longo prazo a sustentabilidade dos seus negócios, o Grupo Marfrig desenvolve e implementa ações pioneiras e políticas abrangentes de responsabilidade socioambiental em sua cadeia produtiva. Seu Código de Ética único permeia a Corporação e é aplicado em todos os países onde atua. Isto propícia a formação de uma cultura única e global, regida pelos mesmos valores socioambientais. A face mais visível do engajamento da Corporação às práticas de sustentabilidade está nos grupos de trabalhos que a Empresa lidera e nos compromissos públicos que assume em parcerias com as maiores organizações mundiais de defesa da produção sustentável e de preservação da biodiversidade.\r\n\r\nPara maiores informações sobre o Grupo Marfrig, acesse www.marfrig.com.br\r\n\r\n",
+    "inventoriesId": [
+        76,
+        1639,
+        331
+    ],
+    "logoId": "e6f32315-8032-46e0-b4e8-c6ed924c12eb",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

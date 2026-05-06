@@ -1,0 +1,487 @@
+[
+    {
+        "empresa_pasta": "ENERGIZZI ENERGIAS DO BRASIL_4577",
+        "id_fgv": 4577,
+        "nome_oficial": "ENERGIZZI ENERGIAS DO BRASIL",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 15220.926,
+                    "emissoes_escopo_2": 18.624,
+                    "emissoes_escopo_3": 5013.049,
+                    "total_emissoes": 20252.599,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 6252.735,
+                    "emissoes_escopo_2": 16.302,
+                    "emissoes_escopo_3": 511.479,
+                    "total_emissoes": 6780.516,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Eneva_3327",
+        "id_fgv": 3327,
+        "nome_oficial": "Eneva",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 4604036.6,
+                    "emissoes_escopo_2": 1673.349,
+                    "emissoes_escopo_3": 18924.645,
+                    "total_emissoes": 4624634.594,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 7549043.47,
+                    "emissoes_escopo_2": 2113.148,
+                    "emissoes_escopo_3": 38473.21,
+                    "total_emissoes": 7589629.828,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 2681397.3,
+                    "emissoes_escopo_2": 1700.485,
+                    "emissoes_escopo_3": 13181.55,
+                    "total_emissoes": 2696279.335,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 2709612.57,
+                    "emissoes_escopo_2": 2643.566,
+                    "emissoes_escopo_3": 644141.993,
+                    "total_emissoes": 3356398.129,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": ", temos a ambição de alcançar Net Zero até 2050 – Escopos 1, 2 e 3 para geração de energia a gás natural e Escopos 1 e 2 para a"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Engemasa_6137",
+        "id_fgv": 6137,
+        "nome_oficial": "Engemasa",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1137.311,
+                    "emissoes_escopo_2": 295.099,
+                    "emissoes_escopo_3": 10903.885,
+                    "total_emissoes": 12336.295,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Engemon Engenharia e Telecomunicações_4544",
+        "id_fgv": 4544,
+        "nome_oficial": "Engemon Engenharia e Telecomunicações",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 214.86,
+                    "emissoes_escopo_2": 61.431,
+                    "emissoes_escopo_3": 68.636,
+                    "total_emissoes": 344.927,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 265.696,
+                    "emissoes_escopo_2": 5.463,
+                    "emissoes_escopo_3": 474.603,
+                    "total_emissoes": 745.762,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Engesp_8656",
+        "id_fgv": 8656,
+        "nome_oficial": "Engesp",
+        "estado": "GO",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 2156.897,
+                    "emissoes_escopo_2": 18.568,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2175.465,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ENGIE BRASIL ENERGIA SA_8268",
+        "id_fgv": 8268,
+        "nome_oficial": "ENGIE BRASIL ENERGIA S.A.",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Entrevias_3247",
+        "id_fgv": 3247,
+        "nome_oficial": "Entrevias",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 9307.918,
+                    "emissoes_escopo_2": 184.751,
+                    "emissoes_escopo_3": 3.801,
+                    "total_emissoes": 9496.47,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2352.503,
+                    "emissoes_escopo_2": 405.862,
+                    "emissoes_escopo_3": 1.671,
+                    "total_emissoes": 2760.036,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3078.407,
+                    "emissoes_escopo_2": 129.575,
+                    "emissoes_escopo_3": 7344.093,
+                    "total_emissoes": 10552.075,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 4293.183,
+                    "emissoes_escopo_2": 107.007,
+                    "emissoes_escopo_3": 5372.181,
+                    "total_emissoes": 9772.371,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ENVISION INDUSTRIA DE PRODUTO ELETRONICO LTDA_2671",
+        "id_fgv": 2671,
+        "nome_oficial": "ENVISION INDUSTRIA DE PRODUTO ELETRONICO LTDA",
+        "estado": "AM",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 83323.162,
+                    "emissoes_escopo_2": 428.15,
+                    "emissoes_escopo_3": 757.027,
+                    "total_emissoes": 84508.339,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 110040.54,
+                    "emissoes_escopo_2": 724.386,
+                    "emissoes_escopo_3": 828.69,
+                    "total_emissoes": 111593.616,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 83374.535,
+                    "emissoes_escopo_2": 752.279,
+                    "emissoes_escopo_3": 38.695,
+                    "total_emissoes": 84165.509,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 70506.471,
+                    "emissoes_escopo_2": 578.136,
+                    "emissoes_escopo_3": 11.108,
+                    "total_emissoes": 71095.715,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 326.825,
+                    "emissoes_escopo_2": 1196.197,
+                    "emissoes_escopo_3": 0.112,
+                    "total_emissoes": 1523.134,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 127.284,
+                    "emissoes_escopo_2": 185.9,
+                    "emissoes_escopo_3": 77.414,
+                    "total_emissoes": 390.598,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 257.637,
+                    "emissoes_escopo_2": 359.183,
+                    "emissoes_escopo_3": 39246.609,
+                    "total_emissoes": 39863.429,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "EQAO_1544",
+        "id_fgv": 1544,
+        "nome_oficial": "EQAO",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 1.981,
+                    "emissoes_escopo_3": 59.086,
+                    "total_emissoes": 61.067,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 1.505,
+                    "emissoes_escopo_3": 53.105,
+                    "total_emissoes": 54.61,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "(tCOe) verificado?",
+                "GARGANTA DA JARARACA SMALL HYDROELECTRIC POWER PLANT (SHP) CDM",
+                "REF.#0809",
+                "Para cumprir as Especificações de Verificação do Programa Brasileiro GHG Protocol, todos os OVs devem usar este modelo",
+                "para concluir a declaração de verificação obrigatória.",
+                "Esta declaração pode ser revisada a qualquer momento e a versão atualizada estará disponível no website",
+                "www.fgv.br/ces/ghg",
+                "Declaração de verificação",
+                "Esta declaração de verificação documenta que a SGS ICS Certificadora Ltda realizou atividades de verificação de",
+                "acordo com a ABNT NBR ISO 14064-3:2007 e as Especificações de Verificação do Programa Brasileiro GHG"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ERB  Energias Renováveis do Brasil_1017",
+        "id_fgv": 1017,
+        "nome_oficial": "ERB - Energias Renováveis do Brasil ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 435.39,
+                    "emissoes_escopo_2": 0.831,
+                    "emissoes_escopo_3": 454.209,
+                    "total_emissoes": 890.43,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3900.73,
+                    "emissoes_escopo_2": 3.186,
+                    "emissoes_escopo_3": 1235.393,
+                    "total_emissoes": 5139.309,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3103.529,
+                    "emissoes_escopo_2": 5.313,
+                    "emissoes_escopo_3": 3211.015,
+                    "total_emissoes": 6319.857,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Variação do estoque de carbono acumulado em floresta de eucalipto",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2012",
+                "Inventário 2012 - ERB - Energias Renováveis do Brasil",
+                "Energias Renováveis do Brasil Ltda",
+                "Nome fantasia: ERB - Energias Renováveis do Brasil",
+                "CNPJ: 09.324.653/0001-09",
+                "Setor econômico: Eletricidade e gás",
+                "Subsetor: Eletricidade e gás",
+                "Endereço: Avenida Santo Amaro - 48 - 3o. andar - Santo Amaro - São Paulo - SP - 04506-"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

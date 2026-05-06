@@ -1,0 +1,35 @@
+{
+    "id": 6017,
+    "name": "Woodbridge - São Bernardo",
+    "about": "Com sede corporativa em Mississauga, Ontário, Canadá, e sede automotiva em Troy, Michigan, EUA, a Woodbridge tem mais de 7.000 colaboradores em mais de 40 localidades em nove países. A empresa oferece tecnologias de materiais para aplicações automotivas, comerciais, recreativas, de embalagens, de saúde e de produtos de construção. Fornecemos um conjunto completo de serviços, incluindo prototipagem, consultoria, suporte técnico, pesquisa e desenvolvimento químico e testes laboratoriais credenciados.\nO compromisso da Woodbridge com Meio Ambiente, Social e Governança (ESG) está incorporado em todos os aspectos de nossa organização, o que inclui nossa Declaração de Missão, Propósito, Valores e Princípios Orientadores, Código de Conduta e Ética Empresarial, políticas corporativas e padrões relacionados, bem como como a forma como fazemos negócios e interagimos com a comunidade. A Woodbridge continua a impulsionar a melhoria contínua, conduzindo os nossos negócios centrados na gestão ambiental, na prosperidade econômica e na responsabilidade social. Nossos esforços são orientados pela equipe de liderança da Woodbridge e levam em consideração o respeito e os direitos das partes interessadas, dos acionistas, dos nossos, colaboradores, dos clientes, dos fornecedores e das comunidades onde operamos.",
+    "inventoriesId": [
+        6991,
+        9015
+    ],
+    "logoId": "b99930fe-027d-ab01-5156-3a11e5649a3b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3266,
+    "name": "Delurb Ambiental",
+    "about": "A DELURB AMBIENTAL é uma empresa voltada para a prestação de serviços de coleta de resíduos, limpeza urbana e destinação final, utilizando tecnologias de ponta em suas atividades.\r\n\r\nA DELURB AMBIENTAL possui um quadro de profissionais altamente qualificados e treinados, com comprovada experiência técnica. O trabalho é realizado com ética e preocupação com o desenvolvimento sustentável, oferecendo qualidade com responsabilidade, operando dentro das especificações técnicas estabelecidas pelos órgãos de normatização e fiscalização, dentre os quais destacam-se: ABNT – Associação Brasileira de Normas Técnicas; INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia; INEA – Instituto Estadual do Ambiente; CREA – Conselho Regional de Engenharia e Arquitetura; IBAMA – Instituto Brasileiro de Meio Ambiente; ANVISA – Agência Nacional de Vigilância Sanitária; MMA – Ministério do Meio Ambiente.\r\n\r\nDesde sua origem, a DELURB AMBIENTAL adotou como principal forma de atuação a qualidade de seus serviços, uma vez que eles vão além da esfera de seus clientes e afetam a sociedade como um todo.\r\n\r\nA DELURB AMBIENTAL acredita que num país com as carências e as dificuldades do Brasil, as empresas privadas devem ajudar, dentro de suas capacidades, o Estado a praticar seu dever assistencial. Por esse motivo a empresa desenvolve diversas ações voltadas ao público interno e externo, cumprindo seu papel com a sociedade.",
+    "inventoriesId": [
+        4817,
+        5272,
+        6029,
+        7589,
+        8150
+    ],
+    "logoId": "ddcc6e35-63ca-027a-0ecb-3a131f1c894f",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 72,
+    "name": "Ordem dos Advogados do Brasil secção Piaui",
+    "about": "A Ordem dos Advogados do Brasil foi criada sob o manto da mudança, ousadia e do protagonismo da Revolução de 30, nos termos do art.17 do Decreto 19.408, de 18 de novembro de 1930. Esse espírito chegou ao Piauí dois anos depois, tendo sido aqui fundada a OAB Seccional do Piauí, em 25 de abril de 1932, no antigo prédio da faculdade de Direito onde foi instalado o Conselho da Seccional Piauiense da Ordem dos Advogados do Brasil, marco histórico da organização profissional da classe, da defesa da sociedade e do aperfeiçoamento das instituições jurídicas do estado do Piauí, tendo à frente, como primeiro presidente, Dr. João Osório Porfírio da Mota.\r\n83 anos depois, a entidade conta com 11 subseções em todo o Estado, instaladas nas cidades de Água Branca, Bom Jesus, Campo Maior, Corrente, Floriano, Oeiras, Parnaíba, Picos, Piripiri, São Raimundo Nonato e Valença.\r\nSão quase 13 mil advogados inscritos na OAB-PI, dos quais cerca de 9.500 atuam em Teresina.\r\nAo longo dos seus mais de 80 anos, a OAB do Brasil e do Piauí já superaram inúmeros desafios, sendo que o principal deles foi a construção do Estado Democrático de Direito em que vivemos atualmente a partir da Constituição de 1988.\r\nNesse contexto histórico, merece registro a atuação do advogado Reginaldo Santos Furtado, Presidente do Comitê Pró-Diretas Já - Piauí e também Presidente da OAB-PI na época do Movimento das Diretas Já.\r\nAs duas grandes missões institucionais e históricas da Ordem foram e continuam a ser as seguintes: defender a Constituição e o Estado Democrático de Direito, como função social da instituição; e promover e regulamentar o exercício profissional da advocacia como função corporativa.\r\nDo ponto de vista social a Ordem do Piauí tem relevantes serviços prestados à sociedade na defesa e promoção dos direitos humanos; no apoio a instituições da sociedade civil que atuam em defesa da cidadania; na construção e reafirmação diária da liberdade de imprensa, além de outras importantes ações de cunho social.\r\nEm verdade, quem faz a advocacia são os advogados, cabendo à OAB ser o quartel general desse “exército da liberdade e da cidadania”, para lembrar as palavras do professor e presidente da OAB-PI, Willian Guimarães.\r\nA nossa grande história é feita por advogados anônimos do interior, do litoral e da capital; pessoas abnegadas, muitas vezes voluntaristas e que exercem a profissão com amor, coragem e convicção. Esse é o capítulo mais marcante da história da advocacia piauiense e se torna de maior relevo quando se observa a carência da população e as deficiências do judiciário piauiense.\r\n",
+    "inventoriesId": [
+        2702
+    ],
+    "logoId": "df87f267-a913-4ed3-b20c-40bbff89ec0f",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 18,
+        "acronym": "PI",
+        "name": "Piauí"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

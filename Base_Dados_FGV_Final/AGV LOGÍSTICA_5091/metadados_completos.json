@@ -1,0 +1,40 @@
+{
+    "id": 5091,
+    "name": " AGV LOGÍSTICA",
+    "about": null,
+    "inventoriesId": [
+        6166,
+        7489,
+        9048
+    ],
+    "logoId": "e54f2e68-4e21-f8d2-e2a6-3a1afbfc5ce1",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

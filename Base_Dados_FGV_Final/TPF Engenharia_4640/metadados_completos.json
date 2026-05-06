@@ -1,0 +1,40 @@
+{
+    "id": 4640,
+    "name": "TPF Engenharia",
+    "about": "A TPF Engenharia dedica-se há quase 60 anos à engenharia consultiva, contribuindo para o desenvolvimento econômico e social do Brasil. Somos parte da TPF SA, holding de engenharia consultiva com sede em Bruxelas, na Bélgica. A TPF está presente em mais de 40 países, contando com mais de 4900 colaboradores de várias expertises e nacionalidades. \n \nNossa missão é desenvolver projetos que sirvam a muitos e se integrem de forma harmônica com o meio ambiente e com as comunidades a que se destinam. Ao longo de nossa trajetória, acumulamos experiências em consultoria, projetos, gerenciamento e supervisão e fiscalização. \n\nSomos certificados na ISO 9001, ISO 14001, ISO 45001, e contamos com o selo Great Place To Work. Temos em nossa equipe profissionais engajados em apresentar à sociedade o melhor que a engenharia pode oferecer. Esse é o motor para que a TPF Engenharia siga construindo, junto com seus clientes, sua história de sucesso. ",
+    "inventoriesId": [
+        5876,
+        6932,
+        8390
+    ],
+    "logoId": "fd4c297a-e810-92a2-ea4e-3a12cd4a23a9",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 7376,
+    "name": "Milhão Ingredients",
+    "about": "Fundada em 2002, a Milhão Ingredients se tornou referência em ingredientes especiais de alta qualidade, atendendo as necessidades de um mercado cada vez mais exigente e dinâmico, investindo em P&D (Pesquisa e Desenvolvimento) para criar produtos, processos e serviços inovadores.\nMais de 40 ingredientes para a indústria alimentícia são produzidos a partir de matéria-prima fornecida pela Milhão. As soluções oferecidas pela empresa atendem também indústrias de mineração, farmacêutica, química e de extração de óleo.\nA Milhão Ingredients trabalha com produtores rurais parceiros, oferecendo suporte técnico em todas as etapas da produção, desde a escolha da semente para o plantio até depois da colheita.\nCom certificações importantes como FSSC 22000, Non GMO Project Verified, Organic e Ecovadis, a Milhão Ingredients preza pelo rigor em todas as suas operações, com capacitação técnica e uma indústria moderna. Sua principal planta fica em Goianira (GO).\n",
+    "inventoriesId": [
+        7485,
+        8757
+    ],
+    "logoId": "9c3aca90-978c-26b5-1eea-3a12b2802f5f",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

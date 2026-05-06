@@ -1,0 +1,35 @@
+{
+    "id": 7271,
+    "name": "SIEMENS HEALTHINEERS",
+    "about": "A Siemens Healthineers possibilita aos prestadores de serviço de saúde do mundo inteiro agregar valor à sua rotina clínica capacitando-os rumo à expansão da medicina de precisão, à transformação da entrega dos cuidados com a saúde, ao aprimoramento da experiência do paciente e à digitalização da saúde.\n\nEstima-se que cerca de cinco milhões de pacientes em todo o mundo são beneficiados diariamente pelas nossas tecnologias e serviços inovadores nas áreas de diagnóstico e imagem terapêutica; diagnóstico laboratorial e medicina molecular, assim como a digitalização da saúde e Enterprise Services.",
+    "inventoriesId": [
+        7822,
+        9087
+    ],
+    "logoId": "8185bbcf-8b9c-96d3-27a2-3a1289bfbe6f",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

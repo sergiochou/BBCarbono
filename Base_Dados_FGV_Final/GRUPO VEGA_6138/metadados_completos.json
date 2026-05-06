@@ -1,0 +1,35 @@
+{
+    "id": 6138,
+    "name": "GRUPO VEGA",
+    "about": "Existimos para fazer mais pela agricultura desde 1975. Essa é a nossa missão: entregar sementes de alto padrão a quem busca o melhor para sua lavoura.\nTrabalhamos com um grande portfólio de sementes, todas 100% licenciadas e certificadas, em parceria com as principais obtentoras do Brasil. Disponibilizamos aos agricultores as melhores opções em vigor e performance para as principais regiões produtoras, visando a satisfação do agricultor naquilo que ele mais procura: produtividade e resultado.\nO compromisso com o produtor está em todos os detalhes. Isso nos faz ampliar e modernizar nossas infraestruturas constantemente: contamos com campo experimental em Jacutinga/RS, utilizado para pesquisas e testes de novos materiais; dois laboratórios próprios para análises de sementes, sendo um deles credenciado ao Ministério da Agricultura (MAPA) e mais de 180 profissionais qualificados envolvidos em todas as etapas de produção.\nHoje, somos uma das maiores produtoras de sementes de soja e trigo do Brasil, com matriz em Erechim/RS e filiais em Jacutinga/RS e Tupanciretã/RS. Nossa qualidade também marca presença internacionalmente, exportando para Paraguai e Uruguai.\nQualidade, tecnologia, inovação e resultados estão em nosso DNA. É isso que nos move há mais de 48 anos e nos torna referência nacional na produção e comercialização de sementes. Vamos seguir plantando o melhor, todos os dias, para que o produtor continue tendo sucesso na colheita.\n",
+    "inventoriesId": [
+        6927,
+        8497
+    ],
+    "logoId": "16dae1ca-d516-bd03-e7db-3a1a23cc3a88",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

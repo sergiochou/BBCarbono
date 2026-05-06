@@ -1,0 +1,30 @@
+{
+    "id": 8141,
+    "name": "Zero Carbon Logistics",
+    "about": "A Zero Carbon Logistics S.A é uma empresa especializada em transporte e armazenagem, com um forte compromisso com os pilares ESG. A empresa compensa 100% do carbono emitido em suas operações por meio da Zero Carbon Farm, uma fazenda de compensação localizada no  Mato Grosso do Sul, Brasil. Com diversas certificações de qualidade ESG, como o Selo B, o Selo Ouro no Programa de Logística Verde do Brasil e as certificações ISO 9001 e 14001. A Zero Carbon Logistics é reconhecida como um ótimo lugar para trabalhar, conforme certificado pelo selo Great Place to Work (GPTW). Além disso, a empresa colabora com instituições como o Aero Jr da UFMG e o CEFET em projetos de desenvolvimento de soluções sustentáveis. Recentemente, aderiu ao Movimento NET ZERO do Pacto Global da ONU e está desenvolvendo um programa para engajar fornecedores na redução de emissões. \n\nO propósito da Zero Carbon Logistics é transformar o mundo através da logística consciente, integrando práticas que promovem um futuro mais sustentável.",
+    "inventoriesId": [
+        8516
+    ],
+    "logoId": "ba0d262f-c687-4b82-bd88-3a1411db7912",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

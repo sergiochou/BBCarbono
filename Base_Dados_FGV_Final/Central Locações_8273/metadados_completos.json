@@ -1,0 +1,35 @@
+{
+    "id": 8273,
+    "name": "Central Locações",
+    "about": "Desde 1993, a Centrallocações se destaca no segmento de locação de equipamentos e serviços prestados. Uma filosofia de trabalho pautada na transparência, comprometimento e ética.\n\nPor meio da credibilidade e excelência construídas ao longo desses anos, grandes parcerias possibilitaram tornar a Centrallocações uma empresa líder de mercado.\n\nCom ampla frota de equipamentos novos e modernos e equipe altamente especializada, garantimos a máxima eficiência e segurança.\n\nAtuando em todo o Brasil, a Centrallocações visa superar expectativas e oferecer as melhores soluções para obras.",
+    "inventoriesId": [
+        8943,
+        8899
+    ],
+    "logoId": "65c8f44f-8a54-8f9d-ecc1-3a18924c84b1",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

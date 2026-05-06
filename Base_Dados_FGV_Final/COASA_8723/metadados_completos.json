@@ -1,0 +1,30 @@
+{
+    "id": 8723,
+    "name": "COASA",
+    "about": "Diante dos desafios do mercado, os agricultores da agricultura familiar da região de Água Santa se uniram em torno de uma visão de futuro compartilhada: melhorar a qualidade de vida, a produtividade e as condições de negociação da sua produção.\nImpulsionados pelo poder da cooperação, estabeleceram uma cooperativa que serviria de plataforma para o seu poder de negociação coletiva. Eles sabiam que, ao reunir os seus recursos e conhecimentos, poderiam alcançar um sucesso muito maior do que individualmente.\nTendo a determinação e a solidariedade como princípios orientadores, os agricultores trabalharam \nincansavelmente para construir a sua cooperativa a partir do zero. Realizaram reuniões, discutiram cada detalhe e garantiram que a estrutura da cooperativa atendesse às necessidades de todos os seus associados.\nAtravés do seu esforço conjunto, a cooperativa surgiu como um farol de esperança e desenvolvimento para os agricultores. Ao consolidarem a sua produção de grãos, ganharam mais poder nas negociações com os compradores  e garantiram melhores preços, tornando a cooperativa uma aliada de confiança para cada um.\nA história desta cooperativa não é apenas de prosperidade econômica, mas também um testemunho do poder da colaboração e da comunidade. Para além das suas transações comerciais, os agricultores encontraram uma rede de apoio, onde puderam aprender uns com os outros, contar com assistência técnica agrícola e apoiar-se mutuamente em tempos difíceis.\nHoje, com 30 anos de atuação e mais de 9.000 associados, a COASA é um exemplo brilhante do que pode ser alcançado quando os indivíduos se unem para um objetivo comum. Continua a prosperar, atraindo novos agricultores que reconhecem o valor da ação coletiva e o potencial transformador do trabalho conjunto.\nDados da COASA:\n• 15 de outubro de 1994: Assembleia com eleição da diretoria e ato de constituição. Início do mutirão para construção da unidade de recebimento de cereais.\n• 1 de abril de 1995: Ato inaugural das primeiras instalações.\n• Presença em 16 municípios da região nordeste do RS\n• 370 colaboradores\nCom esse crescimento, muitos desafios surgem no caminho, que são vencidos com profissionalismo, seriedade e transparência, entre eles colocar ao alcance dos associados(as) as tecnologias e inovações que surgem ou são aprimoradas no mercado constantemente e fortalecer o senso de cooperativismo nas novas gerações, para que seja preservado o espírito de união que mobilizou os sócios-fundadores na construção da COASA lá no início.",
+    "inventoriesId": [
+        8377
+    ],
+    "logoId": "a2a7c961-e0eb-d467-58ae-3a19dc2dbad2",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

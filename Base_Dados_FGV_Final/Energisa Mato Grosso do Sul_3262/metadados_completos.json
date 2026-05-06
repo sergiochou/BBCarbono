@@ -1,0 +1,30 @@
+{
+    "id": 3262,
+    "name": "Energisa Mato Grosso do Sul",
+    "about": null,
+    "inventoriesId": [
+        4773
+    ],
+    "logoId": "3e8c415a-49d9-4334-8f23-1cc5b22179af",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

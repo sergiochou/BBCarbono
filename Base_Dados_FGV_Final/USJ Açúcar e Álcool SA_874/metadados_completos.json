@@ -1,0 +1,35 @@
+{
+    "id": 874,
+    "name": "USJ Açúcar e Álcool SA",
+    "about": null,
+    "inventoriesId": [
+        1730,
+        1719
+    ],
+    "logoId": "6fd23e65-2515-403b-8b72-a9fbd2cb1822",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

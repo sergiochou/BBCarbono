@@ -1,0 +1,30 @@
+{
+    "id": 7363,
+    "name": "Locar Guindastes",
+    "about": "A Locar Guindastes e Transportes Intermodais é uma empresa brasileira especializada em soluções de movimentação e transporte de cargas pesadas e superdimensionadas. Fundada em 1988, a Locar é referência no setor, oferecendo serviços como içamento com guindastes, transportes especiais, remoções técnicas e locação de equipamentos.\nCom uma ampla frota de equipamentos modernos e uma equipe altamente qualificada, a empresa atua em diversos segmentos — incluindo construção civil, energia, óleo e gás, portos e mineração — sempre priorizando a segurança, a eficiência operacional e o respeito ao meio ambiente.\nA Locar mantém um firme compromisso com a sustentabilidade, investindo continuamente em tecnologias e práticas que reduzem os impactos ambientais de suas atividades. Suas operações são pautadas pela responsabilidade socioambiental, buscando constantemente soluções que promovam o desenvolvimento econômico aliado à preservação dos recursos naturais.\n",
+    "inventoriesId": [
+        8156
+    ],
+    "logoId": "9a0b6af6-9db6-526e-c746-3a199a20ad7a",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

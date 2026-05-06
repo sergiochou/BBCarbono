@@ -1,0 +1,40 @@
+{
+    "id": 3763,
+    "name": "CARSTE CIÊNCIA AMBIENTAL",
+    "about": "Com sede em Belo Horizonte/MG, a Carste Ciência Ambiental iniciou suas atividades em 2006, sendo a primeira empresa especializada em áreas cársticas e cavernas do Brasil.\r\n\r\nCom um corpo técnico bastante diversificado, composto por Geólogos, Geógrafos, Biólogos, Engenheiros, Analistas e Técnicos em Mineração, além de consultores exclusivos de renome internacional, a Carste objetiva proporcionar aos seus clientes serviços de alto nível, calcados em parâmetros técnicos, que venham a conciliar a viabilidade da atividade econômica com a preservação do meio ambiente.\r\n\r\nEssa capacidade de desenvolver soluções para seus clientes colocou a empresa como referência na área de consultoria ambiental. A Carste Ciência Ambiental está em contínuo amadurecimento, desenvolvendo e participando ativamente de trabalhos e encontros internacionais com vistas a uma constante atualização em relação a métodos e técnicas utilizados no mundo.",
+    "inventoriesId": [
+        5532,
+        5251,
+        6691
+    ],
+    "logoId": "84b19b26-cfdb-465f-a8a1-06238611b73e",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

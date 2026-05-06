@@ -1,0 +1,35 @@
+{
+    "id": 6120,
+    "name": "X5 COMPANY",
+    "about": null,
+    "inventoriesId": [
+        6868,
+        8454
+    ],
+    "logoId": "765e6258-05a4-569d-a8e2-3a1294ece509",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3865,
+    "name": "GALI",
+    "about": "Somos a Gali, a empresa brasileira que movimenta o mercado de energia sustentável sempre para o próximo passo. Estamos há quase 30 anos trabalhando por um país protagonista em soluções sustentáveis de energia. Nossos clientes contam conosco para uma entrega, que não apenas atende, mas supera as expectativas. Desde a pesquisa até a produção de produtos, realizamos obras de construção e montagem para consumo, transmissão e geração de energia. Com maquinários de alta tecnologia e uma gestão inteligente, fabricamos painéis elétricos, eletrocentros, skids, caixas, string box, construção e montagem (BoS e EPC) e serviços de automação e O&M de ativos.\r\nBuscamos, com a nossa atuação, contribuir para um uso mais inteligente dos recursos naturais, construindo, assim, um futuro sustentável amplo, em todas as frentes além da energia.\r\n\r\n",
+    "inventoriesId": [
+        5094,
+        6056
+    ],
+    "logoId": "20fd8c62-9e63-4111-bfeb-77a061c9e00a",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1525,
+    "name": "Editora Globo - Marquês de Pombal - RJ",
+    "about": "A Editora Globo é a maior empresa de publicações impressas e digitais do país. Com uma trajetória de 100 anos de história, a empresa se destaca pela qualidade e credibilidade do seu jornalismo, bem como por uma gestão marcada pelo vanguardismo e espírito empreendedor. Seu portfólio é formado por marcas que conquistaram posições de prestígio, referência e liderança no mercado. São elas: Autoesporte, Casa e Jardim, Crescer, Época Negócios, Extra, Galileu, Globo Rural, Marie Claire, Monet, O Globo, Pequenas Empresas & Grandes Negócios, Quem, TechTudo, Valor Econômico e Valor Investe.\n\nPela Edições Globo Condé Nast, uma joint venture formada em 2010 com a americana Condé Nast, publica no Brasil os títulos Vogue, Casa Vogue, GQ e Glamour, marcas com influência global no segmento de luxo.\n\nA Editora Globo possui ainda um amplo catálogo de obras nacionais e internacionais, publicadas pela Globo Livros, e uma série de eventos que oferecem conteúdo e entretenimento ao público.\n\nCom 80 anos de história, o Sistema Globo de Rádio (SGR) está presente nos segmentos all news, talk popular e musical. As marcas do portfólio – BH FM, CBN e Rádio Globo – estão conectadas com seus diferentes públicos e promovem o diálogo em múltiplas plataformas, seja no dial, seja no digital, por meio dos sites, ferramentas de streaming ou redes sociais. A CBN ainda conta com uma rede de 35 afiliadas, que ampliam o alcance da audiência, garantindo presença nas principais cidades do Brasil.\n\nA Editora Globo e o Sistema Globo de Rádio possuem desde 2020 uma gestão integrada, em um movimento de sinergia e de transformação dos negócios para o futuro promovido pelo Grupo Globo. Juntos, passamos a ser o maior grupo de veículos do país.\n\nAssim como a Paixão por Comunicação, a Interdependência e a Diversidade, a Sustentabilidade também está entre nossos valores, influenciando tanto nossa atuação corporativa quanto nossas iniciativas editoriais. Acreditamos que indivíduos bem informados têm poder para construir um mundo melhor e podem ser inspirados e conectados pelas histórias e experiências que produzimos em nossos veículos, as quais incluem projetos dedicados à cobertura da temática ESG no jornalismo.\n\nAlém disso, o Parque Gráfico da Editora, em Duque de Caxias (RJ), possui desde 2014 a certificação FSC, que atesta a origem do papel utilizado na impressão dos jornais e o uso dos recursos florestais de forma responsável. \n\nA estrutura de mapeamento das emissões registradas no presente inventário se deu da seguinte forma: Editora Globo (EDG) referente à unidade do Rio de Janeiro – RJ contempla:\n · Marquês de Pombal: prédio comercial de 8 pavimentos, com operação administrativa e geração de conteúdo impresso e digital. Sistema Globo de Rádio (SGR) referente à unidade do Rio de Janeiro – RJ contempla: · Marquês de Pombal: prédio comercial com ocupação de parte 4º e 5º andares dentro da Editora Globo – Marquês de Pombal, com operação administrativa e geração de conteúdo de radiodifusão. \n· Sumaré: Um prédio comercial com operação exclusiva de transmissão de conteúdo de radiodifusão com ocupação exclusiva de espaço destinado a equipamentos. Não existe alocação de funcionários. O espaço é compartilhado com a Globo Comunicações. \n· Mendanha: Construção de 2 pavimentos com operação exclusiva de transmissão de radiodifusão, com ocupação compartilhada de espaço destinado a equipamentos. Não existe alocação de funcionários. O espaço é compartilhado com outras empresas.\n",
+    "inventoriesId": [
+        204,
+        32,
+        1609,
+        6124,
+        7486,
+        8162
+    ],
+    "logoId": "d5a12e6e-e8c8-4fb5-88b1-643abe3eb83f",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

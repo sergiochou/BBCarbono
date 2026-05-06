@@ -1,0 +1,40 @@
+{
+    "id": 4524,
+    "name": "Capricórnio Têxtil S/A",
+    "about": "Somos a Capricórnio Têxtil, fundada em 1946, é hoje a segunda maior tecelagem de tecido Denim do Brasil, com base em nossa capacidade de produção anual de 60 milhões de metros de Denim. Temos 1150 funcionários distribuídos entre 3 plantas fabris, sendo 1 fiação e 2 tecelagens, 1 escritório administrativo, 1 show room e 1 centro de distribuição no Brás. ",
+    "inventoriesId": [
+        6090,
+        7116,
+        8825
+    ],
+    "logoId": "95f5a806-edeb-44ab-8b2a-4e91752b1718",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

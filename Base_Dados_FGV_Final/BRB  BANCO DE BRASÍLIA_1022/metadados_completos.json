@@ -1,0 +1,40 @@
+{
+    "id": 1022,
+    "name": "BRB - BANCO DE BRASÍLIA",
+    "about": "O Banco de Brasília S.A. – BRB foi criado no dia 10 de dezembro de 1964 pela Lei Federal 4.545, e obteve autorização para funcionar, concedida pelo Banco Central do Brasil, em 12 de julho de 1966. Com a sua criação, pretendia-se dotar o Governo do Distrito Federal – GDF de um agente financeiro que possibilitasse captar os recursos necessários para o desenvolvimento da região. Em 1986, a denominação de Banco Regional de Brasília S.A. foi alterada para Banco de Brasília S.A., embora tenha permanecido a sigla BRB. Em 1991, transformou-se em banco múltiplo com as seguintes carteiras: comercial, câmbio, desenvolvimento e imobiliária.\n\nOrganizado sob a forma de sociedade de economia mista, de capital aberto, cujo acionista majoritário é o Governo do Distrito Federal (53,71%), o Banco BRB encerrou 2024 com a marca de 1.042 pontos de atendimento estrategicamente presentes no Distrito Federal e em mais 19 estados da Federação, com destaque para a abertura de novas agências no Estado de Alagoas.",
+    "inventoriesId": [
+        2091,
+        7675,
+        8449
+    ],
+    "logoId": "20574c6f-a68b-c854-8483-3a11d52a5994",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

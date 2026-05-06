@@ -1,0 +1,55 @@
+{
+    "id": 3785,
+    "name": "GLOBO",
+    "about": "A Globo é o maior grupo de mídia do Brasil, que controla e produz conteúdo para a principal rede de televisão aberta e programador de TV por assinatura do país. \nEm linha com a estratégia de se tornar uma mediatech e focar em conteúdo digital e tecnologia, possuímos um dos portfólios de conteúdo digital mais acessados do país. Também produzimos e adquirimos conteúdo exclusivo de terceiros que pode ser apreciado por meio de nossa plataforma de streaming em todo o mundo, incluindo Canadá, EUA\ne Europa.\n\nTodos os dias, a Globo contribui para a educação do nosso país por meio de conteúdo com informação de qualidade, entretenimento e cultura para mais de 100 milhões de brasileiros em suas diversas plataformas. A Globo também representa um meio de conscientização sobre temas relevantes na sociedade e promover discussões importantes. \n\nA Globo acredita que a cultura brasileira tem muito a contribuir com o mundo e é apaixonada pela comunicação em todas as suas formas.\nDesde o início, a marca da Globo foi atraída a trabalhar com os melhores talentos e oferecer-lhes as condições certas para se realizar profissionalmente. \nRespeito pelos outros, diversidade e representação dentro e fora da tela, e um forte senso da comunidade são componentes essenciais da identidade da Globo. \nA Globo busca oferecer serviços e programas de classe mundial, ser percebido por seu público como o mais criativo e inovador, além de atender suas necessidades e superar suas expectativas.\n\nNossa missão é criar, produzir e distribuir conteúdo de qualidade para informar, entreter e contribuir com a educação, possibilitando indivíduos e comunidades para promover relacionamentos e desfrutar de uma vida melhor. Queremos que o Brasil seja um país democrático, justo e próspero, valorizando sua riqueza natural e cultural. Queremos todos os brasileiros viver em liberdade e dignidade.\n\nAnsiando por esta visão, já fizemos muito, mas acreditamos que todos podemos fazer muito mais. Por esta razão, foi anunciado nossa Agenda 2030.\nDentre os 6 compromissos anunciados e publicados, destacamos nesse relatório o Compromisso 4 - Valorizar e proteger a biodiversidade, promovendo a consciência ambiental e respeitando os limites naturais do nosso planeta.\n\nEste compromisso tem como estratégia:\n\n• Empregar as melhores práticas ambientais em nossas operações, principalmente no que diz respeito à energia limpa, resíduos gestão, bem como a redução do consumo de água e das emissões de gases com efeito de estufa\n\n• Incentivar nossa cadeia de suprimentos a melhorar as práticas de gestão ambiental\n\n• Produzir conteúdo e apoiar ações de conscientização e engajamento da sociedade no relacionamento com o ambiente baseado no respeito, interdependência e cuidado.",
+    "inventoriesId": [
+        5132,
+        5082,
+        5025,
+        5860,
+        6797,
+        7907
+    ],
+    "logoId": "ec3b9203-e114-d98b-f99e-3a122e871ee1",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

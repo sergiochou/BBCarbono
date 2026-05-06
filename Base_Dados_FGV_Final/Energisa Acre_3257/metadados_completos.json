@@ -1,0 +1,30 @@
+{
+    "id": 3257,
+    "name": "Energisa Acre",
+    "about": null,
+    "inventoriesId": [
+        4809
+    ],
+    "logoId": "722a68ea-d6fe-49ba-8af2-9b08799af84e",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 1,
+        "acronym": "AC",
+        "name": "Acre"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

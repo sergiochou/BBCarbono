@@ -1,0 +1,60 @@
+{
+    "id": 2833,
+    "name": "Caeté Florestal",
+    "about": "A CAETÉ FLORESTAL acredita que espécies exóticas como o Eucalipto, o Cedro Australiano, o Mogno Africano e a Teca são espécies com potencial madeiro no Brasil e que podem ser produzidas sem ser em monocultivos, desta forma diminuindo a pressão sobre os remanescentes florestais nativos. Acreditamos também no potencial silvicultural das espécies nativas dos vários biomas brasileiros, especialmente em modelos de Integração Lavoura-Pecuária-Floresta buscam um modelo de produção de baixo impacto ambiental e preservando a biodiversidade brasileira.",
+    "inventoriesId": [
+        3987,
+        4197,
+        4609,
+        5018,
+        5864,
+        7176,
+        8906
+    ],
+    "logoId": "be1c4eef-b0cf-4c0f-991d-0424ee5c1ed6",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

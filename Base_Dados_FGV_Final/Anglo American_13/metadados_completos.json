@@ -1,0 +1,110 @@
+{
+    "id": 13,
+    "name": "Anglo American",
+    "about": "“A Anglo American é uma empresa global de mineração diversificada. O nosso portfólio de operações de mineração de classe mundial de alta competitividade e os recursos em desenvolvimento fornecem as matérias-primas para atender às crescentes demandas voltadas para o consumidor das economias desenvolvidas e em fase de desenvolvimento. \r\n \r\nNossas pessoas são o coração do nosso negócio. São nossas pessoas que utilizam as mais novas tecnologias para encontrar novos recursos, planejar e construir nossas minas e que mineram, processam, transportam e comercializam os nossos produtos para os nossos clientes ao redor do mundo.\r\n\r\nComo uma mineradora responsável – de diamantes (por meio da De Beers), platina e outros metais preciosos, cobre, níquel, minério de ferro e carvão – somos os guardiães destes recursos naturais preciosos. Trabalhamos em conjunto com os nossos principais parceiros e stakeholders para revelar o valor de longo prazo que esses recursos representam para os nossos acionistas, e também para as comunidades e os países em que operamos – criando valor sustentável e fazendo a real diferença.\r\n\r\nNo Brasil, a Anglo American está presente com dois produtos: minério de ferro, com o Minas-Rio, localizado nos estados de Minas Gerais e Rio de Janeiro, e níquel, com operações nos municípios de Barro Alto e Niquelândia, em Goiás.” No ciclo 2017 deixou de ser reportado as unidades de Nióbio e Fosfatos que foram desmembradas do grupo Anglo American e incluída a unidade de Minério de Ferro Brasil.\r\n",
+    "inventoriesId": [
+        303,
+        6,
+        2347,
+        2147,
+        1596,
+        1562,
+        1535,
+        2883,
+        3242,
+        3582,
+        4070,
+        4309,
+        4522,
+        5721,
+        6653,
+        7595,
+        8326
+    ],
+    "logoId": "be2eec21-5748-1f28-2b02-3a123bbb9102",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2008,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

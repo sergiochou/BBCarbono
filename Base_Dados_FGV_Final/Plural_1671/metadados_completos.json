@@ -1,0 +1,105 @@
+{
+    "id": 1671,
+    "name": "Plural ",
+    "about": "Fundada em 1996, a Plural Indústria Gráfica nasceu a partir de uma joint venture entre o Grupo Folha e a Quad/Graphics USA, uma das maiores provedoras mundiais de soluções para impressão offset.\n\nComandada por Carlos Jacomine, hoje presidente da empresa, a Plural é especialista em oferecer serviços gráficos de alta qualidade para uma variedade de clientes e setores. Com anos de experiência e um compromisso inabalável com a excelência, a Plural se destaca como uma das principais referências do mercado gráfico.\n\nInvestimos constantemente em tecnologia de ponta e equipamentos de última geração para oferecer resultados excepcionais. Nossa capacidade de produção de alto volume nos permite atender prazos desafiadores com excelência e qualidade. Além disso, priorizamos práticas sustentáveis, buscando reduzir o impacto ambiental e social.\n\nA Plural Indústria Gráfica é reconhecida por sua dedicação ao cliente, fornecendo um atendimento personalizado e soluções sob medida para cada necessidade. Nossa equipe está comprometida em entender os objetivos e necessidades de cada um, trabalhando em estreita colaboração para entregar resultados que superem suas expectativas.",
+    "inventoriesId": [
+        294,
+        52,
+        2369,
+        1894,
+        1589,
+        1555,
+        2816,
+        3179,
+        3701,
+        3980,
+        4421,
+        4594,
+        5265,
+        5905,
+        7097,
+        9125
+    ],
+    "logoId": "8b943151-1fd7-4fd4-baad-da6d6da3631c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

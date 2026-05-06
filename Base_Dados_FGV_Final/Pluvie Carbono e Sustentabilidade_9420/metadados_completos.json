@@ -1,0 +1,30 @@
+{
+    "id": 9420,
+    "name": "Pluvie Carbono e Sustentabilidade",
+    "about": "A Pluvie Carbono e Sustentabilidade atua no desenvolvimento de projetos de carbono e sustentabilidade, projetos agrícolas e ambientais, atuando de forma estratégica em diferentes setores da economia. Temos um compromisso sólido com a sustentabilidade, buscamos soluções que conciliem a preservação ambiental com o desenvolvimento econômico e social.\n\nAcreditamos que é possível produzir com consciência e respeito aos limites do planeta. Por isso, desenvolvemos projetos que contribuem para a redução de emissões de gases de efeito estufa, incentivam o uso sustentável dos recursos naturais e promovem práticas regenerativas. Atuamos com foco na proteção dos recursos hídricos, na conservação da biodiversidade e na valorização das comunidades locais, priorizando sempre o desenvolvimento sustentável em todas as etapas do processo.\n",
+    "inventoriesId": [
+        9264
+    ],
+    "logoId": "ed4cf5e7-b1c1-b2fb-d6eb-3a1a33b619eb",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

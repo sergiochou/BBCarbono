@@ -1,0 +1,95 @@
+{
+    "id": 79,
+    "name": "Oi",
+    "about": "\r\nA Oi é uma das principais prestadoras de serviços integrados de telecomunicações do Brasil, com aproximadamente 13,1 milhões de unidades geradoras de receita (UGRs) ao final de 2022. A Companhia atua em todo o território brasileiro e oferece diversos produtos de serviços integrados de telecomunicações que incluem fibra até o casa (FTTH), telefonia fixa, uso de rede (interconexão), transmissão de dados (incluindo redes de acesso de banda larga), serviços de TIC e TV por assinatura (também oferecidos por double-play e triple-play), serviços de internet e outros serviços de telecomunicações , para clientes residenciais, empresas, agências governamentais, outras operadoras e provedores de telecomunicações. Em linha com a estratégia da Companhia, iniciamos o processo de diversificação do portfólio por meio de soluções que vão além da conectividade e agregam valor ao cliente, desenvolvendo novos produtos em segmentos como casa conectada, segurança, serviços financeiros e conteúdo digital, entre outros, disponibilizados para clientes e consumidores no Marketplace da Oi, Oi Place.\r\n\r\nDesde 2009, a Oi participa e promove iniciativas relacionadas aos princípios do Pacto Global da Organização das Nações Unidas (ONU) e atua alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), também estabelecidos pela ONU, que compõem uma agenda global para o construção e implementação de políticas públicas que conduzam a humanidade até 2030.\r\n\r\nConforme estabelecido na Política de Mudanças Climáticas da Oi, estamos comprometidos com iniciativas globais em nossos esforços para estabilizar a concentração de GEEs na atmosfera por meio do desenvolvimento de projetos que abordam simultaneamente o equilíbrio ambiental, a conscientização das partes interessadas e a implementação de práticas que buscam mitigar riscos e se adaptar a uma economia de baixo carbono. Desde 2009, mapeamos as emissões anuais diretas e indiretas em nosso inventário de emissões de GEE divulgado voluntariamente no Programa Brasileiro de Registro de Emissões GHG Protocol (metodologia utilizada para realizar o inventário) e Carbon Disclosure Project (CDP). Entre as principais fontes de emissão de GEE da Oi estão: transporte (frota, logística e deslocamento), geradores de energia, equipamentos, refrigeração, extintores de incêndio, tratamento de resíduos e efluentes.",
+    "inventoriesId": [
+        305,
+        41,
+        2356,
+        1855,
+        1594,
+        1560,
+        2755,
+        3176,
+        3525,
+        3956,
+        4345,
+        4639,
+        5031,
+        6314
+    ],
+    "logoId": "8f54a70b-185b-4120-bc8c-6c9204599afc",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2009,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

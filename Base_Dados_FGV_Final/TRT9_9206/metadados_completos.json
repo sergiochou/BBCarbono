@@ -1,0 +1,30 @@
+{
+    "id": 9206,
+    "name": "TRT9",
+    "about": "O organograma do Tribunal Regional do Trabalho da 9ª Região pode ser consultado em https://www.trt9.jus.br/institucional/organograma.xhtml",
+    "inventoriesId": [
+        8952
+    ],
+    "logoId": "064efc6b-3d7c-9730-026f-3a1b2737efa7",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

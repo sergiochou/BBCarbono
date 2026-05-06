@@ -1,0 +1,40 @@
+{
+    "id": 1892,
+    "name": "EMFLORA",
+    "about": "A Emflora é uma Empresa que desenvolve projetos de Gestão Florestal e Tecnologia Aplicada na Silvicultura. Criada em 1991, a Emflora demonstrou, ao longo dos anos, capacidade de inovação e crescimento sustentado, graças a busca permanente e determinada da plena satisfação de seus clientes.\r\nCom aproximadamente 3 mil colaboradores, a Emflora possui sua matriz em São Mateus – ES e está presente em seis estados brasileiros. Parcerias e acordos estratégicos celebrados com empresas de vários setores como Cenibra – MG, Vale Florestar – PA, Fibria – ES – BA – SP , Suzano – BA – MA, Reserva Natural da Vale – ES e Petrobras – ES, possibilitaram o desenvolvimento de novas frentes de trabalho. Hoje, além do segmento florestal, a Empresa também dispõe de um portfólio de negócios diversificados nas áreas de Engenharia e Serviços.\r\nO espírito empreendedor e o background da alta direção da Empresa; as experiências de seus gerentes e diretores - comprovadas em mais de 37 anos de trabalho no setor ; uma completa equipe técnica composta por engenheiros florestais, elétricos, civis, de segurança, médicos e técnicos de nível médio de várias áreas de atuação; funcionários altamente capacitados na gestão das áreas administrativas como advogados, administradores, contadores; e uma valorosa equipe de colaboradores pronta para superar desafios nem sempre fáceis de serem transpostos contribuem para melhorias significativas na eficiência da Empresa, qualidade de seus produtos e serviços, e, consequentemente, confiança de clientes e fornecedores.\r\n\r\n\r\n",
+    "inventoriesId": [
+        299,
+        2278,
+        1893
+    ],
+    "logoId": "b1e53177-ebbf-452c-804a-26719ebdb96e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 7564,
+    "name": "SEBRAE PB",
+    "about": "O SEBRAE PB é uma entidade associativa de direito privado, sem fins lucrativos, instituída sob a forma de serviço social autônomo, instituído por escritura pública, que tem por objetivo fomentar o desenvolvimento sustentável, a competitividade e o aperfeiçoamento técnico das microempresas e empresas de pequeno porte industriais, comerciais, agrícolas e de serviços, notadamente nos campos da economia, administração, finanças e legislação; da facilitação do acesso ao crédito; da capitalização daquelas empresas; da ciência, tecnologia e meio ambiente; da capacitação gerencial e da assistência social, em consonância com as políticas nacionais, regionais e estaduais de desenvolvimento e formação educacional do empresário.\n\n\nPropósito\nTransformar os Pequenos Negócios em protagonistas do desenvolvimento sustentável do Brasil.\n\n\n\nVisão de Futuro\nSer referência na promoção do empreendedorismo e geração de valor para os Pequenos Negócios.\n",
+    "inventoriesId": [
+        7466,
+        7476,
+        9033
+    ],
+    "logoId": "0510627c-1422-1739-32f3-3a13164b598e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 15,
+        "acronym": "PB",
+        "name": "Paraíba"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 8313,
+    "name": "Pontal Energy",
+    "about": "Somos uma das maiores geradoras e comercializadoras de energia renovável do país, parte de uma das maiores investidoras em transição energética do mundo: a Denham Capital. Nosso Norte é claro: gerar resultados extraordinários para nossos investidores e acionistas, trabalhando para criar um ambiente de negócios saudável e um planeta mais sustentável.",
+    "inventoriesId": [
+        7906
+    ],
+    "logoId": "add3e5d5-f498-371f-a6ad-3a18b75a3595",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

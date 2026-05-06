@@ -1,0 +1,35 @@
+{
+    "id": 6082,
+    "name": "Metaflex",
+    "about": "A Metaflex é responsável pela fabricação de embalagens de papelão ondulado, atendendo as mais variadas necessidades de seus clientes no que diz respeito a agilidade, flexibilidade e cumprimento de prazos de entrega.",
+    "inventoriesId": [
+        6997,
+        6996
+    ],
+    "logoId": "340500c5-f14d-5841-603b-3a1203e227be",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

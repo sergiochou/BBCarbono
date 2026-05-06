@@ -1,0 +1,30 @@
+{
+    "id": 8727,
+    "name": "CAIXA VIDA E PREVIDENCIA S/A",
+    "about": null,
+    "inventoriesId": [
+        8526
+    ],
+    "logoId": "e427ff80-63bb-44c0-5172-3a19dcf5afd8",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

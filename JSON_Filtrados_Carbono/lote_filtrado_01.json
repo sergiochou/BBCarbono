@@ -1,0 +1,473 @@
+[
+    {
+        "empresa_pasta": "2W_5372",
+        "id_fgv": 5372,
+        "nome_oficial": "2W",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 1507.705,
+                    "emissoes_escopo_2": 9.711,
+                    "emissoes_escopo_3": 6477.024,
+                    "total_emissoes": 7994.44,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 13892.871,
+                    "emissoes_escopo_2": 0.355,
+                    "emissoes_escopo_3": 1661.95,
+                    "total_emissoes": 15555.176,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Florestal Santa Maria",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2023",
+                "Inventário 2023 - 2W",
+                "Nome fantasia: 2W",
+                "CNPJ: 08.773.135/0001-00",
+                "Setor econômico: Eletricidade e gás",
+                "Subsetor: Eletricidade, gás e outras utilidades",
+                "Endereço: Avenida Doutor Chucri Zaidan, 1240, (Sala 2701) - Vila São Francisco",
+                "(ZonaSul)-SãoPaulo-04711-130"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "3tentos_7432",
+        "id_fgv": 7432,
+        "nome_oficial": "3tentos ",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 40079.337,
+                    "emissoes_escopo_2": 2163.84,
+                    "emissoes_escopo_3": 32103.602,
+                    "total_emissoes": 74346.779,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ACCamargo Cancer Center_5499",
+        "id_fgv": 5499,
+        "nome_oficial": "A.C.Camargo Cancer Center",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 7273.758,
+                    "emissoes_escopo_2": 933.872,
+                    "emissoes_escopo_3": 132.095,
+                    "total_emissoes": 8339.725,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Saúde humana e serviços sociais",
+                    "emissoes_escopo_1": 1620.917,
+                    "emissoes_escopo_2": 893.191,
+                    "emissoes_escopo_3": 364.826,
+                    "total_emissoes": 2878.934,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Saúde\u0002humana\u0002e\u0002serviços\u0002sociais",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ACCOR_8674",
+        "id_fgv": 8674,
+        "nome_oficial": "ACCOR ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 14901.508,
+                    "emissoes_escopo_2": 7906.56,
+                    "emissoes_escopo_3": 120031.975,
+                    "total_emissoes": 142840.043,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ACHE LABORATÓRIOS SA_2098",
+        "id_fgv": 2098,
+        "nome_oficial": "ACHE LABORATÓRIOS S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9298.79,
+                    "emissoes_escopo_2": 4749.922,
+                    "emissoes_escopo_3": 10418.416,
+                    "total_emissoes": 24467.128,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7969.87,
+                    "emissoes_escopo_2": 5663.919,
+                    "emissoes_escopo_3": 6111.083,
+                    "total_emissoes": 19744.872,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ACO CEARENSE INDUSTRIAL_5836",
+        "id_fgv": 5836,
+        "nome_oficial": "ACO CEARENSE INDUSTRIAL",
+        "estado": "CE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1049607.5,
+                    "emissoes_escopo_2": 38843.434,
+                    "emissoes_escopo_3": 38348.794,
+                    "total_emissoes": 1126799.728,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4692.702,
+                    "emissoes_escopo_2": 748.044,
+                    "emissoes_escopo_3": 4863.138,
+                    "total_emissoes": 10303.884,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ACTECH_8655",
+        "id_fgv": 8655,
+        "nome_oficial": "ACTECH",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 17025.532,
+                    "emissoes_escopo_2": 1338.916,
+                    "emissoes_escopo_3": 1312.757,
+                    "total_emissoes": 19677.205,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Acumuladores Moura SA_329",
+        "id_fgv": 329,
+        "nome_oficial": "Acumuladores Moura S/A",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 36264.79,
+                    "emissoes_escopo_2": 2118.74,
+                    "emissoes_escopo_3": 8079.03,
+                    "total_emissoes": 46462.56,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 40530.075,
+                    "emissoes_escopo_2": 5177.3,
+                    "emissoes_escopo_3": 7695.302,
+                    "total_emissoes": 53402.677,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 45441.93,
+                    "emissoes_escopo_2": 9297.2,
+                    "emissoes_escopo_3": 9486.0,
+                    "total_emissoes": 64225.13,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 47117.143,
+                    "emissoes_escopo_2": 13444.518,
+                    "emissoes_escopo_3": 8714.342,
+                    "total_emissoes": 69276.003,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 45629.363,
+                    "emissoes_escopo_2": 13413.242,
+                    "emissoes_escopo_3": 9368.974,
+                    "total_emissoes": 68411.579,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 49353.897,
+                    "emissoes_escopo_2": 9704.05,
+                    "emissoes_escopo_3": 10105.409,
+                    "total_emissoes": 69163.356,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 41159.467,
+                    "emissoes_escopo_2": 11876.16,
+                    "emissoes_escopo_3": 8815.03,
+                    "total_emissoes": 61850.657,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 49845.094,
+                    "emissoes_escopo_2": 10324.113,
+                    "emissoes_escopo_3": 8538.738,
+                    "total_emissoes": 68707.945,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 55253.049,
+                    "emissoes_escopo_2": 10333.637,
+                    "emissoes_escopo_3": 7814.279,
+                    "total_emissoes": 73400.965,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 52662.329,
+                    "emissoes_escopo_2": 8900.128,
+                    "emissoes_escopo_3": 9290.064,
+                    "total_emissoes": 70852.521,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 57094.957,
+                    "emissoes_escopo_2": 20201.403,
+                    "emissoes_escopo_3": 8266.041,
+                    "total_emissoes": 85562.401,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 61510.483,
+                    "emissoes_escopo_2": 6499.301,
+                    "emissoes_escopo_3": 18186.689,
+                    "total_emissoes": 86196.473,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 62072.613,
+                    "emissoes_escopo_2": 5957.924,
+                    "emissoes_escopo_3": 17156.687,
+                    "total_emissoes": 85187.224,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias∗de∗transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ADATA Brazil SA_3699",
+        "id_fgv": 3699,
+        "nome_oficial": "ADATA Brazil S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 73.189,
+                    "emissoes_escopo_2": 0.324,
+                    "emissoes_escopo_3": 42.977,
+                    "total_emissoes": 116.49,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 61.496,
+                    "emissoes_escopo_2": 929.89,
+                    "emissoes_escopo_3": 44.192,
+                    "total_emissoes": 1035.578,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 323.906,
+                    "emissoes_escopo_2": 323.666,
+                    "emissoes_escopo_3": 18455.226,
+                    "total_emissoes": 19102.798,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Adonai Química_8148",
+        "id_fgv": 8148,
+        "nome_oficial": "Adonai Química",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,∗armazenagem∗e∗correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    }
+]

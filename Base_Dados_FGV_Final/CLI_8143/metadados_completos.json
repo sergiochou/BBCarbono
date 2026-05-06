@@ -1,0 +1,35 @@
+{
+    "id": 8143,
+    "name": "CLI",
+    "about": "A CLI oferece serviços de alta qualidade de recepção, armazenagem e embarque de grãos e açúcar. Somos um operador independente de terminais servindo tradings e apoiando o agronegócio responsável no Brasil.\n\nEstamos presentes em dois importantes portos - Itaqui e Santos - desempenhando um papel chave na conexão das regiões produtoras do Brasil ao mundo.\n\nA CLI é controlada pela IG4 Capital e Macquarie Asset Management Real Assets (MAM).\n",
+    "inventoriesId": [
+        7953,
+        7874
+    ],
+    "logoId": "0c6183b7-301d-10d3-e959-3a1417473b0f",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

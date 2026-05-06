@@ -1,0 +1,45 @@
+{
+    "id": 3839,
+    "name": "SEFAC",
+    "about": "A Serra do Facão Energia S.A. tem como atividade a exploração da Usina Hidrelétrica de Serra do Facão – “UHE Serra do Facão”, localizada no Rio São Marcos, com reservatório formado nas áreas dos municípios de Catalão, Davinópolis, Campo Alegre, Ipameri e Cristalina, no estado de Goiás, e Paracatu, no estado de Minas Gerais.\n\nA Usina tem potência instalada de 212,58 MW e energia assegurada de 174,4 MW médios, dos quais 76,7 MW médios correspondem a ganhos incrementais à jusante. A Serra do Facão é constituída pela UHE Serra do Facão e pelo Sistema de Transmissão Associado, composto por uma Subestação de 138 kV (da Usina) e uma Linha de Transmissão de 138 kV, de interesse restrito à Central Geradora, com 32,8 km de extensão, de circuito duplo, que assegura o fluxo da energia gerada pela UHE Serra do Facão ao Sistema Interligado Nacional (“SIN”), através da Subestação de Catalão da Equatorial.\n\nA Usina Hidroelétrica Serra do Facão iniciou a operação comercial da Unidade Geradora nº 01 em 13 de julho de 2010, através do Despacho ANEEL nº 2.001 de 12/07/2010, publicado no DOU em 13 de julho de 2010 e a Unidade Geradora nº 02 teve sua operação comercial autorizada pela ANEEL, em 7 de agosto de 2010, através do Despacho ANEEL nº 2274 de 6 de agosto de 2010, publicado no DOU em 9 de agosto de 2010.\n\nA sociedade atualmente tem como acionistas as empresas Centrais Elétricas Brasileiras S.A. - ELTROBRAS, Alcoa Alumínio S.A. e DME Energética S.A - DMEE.",
+    "inventoriesId": [
+        5079,
+        5772,
+        7558,
+        9130
+    ],
+    "logoId": "a16f4f73-f50e-457e-a264-468049be2daf",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

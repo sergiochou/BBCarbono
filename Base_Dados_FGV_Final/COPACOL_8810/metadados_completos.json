@@ -1,0 +1,30 @@
+{
+    "id": 8810,
+    "name": "COPACOL",
+    "about": "A Copacol (Cooperativa Agroindustrial Consolata) foi fundada em 23 de outubro de 1963, a primeira do Oeste do Paraná. Com o objetivo de levar energia elétrica para a população de Cafelândia, 32 bravos agricultores se uniram para trabalhar e fazer o sonho virar realidade: construir uma usina hidrelétrica. O idealizador e primeiro presidente da Cooperativa foi o Padre Luís Luise. A Copacol operou com capacidade de 200 kVA até 1969, quando foi desmembrada para se concentrar na agricultura, passando a usina à Copel (Companhia Paranaense de Energia). Em 1973 construiu o primeiro armazém, com capacidade para 300 mil sacas de grãos, com graneleiro, balança, classificação, depósito de insumos e escritório - a estrutura faz parte do atual Complexo Industrial, em Cafelândia. Em 1974 a Cooperativa passa a investir na intercooperação, decidindo pela filiação a Cotriguaçu, para comercializar cereais, comprar insumos e exportar pelo Porto de Paranaguá. E em 1979 também se filiou a Sudcoop, atual Frimesa, para estimular a produção de leite e suínos, estimulando a diversificação das propriedades rurais. Em 1981 Copacol decide atuar com avicultura e, em 1982, inaugura a Unidade Industrial de Aves, a primeira do Oeste do Paraná. No ano seguinte inicia a comercialização para o mercado internacional: exportou a primeira carga de frangos para a Espanha. Em 1985 passou a atuar também fora do Paraná, com uma filial de Vendas em Campo Grande, no Mato Grosso do Sul. Em 1988 fundou a Credicopa, que mais tarde veio a se tornar a Sicredi Nossa Terra. Na década seguinte a Cooperativa passa a investir em um novo segmento: o de supermercados com uma loja em Cafelândia. Mais uma vez inovadora, em 1999 a Copacol funda a Constel, empresa de tecnologia para desenvolver soluções para a Cooperativa. Com o pioneirismo no DNA, em 2008 a Copacol investe novamente na diversificação e passa a trabalhar com a piscicultura: primeira Cooperativa do Brasil a atuar de forma integrada com a atividade e inaugura a Unidade Industrial de Peixes em Nova Aurora. Em 2011 é fundada a Cooperativa Central Unitá, em Ubiratã, planta que permite o aumento da capacidade de abate de frangos da Copacol. E com o intuito de investir em estudos e pesquisas, em 2015, a Copacol inaugura o CPA (Centro de Pesquisa Agrícola) que se transforma em um laboratório a céu aberto, sendo referência no Brasil em pesquisas para a área agrícola. Para ampliar os mercados para quem exporta e ter maior contato com clientes do Oriente Médio, a Cooperativa investe, em 2018, em um escritório de vendas em Dubai, nos Emirados Árabes Unidos. A piscicultura segue dando bons resultados e, por isso, em 2020, a Copacol adquire uma nova Unidade Industrial de Peixes, em Toledo, ampliando a capacidade de produtores integrados e de abate ao dia. No mesmo ano, a Cooperativa faz a primeira exportação de filé de tilápia para Miami, nos Estados Unidos. Além disso, também amplia a área de atuação, passando a contar com unidades na região Sudoeste do Paraná, com escritórios de atendimento ao cooperado nas cidades de Capanema, Pranchita, Pérola do Oeste e Alto Faraday. Com a avicultura sendo uma das principais atividades da Cooperativa, em 2023 a Copacol inaugura o CTA (Centro de Treinamento Avícola), um aviário equipado com as tecnologias mais atuais da atividade e que oferece cursos de capacitação para avicultores e granjeiros, como manejo de frango de corte, painel controlador e manutenção em equipamentos avícolas. No mesmo ano, a Cooperativa inaugura a segunda UPA (Unidade de Produção de Alevinos), esta em Quarto Centenário, a mais moderna da América Latina, garantindo a autossuficiência na produção de alevinos. Em 2024 a Copacol adquiriu a primeira Unidade de Grãos e Insumos fora do Paraná, na cidade de Santa Margarida do Sul, no Rio Grande do Sul. Neste mesmo ano a Cooperativa atinge o maior faturamento da história: R$ 10,6 bilhões. \nAtualmente, a Copacol conta com 10 mil cooperados e 16,2 mil colaboradores. Atua com as atividades de agricultura, avicultura, piscicultura, suinocultura e bovinocultura de leite. A Cooperativa conta com 40 Unidades de Grãos, Insumos e Sementes no Oeste e Sudoeste do Paraná, além do Rio Grande do Sul. Além disso, são duas Unidades Industriais de Peixes, duas Unidades Industriais de Aves, duas UPAs, o Centro de Distribuição, o CPA, o CTA, Supermercados e Lojas Agro.\n",
+    "inventoriesId": [
+        8957
+    ],
+    "logoId": "415d235b-2075-e019-c1f5-3a19fb1bd307",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

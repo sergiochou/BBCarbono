@@ -1,0 +1,40 @@
+{
+    "id": 3825,
+    "name": "SANDVIK JUNDIAI",
+    "about": "Sobre Sandvik...\nFundada na Suécia em 1862, hoje a Sandvik tem aproximadamente 37.000 colaboradores. Em 2020, tivemos vendas de aproximadamente 86 bilhões de coroas suecas em mais de 160 países ao redor do mundo. Investimos 3,4 bilhões de coroas suecas em P&D; temos 60 centros de P&D em todo o mundo e 6.000 patentes ativas. \nÁreas de Negócio\nO Grupo Sandvik opera em quatro Áreas de Negócio, responsáveis pelas atividades de pesquisa e desenvolvimento (P&D), produção e vendas de seus respectivos produtos e serviços. \nEsse inventário é referente as áreas SMR e SRP do Brasil.\nSandvik Mining and Rock Solutions – SMR: Fornecedor líder mundial de equipamentos, ferramentas, peças, serviços e soluções técnicas para as indústrias de mineração e construção. As áreas de aplicação incluem perfuração e corte de rochas, carregamento e transporte, escavação de túneis e pedreiras.\nSandvik Rock Processing Solutions - SRP: Fornecedor líder de equipamentos, ferramentas, peças, serviços e soluções para processamento de rochas e minerais nas indústrias de mineração e construção. As aplicações incluem britagem, peneiramento, quebra e demolição.\n",
+    "inventoriesId": [
+        5248,
+        5877,
+        6854
+    ],
+    "logoId": "bc4532b4-46e8-6986-543b-3a1218c2d056",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

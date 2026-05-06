@@ -1,0 +1,40 @@
+{
+    "id": 5265,
+    "name": "Porto Sudeste do Brasil",
+    "about": "O Porto Sudeste possui infraestrutura e especialização para conduzir as operações de granéis sólidos e líquidos.\r\n \r\nA empresa adota as melhores práticas no processo logístico, desde o descarregamento do material, formação das pilhas, manuseio, até o carregamento dos navios. Como compromisso, o Porto Sudeste conduz as atividades conciliando o desenvolvimento decorrente da operação portuária com alternativas que signifiquem o bem-estar da comunidade e o respeito ao meio ambiente. \r\n\r\nSituado na Ilha da Madeira, em Itaguaí, no Rio de Janeiro, de frente para a Baía de Sepetiba, o Porto Sudeste representa a menor distância entre seus clientes e os produtos de minério de ferro do Quadrilátero Ferrífero de Minas Gerais e os produtos de extração de petróleo do pré-sal. ",
+    "inventoriesId": [
+        6337,
+        6815,
+        8442
+    ],
+    "logoId": "a1d8e5e7-2438-418e-bcda-67da72154953",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

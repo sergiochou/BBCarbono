@@ -1,0 +1,45 @@
+{
+    "id": 5136,
+    "name": "FIDENS Construções",
+    "about": "Somos a FIDENS, uma empresa com atuação nos segmentos da construção pesada e mineração com comprovada excelência em suas atividades, fundamentada na prática ética em seus relacionamentos.",
+    "inventoriesId": [
+        6165,
+        7621,
+        8882,
+        8306
+    ],
+    "logoId": "1da3bf7f-5bde-44b0-913e-d626f614d889",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

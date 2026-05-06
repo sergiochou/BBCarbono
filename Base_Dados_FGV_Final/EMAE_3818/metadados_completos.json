@@ -1,0 +1,45 @@
+{
+    "id": 3818,
+    "name": "EMAE",
+    "about": "A Empresa Metropolitana de Águas e Energia (Emae) é uma companhia privada que atua no setor de geração de energia elétrica por meio de fonte hídrica para o Sistema Interligado Nacional (SIN). Suas usinas e barragens estão localizadas em São Paulo, Região Metropolitana de São Paulo, Baixada Santista e Médio Tietê. Comprometida com a transição e a segurança energética do país e em diversificar suas fontes de energia, a Emae tem participação na Usina Fotovoltaica Flutuante (UFF Araucária), localizada no reservatório Billings, primeira e maior usina solar flutuante do país. Em fevereiro de 2026, a gestão da companhia passou a ser conduzida pela Sabesp, ampliando as sinergias operacionais entre água e energia na Região Metropolitana de São Paulo.\nDetentora e operadora de um sistema hidráulico e gerador de energia elétrica tem capacidade instalada de 960,8 MW. Seu sistema é constituído de reservatórios, canais, usinas e estruturas associadas, cuja principal característica é a de exigir uma operação voltada para o aproveitamento racional das águas superficiais e a busca pelo aproveitamento múltiplo dos recursos hídricos disponíveis. A empresa atua diretamente no controle de cheias do rio Pinheiros, além de armazenar água para abastecimento público nos reservatórios Guarapiranga e Billings. ",
+    "inventoriesId": [
+        5537,
+        6364,
+        7202,
+        8755
+    ],
+    "logoId": "cd907491-a3cc-4295-a4a2-57a13dd1f14d",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

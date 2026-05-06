@@ -1,0 +1,55 @@
+{
+    "id": 2477,
+    "name": "Edenred",
+    "about": "A Edenred é a plataforma digital líder para serviços e meios de pagamento, que atua como a companhia diária para pessoas no trabalho, conectando mais de 60 milhões de usuários e mais de 2 milhões de comerciantes parceiros, em 45 países, por meio de 1 milhão de empresas-clientes.\n\nNo Brasil, sua atuação conta com três linhas de negócios: Benefícios e Engajamento, com a marca Ticket Serviços; Mobilidade, com as marcas Edenred Ticket Log, Edenred Repom; e Soluções de Pagamento e Novos Mercados, com Edenred Pay e Punto. São mais de 170 mil empresas clientes, 10 milhões de empregados beneficiados e 870 mil comerciantes credenciados no País. Fiel ao propósito do Grupo, “Enrich connections. For good”, essas soluções potencializam o bem-estar e o poder de compra dos usuários, melhoram a atratividade e a eficiência das empresas e dinamizam o mercado de trabalho e a economia local. Também promovem o acesso a alimentos mais saudáveis, produtos ambientalmente mais responsáveis e a uma mobilidade mais sustentável. Os 12 mil funcionários da Edenred estão comprometidos em tornar o mundo do trabalho um ecossistema conectado mais seguro, eficiente e responsável, todos os dias.\n\nEm 2025, graças aos seus ativos tecnológicos globais, o Grupo geriu aproximadamente €45 bilhões em volume de negócios, realizados principalmente por meio de aplicações móveis, plataformas online e cartões.",
+    "inventoriesId": [
+        4164,
+        4899,
+        5730,
+        5884,
+        7163,
+        8818
+    ],
+    "logoId": "55305b49-8a21-4dce-b3d6-f84bf2809353",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

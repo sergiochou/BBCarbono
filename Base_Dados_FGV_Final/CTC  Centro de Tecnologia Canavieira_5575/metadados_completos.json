@@ -1,0 +1,40 @@
+{
+    "id": 5575,
+    "name": "CTC - Centro de Tecnologia Canavieira",
+    "about": "https://ctc.com.br/\r\n\r\nO CTC – Centro de Tecnologia Canavieira é a empresa líder global em ciência de cana-de-açúcar, que busca inovação constante na área de melhoramento genética, seja por meio de técnicas convencionais, da biotecnologia ou do modo de plantio.\r\n\r\nTemos um dos maiores bancos de germoplasma de cana-de-açúcar do mundo, com mais de 4 mil variedades.\r\n\r\nNos laboratórios em Piracicaba (SP) e Saint-Louis (Missouri-EUA), nossas equipes de cientistas desenvolvem produtos utilizando técnicas modernas como transgenia e edição genômica.\r\n\r\nO portfólio da companhia é resultante de sua vasta experiência com a cadeia produtiva da cana de açúcar, e reúne variedades de cana de alta produtividade e com proteção contra doenças e pragas, adaptadas às regiões produtoras do país.\r\n\r\nCriado em 1969, o CTC contribuiu ao longo de sua história para o avanço tecnológico do agronegócio nacional e a competitividade do setor sucroenergético, levando o Brasil à liderança mundial do setor, com produção sustentável de açúcar, etanol (biocombustível limpo e renovável) e bioeletricidade.",
+    "inventoriesId": [
+        6586,
+        7331,
+        8752
+    ],
+    "logoId": "bdbafb4a-c98e-4f28-b312-1f7cdfe76a99",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

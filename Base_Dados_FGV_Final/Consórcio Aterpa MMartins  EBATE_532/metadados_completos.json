@@ -1,0 +1,30 @@
+{
+    "id": 532,
+    "name": "Consórcio Aterpa MMartins - EBATE",
+    "about": null,
+    "inventoriesId": [
+        3066
+    ],
+    "logoId": "867e8e5e-48be-49f9-a9b1-3e88005c7e12",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

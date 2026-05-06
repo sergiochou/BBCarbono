@@ -1,0 +1,70 @@
+{
+    "id": 2485,
+    "name": "ALBRAS",
+    "about": "A Albras é a maior produtora de alumínio primário no Brasil e desde 1985 alimenta os mercados interno e externo com lingotes de alta pureza. A Hydro é a principal acionista da empresa, com 51% das ações dessa joint venture. O outro acionista é a NAAC - Nippon Amazon Aluminium Co. Ltd., formada por um consórcio de empresas japonesas, tradings, consumidores e fabricantes de produtos de alumínio.\r\n\r\nReconhecida como uma das três maiores empresas dos setores de metalurgia e siderurgia por dois anos consecutivos no ranking Empresas Mais do jornal O Estado de São Paulo, a Albras se orgulha de seu excelente clima organizacional, responsabilidade social, gestão ambiental e retenção de talentos.\r\n",
+    "inventoriesId": [
+        3164,
+        3590,
+        3808,
+        4267,
+        4551,
+        5100,
+        6162,
+        7565,
+        8824
+    ],
+    "logoId": "2a11d82d-4cbc-4291-baa0-f293d9ab2709",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

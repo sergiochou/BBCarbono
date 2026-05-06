@@ -1,0 +1,465 @@
+[
+    {
+        "empresa_pasta": "FAU Agricultura e Meio Ambiente_3328",
+        "id_fgv": 3328,
+        "nome_oficial": "FAU Agricultura e Meio Ambiente",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 33.473,
+                    "emissoes_escopo_2": 0.382,
+                    "emissoes_escopo_3": 2.867,
+                    "total_emissoes": 36.722,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 29.532,
+                    "emissoes_escopo_2": 1.19,
+                    "emissoes_escopo_3": 4.306,
+                    "total_emissoes": 35.028,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 34.184,
+                    "emissoes_escopo_2": 0.263,
+                    "emissoes_escopo_3": 7.456,
+                    "total_emissoes": 41.903,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 19.277,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 4.851,
+                    "total_emissoes": 24.128,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "PROJETO IRMÃOS FREDI",
+                "CERTIFICADO",
+                "Identificação do certificado: 27258 | Data de emissão: 22/06/2021",
+                "A Sustainable Carbon - Projetos Ambientais Ltda. declara que:",
+                "A FAU Agricultura e Meio Ambiente compensou 36,72 tCO e, por meio da aquisição de Créditos de Carbono",
+                "Premium do projeto voluntário de redução de emissões Irmãos Fredi, referente às emissões de GEEs no ano base 2020.",
+                "Padrões de emissão:",
+                "CONTABILIDADE CARBONO COBENEFÍCIOS DESENVOLVIDO POR SISTEMA DE REGISTRO",
+                "Verified Carbon Standard Social Carbon Sustainable Carbon VERRA",
+                "https://verra.org/project/vcs-program/ www.socialcarbon.org www.sustainablecarbon.com www.verra.org/"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Fazenda Farroupilha Café_4557",
+        "id_fgv": 4557,
+        "nome_oficial": "Fazenda Farroupilha Café",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura,‑pecuária,‑produção‑florestal,‑pesca‑e‑aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "FAZENDA IMIGRANTES_9181",
+        "id_fgv": 9181,
+        "nome_oficial": "FAZENDA IMIGRANTES",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,▶pecuária,▶produção▶florestal,▶pesca▶e▶aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Fazenda Sertãozinho  Orfeu_4329",
+        "id_fgv": 4329,
+        "nome_oficial": "Fazenda Sertãozinho - Orfeu ",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1022361.26,
+                    "emissoes_escopo_2": 301.307,
+                    "emissoes_escopo_3": 211.215,
+                    "total_emissoes": 1022873.782,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 72649.237,
+                    "emissoes_escopo_2": 9054.09,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 81703.327,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto Semeando",
+                "Instalação de usina de energia solar",
+                "Nome do Reduções Nome da entidade Quantidade O projeto foi O projeto verificado foi",
+                "projeto vendidas? compradora ou receptora reduzida (tCOe) verificado? verificado a partir do padrão",
+                "Projeto Não",
+                "Semeando",
+                "Reserva Não",
+                "Legal",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2022"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ferroport_4530",
+        "id_fgv": 4530,
+        "nome_oficial": "Ferroport",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 452.595,
+                    "emissoes_escopo_2": 1408.107,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1860.702,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 897.223,
+                    "emissoes_escopo_2": 1452.838,
+                    "emissoes_escopo_3": 1195.996,
+                    "total_emissoes": 3546.057,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Fetranspor_1991",
+        "id_fgv": 1991,
+        "nome_oficial": "Fetranspor",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.01,
+                    "emissoes_escopo_3": 43.8,
+                    "total_emissoes": 43.81,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.01,
+                    "emissoes_escopo_3": 928.727,
+                    "total_emissoes": 928.737,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Fibria_1282",
+        "id_fgv": 1282,
+        "nome_oficial": "Fibria",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1132740.3,
+                    "emissoes_escopo_2": 9720.0,
+                    "emissoes_escopo_3": 417511.048,
+                    "total_emissoes": 1559971.348,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1064388.929,
+                    "emissoes_escopo_2": 13552.637,
+                    "emissoes_escopo_3": 327282.219,
+                    "total_emissoes": 1405223.785,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1189826.117,
+                    "emissoes_escopo_2": 14442.485,
+                    "emissoes_escopo_3": 441620.286,
+                    "total_emissoes": 1645888.888,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1264657.452,
+                    "emissoes_escopo_2": 21907.134,
+                    "emissoes_escopo_3": 1265030.193,
+                    "total_emissoes": 2551594.779,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Fictor Holding_6084",
+        "id_fgv": 6084,
+        "nome_oficial": "Fictor Holding",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶administrativas▶e▶serviços▶complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "FIDENS Construções_5136",
+        "id_fgv": 5136,
+        "nome_oficial": "FIDENS Construções",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 27396.119,
+                    "emissoes_escopo_2": 9.629,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 27405.748,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 33580.059,
+                    "emissoes_escopo_2": 15.681,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 33595.74,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "FINNET SA  TECNOLOGIA_1165",
+        "id_fgv": 1165,
+        "nome_oficial": "FINNET S/A - TECNOLOGIA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 34.176,
+                    "emissoes_escopo_2": 10.254,
+                    "emissoes_escopo_3": 30.499,
+                    "total_emissoes": 74.929,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 11.725,
+                    "emissoes_escopo_2": 5.746,
+                    "emissoes_escopo_3": 8.863,
+                    "total_emissoes": 26.334,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 17.678,
+                    "emissoes_escopo_2": 10.519,
+                    "emissoes_escopo_3": 8.984,
+                    "total_emissoes": 37.181,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 0.539,
+                    "emissoes_escopo_2": 3.867,
+                    "emissoes_escopo_3": 9.584,
+                    "total_emissoes": 13.99,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 65.531,
+                    "emissoes_escopo_2": 6.415,
+                    "emissoes_escopo_3": 176.016,
+                    "total_emissoes": 247.962,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Plantio de espécies nativas em área degradada",
+                "RELATÓRIO DE PLANTIO",
+                "Referente ano 2019",
+                "PARCEIRO FINNETTECNOLOGIA",
+                "PROJETO NEUTRALIZAÇÃO DE CARBONO",
+                "SELO EMPRESA NEUTRA DE CARBONO",
+                "LOCALIZAÇÃO PQ. ECOLÓGICO DO TIETÊ",
+                "DATA DO PLANTIO 18 Á 21 DE FEVEREIRO DE 2020",
+                "REALIZAÇÃO IBDN –INSTITUTO BRASILEIRO DE DEFESA DA NATUREZA",
+                "RESPONSÁVEL TEC. WALLACE ROY MÁLAGA-CRBIO 20.497"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

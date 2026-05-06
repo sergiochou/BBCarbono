@@ -1,0 +1,35 @@
+{
+    "id": 509,
+    "name": "Consórcio Construtor CR Almeida - Santa Bárbara",
+    "about": "O Consórcio Construtor do empreendimento VLT Cuiabá - Várzea Grande é formado pelas construtoras CR Almeida e Santa Bárbara com o objetivo de executar este ousado projeto. O Consórcio começou suas atividades em agosto de 2012, com a previsão de entrega das obras aprazadas para o final do ano de 2014.\r\nDesde a concepção do projeto o Consórcio sempre se preocupou com os impactos ambientais negativos que seriam causados pela obra, culminando com a adesão ao Programa Brasileiro de Emissões GHG Protocol, e a neutralização destas emissões através do Selo Pegada Limpa. ",
+    "inventoriesId": [
+        2113,
+        648
+    ],
+    "logoId": "e8618c5c-dfdb-4847-9575-2a75f9fb933a",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

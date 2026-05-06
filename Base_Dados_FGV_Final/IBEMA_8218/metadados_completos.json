@@ -1,0 +1,30 @@
+{
+    "id": 8218,
+    "name": "IBEMA",
+    "about": "Criada em 1956, a Ibema – Companhia Brasileira de Papel se destaca no setor como uma das principais fabricantes de papel cartão no Brasil.\nA Ibema mantém um forte compromisso com a sustentabilidade e a gestão ambiental, sendo certificada pela ISO 9001 (Gestão da Qualidade), ISO 14001 (Gestão Ambiental), selo FSC ® (FSC-C004702) e Lixo Zero. Suas operações seguem princípios da economia circular, investindo na reciclagem de aparas pós-consumo, no desenvolvimento de produtos mais sustentáveis e na redução de emissões de CO₂. \nA empresa, estruturada como sociedade anônima de capital fechado, segue os princípios de Governança Corporativa, operando com uma gestão estruturada e ágil, conduzida por uma Diretoria Estatutária e um Conselho de Administração, cujos integrantes são designados pelos acionistas Ibemapar e Suzano.",
+    "inventoriesId": [
+        8143
+    ],
+    "logoId": "037a5fb4-7e5f-9751-d84b-3a17bb704d27",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

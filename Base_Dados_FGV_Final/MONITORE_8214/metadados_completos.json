@@ -1,0 +1,30 @@
+{
+    "id": 8214,
+    "name": "MONITORE",
+    "about": null,
+    "inventoriesId": [
+        8029
+    ],
+    "logoId": "33efda1b-9fa7-74f1-0ed6-3a1778589b08",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

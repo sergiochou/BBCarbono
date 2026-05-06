@@ -1,0 +1,30 @@
+{
+    "id": 8656,
+    "name": "Engesp",
+    "about": null,
+    "inventoriesId": [
+        8314
+    ],
+    "logoId": "3d116301-bb13-54b4-15e2-3a19d827c223",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

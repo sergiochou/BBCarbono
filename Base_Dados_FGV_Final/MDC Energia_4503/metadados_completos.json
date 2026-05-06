@@ -1,0 +1,40 @@
+{
+    "id": 4503,
+    "name": "MDC Energia",
+    "about": "Fundada em 2006 e com atuação em 13 estados, a MDC investe em ativos energéticos com presença em toda a cadeia de gás natural, biometano, energia elétrica renovável e vapor através de biomassa.\r\nO trabalho do grupo se dá desde a produção e processamento até a distribuição e comercialização ao consumidor final. Dessa forma, a MDC consolida seu modelo de atuação integrado e inovador. Por meio das operações das subsidiárias Energias Renováveis do Brasil (ERB), Companhia Distribuidora Gás Natural (CDGN) e Ecometano, nosso grupo oferece um amplo portfólio de soluções energéticas sustentáveis de longo prazo a clientes corporativos.\r\nNossos negócios são desenvolvidos de forma sinérgica e tendo como base o tripé da sustentabilidade – econômico, socioambiental e governança. Por meio da integração entre as empresas do grupo, a companhia consegue oferecer soluções com preços competitivos para todos os clientes, além de mitigar os riscos envolvidos.\r\nO compromisso ambiental é inerente aos negócios desenvolvidos em nossa Companhia. Atualmente, cerca de 85% da energia entregue aos clientes tem origem sustentável ou renovável. Assim, nossa atividade fim está alinhada com a transição para a economia de baixo carbono vivenciada pelo mundo e acelerada pela agenda ASG (Ambiental, Social e Governança).\r\nTodas as nossas atividades têm como foco o atendimento ao cliente e a preocupação em oferecer um energético sustentável aliado ao propósito da empresa.\r\nPara isso, a companhia investe em confiabilidade, garantindo altos padrões de qualidade, cumprimento às normas mais rígidas de segurança, continuidade nos serviços e monitoramento das operações em uma central que gere toda a cadeia de forma online 24 horas por dia durante os 7 dias da semana.  ",
+    "inventoriesId": [
+        5783,
+        7290,
+        8695
+    ],
+    "logoId": "9ac4b85e-02c9-469f-b7fe-aa0f088b2421",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 5,
+        "acronym": "BA",
+        "name": "Bahia"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

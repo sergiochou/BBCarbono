@@ -1,0 +1,35 @@
+{
+    "id": 2297,
+    "name": "Odebrecht Agroindustrial",
+    "about": "A Odebrecht Agroindustrial foi fundada em 2007, pela Organização Odebrecht, sua controladora. Produz e comercializa etanol e açúcar VHP e cogera energia elétrica a partir da biomassa.\r\n\r\nSua produção de etanol é vendida às distribuidoras de combustível, que o utilizam como etanol hidratado (o álcool combustível) e etanol anidro (o álcool acrescentado à gasolina), e para a indústria química e petroquímica para a produção de biopolímeros. Toda a produção de açúcar é exportada, e a energia que cogera lhe dá autossuficiência energética e o excedente é vendido para a o sistema elétrico brasileiro e para o mercado livre.\r\n\r\nCom sede na cidade de São Paulo, a empresa tem sua base de operação no Brasil e tem Unidades Agroindustriais em quatro estados brasileiros: São Paulo, Mato Grosso, Mato Grosso do Sul e Goiás. Nestes estados, opera  por meio de polos produtivos para garantir maior sinergia entre as operações agrícolas e industriais.\r\n\r\n",
+    "inventoriesId": [
+        2762,
+        3302
+    ],
+    "logoId": "dd4b202a-a9a2-4c8a-bcb8-bb16451ec34a",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 2038,
+    "name": "Marcolin Tricot",
+    "about": "A Marcolin Indústria Têxtil é uma empresa sólida e respeitada no segmento de malharia retilínea. Desde que foi fundada, pela família Marcolin, em 1969, mantém o objetivo de produzir tricot com qualidade e estilo, unindo tecnologia e inovação.\r\n\r\nHoje, a Indústria Marcolin atua em duas frentes de negócios: na confecção de sua marca própria, a Katze Tricot, e na produção de peças no formato private label (etiqueta de terceiros) para grandes marcas.\r\n\r\nA empresa também aposta no atendimento como diferencial. Em Erechim, norte do Rio Grande do Sul, o show room de pronta-entrega facilita o contato com os clientes e agiliza as entregas dos pedidos. E a equipe de representantes comerciais, treinada e com conhecimento do produto, amplia a atuação da empresa. Dessa forma, a Marcolin alcança um mercado cada vez mais amplo, conquistando novos clientes no sul e no sudeste do Brasil.\r\n\r\nAlém disso, a Marcolin investe constantemente na melhoria do seu processo produtivo, através da qualificação dos seus funcionários e do uso de tecnologia de ponta para desenvolver e fabricar produtos que encantem e proporcionem bem estar ao consumidor. Os melhores fios nacionais e importados, o acabamento impecável e a pesquisa das tendências de design, cores e materiais possibilitam à empresa a produção de um tricot versátil, diferenciado e conectado com o mundo da moda.",
+    "inventoriesId": [
+        652,
+        92
+    ],
+    "logoId": "e037fe7c-c6e6-4cb2-b14e-65a7cc617653",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,75 @@
+{
+    "id": 1132,
+    "name": "Whirlpool ",
+    "about": "A Whirlpool, dona das marcas Brastemp, Consul e KitchenAid, é líder do mercado latino-americano de eletrodomésticos. É reconhecida e premiada por oferecer produtos inovadores aos consumidores, desenvolver e atrair talentos de alto desempenho e por ser comprometida com a sustentabilidade. Admirada por suas marcas, a empresa leva a qualidade, preocupação com o meio ambiente e paixão por seus produtos para cerca de 100 milhões de lares brasileiros, o que representa um produto a cada dois domicílios. Atualmente, conta com cerca de 11 mil funcionários distribuídos entre o centro administrativo e as fábricas localizadas em Joinville (Santa Catarina), Manaus (Amazonas) e Rio Claro (São Paulo), além de 23 laboratórios de Pesquisa e Desenvolvimento e quatro Centros de Tecnologia. Na América Latina, tem escritórios na Argentina, Chile, Peru, Guatemala, Equador, Colômbia, Porto Rico, República Dominicana e Miami.",
+    "inventoriesId": [
+        96,
+        2584,
+        346,
+        2149,
+        1587,
+        1553,
+        1534,
+        3072,
+        3159,
+        3629
+    ],
+    "logoId": "aec71076-9344-46aa-9fc4-f3adfc79a812",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2009,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2008,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,581 @@
+[
+    {
+        "empresa_pasta": "Silcon Sustech Ecosystem  Silcon Ambiental_2957",
+        "id_fgv": 2957,
+        "nome_oficial": "Silcon Sustech Ecosystem - Silcon Ambiental ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 8620.472,
+                    "emissoes_escopo_2": 113.596,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 8734.068,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 8907.435,
+                    "emissoes_escopo_2": 135.441,
+                    "emissoes_escopo_3": 1718.451,
+                    "total_emissoes": 10761.327,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 11871.573,
+                    "emissoes_escopo_2": 263.765,
+                    "emissoes_escopo_3": 10800.206,
+                    "total_emissoes": 22935.544,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 7587.904,
+                    "emissoes_escopo_2": 84.291,
+                    "emissoes_escopo_3": 23540.079,
+                    "total_emissoes": 31212.274,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SIMPAR_2931",
+        "id_fgv": 2931,
+        "nome_oficial": "SIMPAR",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 330438.351,
+                    "emissoes_escopo_2": 4717.634,
+                    "emissoes_escopo_3": 1356370.36,
+                    "total_emissoes": 1691526.345,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 284644.344,
+                    "emissoes_escopo_2": 3212.398,
+                    "emissoes_escopo_3": 1178304.44,
+                    "total_emissoes": 1466161.182,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 631065.236,
+                    "emissoes_escopo_2": 9021.974,
+                    "emissoes_escopo_3": 1308829.25,
+                    "total_emissoes": 1948916.46,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 527505.63,
+                    "emissoes_escopo_2": 2722.565,
+                    "emissoes_escopo_3": 3284400.71,
+                    "total_emissoes": 3814628.905,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte,\u0002armazenagem\u0002e\u0002correio",
+                    "emissoes_escopo_1": 32690.823,
+                    "emissoes_escopo_2": 31.436,
+                    "emissoes_escopo_3": 86708.82,
+                    "total_emissoes": 119431.079,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Carbon Free",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome do OV: SGS ICS Certificadora Ltda Nome da OI: SIMPAR S.A.",
+                "Nome do verificador líder: Rafael da Silva Caldeira / Nome do responsável pelo inventário: Patricia dos Santos",
+                "Fabian Peres Gonçalves Pereira"
+            ],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "ue assumiram o compromisso de meta Net Zero até 2030. 4.2 Descrição de indicadores de emissão de GEE para as atividades da organizaç"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Simpress Comércio Locação e Serviços LTDA_4237",
+        "id_fgv": 4237,
+        "nome_oficial": "Simpress Comércio Locação e Serviços LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 753.195,
+                    "emissoes_escopo_2": 79.518,
+                    "emissoes_escopo_3": 43.869,
+                    "total_emissoes": 876.582,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 345.706,
+                    "emissoes_escopo_2": 29.54,
+                    "emissoes_escopo_3": 378.884,
+                    "total_emissoes": 754.13,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 407.082,
+                    "emissoes_escopo_2": 28.235,
+                    "emissoes_escopo_3": 467.16,
+                    "total_emissoes": 902.477,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 289.439,
+                    "emissoes_escopo_2": 42.245,
+                    "emissoes_escopo_3": 200.597,
+                    "total_emissoes": 532.281,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Guaraí, Itabira, Santa Isabel",
+                "CERTIFICADO",
+                "Identificação do certificado: CL10368/22 | Data de emissão: 01/08/2022",
+                "Sustainable Carbon - Projetos Ambientais Ltda. declara que:",
+                "Premium do projeto voluntário de redução de emissões Guaraí, Itabira e Santa Izabel*, referente às emissões de 2021.",
+                "Serial numbers: 8415-15892109-15892228-VCS-VCU-291-VER-BR-1-83-01012015-31122015-1",
+                "Padrões de emissão:",
+                "CONTABILIDADE CARBONO COBENEFÍCIOS DESENVOLVIDO POR SISTEMA DE REGISTRO",
+                "Verified Carbon Standard Social Carbon Sustainable Carbon VERRA",
+                "www.verra.org/project/vcs-program www.socialcarbon.org www.sustainablecarbon.com www.registry.verra.org"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sinergia Engenharia de Meio Ambiente_4004",
+        "id_fgv": 4004,
+        "nome_oficial": "Sinergia Engenharia de Meio Ambiente",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.503,
+                    "emissoes_escopo_2": 0.064,
+                    "emissoes_escopo_3": 3.87,
+                    "total_emissoes": 5.437,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.765,
+                    "emissoes_escopo_2": 0.03,
+                    "emissoes_escopo_3": 3.632,
+                    "total_emissoes": 5.427,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.602,
+                    "emissoes_escopo_2": 0.047,
+                    "emissoes_escopo_3": 6.205,
+                    "total_emissoes": 7.854,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 1.072,
+                    "emissoes_escopo_2": 0.086,
+                    "emissoes_escopo_3": 4.179,
+                    "total_emissoes": 5.337,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SISTAC SISTEMAS DE ACESSO_7456",
+        "id_fgv": 7456,
+        "nome_oficial": "SISTAC SISTEMAS DE ACESSO",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 2614.926,
+                    "emissoes_escopo_2": 11.401,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2626.327,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sistema FIEMS_7599",
+        "id_fgv": 7599,
+        "nome_oficial": "Sistema FIEMS",
+        "estado": "MS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 659.764,
+                    "emissoes_escopo_2": 210.957,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 870.721,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Sistema Ocemg_8748",
+        "id_fgv": 8748,
+        "nome_oficial": "Sistema Ocemg",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Educação",
+                    "emissoes_escopo_1": 28.472,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1095.169,
+                    "total_emissoes": 1123.641,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SL Administração Participações_4121",
+        "id_fgv": 4121,
+        "nome_oficial": "SL Administração Participações",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 1173.228,
+                    "emissoes_escopo_2": 1424.987,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2598.215,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 429.181,
+                    "emissoes_escopo_2": 496.483,
+                    "emissoes_escopo_3": 347.507,
+                    "total_emissoes": 1273.171,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 334.862,
+                    "emissoes_escopo_2": 490.471,
+                    "emissoes_escopo_3": 311.899,
+                    "total_emissoes": 1137.232,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamentoealimentação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "SLC Agrícola_2643",
+        "id_fgv": 2643,
+        "nome_oficial": "SLC Agrícola",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1499009.62,
+                    "emissoes_escopo_2": 4239.44,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1503249.06,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1789978.249,
+                    "emissoes_escopo_2": 3931.332,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1793909.581,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 957918.871,
+                    "emissoes_escopo_2": 3758.42,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 961677.291,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 746446.479,
+                    "emissoes_escopo_2": 3427.502,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 749873.981,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1835684.81,
+                    "emissoes_escopo_2": 17302.08,
+                    "emissoes_escopo_3": 30473.123,
+                    "total_emissoes": 1883460.013,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 751174.664,
+                    "emissoes_escopo_2": 4007.69,
+                    "emissoes_escopo_3": 257657.547,
+                    "total_emissoes": 1012839.901,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 979428.108,
+                    "emissoes_escopo_2": 2866.892,
+                    "emissoes_escopo_3": 310183.553,
+                    "total_emissoes": 1292478.553,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,pecuária,produçãoflorestal,pescaeaqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Programa Carbono Zero",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2017",
+                "Inventário 2017 - Fazenda Paiaguás",
+                "SLC Agrícola S.A.",
+                "Nome fantasia: Fazenda Paiaguás",
+                "CNPJ: 89.096.457/0040-61",
+                "Setor econômico: Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                "Subsetor: Agricultura, pecuária e serviços relacionados",
+                "Endereço: RODOVIA BR 364 - S/N - KM 754 + 21 KM A DIREITA - Deciolândia - Diamantino -"
+            ],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "vinculadas ao atingimento da meta de neutralidade de carbono, nos escopos 1 e 2, até 2030. Nosso foco está na diminuição do consumodeinsumosagrícolasp"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Smurfit Westrock_2800",
+        "id_fgv": 2800,
+        "nome_oficial": "Smurfit Westrock",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 100709.47,
+                    "emissoes_escopo_2": 16372.764,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 117082.234,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 111646.628,
+                    "emissoes_escopo_2": 13184.967,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 124831.595,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 131720.112,
+                    "emissoes_escopo_2": 25997.299,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 157717.411,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 128876.385,
+                    "emissoes_escopo_2": 6716.1,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 135592.485,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 119019.971,
+                    "emissoes_escopo_2": 5247.28,
+                    "emissoes_escopo_3": 203003.281,
+                    "total_emissoes": 327270.532,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

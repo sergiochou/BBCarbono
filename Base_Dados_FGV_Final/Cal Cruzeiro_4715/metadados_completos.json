@@ -1,0 +1,40 @@
+{
+    "id": 4715,
+    "name": "Cal Cruzeiro",
+    "about": "A Indústria de Cal Cruzeiro Ltda, empresa brasileira, fundada em 1970 especializada na produção de cales calcitica e dolomitica, em todas as especificações demandadas pelo mercado.\r\nAtualmente, conta com duas unidades produtivas localizadas na cidade de Córrego Fundo - Minas Gerais.\r\n\r\n",
+    "inventoriesId": [
+        6072,
+        7332,
+        9215
+    ],
+    "logoId": "4ff7058c-c791-16c5-274b-3a131ab4f4fa",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

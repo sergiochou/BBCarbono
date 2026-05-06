@@ -1,0 +1,35 @@
+{
+    "id": 2631,
+    "name": "AkzoNobel",
+    "about": "A AkzoNobel é apaixonada por tinta. Somos especialistas e temos orgulho de produzir tintas e revestimentos, estabelecendo o padrão em cor e proteção desde 1792. Nosso portfólio de marcas de classe mundial – incluindo Coral, International, Sikkens e Interpon - conta com a confiança dos nossos clientes em todo o mundo. Com sede na Holanda, operamos em mais de 80 países e empregamos cerca de 35000 pessoas talentosas que são apaixonadas em entregar produtos e serviços de alto desempenho aos nossos clientes. Para mais informações, por favor, acesse www.akzonobel.com.",
+    "inventoriesId": [
+        3713,
+        3981
+    ],
+    "logoId": "83a6967c-1e79-495d-afb6-5a591860a145",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

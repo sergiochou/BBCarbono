@@ -1,0 +1,45 @@
+{
+    "id": 3854,
+    "name": "BTP",
+    "about": "Em operação desde 2013, a BTP vem se destacando como um dos principais operadores portuários do país. Com a cultura da sustentabilidade e segurança das pessoas e cargas em seu DNA, a empresa une importantes diferenciais competitivos que permitem resultados de altos níveis em suas operações. A excelência dos seus serviços foi confirmada com a garantia das certificações de Operador Econômico Autorizado (OEA) e de seu Sistema de Gestão Integrado (SGI – NBR ISO 9001:2015, NBR ISO 14001:2015 e ISO45001:2018), reconhecidas internacionalmente.\r\n\r\nLocalização privilegiada e atendimento de rotas para todo o mundo são algumas das principais características do terminal que é resultado da joint-venture entre dois reconhecidos grupos de operadores portuários, a APM Terminals e a Terminal Investment Limited (TIL) – líderes do mercado mundial de movimentação de contêineres.\r\n\r\nO terminal de movimentação de contêineres está estrategicamente localizado na margem direita do Porto de Santos, em uma área projetada de 430 mil m², e tem capacidade de movimentação anual de 1,5 milhão de TEUs.\r\n\r\nPor mais de cinco décadas, o local onde o terminal está instalado foi considerado um dos maiores passivos ambientais do Estado de São Paulo, e o maior em área portuária do país. A partir de novembro de 2009, a BTP iniciou o processo de remediação ambiental do terreno, com a conclusão dos trabalhos em março de 2012.\r\n\r\nO investimento inicial no empreendimento foi de US$ 800 milhões, e a inauguração oficial do terminal aconteceu em novembro de 2013.\r\n\r\nA BTP já possui em seu quadro mais de 1.500 colaboradores diretos, para tanto, investe, constantemente, em treinamento e qualificação profissional, sendo um dos únicos terminais do país com um centro de treinamento operacional próprio, dispondo de um dos mais modernos simuladores em área portuária do mundo.",
+    "inventoriesId": [
+        5392,
+        6326,
+        7719,
+        8147
+    ],
+    "logoId": "710686be-375b-4cb5-9f0f-db046f8332da",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

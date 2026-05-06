@@ -1,0 +1,292 @@
+[
+    {
+        "empresa_pasta": "COOCACER_4558",
+        "id_fgv": 4558,
+        "nome_oficial": "COOCACER",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 318.906,
+                    "emissoes_escopo_2": 10.691,
+                    "emissoes_escopo_3": 1158.262,
+                    "total_emissoes": 1487.859,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras▶atividades▶de▶serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "COOPER A1_8758",
+        "id_fgv": 8758,
+        "nome_oficial": "COOPER A1",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 77.565,
+                    "emissoes_escopo_2": 331.505,
+                    "emissoes_escopo_3": 41.995,
+                    "total_emissoes": 451.065,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Cooperativa Frísia_8792",
+        "id_fgv": 8792,
+        "nome_oficial": "Cooperativa Frísia",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 5252.731,
+                    "emissoes_escopo_2": 2016.094,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7268.825,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Coopercarga_432",
+        "id_fgv": 432,
+        "nome_oficial": "Coopercarga",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 448.19,
+                    "emissoes_escopo_2": 44.81,
+                    "emissoes_escopo_3": 102270.082,
+                    "total_emissoes": 102763.082,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 451.384,
+                    "emissoes_escopo_2": 101.513,
+                    "emissoes_escopo_3": 110935.475,
+                    "total_emissoes": 111488.372,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 447.005,
+                    "emissoes_escopo_2": 308.956,
+                    "emissoes_escopo_3": 128653.18,
+                    "total_emissoes": 129409.141,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "COOPERCITRUS_8766",
+        "id_fgv": 8766,
+        "nome_oficial": "COOPERCITRUS",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 5049.26,
+                    "emissoes_escopo_2": 257.311,
+                    "emissoes_escopo_3": 890263.86,
+                    "total_emissoes": 895570.431,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Cooperliquidos_8635",
+        "id_fgv": 8635,
+        "nome_oficial": "Cooperliquidos",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "COOPERVAP_8809",
+        "id_fgv": 8809,
+        "nome_oficial": "COOPERVAP",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 507.208,
+                    "emissoes_escopo_2": 228.582,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 735.79,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "COOPROESTE_6157",
+        "id_fgv": 6157,
+        "nome_oficial": "COOPROESTE",
+        "estado": "BA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "COOTRAVALE_230",
+        "id_fgv": 230,
+        "nome_oficial": "COOTRAVALE",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 13488.41,
+                    "emissoes_escopo_2": 3.838,
+                    "emissoes_escopo_3": 71312.388,
+                    "total_emissoes": 84804.636,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 42.671,
+                    "emissoes_escopo_2": 6.513,
+                    "emissoes_escopo_3": 82.364,
+                    "total_emissoes": 131.548,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Cooxupé_8531",
+        "id_fgv": 8531,
+        "nome_oficial": "Cooxupé",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 3088.391,
+                    "emissoes_escopo_2": 679.689,
+                    "emissoes_escopo_3": 755813.268,
+                    "total_emissoes": 759581.348,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 2934.292,
+                    "emissoes_escopo_2": 968.693,
+                    "emissoes_escopo_3": 700085.816,
+                    "total_emissoes": 703988.801,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "id": 3327,
+    "name": "Eneva",
+    "about": "A Eneva é uma das maiores operadoras integradas de energia, com atuação da exploração e produção de gás natural até o fornecimento de soluções em energia. Pioneira no desenvolvimento e operação do modelo Reservoir-to-Wire (R2W) no Brasil, foi a primeira companhia privada no país a atuar de forma integrada no setor de energia.\n\nOs ativos da Companhia estão distribuídos pelos estados do Maranhão, Ceará, Amazonas, Roraima, Bahia, Sergipe, Espírito Santo, Mato Grosso do Sul e Goiás, tendo também escritórios administrativos e de comercialização no Rio de Janeiro e São Paulo, respectivamente. \n\nOs dados de emissões no âmbito deste inventário em nome da Eneva S.A. são referentes às atividades de geração de energia e exploração & produção de Gás Natural da Bacia do Parnaíba, contemplando atividades de pesquisa sísmica, perfuração e tratamento de gás natural do Sistema de Tratamento de Gás Natural do Parnaíba - STGP, além das atividades de geração de energia da unidade CGTF, Viana, Viana I, Povoação e Linhares e Comercialização de energia e combustíveis, na unidade Comercializadora. Outros ativos da Companhia são relatados em inventários separados em nome da Itaqui Geração de Energia S.A; Pecém II Geração de Energia S.A.; Parnaíba Geração e Comercialização de Energia S.A; Parnaíba II Geração de Energia S.A., Azulão Geração de Energia S.A, Celse - Centrais Elétricas de Sergipe S.A, SPE Futura 1 Geração e Comercialização de Energia Solar S.A, Geradora de Energia do Maranhão S/A.",
+    "inventoriesId": [
+        4704,
+        5521,
+        6159,
+        6938,
+        8883
+    ],
+    "logoId": "14bb1293-3c84-4695-99e1-6afc57d2981e",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

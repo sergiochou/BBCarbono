@@ -1,0 +1,30 @@
+{
+    "id": 3250,
+    "name": "Energisa Minas Gerais",
+    "about": null,
+    "inventoriesId": [
+        4659
+    ],
+    "logoId": "7b6de7d4-2c21-495b-a295-44d032535fff",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 5313,
+    "name": "TEES",
+    "about": "A T-Engenharia e Sistemas (TEES) é uma empresa brasileira fundada no ano de 2002 criada dentro das estruturas da COPPE/UFRJ, por ex-alunos. Trata-se de um escritório de Engenharia e Consultoria que desenvolve sistemas, projetos de comissionamento de telemetria, telecontrole, softwares e realiza a gestão de projetos, além de oferecer a manutenções nas redes, para o setor de Tecnologia da Informação das empresas clientes. A empresa atua nos setores de:\r\n\r\n•\tHealth care;\r\n•\tEducação;\r\n•\tTelecom;\r\n•\tEnergia;\r\n•\tLogística;\r\n•\tGerência de projeto e análise de negócios.\r\n",
+    "inventoriesId": [
+        6335,
+        7557,
+        8644
+    ],
+    "logoId": "d17b4ad5-d954-4e11-8993-503033f8d6c8",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

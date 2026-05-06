@@ -1,0 +1,40 @@
+{
+    "id": 4639,
+    "name": "DOMANI GLOBAL",
+    "about": "A Domani Global é uma Climate Tech fundada em agosto de 2022 como uma spin-off do ramo agrícola da multinacional Seidor. Sua missão é gerar um impacto positivo para a sociedade, o meio ambiente e as empresas, promovendo um amanhã sustentável para todos.\nAtuando como uma cadeia de valor que conecta o agronegócio brasileiro com empresas que buscam práticas mais sustentáveis, seu modelo de negócios “One-Stop-Shop” fornece um conjunto completo de soluções e serviços para este ecossistema. Seu portfólio é baseado em quatro principais pilares: projetos ESG (ambiental, social e governança), inventários de gases de efeito estufa (GEE), mercado de carbono (geração e venda de créditos de carbono e créditos socioambientais) e reflorestamento.\nAtravés de uma abordagem inovadora e integrada, a Domani está acelerando a transição para uma economia mais verde e sustentável, ajudando as empresas a atingir melhores resultados e mais valor de mercado enquanto promove um futuro próspero e saudável para as pessoas e o planeta.",
+    "inventoriesId": [
+        5861,
+        7079,
+        8361
+    ],
+    "logoId": "607dfe76-4b16-4b88-a09d-e70363bf8e7e",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

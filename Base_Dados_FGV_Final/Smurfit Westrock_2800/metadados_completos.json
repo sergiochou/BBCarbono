@@ -1,0 +1,55 @@
+{
+    "id": 2800,
+    "name": "Smurfit Westrock",
+    "about": "A Smurfit Westrock é a líder global na produção de embalagens sustentáveis à base de papel, resultado da fusão estratégica entre duas empresas de referência no setor: Smurfit Kappa e WestRock.\n\nCom atuação em 40 países e cerca de 100 mil colaboradores, a companhia une competências complementares, ampliando sua capacidade de inovação, reforçando seu compromisso com a sustentabilidade e consolidando uma presença geográfica de alcance global.\n\nCom ações listadas nas bolsas de Nova York e Londres e sede global localizada em Dublin, na Irlanda, a Smurfit Westrock está presente no Brasil com operações em seis estados, empregando mais de 4 mil colaboradores.\n\nNo país, a empresa atua de forma integrada, com operações que vão desde o cultivo florestal até a entrega final das embalagens, assegurando controle total da cadeia produtiva, eficiência e agilidade na entrega de soluções ao mercado.\n\nA estrutura brasileira conta com 54 mil hectares de florestas próprias, seis máquinas de papel e dez unidades de conversão, reafirmando o compromisso da companhia com práticas sustentáveis, inovação contínua e excelência operacional.",
+    "inventoriesId": [
+        4148,
+        4726,
+        5155,
+        5954,
+        7750,
+        8664
+    ],
+    "logoId": "dc6aab84-c954-44f0-77ff-3a1a0b58a925",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4525,
+    "name": "TGG",
+    "about": "Fundado em 2002 e em operação desde fevereiro de 2007, o Terminal de Granéis do Guarujá S.A. – TGG atua como terminal portuário para recepção, armazenagem e embarque de granéis sólidos.",
+    "inventoriesId": [
+        5765,
+        5908,
+        7091,
+        8447
+    ],
+    "logoId": "4ab02234-cfcf-4aa0-8373-8fbb46580e78",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

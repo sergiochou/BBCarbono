@@ -1,0 +1,55 @@
+{
+    "id": 2998,
+    "name": "OceanPact Serviços Marítimos S.A.",
+    "about": "Criada em 2007 no Rio de Janeiro, a OceanPact é uma empresa brasileira que desenvolve e implanta soluções seguras, eficientes e inovadoras nas áreas de meio ambiente, operações submarinas e apoio logístico e engenharia.\n\nA empresa oferece serviços para estudo, proteção, monitoramento e uso sustentável do mar, do litoral e dos recursos marinhos para clientes de diversos setores da economia, como óleo e gás, energia, mineração, telecomunicações, portuário, navegação, turismo, pesca e aquicultura.\n\nA experiência e capacidade em resposta a emergências e gerenciamento de crises — parte da sua cultura e do “DNA” corporativo — deixa a OceanPact em posição diferenciada para apoiar seus clientes com segurança e eficiência em todas as atividades relacionadas ao mar.\n\nComo referência em conhecimento e serviços no mar, a empresa participa ativamente das principais entidades e eventos do setor, e mantem estreito contato com todos os centros de desenvolvimento de novas tecnologias em todo o mundo, além de investir constantemente em pesquisa e inovação. \n\nA Missão da OceanPact é ajudar a sociedade e os nossos clientes a conhecer, usar e explorar o litoral, os oceanos e suas riquezas, garantindo sua proteção e preservação.\n",
+    "inventoriesId": [
+        4327,
+        4630,
+        5074,
+        5961,
+        7093,
+        8195
+    ],
+    "logoId": "b843d5c2-0ff3-4557-bc1b-ff4fa969d836",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

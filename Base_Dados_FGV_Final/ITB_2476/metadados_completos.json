@@ -1,0 +1,70 @@
+{
+    "id": 2476,
+    "name": "ITB",
+    "about": "A ITB Equipamentos Elétricos,\nfundada em 10 de junho de 1974\ncomo uma sociedade limitada\nprivada, tem se dedicado à fabricação\nde transformadores elétricos,\nreguladores de tensão monofásicos\ne compensadores dinâmicos de\npotência reativa. Inicialmente,\nproduzia aproximadamente\n20 transformadores mensais, com\nfoco no mercado do interior de\nSão Paulo. Após cinquenta anos de\ncrescimento contínuo, conseguiu\nexpandir notavelmente a\ncapacidade produtiva e o alcance\nde mercado, atendendo hoje clientes\nem todo o Brasil e no mercado internacional ",
+    "inventoriesId": [
+        3128,
+        3484,
+        3799,
+        4241,
+        4535,
+        5318,
+        5769,
+        6988,
+        7884
+    ],
+    "logoId": "cca62f2e-571b-4eaa-bec7-fc1255c57888",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

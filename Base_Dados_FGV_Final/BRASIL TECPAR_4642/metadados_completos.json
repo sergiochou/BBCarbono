@@ -1,0 +1,35 @@
+{
+    "id": 4642,
+    "name": "BRASIL TECPAR",
+    "about": "Há quase três décadas, a Brasil TecPar começou a contar a sua história. Uma empresa brasileira, fundada em São Borja, no Rio Grande do Sul, iniciou suas operações como provedora de internet de acesso discado. Esta história começa em 1995, na vanguarda da chegada dos serviços de internet no país, sob a denominação de GPSNet. Seus fundadores e alguns dos seus diretores e conselheiros, foram empreendedores pioneiros neste setor, e assim como muitos deste mercado, começaram suas atividades de forma empírica, atendendo demandas de tecnologia, buscando e levando soluções para o segmento de Internet e Telecom no Brasil. Em 1997, a empresa começa um importante movimento, que é sua marca registrada até os dias de hoje: fazer aquisições de empresas promissoras. Nesta época realizou a compra de suas primeiras operações de dial-up. De lá para cá não parou mais, já ultrapassando mais de 50 incorporações, seguindo um importante movimento de expansão que será mantido pelos próximos anos. Até 2019, sua holding operacional era a Gaúcha TecPar com foco exclusivo no Rio Grande do Sul. No entanto, os horizontes da organização se mantiveram em grande movimento e, em 2020, transformou-se em uma estrutura societária com o nome de Brasil TecPar. O grande diferencial da companhia em relação às outras consolidadoras do mercado nacional é a sua rápida capacidade de integração, realizando incorporações de forma inteligente, planejada e com baixo impacto para suas atividades orgânicas. A Brasil TecPar, uma das maiores operadoras competitivas do Brasil, com cerca de 634 mil acessos, segundo a Anatel, elegeu a agenda ESG como um de seus principais compromissos, que ocorre de forma transversal entre os processos corporativos para todas as unidades e subsidiárias do grupo, entre elas a Ávato (B2B) e a Amigo Internet (B2C). O desenvolvimento da agenda ESG na companhia ocorreu nos últimos anos, contudo, relevantes conquistas já foram alcançadas. No pilar ambiental, a operação abrange diferentes frentes, como no gerenciamento de resíduos sólidos, com procedimentos  de logística reversa e economia circular. Por meio do Programa TI Verde, são recicladas cerca de 60 toneladas de materiais ao ano, com um índice médio de capacidade de reciclagem de 90%. A fração atual de energia renovável consumida pela companhia oriunda de usinas fotovoltaicas corresponde a média de 60% em relação ao total, sendo o restante da energia adquirida junto às concessionárias regionais. Utilizando-se a metodologia internacional do GHG Protocol e IPCC - Intergovernmental Panel on Climate Change, a Brasil TecPar divulga o seu segundo inventário de GEE ao mercado, ano base 2023.",
+    "inventoriesId": [
+        5872,
+        6909
+    ],
+    "logoId": "aa011dd0-9f6e-46d4-bd14-95e06e9ba2e7",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

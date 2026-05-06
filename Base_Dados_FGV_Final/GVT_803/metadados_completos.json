@@ -1,0 +1,35 @@
+{
+    "id": 803,
+    "name": "GVT",
+    "about": "A GVT é uma empresa brasileira com atuação desde novembro do ano 2000, que oferece nacionalmente serviços de banda larga com ultravelocidades, TV por assinatura e telefonia fixa convergente para clientes residenciais e soluções corporativas para empresas. Guiada pelo respeito e transparência no relacionamento com clientes e a comunidade, tem compromisso com o crescimento contínuo e sustentável, conhecida pelo caráter de inovação e qualidade, busca defender e apoiar causas relevantes para a sociedade. Banda Larga É considerada a melhor banda larga do Brasil, por seis anos consecutivos, de acordo com pesquisa aberta realizada com leitores da revista INFO e a empresa de maior prestígio no Brasil no segmento de telecomunicações, em prêmio promovido pela revista Época Negócios. A GVT opera com velocidades de banda real e não nominal, ou seja, a velocidade entregue de download é a velocidade contratada. TV por Assinatura A GVT TV oferece canais HD desde o pacote básico e pacotes com o sistema multi-telas, que permite ver a programação de diversos canais, filmes, séries e shows on demand, gravador digital para gravar programas e ver quando quiser e o Outra Chance para rever programas quando quiser. Além disto, há opções de uso de redes sociais como, Facebook e InstaGVT, conteúdo sob demanda e interatividade na tela da TV e de filmes, séries e shows no tablet, smartphone e computador, além do uso em diversos ambientes (multi-room). Telefonia Fixa Inclui opções para falar ilimitado com controle da conta através da internet, além de histórico de chamadas na tela da TV, secretária eletrônica que envia recados por e-mail, identificador de chamadas, desvio de chamadas (siga-me) e conferência para conversa a três. Missão, visão e valores Visão Ser o melhor provedor de Serviços de Próxima Geração nos mercados-chave do país. Missão Oferecer serviços de telecomunicações de alta qualidade voltados às necessidades do mercado e com elevado padrão de atendimento, visando criar valor para acionistas, clientes e colaboradores. Valores • Atuação voltada à satisfação do cliente • Compromisso com o crescimento rentável e sustentável da organização • Autonomia com responsabilidade e integridade • Agilidade na tomada de decisão • Simplicidade e qualidade na execução • Valorização das pessoas e respeito às relações",
+    "inventoriesId": [
+        2280,
+        2578
+    ],
+    "logoId": "ddecdb47-865f-4005-8fdb-69ef0b64590a",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

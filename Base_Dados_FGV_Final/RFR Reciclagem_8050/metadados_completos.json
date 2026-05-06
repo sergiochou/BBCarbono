@@ -1,0 +1,35 @@
+{
+    "id": 8050,
+    "name": "RFR Reciclagem",
+    "about": "A RFR, com sua rede de empresas afiliadas, está entre os principais atacadistas processadores de sucatas ferrosas do Brasil, com capacidade de processamento de 600.000 toneladas por ano.\n\nAtuamos no Nordeste, Centro-Oeste, Sudeste e Sul do país, e nossa maior operação concentra-se no Estado de São Paulo.\n \nAo longo de oito décadas, a RFR passou de uma fusão de três pequenas empresas familiares para um grupo inovador, tecnologicamente avançado e bem experiente no mercado da reciclagem.\n \nFornecemos soluções e serviços para clientes e fornecedores de todas as formas e tamanhos – desde grandes indústrias, siderúrgicas e metalúrgicas, até pequenas cooperativas e sucateiros individuais. Orgulhamo-nos de manter fortes relações com nossos clientes e fornecedores e de nossa capacidade de apoiar as comunidades locais com plantas de fácil acesso, preservando o meio ambiente e impulsionando a economia local.",
+    "inventoriesId": [
+        7796,
+        8743
+    ],
+    "logoId": "e7b71a38-4d2b-9588-8ce4-3a13214a798b",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

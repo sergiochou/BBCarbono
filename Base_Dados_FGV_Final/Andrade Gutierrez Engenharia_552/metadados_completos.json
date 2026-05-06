@@ -1,0 +1,55 @@
+{
+    "id": 552,
+    "name": "Andrade Gutierrez Engenharia",
+    "about": "A Andrade Gutierrez Engenharia S.A. (AG ENGENHARIA) faz parte da Holding Andrade Gutierrez S.A (Holding AG). Fundada em 1948, é uma sociedade anônima, de capital privado e fechado, que atende clientes públicos e privados em projetos de infraestrutura que beneficiam a sociedade em geral. \r\nSão desenvolvidos projetos, gestão e realização de empreendimentos e obras públicas, privadas, industriais, habitacionais, comerciais, incluindo, mas não limitado à: Infraestrutura, Construção Civil, Urbanização, Sanemaneto, Mineração, Obras Metroviárias, Rodoviárias, Ferroviárias, Portuárias, Aeroportuárias, Dutoviárias, Hidráulicas, Montagens Eletromecânicas, Instrumentação, Comissionamento, Testes, Operação Assistida, EPC, Geração e Transmissão de Energia, Iluminação e Recuperação Ambiental dentro de todo território Latino Americano. \r\n",
+    "inventoriesId": [
+        67,
+        2366,
+        2017,
+        1597,
+        301,
+        2779
+    ],
+    "logoId": "bcfdd57f-bc0d-4588-b511-07eb7e289dc4",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3273,
+    "name": "SSA",
+    "about": "Somos o grupo São Salvador Alimentos S.A., uma das principais empresas produtoras de carne de frango do Brasil, com atuação em todas as etapas da cadeia produtiva, desde a produção de ovos férteis até a distribuição de produtos in natura e processados para o Brasil e o exterior. Nosso parque industrial é composto por dois complexos produtivos instalados nas cidades de Itaberaí e de Nova Veneza, no estado de Goiás, o que nos proporciona uma capacidade diária de abate de aproximadamente 520 mil aves.\r\n\r\nNossa indústria entrou em operação em 1991, mas sua história tem origem em 1973, quando um dos fundadores, Carlos Vieira, construiu os primeiros aviários de frango de corte em Itaberaí. Em mais de 30 anos de atividade industrial, ampliamos gradativamente nossa estrutura que, além das duas Unidades de Abate, conta com Fábricas de Ração, Incubatórios, granjas de matrizes para recria e produção de ovos férteis e unidades de armazenamento de grãos.\r\n\r\nEssas instalações nos permitem atender com tranquilidade a todas as necessidades de cada etapa de nosso processo de produção, propiciando mais de 400 mil aves de abate diário e a oferta de um portfólio diversificado de uma centena de produtos. Contamos com cerca de 25 mil clientes ativos por mês em quatorze estados brasileiros, além do Distrito Federal, e já exportamos para 70 países espalhados pela África, América Central, Ásia e Europa. Nosso trabalho chega à mesa dos clientes sob as marcas SuperFrango e Boua.\r\n\r\nA SuperFrango é a nossa linha especialista de proteína de aves, presente nos segmentos de congelados, resfriados, embutidos e empanados. É a marca de cortes de frango tradicionais e especiais, linguiças recheadas e empanados como filezinho e steak, para citar alguns. Já a Boua tem o foco na diversificação do nosso portfólio, oferecendo vegetais congelados, hambúrgueres, lácteos, peixes, embutidos e defumados suínos, entre outros.\r\n\r\nTrabalhamos com os mais rigorosos padrões de qualidade para garantir que nossos clientes recebam produtos seguros, saudáveis e acessíveis. Isso só é possível porque possuímos um avançado processo de produção e contamos com a excelência de nossos mais de 7.800 colaboradores diretos e terceirizados.\r\n\r\nInstituímos nosso Conselho de Administração, criamos a Diretoria Financeira e fizemos nossa primeira incursão no mercado de capitais emitindo Certificados de Recebíveis do Agronegócio (CRA). Para poder realizar essa operação, passamos por um processo de classificação de risco da Standard & Poor’s que resultou em um rating AA+ Brasil, o que demonstra nosso total compromisso com os mais elevados padrões de governança e boas práticas financeiras do mercado\r\n\r\nSomos, portanto, uma sociedade anônima de capital fechado totalmente preparada para ingressar em um novo mundo, o das companhias abertas. Entendemos ser esse o caminho que nos permitirá explorar todo o nosso potencial de crescimento, de forma sustentável, com foco na expansão e na perenidade de nossa Empresa e de nossos negócios.",
+    "inventoriesId": [
+        4560,
+        5063,
+        5912,
+        7806,
+        9229
+    ],
+    "logoId": "54f9de7c-73dc-e26f-7d60-3a136cd88cda",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 3154,
+    "name": "ODONTOPREV S.A.",
+    "about": "A Odontoprev, empresa de capital aberto desde 2006, é líder em planos odontológicos na América Latina, e maior operadora do setor de saúde do Brasil em número de clientes, com mais de 8,6 milhões de beneficiários. A rede de cirurgiões-dentistas da Odontoprev é especializada, com aproximadamente 28 mil credenciados. A Companhia é a primeira operadora de saúde carbono neutro no país, está listada no Novo Mercado da B3, com prática de distribuição trimestral de resultados a acionistas, de mais de 30 países.\n",
+    "inventoriesId": [
+        4398,
+        4925,
+        5010,
+        5865,
+        7408,
+        8352
+    ],
+    "logoId": "cf00ba66-0d7a-4bcc-82d5-6deb8e0c66e7",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 4671,
+    "name": "Landis+Gyr",
+    "about": "Há mais de 125 anos, a Landis+Gyr tem sido líder em soluções de gerenciamento de energia. Usando nossa infra-estrutura de medição avançada e outras tecnologias de ponta para redes inteligentes, ajudamos as empresas de serviços públicos em todo o mundo a melhorar suas operações, proteger seus ativos, reduzir seus custos operacionais e fornecer um melhor atendimento ao consumidor final. Com foco na qualidade, confiabilidade e inovação, o portfólio de produtos e serviços da Landis+Gyr pode ajudá-lo a fazer o mesmo e modernizar sua rede inteligente para o futuro.\r\n\r\nNOSSA MISSÃO\r\n\r\nNa Landis+Gyr, criamos um amanhã mais verde por meio do uso da medição inteligente, inteligência de rede e tecnologia de infraestrutura inteligente.\r\nComo parceiros, preparamos nossos clientes para utilizar recursos de uma forma mais consciente e sustentável.\r\nJuntos, gerenciamos melhor a energia. \r\n#ManageEnergyBetter\r\n\r\nNOSSOS VALORES\r\n\r\nConfiabilidade do Cliente: Somos um parceiro confiável e cumprimos nossos compromissos\r\nPerformance Indiscutível: Nos esforçamos para entregar alta qualidade dentro do prazo, sempre\r\nTecnologia Inovadora: Somos entusiastas da inovação por diferenciais relevantes para nossos clientes\r\nEspírito Empreendedor: Capacitamos nossas equipes para gerar resultados com uma atitude positiva\r\nImpacto Sustentável: Gerenciamos melhor a energia por um mundo mais sustentável",
+    "inventoriesId": [
+        5903
+    ],
+    "logoId": "6a5e8314-19ea-492c-bd2e-13255b277265",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

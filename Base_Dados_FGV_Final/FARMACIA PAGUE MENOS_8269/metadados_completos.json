@@ -1,0 +1,30 @@
+{
+    "id": 8269,
+    "name": "FARMACIA PAGUE MENOS",
+    "about": "Com sede em Fortaleza (CE) a Pague Menos é a segunda maior rede de varejo farmacêutico do Brasil e a primeira a estar presente em todas as Unidades da Federação, de Norte a Sul do país. Ao final de 2024, eram 1.649 lojas, 35 escritórios regionais e nove Centros de Distribuição. Nosso modelo de negócios é orientado pela diversificação de serviços, buscando tornar a saúde e o bem-estar mais acessíveis à população brasileira. A Companhia alinha suas estratégias às demandas da sociedade e, com isso, mantém firme o propósito de ser um hub integrado de saúde, com soluções completas para que as pessoas vivam plenamente.",
+    "inventoriesId": [
+        8191
+    ],
+    "logoId": "a59d602d-3735-3718-b2d4-3a1a25455e46",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

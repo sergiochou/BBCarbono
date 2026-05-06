@@ -1,0 +1,40 @@
+{
+    "id": 576,
+    "name": "Yamana Desenvolvimento Mineral",
+    "about": "A Yamana Gold Inc. é uma mineradora de ouro de capital aberto, com sede no Canadá, cujas atividades estão relacionadas à exploração, extração, processamento e recuperação. A Yamana tem um portfólio diversificado de propriedades envolvidas em produção, desenvolvimento e exploração de ouro e outros metais preciosos na América Latina, incluindo Brasil, Chile, Argentina e México. A Companhia planeja continuar a desenvolver sua base de produção por meio da expansão das minas existentes, aumentos de produtividade, desenvolvimento de novas minas, melhoria da sua capacidade de exploração buscando oportunidades de consolidação de ouro com foco principal nas Américas.",
+    "inventoriesId": [
+        2475,
+        2148,
+        568
+    ],
+    "logoId": "6364b5e5-d2bd-4643-83c2-43f08e42f8ba",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

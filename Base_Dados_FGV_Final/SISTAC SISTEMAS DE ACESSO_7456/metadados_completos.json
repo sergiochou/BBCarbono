@@ -1,0 +1,35 @@
+{
+    "id": 7456,
+    "name": "SISTAC SISTEMAS DE ACESSO",
+    "about": "A SISTAC é líder no segmento de inspeção, manutenção e reparo offshore na indústria de óleo e gás no Brasil, através de acesso com Embarcações de apoio marítimo, Mergulhadores, Escaladores, Riggers e ROVs. \nA SISTAC tem como missão Prover soluções de Engenharia em Inspeção, Manutenção e Reparo emerso e submerso no mercado de Óleo & Gás no Brasil, buscando a integridade e o aumento da vida útil dos ativos de nossos clientes, por meio de segurança, qualidade, sustentabilidade, ética e alto engajamento de nossos colaboradores, operações e negócios.",
+    "inventoriesId": [
+        7169,
+        9013
+    ],
+    "logoId": "e393c279-334c-0e30-2ec4-3a1a25083b2e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

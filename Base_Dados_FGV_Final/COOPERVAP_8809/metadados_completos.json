@@ -1,0 +1,30 @@
+{
+    "id": 8809,
+    "name": "COOPERVAP",
+    "about": "No ano de 1844, em meio a Revolução Industrial, os trabalhadores buscavam uma alternativa econômica para atuarem no mercado frente ao capitalismo ganancioso que os submetiam a preços abusivos.  \nSurge então o Cooperativismo, que desponta como uma forma de economia comunitária e democrática que pratica ajuda mútua, ações em conjunto, solidariedade, democracia e participação, uma ampla mudança estrutural que pudesse resultar em melhores condições de trabalho para os proletários.  \nEm 20 de Julho de 1963, 40 produtores fundaram a Cooperativa Agropecuária do Vale do Paracatu. Hoje, prestes há completar 62 anos, a COOPERVAP, uma empresa genuinamente paracatuense, se tornou uma das maiores potências da região. Com faturamento anual de mais de 700 milhões de reais, o quadro social é formado por mais de 3 mil associados, a cooperativa emprega mais de 600 funcionários diretos, é fonte de renda para o estado e município. \nA Cooperativa Agropecuária do Vale do Paracatu se tornou uma das maiores potências cooperativistas do Noroeste Mineiro, se tornando a cooperativa com o maior know-how em captação de leite dos pequenos produtores da região. \nOs Produtos Paracatu são distribuídos em toda região, Goiânia, Brasília e entorno. Suas áreas comerciais oferecem aos cooperados e população uma diversificada quantidade de produtos e serviços, fábricas de produtos lácteos e rações, hipermercado, postos de combustíveis, lojas veterinárias, drogaria e comercial agrícola, produzindo riquezas e desenvolvimento sustentável para a cidade. \nPara a Organização do Quadro Social, em 1990 foi criado o Comitê Educativo da COOPERVAP, com o objetivo de estabelecer um processo de comunicação e integração entre os associados, deles com a cooperativa e vice- versa, realizando a cooperação e viabilizando as atividades individuais e coletivas. As ações realizadas pelo Comitê Educativo resultam em cooperados mais participativos e conscientes dos resultados, despertando o comprometimento na realização de um planejamento conjunto e projetado para o futuro, com melhorias tanto para o associado quanto para a cooperativa. \n\nNossa Missão \nPromover o desenvolvimento sustentável da Coopervap, gerando e comercializando produtos e serviços inovadores de maior valor agregado. \n\nNossa Visão \n\nSer reconhecida por seus cooperados, colaboradores, consumidores e sociedade em geral pela eficiência da sua gestão e pela qualidade de seus produtos e serviços \n\nNossos Valores \nÉtica em todas as relações estabelecidas; \nPraticidade na gestão e na prestação de contas; \nFortalecimento das relações e da competitividade dos cooperados; \nParcerias para impulsionar o desenvolvimento local e regional; \nCompromisso social e ambiental como referencial dos seus negócios; \nProfissionalização e valorização das lideranças, gestores e equipes; \nCooperação e integração com todos os públicos de interesse. \n\nNOSSO PROPÓSITO \n“Assegurar a continuidade dos negócios da Coopervap em benefício dos cooperados, colaboradores e da sociedade em geral.” ",
+    "inventoriesId": [
+        8725
+    ],
+    "logoId": "db60865d-b23e-ee45-2e09-3a1b4b090253",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

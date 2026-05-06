@@ -1,0 +1,35 @@
+{
+    "id": 6028,
+    "name": "Foundever Curitiba",
+    "about": "\nA Foundever™ é líder global no mercado de customer experience (CX). Com mais de 170.000 colaboradores em todo mundo, somos o time por trás das melhores experiências para as maiores marcas mundiais e digital-first. Nossas soluções inovadoras de CX, tecnologias e especialidades são projetadas para apoiar as necessidades operacionais de nossos clientes e proporcionar uma experiência perfeita a seus consumidores, nos momentos que mais importam.\nNós somos uma das maiores empresas de atendimento ao cliente do mundo. A Foundever combina força e escala global com agilidade, abordagem empreendedora e uma cultura de gestão de pessoas premiada.\nNa Foundever, nós queremos tornar as coisas mais simples. Nossa missão é ser a solução e o time por trás das melhores experiências para as maiores marcas do mundo. Onde e quando for preciso.\n",
+    "inventoriesId": [
+        6950,
+        8691
+    ],
+    "logoId": "499c24b4-9ffd-fe01-3dea-3a11f49ad145",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

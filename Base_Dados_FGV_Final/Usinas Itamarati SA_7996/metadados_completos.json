@@ -1,0 +1,35 @@
+{
+    "id": 7996,
+    "name": "Usinas Itamarati S.A.",
+    "about": "A organização Usinas Itamarati S/A (uisa) consiste em uma das maiores biorrefinarias do Brasil. Conta com um modelo de negócio que permite a transformação de matérias-primas renováveis e de seus resíduos em biocombustíveis, energia limpa, alimentos, fertilizantes orgânicos e ingredientes para nutrição e saúde animal.\nLocalizada na zona rural do município de Nova Olímpia, Mato Grosso, Brasil (14°45'22.38\"S e 57°11'40.35\"W), tem como diretriz a maximização da sustentabilidade e a redução das emissões de carbono, a partir do processamento de biomassa. Ao todo, possuí cerca de 90 mil hectares de terras próprias, dos quais mais de 50 mil são caracterizados como áreas cultiváveis, que no último ano alcançou uma produtividade de 85,28 toneladas/hectare na produção de cana-de-açúcar.\nCom capacidade de processar mais de 6,0 milhões de toneladas de cana-de-açúcar, a unidade industrial, possui área útil de mais de 20 mil m², contemplando em seu site as instalações de recepção e moagem da cana, processamento do caldo, produção de açúcar, de etanol, de levedura e de energia, além de processos de apoio como almoxarifado, laboratórios e oficinas de manutenção.\nCom mais de 40 anos de história, a Uisa atua fortemente nas regiões Centro-Oeste e Norte do Brasil fornecendo etanol (1.500m³/dia), açúcar (2.000 t/dia), levedura (25,56 t/dia) e energia elétrica (40 MWh) com qualidade e excelência, graças ao empenho e dedicação de mais de 3.300 funcionários e de importantes parcerias, permitindo que a organização se faça presente em todas as etapas da cadeia produtiva, desde o plantio da cana-de-açúcar até o comércio, logística e distribuição de produtos acabados.\nApesar da cana-de-açúcar e seus derivados serem o principal ramo de atividade da companhia, a Uisa também realiza o cultivo de soja nas áreas de rotação de cultura conforme o planejamento estratégico agrícola. O objetivo, é permitir a recuperação do solo contribuindo com o processo de adubação verde, em conjunto com outras culturas de cobertura.\nCom uma estimativa de produtividade de 55,0 sacas/ha, a uisa aplica à produção de soja, os mesmos critérios de responsabilidade socioambiental, de maneira que as boas práticas agrícolas garantam a preservação do meio ambiente, o uso consciente de recursos naturais e a promoção da biodiversidade, além de assegurar a integridade, a saúde e o bem-estar de seus funcionários próprios e terceirizados.\nAo longo de sua trajetória, a Uisa conquistou diversas certificações de qualidade e sustentabilidade em seu negócio, as quais estão alinhadas aos pilares globais de ESG, atestando o comprometimento da Uisa com seus stakeholders e considerando suas metas de desenvolvimento sustentável.",
+    "inventoriesId": [
+        7814,
+        8528
+    ],
+    "logoId": "4b37e324-0eaf-bae7-217a-3a131ac63688",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

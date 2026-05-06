@@ -1,0 +1,45 @@
+{
+    "id": 4130,
+    "name": "NOVO NORDISK PRODUCAO FARMACEUTICA DO BRASIL LTDA.",
+    "about": "Somos uma empresa global líder em saúde, fundada em 1923 e sediada nos arredores de Copenhague, na Dinamarca.\r\n\r\nNosso propósito é promover mudanças para derrotar o diabetes e outras doenças crônicas graves, como obesidade e distúrbios hemorrágicos e endócrinos raros. Fazemos isso por avanços científicos pioneiros, ampliando o acesso aos nossos medicamentos e trabalhando para prevenir e, eventualmente, curar doenças.\r\n\r\nEmpregamos mais de 47.000 pessoas em 80 escritórios em todo o mundo, e comercializamos nossos produtos em 168 países.",
+    "inventoriesId": [
+        5403,
+        6274,
+        7173,
+        8329
+    ],
+    "logoId": "b9c2ab7d-ef29-43a6-87c2-978fc83972a2",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

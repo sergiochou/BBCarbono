@@ -1,0 +1,30 @@
+{
+    "id": 3255,
+    "name": "Energisa Nova Friburgo",
+    "about": null,
+    "inventoriesId": [
+        4680
+    ],
+    "logoId": "5ec2c0d0-4494-40ce-ae79-819cb5e1ff16",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

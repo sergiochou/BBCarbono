@@ -1,0 +1,35 @@
+{
+    "id": 8669,
+    "name": "WHB AUTOMOTIVE",
+    "about": "A WHB Automotive é uma empresa de excelência mundial e a única a oferecer aos clientes os quatro processos de fabricação em um mesmo site: Fundição de Ferro, Fundição de Alumínio, Forjaria e Usinagem. É uma empresa genuinamente brasileira e fica localizada em Curitiba - PR.\nAtuamos no fornecimento de peças para os setor automotivo - montadoras e empresas sistemistas, setor ferroviário e bens de consumo - linha branca.\n\nFundada em 1993, uma empresa familiar de capital nacional, nascida da paixão do fundador Teodoro Hübner Filho pela usinagem de peças automotivas e cresceu conforme a necessidade do mercado, visando atendar as demandas dos clientes. Com o início na Usinagem,  Fundição de Ferro, Forjaria e Fundição de Alumínio, respectivamente.",
+    "inventoriesId": [
+        9078,
+        9097
+    ],
+    "logoId": "2c97ae94-d16a-dcf8-23c4-3a19c2f0466e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

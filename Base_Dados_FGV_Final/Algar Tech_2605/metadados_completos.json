@@ -1,0 +1,50 @@
+{
+    "id": 2605,
+    "name": "Algar Tech",
+    "about": "Há 26 anos, nós conectamos tecnologias e pessoas de um jeito único. \nOferecemos soluções completas em CX (experiência do cliente), baseadas em inteligência e gestão de dados, para entregar o melhor serviço para o nosso cliente e seus clientes. \nTudo isso por meio de relacionamento, proximidade, agilidade, segurança e integridade. \nNós encaramos o negócio do cliente, como uma extensão do seu, engajando em desafios e buscando mais eficiência e melhores resultados. Pois, enquanto muitos escolhem tecnologia a relacionamento, nós fazemos relacionamento com tecnologia. \n\n+ de 6,7 mil associados \n30 clientes \n+ de 350 milhões em receita líquida 2024 \nAtuamos em todo o Brasil com associados em Uberlândia, Hortolândia e Teresina \n\nA gente faz acontecer! \n",
+    "inventoriesId": [
+        4932,
+        5499,
+        6640,
+        6812,
+        8032
+    ],
+    "logoId": "8222ad20-00c5-4454-ab86-a7f954eddb00",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

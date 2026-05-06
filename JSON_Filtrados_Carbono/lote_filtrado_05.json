@@ -1,0 +1,505 @@
+[
+    {
+        "empresa_pasta": "AMARANTE HOSPITALIDADE_7426",
+        "id_fgv": 7426,
+        "nome_oficial": "AMARANTE HOSPITALIDADE",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 3753.21,
+                    "emissoes_escopo_2": 445.341,
+                    "emissoes_escopo_3": 67428.046,
+                    "total_emissoes": 71626.597,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 5355.05,
+                    "emissoes_escopo_2": 730.622,
+                    "emissoes_escopo_3": 2258.213,
+                    "total_emissoes": 8343.885,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AMATA_2679",
+        "id_fgv": 2679,
+        "nome_oficial": "AMATA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 3783.457,
+                    "emissoes_escopo_2": 50.05,
+                    "emissoes_escopo_3": 4330.759,
+                    "total_emissoes": 8164.266,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AMAZON CONNECTION CARBON_7197",
+        "id_fgv": 7197,
+        "nome_oficial": "AMAZON CONNECTION CARBON",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.438,
+                    "emissoes_escopo_3": 4.337,
+                    "total_emissoes": 4.775,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 2.6,
+                    "emissoes_escopo_2": 0.8,
+                    "emissoes_escopo_3": 19.849,
+                    "total_emissoes": 23.249,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ambev SA_171",
+        "id_fgv": 171,
+        "nome_oficial": "Ambev S/A",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_2.pdf",
+                    "ano_inventario": 2008,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 392643.04,
+                    "emissoes_escopo_2": 68457.32,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 461100.36,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 437063.0,
+                    "emissoes_escopo_2": 24619.0,
+                    "emissoes_escopo_3": 37701.0,
+                    "total_emissoes": 499383.0,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias‑de‑transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ambiens Consultoria_4056",
+        "id_fgv": 4056,
+        "nome_oficial": "Ambiens Consultoria",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 19.143,
+                    "emissoes_escopo_2": 0.603,
+                    "emissoes_escopo_3": 6.77,
+                    "total_emissoes": 26.516,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 5.571,
+                    "emissoes_escopo_2": 0.325,
+                    "emissoes_escopo_3": 7.884,
+                    "total_emissoes": 13.78,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 7.946,
+                    "emissoes_escopo_2": 0.354,
+                    "emissoes_escopo_3": 8.207,
+                    "total_emissoes": 16.507,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.27,
+                    "emissoes_escopo_2": 0.443,
+                    "emissoes_escopo_3": 4.437,
+                    "total_emissoes": 5.15,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AMBIPAR BLEU TECHNOLOGIES SA_5609",
+        "id_fgv": 5609,
+        "nome_oficial": "AMBIPAR BLEU TECHNOLOGIES S/A",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 26.624,
+                    "total_emissoes": 26.624,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ambipar_8813",
+        "id_fgv": 8813,
+        "nome_oficial": "Ambipar",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,∗esgoto,∗atividades∗de∗gestão∗de∗resíduos∗e∗descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "americanas sa_2023",
+        "id_fgv": 2023,
+        "nome_oficial": "americanas s.a",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 495.4,
+                    "emissoes_escopo_2": 8531.6,
+                    "emissoes_escopo_3": 5335.94,
+                    "total_emissoes": 14362.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 766.788,
+                    "emissoes_escopo_2": 5035.29,
+                    "emissoes_escopo_3": 14897.285,
+                    "total_emissoes": 20699.363,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 941.069,
+                    "emissoes_escopo_2": 9789.29,
+                    "emissoes_escopo_3": 17922.575,
+                    "total_emissoes": 28652.934,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 34391.074,
+                    "emissoes_escopo_2": 17869.15,
+                    "emissoes_escopo_3": 20083.338,
+                    "total_emissoes": 72343.562,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 40587.754,
+                    "emissoes_escopo_2": 34754.089,
+                    "emissoes_escopo_3": 18514.017,
+                    "total_emissoes": 93855.86,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 43759.419,
+                    "emissoes_escopo_2": 32887.51,
+                    "emissoes_escopo_3": 19297.039,
+                    "total_emissoes": 95943.968,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 32205.871,
+                    "emissoes_escopo_2": 24228.545,
+                    "emissoes_escopo_3": 13156.144,
+                    "total_emissoes": 69590.56,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 18182.162,
+                    "emissoes_escopo_2": 26166.009,
+                    "emissoes_escopo_3": 16144.001,
+                    "total_emissoes": 60492.172,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 13627.959,
+                    "emissoes_escopo_2": 22082.827,
+                    "emissoes_escopo_3": 15125.598,
+                    "total_emissoes": 50836.384,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 19030.963,
+                    "emissoes_escopo_2": 24172.304,
+                    "emissoes_escopo_3": 18794.438,
+                    "total_emissoes": 61997.705,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 250.032,
+                    "emissoes_escopo_2": 20115.058,
+                    "emissoes_escopo_3": 52773.94,
+                    "total_emissoes": 73139.03,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 2527.002,
+                    "emissoes_escopo_2": 43542.912,
+                    "emissoes_escopo_3": 74775.511,
+                    "total_emissoes": 120845.425,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 11920.064,
+                    "emissoes_escopo_2": 14672.793,
+                    "emissoes_escopo_3": 37832.086,
+                    "total_emissoes": 64424.943,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 7698.938,
+                    "emissoes_escopo_2": 13460.351,
+                    "emissoes_escopo_3": 13758.169,
+                    "total_emissoes": 34917.458,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 50625.786,
+                    "emissoes_escopo_2": 34831.589,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 85457.375,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2025,
+                "descricao": "s públicas: - Ser uma empresa Carbono Neutro até 2025, por meio da redução das emissões aliada à compensação total dos escopos 1, 2 e"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "AMPARO ENERGIA_9186",
+        "id_fgv": 9186,
+        "nome_oficial": "AMPARO ENERGIA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade∗e∗gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "ANBIMA_4266",
+        "id_fgv": 4266,
+        "nome_oficial": "ANBIMA ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.084,
+                    "emissoes_escopo_2": 46.032,
+                    "emissoes_escopo_3": 65.129,
+                    "total_emissoes": 111.245,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.084,
+                    "emissoes_escopo_2": 17.498,
+                    "emissoes_escopo_3": 292.138,
+                    "total_emissoes": 309.72,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 2.206,
+                    "emissoes_escopo_2": 16.011,
+                    "emissoes_escopo_3": 122.678,
+                    "total_emissoes": 140.895,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades∗financeiras,∗de∗seguros∗e∗serviços∗relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

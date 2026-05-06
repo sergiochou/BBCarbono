@@ -1,0 +1,30 @@
+{
+    "id": 8290,
+    "name": "Aramis Inc",
+    "about": null,
+    "inventoriesId": [
+        8145
+    ],
+    "logoId": "027d1655-ca70-dd5c-f34b-3a1898b34eb5",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

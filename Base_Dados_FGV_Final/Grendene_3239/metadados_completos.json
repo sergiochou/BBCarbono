@@ -1,0 +1,50 @@
+{
+    "id": 3239,
+    "name": "Grendene",
+    "about": "O nosso propósito é fazer moda acessível e sustentável, de forma criativa, valorizando as relações. No nosso portfólio de marcas temos Melissa, Rider, Ipanema, Grendene Kids, Grendha, Zaxy, Cartago e Pega Forte. No último ano comercializamos mais de 136 milhões de pares de calçados, incluindo Brasil e exterior.\nSomos guiados por uma Política de Desenvolvimento Sustentável. Esse documento é estruturado em três pilares: (i) valorização e respeito às pessoas; (ii) operações ecoeficientes; e (iii) produtos de menor impacto ambiental. Estes pilares visam estabelecer as diretrizes da jornada de sustentabilidade da companhia. Além disso, nossa estratégia está alinhada e contribui diretamente para oito dos 17 Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU).",
+    "inventoriesId": [
+        4811,
+        5436,
+        6139,
+        7808,
+        8956
+    ],
+    "logoId": "d7a3e8b9-8bbf-4e60-8a8c-67dd4a5d7fd7",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

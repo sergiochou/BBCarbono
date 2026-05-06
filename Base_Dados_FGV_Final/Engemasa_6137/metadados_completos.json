@@ -1,0 +1,30 @@
+{
+    "id": 6137,
+    "name": "Engemasa",
+    "about": "A Engemasa está no mercado desde 1976 fornecendo peças fundidas para diversos setores industriais como Refinarias, Saneamento, Energia, Óleo & Gás, Petroquímicas, Fertilizantes, Papel & Celulose, Álcool & Açúcar, Alimentos e muitos outros. A Engemasa preza pela qualidade dos produtos e conta com Mestres e Doutores no quadro de colaboradores, que acompanham todo o processo de fabricação, desde o recebimento da matéria prima até a sua entrega.\n\nA equipe de especialistas da Engemasa desenvolveu ligas resistentes a altas temperaturas e pressões, o que reflete em produtos com excelente desempenho perante a oxidação, carburização ou meios altamente abrasivos. A Engemasa também trabalha com as ligas presentes no mercado e ligas especiais, que atendem as mais diversas necessidades industriais.\n",
+    "inventoriesId": [
+        6960
+    ],
+    "logoId": "5051c624-6300-4d7e-21f5-3a122d71d318",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

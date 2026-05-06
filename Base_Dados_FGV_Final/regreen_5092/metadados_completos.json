@@ -1,0 +1,30 @@
+{
+    "id": 5092,
+    "name": "re.green",
+    "about": "Restauramos florestas tropicais em larga escala para as pessoas e o planeta. A missão da re.green é promover a restauração ecológica de qualidade, otimizando benefícios para o clima, para a biodiversidade e para as pessoas, contribuindo com a produção e disseminação de conhecimento científico. Temos como objetivo restaurar pelo menos 1 milhão de hectares na Amazônia e Mata Atlântica, promovendo a conservação da biodiversidade, capturando 15 milhões de toneladas de carbono por ano e desenvolvendo manejo florestal sustentável. Pensamos e agimos em grande escala, assegurando a sustentabilidade ambiental, social e financeira dos nossos empreendimentos. A Ciência é o nosso pilar, a principal garantia de que o impacto das nossas atividades será positivo e crescente. Aprendemos com o conhecimento tradicional e contribuímos para o avanço da ciência ambiental. ",
+    "inventoriesId": [
+        6154
+    ],
+    "logoId": "11603666-2ff7-4b3b-981a-6e91c78fb9b6",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1340,
+    "name": "Finnet S/A - Tecnologia",
+    "about": "A Finnet, há mais de 15 anos, trabalha integrando profissionais de alta qualidade a ferramentas e softwares exclusivos com um único objetivo: facilitar todo processo de gestão de forma inteligente e simples. Bancos, consultórios, escritórios, setor logístico: quando nasce uma necessidade para a sua empresa, independente do porte ou segmento, nasce uma solução tecnológica Finnet. \r\n\r\nNosso conhecimento e reconhecimento auxiliam no dia a dia do seu negócio, integrando sistemas inovadores e extremamente seguros, para alcançar a otimização de processos e redução de custos de acordo com o que você busca.\r\n\r\nEstamos interligados a mais de 40 instituições financeiras e 782 mil empresas na cadeia de valor. Anualmente, trafega mais de 5,6 milhões de arquivos e processa mais de 74,8 milhões de transações em seus produtos. \r\n\r\nOriginária do mercado financeiro internacional foi responsável pela consultoria na migração da rede de mensageria de câmbio – SWIFT para SWIFTNET, por onde são trafegados, diariamente, trilhões de dólares.\r\n\r\nHoje, considerada uma das melhores empresas integradoras de sistemas e prestadora de serviços, confere a seus clientes a possibilidade de tornarem-se líderes de mercado, por meio de suas soluções de integração de dados, arquivos e processos em âmbito empresarial, visando sempre a segurança, agilidade, redução de custos e inovações tecnológicas.\r\n\r\nVisão, Missão e Valores\r\n\r\nVisão: Contribuir para uma sociedade FELIZ, em harmonia com a NATUREZA, por meio das melhores TECNOLOGIAS.\r\nMissão: Reter as melhores pessoas, desenvolver excelentes profissionais e conquistar resultados sustentáveis.\r\nValores: Superação, Sustentabilidade, Ética, Qualidade e Inovação.",
+    "inventoriesId": [
+        486,
+        105,
+        2496,
+        2054,
+        3064,
+        3345,
+        3780,
+        4097
+    ],
+    "logoId": "06be6024-237b-46a5-8422-e28608b3259a",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

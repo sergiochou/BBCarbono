@@ -1,0 +1,70 @@
+{
+    "id": 1769,
+    "name": "Ticket Log",
+    "about": "A Edenred Ticket Log compõe a linha de negócios Mobilidade da Edenred Brasil. Disponível para companhias de todos os portes e segmentos, a marca conecta empresas e pessoas por meio de soluções inovadoras e digitais, com o objetivo de simplificar processos e rotinas com informação, inteligência e de forma mais sustentável.\n\nCom mais de 30 anos de experiência no mercado e 30 mil empresas-clientes, a Ticket Log administra 1 milhão de veículos e quase 2,5 bilhões de litros de combustível por ano. Além disso, conta com uma rede de aceitação de mais de 43 mil parceiros credenciados, entre os quais, postos de combustíveis, oficinas mecânicas e outros serviços de mobilidade, como transporte individual e aluguel de bicicletas.\n\nA Ticket Log também disponibiliza ao mercado o IPTL, um índice nacional sobre a variação de preço dos combustíveis, levantado com base nos abastecimentos realizados nos 21 mil postos de todo o Brasil credenciados à marca. A marca é parte da Edenred, plataforma global e digital de serviços de meios de pagamento que atua como companheira de todas as horas para os trabalhadores, empresas e comerciantes. Líder em seu segmento, conecta 60 milhões de usuários, 2 milhões de estabelecimentos e aproximadamente 1 milhão de empresas clientes, em 45 países.\n\nSaiba mais:\nSite: https://www.ticketlog.com.br/\nBlog: https://www.ticketlog.com.br/blog/\nFacebook: https://www.facebook.com/TicketLog\nYoutube https://www.youtube.com/@TicketLog\nLinkedIn: https://www.linkedin.com/company/ticket-log/\nInstagram: https://www.instagram.com/ticket.log/\nTwitter: https://www.instagram.com/ticket.log/",
+    "inventoriesId": [
+        39,
+        2618,
+        2114,
+        1633,
+        576,
+        2993,
+        3357,
+        3682,
+        3803
+    ],
+    "logoId": "82824ea2-ef57-c50b-a479-3a1a0c0541eb",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

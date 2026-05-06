@@ -1,0 +1,30 @@
+{
+    "id": 2499,
+    "name": "Hospital Público Estadual Galileu",
+    "about": "O Hospital Público Estadual Galileu fica situado na Região Metropolitana de Belém, mais especificadamente na capital paraense. A unidade funciona como retaguarda, e tem como missão cuidar de vidas, prestando assistência hospitalar em traumato-ortopedia e clínica médica, promovendo atendimento com qualidade, segurança e humanização aos usuários referenciados pela Central Estadual de Regulação.\r\n\r\nO Hospital Galileu é uma unidade de baixa e média complexidades, mantido pelo Governo do Estado do Pará e gerenciado Pró-Saúde Associação Beneficente de Assistência Social e Hospitalar, sob contrato de gestão com a Secretaria de Estado de Saúde Pública (Sespa), desde a sua inauguração no ano de 2014.\r\n\r\nSua prestação de serviço é baseada na humanização do tratamento com aplicação do processo de desospitalização, no qual os acompanhantes e familiares são preparados para continuar a cuidar dos pacientes em casa, após a alta hospitalar.\r\n\r\nA taxa de resolutividade da unidade é de mais de 98%. O hospital dispõe de 104 leitos de internação, sendo 98 distribuídos nas enfermarias e seis leitos Unidade de Terapia Intensiva (UTI), além de um centro cirúrgico com duas salas.",
+    "inventoriesId": [
+        3258
+    ],
+    "logoId": "fa3fbb44-f301-449b-9ead-ab506808e7df",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

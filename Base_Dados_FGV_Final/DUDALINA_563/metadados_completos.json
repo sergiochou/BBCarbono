@@ -1,0 +1,50 @@
+{
+    "id": 563,
+    "name": "DUDALINA",
+    "about": "Mais do que um negócio do ramo têxtil, a Dudalina se destaca na distribuição de marcas fortes. Criadas para atender a diferentes segmentos de mercado - homens e mulheres com necessidades e desejos distintos - as marcas: Dudalina, Dudalina Feminina, Individual e Base, dispõem de um amplo mix de produtos, produzidos com matéria-prima diferenciada, criando nos consumidores a emoção de vestir-se e sentir-se bem",
+    "inventoriesId": [
+        180,
+        2311,
+        1754,
+        2745,
+        3155
+    ],
+    "logoId": "487dee60-899d-4223-a3f9-67f7effc39c3",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": 4222,
+    "name": "Bresco ",
+    "about": "A Bresco Investimentos e Gestão Ltda. é a maior desenvolvedora e gestora brasileira de empreendimentos logísticos de alto padrão, que oferece soluções flexíveis e sustentáveis para empresas e investidores que buscam eficiência e valorizam relações de longo prazo. \r\nCom sede em São Paulo (SP), atuamos no desenvolvimento e aquisição de imóveis eficientes, buscando inovações e antecipando as tendências de mercado. Também construímos empreendimentos sob medida na modalidade Built to Suit, e capitalizamos nossos clientes através de operações de Sale-Leaseback.\r\nPossuímos um portfólio de propriedades e terrenos estrategicamente localizados nos principais mercados consumidores, com fácil acesso às principais rodovias do país, e o maior portfólio de propriedades Last Mile da cidade de São Paulo.\r\nCom elevado conhecimento e foco na qualidade, nossa equipe se distingue por sua sólida experiência acumulada ao longo de anos de trabalho em conjunto, tendo concretizado mais de 70 operações que superam 2 milhões de m² de área construída. Valorizamos, sobretudo, a relação que cultivamos com nossos clientes, fornecedores, parceiros e comunidades onde atuamos.\r\n",
+    "inventoriesId": [
+        5402,
+        6681,
+        7513,
+        8744
+    ],
+    "logoId": "1b2e6b1d-c6f5-4f42-ab74-df8c43d01e5b",
+    "sector": {
+        "id": 12,
+        "name": "Atividades imobiliárias",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

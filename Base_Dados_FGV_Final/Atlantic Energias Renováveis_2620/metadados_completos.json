@@ -1,0 +1,45 @@
+{
+    "id": 2620,
+    "name": "Atlantic Energias Renováveis",
+    "about": "A Atlantic Energias Renováveis atua no desenvolvimento, implantação e operação de projetos de geração de energia elétrica proveniente de fontes renováveis. Sediada em Curitiba, no Paraná, a empresa opera nos estados do Piauí, Rio Grande do Norte, Bahia e Rio Grande do Sul.\r\n\r\nOs projetos da empresa, nos Ambientes de Contratação Regulada (ACR) e Contratação Livre (ACL), somam 652 Megawatts de potência vendida. Todos os empreendimentos são monitorados à distância por meio do Centro de Operações localizado na sede da Atlantic, em Curitiba.\r\n\r\nA Atlantic Energias Renováveis estabelece um modelo de negócios com maior segurança e rentabilidade a seus investidores, mantendo o compromisso de fornecer energia limpa e confiável.\r\n\r\nOs empreendimentos têm como característica fundamental a qualidade, apresentando altos fatores de capacidade e geração garantida. Aliado ao modelo de gestão da Atlantic, que segue os princípios do ESG (Environmental, Social and Corporate Governance), a alta tecnologia e profissionais qualificados garantem confiabilidade na operação.\r\n\r\n",
+    "inventoriesId": [
+        3476,
+        3696,
+        3448,
+        3796
+    ],
+    "logoId": "cd26ca90-1b0a-9d6d-ab00-3a131e777c82",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

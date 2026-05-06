@@ -1,0 +1,578 @@
+[
+    {
+        "empresa_pasta": "VIANA  MOURA CONSTRUCOES SA_7691",
+        "id_fgv": 7691,
+        "nome_oficial": "VIANA & MOURA CONSTRUCOES S.A.",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 238.547,
+                    "emissoes_escopo_2": 15.187,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 253.734,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "VIBRA_237",
+        "id_fgv": 237,
+        "nome_oficial": "VIBRA",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 160323.093,
+                    "emissoes_escopo_2": 15511.61,
+                    "emissoes_escopo_3": 79620434.0,
+                    "total_emissoes": 79796268.703,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 127990.757,
+                    "emissoes_escopo_2": 18027.249,
+                    "emissoes_escopo_3": 75396468.8,
+                    "total_emissoes": 75542486.806,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 43569.889,
+                    "emissoes_escopo_2": 19586.76,
+                    "emissoes_escopo_3": 81003955.0,
+                    "total_emissoes": 81067111.649,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 44281.267,
+                    "emissoes_escopo_2": 13638.564,
+                    "emissoes_escopo_3": 95998153.4,
+                    "total_emissoes": 96056073.231,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 41605.807,
+                    "emissoes_escopo_2": 12511.91,
+                    "emissoes_escopo_3": 11667.936,
+                    "total_emissoes": 65785.653,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Comércio;reparaçãodeveículosautomotoresemotocicletas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Vivace Ceno_5672",
+        "id_fgv": 5672,
+        "nome_oficial": "Vivace Ceno ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 41.748,
+                    "emissoes_escopo_2": 0.541,
+                    "emissoes_escopo_3": 3.752,
+                    "total_emissoes": 46.041,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 45.143,
+                    "emissoes_escopo_2": 1.692,
+                    "emissoes_escopo_3": 17.38,
+                    "total_emissoes": 64.215,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 26.519,
+                    "emissoes_escopo_2": 3.351,
+                    "emissoes_escopo_3": 14.93,
+                    "total_emissoes": 44.8,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "VIXPar_837",
+        "id_fgv": 837,
+        "nome_oficial": "VIXPar",
+        "estado": "ES",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 118309.63,
+                    "emissoes_escopo_2": 66.33,
+                    "emissoes_escopo_3": 324.5,
+                    "total_emissoes": 118700.46,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 39618.138,
+                    "emissoes_escopo_2": 34.052,
+                    "emissoes_escopo_3": 740.737,
+                    "total_emissoes": 40392.927,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 15563.863,
+                    "emissoes_escopo_2": 7.315,
+                    "emissoes_escopo_3": 177.612,
+                    "total_emissoes": 15748.79,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 14185.889,
+                    "emissoes_escopo_2": 132.83,
+                    "emissoes_escopo_3": 568.227,
+                    "total_emissoes": 14886.946,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 58540.898,
+                    "emissoes_escopo_2": 248.361,
+                    "emissoes_escopo_3": 436.272,
+                    "total_emissoes": 59225.531,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 100110.191,
+                    "emissoes_escopo_2": 328.956,
+                    "emissoes_escopo_3": 45591.373,
+                    "total_emissoes": 146030.52,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 82565.812,
+                    "emissoes_escopo_2": 146.549,
+                    "emissoes_escopo_3": 30085.249,
+                    "total_emissoes": 112797.61,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 65693.689,
+                    "emissoes_escopo_2": 112.275,
+                    "emissoes_escopo_3": 97215.563,
+                    "total_emissoes": 163021.527,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "VLI_5744",
+        "id_fgv": 5744,
+        "nome_oficial": "VLI",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 583281.163,
+                    "emissoes_escopo_2": 3944.072,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 587225.235,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 567195.296,
+                    "emissoes_escopo_2": 7943.052,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 575138.348,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 569305.129,
+                    "emissoes_escopo_2": 2669.743,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 571974.872,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 572808.009,
+                    "emissoes_escopo_2": 2860.325,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 575668.334,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 535806.03,
+                    "emissoes_escopo_2": 4254.935,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 540060.965,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Voke_6118",
+        "id_fgv": 6118,
+        "nome_oficial": "Voke",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Volkswagen do Brasil_4601",
+        "id_fgv": 4601,
+        "nome_oficial": "Volkswagen do Brasil",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 76200.977,
+                    "emissoes_escopo_2": 43835.276,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 120036.253,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 63128.54,
+                    "emissoes_escopo_2": 14323.776,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 77452.316,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 63626.05,
+                    "emissoes_escopo_2": 13680.839,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 77306.889,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "até 2030 (com base em 2018) e NetZero até 2050. O programa Zero Impact Factory é a continuação do programa anterior, Think Blu"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Volkswagen Financial Services Brasil_7196",
+        "id_fgv": 7196,
+        "nome_oficial": "Volkswagen Financial Services Brasil ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividadesfinanceiras,deseguroseserviçosrelacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "s 1 e 2) até 2025 e tornar-se carbono neutro em todos os escopos até 2050. O Comitê ESG se reúne trimestralmente, e extraordinariamente quando necessá"
+            },
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Voltalia_4755",
+        "id_fgv": 4755,
+        "nome_oficial": "Voltalia",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 116125.735,
+                    "emissoes_escopo_2": 16.873,
+                    "emissoes_escopo_3": 998.537,
+                    "total_emissoes": 117141.145,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 44748.001,
+                    "emissoes_escopo_2": 24.956,
+                    "emissoes_escopo_3": 3739.575,
+                    "total_emissoes": 48512.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 30435.514,
+                    "emissoes_escopo_2": 33.429,
+                    "emissoes_escopo_3": 1450.212,
+                    "total_emissoes": 31919.155,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Volvo do Brasil_2616",
+        "id_fgv": 2616,
+        "nome_oficial": "Volvo do Brasil",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9262.095,
+                    "emissoes_escopo_2": 3579.789,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12841.884,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4668.727,
+                    "emissoes_escopo_2": 2492.292,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7161.019,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7497.684,
+                    "emissoes_escopo_2": 2757.67,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 10255.354,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5447.495,
+                    "emissoes_escopo_2": 2036.26,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7483.755,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7291.47,
+                    "emissoes_escopo_2": 4870.982,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 12162.452,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7538.296,
+                    "emissoes_escopo_2": 1781.765,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9320.061,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 7324.459,
+                    "emissoes_escopo_2": 1929.738,
+                    "emissoes_escopo_3": 4201.633,
+                    "total_emissoes": 13455.83,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "id": 8983,
+    "name": "Núclea",
+    "about": "Oferecemos soluções de inteligência de mercado para maior assertividade nas tomadas de decisão.\nAtuando nos mercados financeiro, imobiliário e de seguros, temos 35 produtos e serviços em nosso portfólio que nos permitem simplificar transações digitais, conectar empresas e trazer mais eficiência com segurança.",
+    "inventoriesId": [
+        8871,
+        9014
+    ],
+    "logoId": "31938b75-d248-dec4-48e0-3a1a01548126",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

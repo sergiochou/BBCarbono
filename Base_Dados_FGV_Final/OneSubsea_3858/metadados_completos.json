@@ -1,0 +1,40 @@
+{
+    "id": 3858,
+    "name": "OneSubsea",
+    "about": "A OneSubsea está focada em acelerar a inovação para criar uma mudança significativa na economia da produção submarina e reduzir as emissões nas operações submarinas. \nOferecemos um extenso portfólio de tecnologias de produção e processamento submarino comprovadas em campo, uma escala e capacidade de fabricação de classe mundial, e capacidades únicas de integração do reservatório ao processo.",
+    "inventoriesId": [
+        5089,
+        6647,
+        7815
+    ],
+    "logoId": "f031ff01-3884-d9d3-e4a2-3a1329363296",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

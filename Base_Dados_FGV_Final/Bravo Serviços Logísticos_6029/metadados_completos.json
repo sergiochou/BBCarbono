@@ -1,0 +1,35 @@
+{
+    "id": 6029,
+    "name": "Bravo Serviços Logísticos",
+    "about": "A Bravo Serviços Logísticos começou sua jornada de atuação em 1997. Ao longo de sua trajetória, buscou aprimorar os processos e operações, se especializou no atendimento logístico para o mercado agrícola e se tornou referência em serviços eficientes de armazenamento e distribuição de insumos agrícolas. Com sede em Uberaba (MG), conta com filiais em Minas Gerais, São Paulo, Paraná, Rio Grande do Sul, Goiás, Mato Grosso, Mato Grosso do Sul, Bahia e Maranhão. Para mais informações, acesse: www.bravolog.com.br",
+    "inventoriesId": [
+        7205,
+        8654
+    ],
+    "logoId": "589ecb69-342a-a1cd-463c-3a11f4b9faa6",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,105 @@
+{
+    "id": 1014,
+    "name": "BRF",
+    "about": "A BRF comercializa aproximadamente 5 milhões de toneladas de alimentos por ano, comprometida em levar segurança, qualidade e integridade do campo à mesa. \nEm 2024, a Perdigão celebrou 90 anos e é a marca de alimentos mais escolhida do Brasil. Já Sadia, a marca brasileira mais valiosa de alimentos, comemorou 80 anos. Também somos donos da Qualy, marca de margarinas presente em sete a cada dez lares brasileiros. \nA BRF S.A. é uma sociedade anônima de capital aberto e nossa sede está localizada em Itajaí (SC), no Brasil. Contamos com 45 plantas fabris (37 no Brasil, três na Turquia, três no Oriente Médio – duas na Arábia Saudita e uma nos Emirados Árabes Unidos –, uma na China e uma no Paraguai) e 101 centros de distribuição, exportando produtos para 117 países. Somam-se, ainda, uma rede de 8.400 produtores integrados e mais de 30 mil parceiros de negócios. \nEm 2024, lançamos a campanha ‘Lado a lado, alimentando o futuro’, com BRF e Marfrig alinhadas\ncomo uma plataforma global multiproteína. Oferecemos as quatro principais proteínas –\nbovina, suína, frango e peru –, além de produtos de proteína vegetal e pratos prontos, que atendem\nàs necessidades nutricionais e às demandas do mercado, como produtos com a certificação Halal. \n",
+    "inventoriesId": [
+        1571,
+        1607,
+        38,
+        2150,
+        2315,
+        606,
+        2774,
+        3300,
+        3726,
+        4060,
+        4342,
+        4658,
+        5490,
+        5975,
+        7629,
+        8948
+    ],
+    "logoId": "44cd25a2-7378-1b58-5a89-3a1a2ad64104",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2009,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

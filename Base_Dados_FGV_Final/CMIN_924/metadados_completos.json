@@ -1,0 +1,50 @@
+{
+    "id": 924,
+    "name": "CMIN",
+    "about": "A CSN Mineração S.A. é a segunda maior exportadora de minério de ferro do Brasil e está entre as cinco mais competitivas no mercado transoceânico.\r\n\r\nCom reservas certificadas em mais de 3 bilhões de toneladas de acordo com Joint Ore Reserves Committee (JORC), a empresa detém as minas de Casa de Pedra e do Engenho, o complexo de beneficiamento do Pires, participação na ferrovia MRS e terminal cativo para exportação de minério de ferro no Porto de Itaguaí (TECAR).\r\n\r\nA operação integrada e os seus ativos de alto valor permitem que a CSN Mineração seja uma das empresas mais eficientes no setor, com um posicionamento de destaque em custo e qualidade.\r\n\r\nConsolidada em 2015 a partir da fusão dos ativos de mineração da CSN e Namisa, essa companhia está dividida entre a CSN (87,52%) e consórcio composto por grandes siderúrgicas asiáticas (12,48%).\r\n\r\nA CSN Mineração apresentou excelentes resultados operacionais em 2020, concluindo no último dia 18 de fevereiro sua oferta pública inicial (IPO) na B3, ficando entre os 10 maiores IPOs da história da bolsa brasileira em volume. A atual composição acionária (09.03.2021) da CMIN é composta pela CSN (79,14%), um consórcio de empresas asiáticas (11,30%) e outros acionistas (9,55%).\r\n\r\nA Política de Sustentabilidade da CSN Mineração estabelece um conjunto de práticas alinhadas à Políticas Corporativas de Saúde, Segurança do Trabalho e Meio Ambiente.\r\n\r\nO material estabelece alguns parâmetros de conduta que reforçam o compromisso dos colaboradores e das empresas terceirizadas com a performance de segurança do trabalho, meio ambiente e qualidade.\r\n\r\nFomentar práticas que dialogam com os requisitos normativos e legais é uma forma de desenvolver soluções que agreguem valor ao nosso negócio.",
+    "inventoriesId": [
+        4933,
+        5179,
+        6151,
+        6975,
+        8229
+    ],
+    "logoId": "7ecab3c3-1f67-4325-9958-aa8166648850",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

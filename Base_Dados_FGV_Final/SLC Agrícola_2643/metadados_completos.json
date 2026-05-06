@@ -1,0 +1,65 @@
+{
+    "id": 2643,
+    "name": "SLC Agrícola",
+    "about": "Fundada em 1977, a SLC Agrícola é uma das maiores produtoras de commodities agrícolas do país. É composta por 23 unidades de produção localizadas em sete estados brasileiros, na região do Cerrado, e matriz em Porto Alegre (RS). Produz algodão, milho e soja e se dedica à criação de gado no modelo integração lavoura-pecuária (ILP). É uma das primeiras empresas do agronegócio a ter ações negociadas em Bolsa de Valores (SLCE3). Em 2021, formalizou sua política de Desmatamento Zero. Sonho Grande: “Impactar positivamente gerações futuras, sendo líder mundial em eficiência no negócio agrícola e respeito ao planeta.”",
+    "inventoriesId": [
+        3490,
+        3988,
+        4387,
+        4831,
+        5110,
+        5882,
+        7521,
+        8918
+    ],
+    "logoId": "2d11b94e-f23c-8cc8-93b1-3a19ecd6f13e",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

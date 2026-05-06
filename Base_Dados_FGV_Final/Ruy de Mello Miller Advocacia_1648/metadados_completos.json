@@ -1,0 +1,30 @@
+{
+    "id": 1648,
+    "name": "Ruy de Mello Miller Advocacia",
+    "about": "A Advocacia Ruy de Mello Miller é uma sociedade de advogados especializada em Direito Empresarial Marítimo e Portuário, instalada no Centro de Santos, litoral de SP, desde 1961. \r\n\r\nHá mais de 50 anos atuando junto ao Porto de Santos e demais Portos do Brasil, tem entre seus principais clientes prestadores de serviço e entidades ligados ao comércio exterior e à atividade portuária, como transportadores marítimos, operadores logísticos, fornecedores de navio, importadores, exportadores e despachantes aduaneiros. É, atualmente, uma das maiores bancas da Região da Baixada Santista, com cerca de cinquenta profissionais. \r\n\r\nA empresa passa por um forte movimento de expansão das suas atividades, tendo em vista o desenvolvimento das áreas com as quais trabalha, bem como o de paralelas, como a indústria do Petróleo e Gás e o mercado Imobiliário. Tais demandas, que intensificam o movimento de contratação de mão de obra e a ampliação de infra-estrutura, contribuíram para a preocupação de seus dirigentes sobre como incrementar o desenvolvimento sustentável da organização.\r\n\r\nPensando nisso, no ano de 2011 foram iniciadas ações internas voltadas à conscientização e incentivo do seu público interno para a adoção de práticas sustentáveis. Através de uma campanha organizada, a equipe passou a separar os resíduos sólidos entre recicláveis e não recicláveis desde a fonte, a fim de participar da coleta seletiva do Município, e a reduzir consideravelmente o consumo de energia elétrica, e a emissão de gases poluentes (com a saudável prática da carona, por exemplo).  Criou-se também um grupo de voluntariado, que desenvolve atividades que vão além das campanhas de assistencialismo já praticadas anteriormente, ao doar parte das suas horas de trabalho para apoio a projetos sociais. \r\n\r\nAlém disso, os profissionais vinculados à Advocacia Ruy de Mello Miller tem à sua disposição incentivos que somam às políticas sustentáveis citadas anteriormente. Entre elas: estímulo à prática esportiva (patrocínio de atividades externas, como futebol semanal e clube de bem estar; ginástica laboral, etc.); canais de comunicação alternativos para a exposição de manifestações e construção de relações transparentes (Ouvidoria interna); e cursos de aprimoramento técnico e de gestão.  \r\n\r\nO primeiro inventário público da Advocacia Ruy de Mello Miller, portanto, sintetiza este velho-novo passo na construção de políticas e práticas socialmente justas, economicamente viáveis, e ambientalmente corretas para 2011 e seus próximos 50 anos de serviços jurídicos e desenvolvimento humano. Além de relatar publicamente as emissões, a RMM assumiu o compromisso de quantificar e compensar 100% de suas emissões de gases de efeito estufa de 2011 – e ao tomar esta iniciativa, se torna o primeiro escritório de advocacia do Brasil a disponibilizar estas informações no Registro Público de Emissões. \r\n\r\nPor fim, entre as principais metas desta campanha perene, está a já iniciada tarefa de multiplicar a filosofia em Santos e Região, e contribuir para o desenvolvimento de tecnologias limpas. A ideia é influenciar não só colaboradores e familiares, mas também clientes, fornecedores e entidades de classe que ainda não atentaram, com a devida ‘transpiração’, de que a adoção de atitudes sustentáveis é uma condição, e não uma opção para a nossa sobrevivência como sociedade.  \r\n\r\n",
+    "inventoriesId": [
+        84
+    ],
+    "logoId": "9c86785e-9505-4405-bba6-ef63f44beb17",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

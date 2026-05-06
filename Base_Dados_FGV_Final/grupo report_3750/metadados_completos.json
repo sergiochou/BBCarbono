@@ -1,0 +1,45 @@
+{
+    "id": 3750,
+    "name": "grupo report",
+    "about": "Desde 2002, temos como propósito transformar as organizações por meio da sustentabilidade. Impulsionamos essa mudança oferecendo serviços de consultoria, comunicação de resultados, estratégia de negócios, estratégia digital, design, assessoria de imprensa e relações públicas. Atuamos com foco na evolução do relato corporativo, respondendo à demanda de atualização do pensamento estratégico dos negócios. Em 2020, decidimos nos transformar em um grupo de empresas para ajudar as organizações a conectarem suas agendas de negócio aos desafios do nosso tempo para apoiá-las na inserção da sustentabilidade em suas estratégias e suas operações. Criamos três unidades de negócio que atuam nas frentes de relato corporativo (rpt.sustentabilidade), consultoria estratégica (rpt.estratégia) e assessoria e relações públicas (rpt.com). Em 2021, lançamos nossa quarta unidade de negócio (rpt.edu), com o objetivo de oferecer treinamentos e capacitações para organizações e profissionais em tópicos relacionados à sustentabilidade e às dimensões ESG. \r\n",
+    "inventoriesId": [
+        5055,
+        6043,
+        7016,
+        8600
+    ],
+    "logoId": "e266b9d5-0f8c-4b0e-9b2a-e90520fd224d",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

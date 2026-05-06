@@ -1,0 +1,40 @@
+{
+    "id": 4582,
+    "name": "PONTES INDÚSTRIA DE CERA",
+    "about": "Pontes lidera a indústria global de bioceras rumo a uma economia sustentável, regenerativa, ética e de baixo carbono. É um exemplo vivo de que é possível desenvolver produtos de alta qualidade e valor agregado, aliando produção e bem-estar social à conservação da Caatinga, bioma o qual está inserida.\nPioneira em tecnologias e inovações socioambientais voltadas ao desenvolvimento da bioeconomia da região, as atividades da Pontes contribuem para frear o desmatamento da Caatinga, conservar a biodiversidade deste bioma, reduzir o processo de desertificação, e garantir não apenas os direitos humanos, mas também a prosperidade e bem-estar social das comunidades locais”\nO compromisso socioambiental da empresa vai muito além do mero compliance; procura garantir que cada uma das suas iniciativas traga benefícios reais ao planeta e à sociedade.\n",
+    "inventoriesId": [
+        5791,
+        7826,
+        8321
+    ],
+    "logoId": "97944953-a180-4cc0-83e9-49c161346a86",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

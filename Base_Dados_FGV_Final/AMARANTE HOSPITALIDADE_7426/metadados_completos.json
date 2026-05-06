@@ -1,0 +1,35 @@
+{
+    "id": 7426,
+    "name": "AMARANTE HOSPITALIDADE",
+    "about": "Com 30 anos de mercado a Amarante administra 3 Resorts All-Inclusive localizados na Costa dos Corais em Alagoas. O Salinas Maragogi, Japaratinga Resort e Salinas Maceió são empreendimentos altamente premiados sendo símbolos de excelência no turismo e lazer. O propósito da Amarante é marcar a vida das pessoas promovendo experiências de descontração e bem-estar em equilíbrio com a natureza. Acreditamos no turismo como vetor do desenvolvimento sustentável, uma atividade que fortalece as redes de serviços locais, gera oportunidades de trabalho e ainda traz excelentes resultados para os investidores\nTemos a visão de sermos o maior, melhor e mais sustentável grupo de lazer do nordeste, para isso, além de todas as iniciavas ambientais implementadas, nos tornamos signatários do Pacto Global da ONU, a maior iniciativa voluntária de sustentabilidade corporativa. Estamos constantemente empenhados em promover o desenvolvimento e criar oportunidades sustentáveis e responsáveis, valorizando o meio ambiente e a diversidade.",
+    "inventoriesId": [
+        7099,
+        9255
+    ],
+    "logoId": "f40f5914-42f3-22a7-14f3-3a12bd3eae8f",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 17,
+        "acronym": "PE",
+        "name": "Pernambuco"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

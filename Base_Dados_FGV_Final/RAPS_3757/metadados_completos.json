@@ -1,0 +1,40 @@
+{
+    "id": 3757,
+    "name": "RAPS",
+    "about": "A RAPS é uma organização apartidária criada em 2012 com a missão de contribuir para a melhoria da democracia e do processo político brasileiro e de disseminar o compromisso com a sustentabilidade e o desenvolvimento sustentável na política institucional. Nós fazemos isso por meio de apoio, conexão e desenvolvimento de lideranças políticas, de diferentes partidos políticos, origens e ideologias, capazes de colocar as diferenças de lado para dialogar e atuar conjuntamente na busca de soluções concretas para nossos principais desafios econômicos, sociais, ambientais e políticos. ",
+    "inventoriesId": [
+        5613,
+        5919,
+        6804
+    ],
+    "logoId": "7ad253df-005a-4c10-9605-42b5128b4f8d",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

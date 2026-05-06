@@ -1,0 +1,694 @@
+[
+    {
+        "empresa_pasta": "Nude_3251",
+        "id_fgv": 3251,
+        "nome_oficial": "Nude.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 0.006,
+                    "emissoes_escopo_2": 0.011,
+                    "emissoes_escopo_3": 10.305,
+                    "total_emissoes": 10.322,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.83,
+                    "emissoes_escopo_3": 154.704,
+                    "total_emissoes": 155.534,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 0.006,
+                    "emissoes_escopo_2": 0.54,
+                    "emissoes_escopo_3": 580.009,
+                    "total_emissoes": 580.555,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 0.006,
+                    "emissoes_escopo_2": 0.68,
+                    "emissoes_escopo_3": 1513.801,
+                    "total_emissoes": 1514.487,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 0.006,
+                    "emissoes_escopo_2": 0.001,
+                    "emissoes_escopo_3": 2564.503,
+                    "total_emissoes": 2564.51,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2021",
+                "Inventário 2021 - Nude.",
+                "BEBIDAS NUDE INDÚSTRIA E DISTRIBUIDORA LTDA",
+                "Nome fantasia: Nude.",
+                "CNPJ: 36.846.716/0001-51",
+                "Setor econômico: Alojamento e alimentação",
+                "Subsetor: Alimentação",
+                "Endereço: Av. Cidade Jardim - 377 - Andar 3 - Itaim Bibi - São Paulo - SP - 01453-000",
+                "Responsável pela publicação do inventário: Alex Appel (alex@heynude.com.br)"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Núclea_8983",
+        "id_fgv": 8983,
+        "nome_oficial": "Núclea",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades\u0002financeiras,\u0002de\u0002seguros\u0002e\u0002serviços\u0002relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades\u0002financeiras,\u0002de\u0002seguros\u0002e\u0002serviços\u0002relacionados",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "O3 EMPREENDIMENTOS_4604",
+        "id_fgv": 4604,
+        "nome_oficial": "O3 EMPREENDIMENTOS",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 25.074,
+                    "emissoes_escopo_2": 0.563,
+                    "emissoes_escopo_3": 5.868,
+                    "total_emissoes": 31.505,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 29.164,
+                    "emissoes_escopo_2": 0.721,
+                    "emissoes_escopo_3": 9.131,
+                    "total_emissoes": 39.016,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Obra 297  Construtora Aterpa SA_1635",
+        "id_fgv": 1635,
+        "nome_oficial": "Obra 297 - Construtora Aterpa S/A",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 416.578,
+                    "emissoes_escopo_2": 13.568,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 430.146,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "OCEANICA ENGENHARIA E CONSULTORIA SA_4668",
+        "id_fgv": 4668,
+        "nome_oficial": "OCEANICA ENGENHARIA E CONSULTORIA S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 26085.464,
+                    "emissoes_escopo_2": 26.068,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 26111.532,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 23243.435,
+                    "emissoes_escopo_2": 32.298,
+                    "emissoes_escopo_3": 10072.207,
+                    "total_emissoes": 33347.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades\u0002profissionais,\u0002científicas\u0002e\u0002técnicas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "OceanPact Serviços Marítimos SA_2998",
+        "id_fgv": 2998,
+        "nome_oficial": "OceanPact Serviços Marítimos S.A.",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 507.414,
+                    "emissoes_escopo_2": 47.058,
+                    "emissoes_escopo_3": 129.82,
+                    "total_emissoes": 684.292,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 29873.026,
+                    "emissoes_escopo_2": 52.099,
+                    "emissoes_escopo_3": 14.992,
+                    "total_emissoes": 29940.117,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 50815.032,
+                    "emissoes_escopo_2": 121.91,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 50936.942,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 61699.838,
+                    "emissoes_escopo_2": 49.445,
+                    "emissoes_escopo_3": 129210.149,
+                    "total_emissoes": 190959.432,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 54422.144,
+                    "emissoes_escopo_2": 42.782,
+                    "emissoes_escopo_3": 133607.471,
+                    "total_emissoes": 188072.397,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras❖atividades❖de❖serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ocyan_2053",
+        "id_fgv": 2053,
+        "nome_oficial": "Ocyan",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 397.387,
+                    "emissoes_escopo_2": 242.437,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 639.824,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 25150.986,
+                    "emissoes_escopo_2": 477.503,
+                    "emissoes_escopo_3": 448021.667,
+                    "total_emissoes": 473650.156,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 24537.632,
+                    "emissoes_escopo_2": 572.486,
+                    "emissoes_escopo_3": 405298.393,
+                    "total_emissoes": 430408.511,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 3144.557,
+                    "emissoes_escopo_2": 417.791,
+                    "emissoes_escopo_3": 343875.744,
+                    "total_emissoes": 347438.092,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 18806.991,
+                    "emissoes_escopo_2": 668.13,
+                    "emissoes_escopo_3": 346571.257,
+                    "total_emissoes": 366046.378,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 5175.102,
+                    "emissoes_escopo_2": 420.261,
+                    "emissoes_escopo_3": 540137.682,
+                    "total_emissoes": 545733.045,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 22181.855,
+                    "emissoes_escopo_2": 187.735,
+                    "emissoes_escopo_3": 606996.928,
+                    "total_emissoes": 629366.518,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 6935.653,
+                    "emissoes_escopo_2": 110.961,
+                    "emissoes_escopo_3": 493806.924,
+                    "total_emissoes": 500853.538,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 14812.726,
+                    "emissoes_escopo_2": 239.806,
+                    "emissoes_escopo_3": 471563.182,
+                    "total_emissoes": 486615.714,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 16337.57,
+                    "emissoes_escopo_2": 68.059,
+                    "emissoes_escopo_3": 537158.452,
+                    "total_emissoes": 553564.081,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias extrativas",
+                    "emissoes_escopo_1": 20270.8,
+                    "emissoes_escopo_2": 46.3,
+                    "emissoes_escopo_3": 504512.6,
+                    "total_emissoes": 524829.7,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias❖extrativas",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Odebrecht Agroindustrial_2297",
+        "id_fgv": 2297,
+        "nome_oficial": "Odebrecht Agroindustrial",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 638093.682,
+                    "emissoes_escopo_2": 1731.674,
+                    "emissoes_escopo_3": 325390.057,
+                    "total_emissoes": 965215.413,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 629600.422,
+                    "emissoes_escopo_2": 1131.467,
+                    "emissoes_escopo_3": 115157.167,
+                    "total_emissoes": 745889.056,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ODONTOPREV SA_3154",
+        "id_fgv": 3154,
+        "nome_oficial": "ODONTOPREV S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 53.665,
+                    "emissoes_escopo_2": 46.33,
+                    "emissoes_escopo_3": 895.942,
+                    "total_emissoes": 995.937,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 20.566,
+                    "emissoes_escopo_2": 63.0,
+                    "emissoes_escopo_3": 188.74,
+                    "total_emissoes": 272.306,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 8.6,
+                    "emissoes_escopo_2": 91.043,
+                    "emissoes_escopo_3": 210.015,
+                    "total_emissoes": 309.658,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 5.775,
+                    "emissoes_escopo_3": 251.505,
+                    "total_emissoes": 257.28,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 11.27,
+                    "emissoes_escopo_2": 42.19,
+                    "emissoes_escopo_3": 318.32,
+                    "total_emissoes": 371.78,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 4.479,
+                    "emissoes_escopo_2": 100.228,
+                    "emissoes_escopo_3": 507.219,
+                    "total_emissoes": 611.926,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Neutralização Carbono",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2020",
+                "Inventário 2020 - ODONTOPREV S.A.",
+                "ODONTOPREV S.A.",
+                "Nome fantasia: ODONTOPREV S.A.",
+                "CNPJ: 58.119.199/0001-51",
+                "Setor econômico: Atividades financeiras, de seguros e serviços relacionados",
+                "Subsetor: Seguros, resseguros, previdência complementar e planos de saúde",
+                "Endereço: AV MARCOS PENTEADO DE ULHOA RODRIGUES - 939 - 14º ANDAR - TAMBORÉ -"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "OEC SA_1832",
+        "id_fgv": 1832,
+        "nome_oficial": "OEC S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 252740.63,
+                    "emissoes_escopo_2": 4694.69,
+                    "emissoes_escopo_3": 563508.17,
+                    "total_emissoes": 820943.49,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 332728.109,
+                    "emissoes_escopo_2": 2426.974,
+                    "emissoes_escopo_3": 874132.306,
+                    "total_emissoes": 1209287.389,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 273609.535,
+                    "emissoes_escopo_2": 8438.409,
+                    "emissoes_escopo_3": 903212.994,
+                    "total_emissoes": 1185260.938,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 289291.627,
+                    "emissoes_escopo_2": 11605.626,
+                    "emissoes_escopo_3": 932746.081,
+                    "total_emissoes": 1233643.334,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 141967.176,
+                    "emissoes_escopo_2": 24859.676,
+                    "emissoes_escopo_3": 622107.951,
+                    "total_emissoes": 788934.803,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 184522.656,
+                    "emissoes_escopo_2": 32128.998,
+                    "emissoes_escopo_3": 839325.31,
+                    "total_emissoes": 1055976.964,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 24855.989,
+                    "emissoes_escopo_2": 2377.448,
+                    "emissoes_escopo_3": 247730.044,
+                    "total_emissoes": 274963.481,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 8662.87,
+                    "emissoes_escopo_2": 1219.45,
+                    "emissoes_escopo_3": 122507.89,
+                    "total_emissoes": 132390.21,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 12797.532,
+                    "emissoes_escopo_2": 605.403,
+                    "emissoes_escopo_3": 22850.189,
+                    "total_emissoes": 36253.124,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 11157.701,
+                    "emissoes_escopo_2": 229.838,
+                    "emissoes_escopo_3": 33649.828,
+                    "total_emissoes": 45037.367,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 13684.653,
+                    "emissoes_escopo_2": 200.597,
+                    "emissoes_escopo_3": 32731.619,
+                    "total_emissoes": 46616.869,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 9689.287,
+                    "emissoes_escopo_2": 376.551,
+                    "emissoes_escopo_3": 42947.507,
+                    "total_emissoes": 53013.345,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 14077.59,
+                    "emissoes_escopo_2": 266.527,
+                    "emissoes_escopo_3": 47857.307,
+                    "total_emissoes": 62201.424,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 10490.762,
+                    "emissoes_escopo_2": 157.785,
+                    "emissoes_escopo_3": 27961.56,
+                    "total_emissoes": 38610.107,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

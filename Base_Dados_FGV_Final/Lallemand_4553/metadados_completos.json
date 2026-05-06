@@ -1,0 +1,30 @@
+{
+    "id": 4553,
+    "name": "Lallemand",
+    "about": "A Lallemand Plant Care Patos de Minas, é uma unidade de produção de biodefensivos agrícolas a base de fungos e bactérias. \r\n\r\nDesde o início do século 20, o grupo Lallemand é um especialista na produção de leveduras e bactérias.\r\n\r\nEm 2006 a empresa decidiu colocar seu conhecimento e ativos tecnológicos em microbiologia e fermentação para o mundo agrícola.\r\n\r\nE assim nasceu a unidade de negócios Lallemand Plant Care, que desde então cresceu significativamente com a aquisição de empresas especializadas em bioproteção e biofertilização de plantas.\r\n\r\nLallemand Plant Care tornou-se líder de mercado – desenvolvendo e comercializando as melhores cepas de microrganismos.",
+    "inventoriesId": [
+        5806
+    ],
+    "logoId": "ac11db96-0baa-4a95-b364-31fbde178cfc",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

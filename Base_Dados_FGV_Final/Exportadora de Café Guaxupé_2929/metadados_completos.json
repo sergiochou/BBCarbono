@@ -1,0 +1,55 @@
+{
+    "id": 2929,
+    "name": "Exportadora de Café Guaxupé",
+    "about": "A EXPORTADORA DE CAFÉ GUAXUPÉ se orgulha de ser uma família dedicada ao negócio café. Fundada em 1970 pelo Sr. Olavo Barbosa, hoje tem as segunda e terceira gerações da família Barbosa ocupando cargos estratégicos na empresa. A missão da EXPORTADORA DE CAFÉ GUAXUPÉ é ser o elo entre o produtor e o consumidor de café, com excelência e sustentabilidade. Possui uma completa estrutura de transporte, recebimento, processamento, embarque de café e uma capacidade de armazenamento para mais de 1 milhão de sacas. Com um crescimento notório ao longo dos anos, é hoje reconhecida mundialmente. Amparada pela integridade, transparência, simplicidade e eficácia, credita-se essa evolução ao cultivo de bons relacionamentos com seus colaboradores e parceiros; produtores, torradores, importadores, cafeterias e grandes marcas de café do Brasil e do mundo. Possui filial em Manhuaçu-MG, importante região produtora de café das Matas de Minas e em São José do Rio Pardo- SP, região da Média Mogiana. Comercializa cafés arábicas de várias regiões do Brasil e oferece certificações como Rainforest Alliance, C.A.F.E Practices – Starbucks e seu próprio protocolo de certificação, o Guaxupé Planet Sustainable Coffee.",
+    "inventoriesId": [
+        4228,
+        4513,
+        5325,
+        5782,
+        7017,
+        8236
+    ],
+    "logoId": "03b3f319-54f8-f8f5-d374-3a12846caa24",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 3754,
+    "name": "Marca Ambiental",
+    "about": "A Marca Ambiental é a maior empresa de gerenciamento de resíduos do estado do Espírito Santo. Sua missão é oferecer a solução completa para o gerenciamento de resíduos valorizando as partes interessadas, o meio ambiente, a qualidade, a segurança e a inovação. \r\nNesse contexto, a Marca Ambiental possui a ambição de se tornar a melhor e mais completa central de tratamento de resíduos do Brasil até 2023, estando alicerçada sobre valores como integridade e comprometimento e sendo fiel ao maior parceiro de valor de uma empresa: o cliente. ",
+    "inventoriesId": [
+        5399,
+        6623
+    ],
+    "logoId": "513b7d40-d4a4-4736-afe8-fba720102dbd",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 8,
+        "acronym": "ES",
+        "name": "Espírito Santo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

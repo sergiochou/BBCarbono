@@ -1,0 +1,35 @@
+{
+    "id": 6155,
+    "name": "CCPR",
+    "about": "A CCPR é uma cooperativa central, fundada em Belo Horizonte/MG, com 77 anos de mercado. É a maior cooperativa captadora de leite do Brasil, captando mais de 90 milhões de litros por mês em Minas Gerais e Goiás, reunindo em seu Sistema 30 cooperativas singulares. \nFundadora de um dos maiores laticínios do país, a CCPR tem em sua trajetória décadas de trabalho em prol do desenvolvimento contínuo de seus cooperados e de toda a cadeia produtiva do leite.\nAlém da produção leiteira, a empresa atua no segmento de nutrição animal, produzindo mais de 500 soluções nutricionais para animais. A CCPR também possui uma rede varejista, denominada CCPR Armazém, com 22 unidades espalhadas por MG.",
+    "inventoriesId": [
+        7054,
+        8981
+    ],
+    "logoId": "7b48512b-b75b-bd66-9415-3a124190868b",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

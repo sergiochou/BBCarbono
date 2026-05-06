@@ -1,0 +1,565 @@
+[
+    {
+        "empresa_pasta": "CARBON FREE_4220",
+        "id_fgv": 4220,
+        "nome_oficial": "CARBON FREE",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.391,
+                    "emissoes_escopo_3": 0.683,
+                    "total_emissoes": 1.074,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.25,
+                    "emissoes_escopo_3": 1.532,
+                    "total_emissoes": 1.782,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 4.097,
+                    "total_emissoes": 4.097,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 4.512,
+                    "emissoes_escopo_2": 0.183,
+                    "emissoes_escopo_3": 6.099,
+                    "total_emissoes": 10.794,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "SHP Itaguaçu CDM Project",
+                "VALIDATION REPORT VVS",
+                "VALIDATION OF THE PROJECT:",
+                "SHP ITAGUAÇU CDM PROJECT (JUN 1146), BRAZIL",
+                "ITAGUAÇU ENERGIA S/A AND CARBOTRADER",
+                "ASSESSORIA E CONSULTORIA EM ENERGIA EIRELI",
+                "(BRAZIL)",
+                "REPORT No. CDM-VAL12-015-00",
+                "SEPTEMBER 2012",
+                "IN-P-CC-01-F-011 Page 1 of 56 Approved: 2012/07/30"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CARBON SOLUTION_8257",
+        "id_fgv": 8257,
+        "nome_oficial": "CARBON SOLUTION",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 64.518,
+                    "emissoes_escopo_2": 0.438,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 64.956,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Carbonext Consultoria Ltda_3411",
+        "id_fgv": 3411,
+        "nome_oficial": "Carbonext Consultoria Ltda.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.037,
+                    "emissoes_escopo_3": 3.687,
+                    "total_emissoes": 3.724,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 13.23,
+                    "emissoes_escopo_2": 0.621,
+                    "emissoes_escopo_3": 28.099,
+                    "total_emissoes": 41.95,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 7.724,
+                    "emissoes_escopo_2": 1.32,
+                    "emissoes_escopo_3": 179.126,
+                    "total_emissoes": 188.17,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 4.096,
+                    "emissoes_escopo_2": 2.17,
+                    "emissoes_escopo_3": 208.347,
+                    "total_emissoes": 214.613,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outras▶atividades▶de▶serviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Fortaleza Ituxi REDD Project",
+                "VERIFICATION REPORT FORTALEZA ITUXI",
+                "REDD PROJECT",
+                "Document Prepared by Icontec",
+                "Contact Information Martha Corredor mcorredor@icontec.org",
+                "Project Title Fortaleza Ituxi REDD Project",
+                "Version 2",
+                "Report ID 02",
+                "Report Title Verification Report for the: Fortaleza Ituxi REDD Project",
+                "Client Carbonext"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CARGILL BIOENERGIA LTDA_6077",
+        "id_fgv": 6077,
+        "nome_oficial": "CARGILL BIOENERGIA LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 117709.73,
+                    "emissoes_escopo_2": 461.28,
+                    "emissoes_escopo_3": 172833.94,
+                    "total_emissoes": 291004.95,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 138561.95,
+                    "emissoes_escopo_2": 233.63,
+                    "emissoes_escopo_3": 161365.65,
+                    "total_emissoes": 300161.23,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Carmeuse Brasil_4250",
+        "id_fgv": 4250,
+        "nome_oficial": "Carmeuse Brasil",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 70288.483,
+                    "emissoes_escopo_2": 1370.829,
+                    "emissoes_escopo_3": 888.48,
+                    "total_emissoes": 72547.792,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 68126.299,
+                    "emissoes_escopo_2": 415.645,
+                    "emissoes_escopo_3": 2249.188,
+                    "total_emissoes": 70791.132,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 76211.698,
+                    "emissoes_escopo_2": 403.762,
+                    "emissoes_escopo_3": 2155.244,
+                    "total_emissoes": 78770.704,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CARSTE CIÊNCIA AMBIENTAL_3763",
+        "id_fgv": 3763,
+        "nome_oficial": "CARSTE CIÊNCIA AMBIENTAL",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 28.257,
+                    "emissoes_escopo_2": 0.707,
+                    "emissoes_escopo_3": 25.103,
+                    "total_emissoes": 54.067,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 45.99,
+                    "emissoes_escopo_2": 1.577,
+                    "emissoes_escopo_3": 21.844,
+                    "total_emissoes": 69.411,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 45.437,
+                    "emissoes_escopo_2": 0.56,
+                    "emissoes_escopo_3": 26.097,
+                    "total_emissoes": 72.094,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Programa Carbono Neutro Idesam",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2021",
+                "Inventário 2021 - CARSTE CIENCIA AMBIENTAL",
+                "CARSTE CONSULTORES ASSOCIADOS LTDA",
+                "Nome fantasia: CARSTE CIENCIA AMBIENTAL",
+                "CNPJ: 08.000.418/0001-00",
+                "Setor econômico: Atividades profissionais, científicas e técnicas",
+                "Subsetor: Serviços de arquitetura e engenharia, testes e análises técnicas",
+                "Endereço: Alameda Ipê Amarelo - 830 - - São Luiz - Belo Horizonte - MG - 31275-090"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CART_5555",
+        "id_fgv": 5555,
+        "nome_oficial": "CART",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3428.386,
+                    "emissoes_escopo_2": 123.093,
+                    "emissoes_escopo_3": 4499.647,
+                    "total_emissoes": 8051.126,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2476.939,
+                    "emissoes_escopo_2": 89.177,
+                    "emissoes_escopo_3": 3022.38,
+                    "total_emissoes": 5588.496,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Casa da Floresta_2915",
+        "id_fgv": 2915,
+        "nome_oficial": "Casa da Floresta",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 93.248,
+                    "emissoes_escopo_2": 0.817,
+                    "emissoes_escopo_3": 37.189,
+                    "total_emissoes": 131.254,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Casa da Moeda do Brasil_1178",
+        "id_fgv": 1178,
+        "nome_oficial": "Casa da Moeda do Brasil",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 356.62,
+                    "emissoes_escopo_2": 4382.169,
+                    "emissoes_escopo_3": 4033.736,
+                    "total_emissoes": 8772.525,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 722.842,
+                    "emissoes_escopo_2": 5220.82,
+                    "emissoes_escopo_3": 3614.838,
+                    "total_emissoes": 9558.5,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1084.039,
+                    "emissoes_escopo_2": 4990.542,
+                    "emissoes_escopo_3": 4011.788,
+                    "total_emissoes": 10086.369,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 835.697,
+                    "emissoes_escopo_2": 3215.57,
+                    "emissoes_escopo_3": 5098.833,
+                    "total_emissoes": 9150.1,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1029.966,
+                    "emissoes_escopo_2": 3288.158,
+                    "emissoes_escopo_3": 3577.203,
+                    "total_emissoes": 7895.327,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 807.609,
+                    "emissoes_escopo_2": 2906.888,
+                    "emissoes_escopo_3": 3775.16,
+                    "total_emissoes": 7489.657,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 517.566,
+                    "emissoes_escopo_2": 2867.558,
+                    "emissoes_escopo_3": 3276.502,
+                    "total_emissoes": 6661.626,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 349.414,
+                    "emissoes_escopo_2": 2290.728,
+                    "emissoes_escopo_3": 3312.668,
+                    "total_emissoes": 5952.81,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 326.563,
+                    "emissoes_escopo_2": 4169.168,
+                    "emissoes_escopo_3": 3125.277,
+                    "total_emissoes": 7621.008,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 467.5,
+                    "emissoes_escopo_2": 1387.523,
+                    "emissoes_escopo_3": 3446.333,
+                    "total_emissoes": 5301.356,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "CASA DOS VENTOS_5126",
+        "id_fgv": 5126,
+        "nome_oficial": "CASA DOS VENTOS",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 19623.514,
+                    "emissoes_escopo_2": 3.89,
+                    "emissoes_escopo_3": 207.539,
+                    "total_emissoes": 19834.943,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 13705.162,
+                    "emissoes_escopo_2": 3.248,
+                    "emissoes_escopo_3": 370.428,
+                    "total_emissoes": 14078.838,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

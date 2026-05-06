@@ -1,0 +1,30 @@
+{
+    "id": 8655,
+    "name": "ACTECH",
+    "about": "O empreendimento ACTECH – Alumina Chemical Technology, tem como objetivo a produção de hidratos e aluminas especiais, extraídos a partir da bauxita. Encontra instalada no bairro Saramenha no município de Ouro Preto - Minas Gerais, atuando dentro das missões vinculadas a responsabilidade social e preservação da vida, sendo sinônimo de excelência na indústria de\nprodutos de alta tecnologia. Os pilares da empresa incluem a valorização e\ncuidado com as pessoas, preservação do meio ambiente & sustentabilidade, destacando-se sua gestão de carbono com o objetivo de mitigar as emissões de GEE, com ética\ne qualidade na entrega ao cliente. O empreendimento atua em diversas áreas do processo produtivo de aluminas, contemplando as atividades envolvidas desde a mineração da bauxita até o refino de aluminas especiais de alta tecnologia, incluindo também os hidratos. Os produtos são obtidos através de um processo produtivo denominado de processo Bayer, onde a bauxita é refinada até que é submetida a temperaturas crescentes onde são formadas as aluminas especiais de acordo com a temperatura de calcinação.\n",
+    "inventoriesId": [
+        8342
+    ],
+    "logoId": "8b27f518-6347-d035-13d0-3a19bca1c5ed",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

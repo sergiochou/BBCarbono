@@ -1,0 +1,35 @@
+{
+    "id": 8877,
+    "name": "TRES CORACOES ALIMENTOS S.A.",
+    "about": "O Grupo 3corações gera valor em todos os pontos de contato da indústria cafeeira, propiciando a melhor experiência às pessoas com quem se relaciona. Somos um sistema vivo, no qual interagem Unidades de Compra e Beneficiamento de Café Verde, Fábricas, Centros de Vendas e Distribuição, Transit Points, Cafeterias e Centros de Assistência Técnica, todos conectados com o mercado e interligados por uma Unidade Integradora. \nA sede corporativa da empresa está localizada na cidade de Eusébio, no Ceará. O edifício corporativo João Alves de Lima é uma homenagem ao fundador do Grupo e aos laços legítimos e duradouros que construímos desde 1959. \nToda essa plataforma integrada nos permite acompanhar o café desde o beneficiamento até a mesa dos consumidores no Brasil e no mundo. Atualmente, estamos presentes em todos os estados brasileiros, chegando a mais de 400 mil pontos de venda. Dessa forma, podemos sempre estar onde estão as pessoas, produzir o café do jeito que elas gostam e gerar experiências e memórias prazerosas com nossos produtos e serviços.\nA cada ano, a 3corações expande também sua atuação no mercado internacional, com a exportação de café verde e produtos industrializados para mais de 20 países. ",
+    "inventoriesId": [
+        8673,
+        8629
+    ],
+    "logoId": "0b3e39c8-9aab-55ce-e030-3a1a00df903c",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

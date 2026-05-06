@@ -1,0 +1,30 @@
+{
+    "id": 8807,
+    "name": "CRESOL",
+    "about": "No dia 24 de junho de 1995, no interior do Paraná, nasceu Cresol. Um sistema cooperativo que se desafiou a ser e fazer a diferença e hoje se destaca como uma das principais cooperativas financeiras do Brasil. \n\nO Sistema Cresol tem mais de 1 milhão de cooperados e conta com mais de 935 agências de relacionamento em 19 estados brasileiros, em um trabalho com foco no atendimento personalizado, fornecendo soluções financeiras para gerar desenvolvimento dos cooperados, de seus empreendimentos e de toda a comunidade. \n\nA Cresol Baser atua em 16 estados brasileiros (Paraná, Santa Catarina, Rio Grande do Sul, Minas Gerais, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Rondônia, São Paulo, Rio de Janeiro, Pará, Amazonas, Bahia, Alagoas e Sergipe) e conta com 464 agências de relacionamento e mais de 450 mil cooperados e mais de 5.180 colaboradores.",
+    "inventoriesId": [
+        8931
+    ],
+    "logoId": "eb5b0b88-ecfb-9ae9-c6b1-3a19fb06c70d",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

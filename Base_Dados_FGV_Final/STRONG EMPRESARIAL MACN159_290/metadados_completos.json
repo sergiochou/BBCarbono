@@ -1,0 +1,60 @@
+{
+    "id": 290,
+    "name": "STRONG EMPRESARIAL (#M.ACN159)",
+    "about": "A STRONG está presente nas unidades Santos, ABC - onde tem os campi Almirante e Jacarandás, Alphaville e Osasco, e atua em diversas frentes. Entre elas a STRONG Educacional, desenvolvida para a oferta de cursos conveniados com a Fundação Getulio Vargas (FGV), desde 1997, nas seguintes modalidades de ensino: Pós-graduação em nível especialização lato sensu e atualização, Cursos de Curta Duração em Administração de Empresas (CADEMP), Programa de Educação Continuada (PEC-FGV), EAD Docência e in-company.\r\n\r\nA STRONG Internacional oferece módulos de Pós-graduação, um módulo de Graduação, além de cursos de extensão e de idiomas em universidades renomadas no exterior.\r\n\r\nBraço tecnológico da empresa, a STRONG Solutions tem parceria com a Microsoft, aliança fundamental para oferecer capacitações em TI com cursos on-line e presenciais. A STRONG Editora tem a finalidade de disseminar informações aos meios acadêmicos e à gestão de negócios.\r\n\r\nO sucesso no ramo educacional motivou os gestores da STRONG a desenvolverem o projeto da Escola Superior de Administração e Gestão (ESAGS), criada em 2000, para a oferta de graduação e atualização profissional",
+    "inventoriesId": [
+        2630,
+        2009,
+        201,
+        3015,
+        3327,
+        3626,
+        3931
+    ],
+    "logoId": "4de4dcff-0a8e-43a4-93a2-de0bd8ba2425",
+    "sector": {
+        "id": 16,
+        "name": "Educação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

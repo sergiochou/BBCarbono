@@ -1,0 +1,35 @@
+{
+    "id": 8276,
+    "name": "TERRA NORTE METAIS",
+    "about": "A Terra Norte Metais é uma produtora de ferro gusa verde, localizada em Marabá (PA), no maior complexo minerador a céu aberto do mundo. A empresa tem ampliado sua produção com foco em práticas sustentáveis, a fim de atender à crescente demanda por produtos com menor impacto ambiental.\nSua missão é operar de forma sustentável e inovadora na fabricação de produtos siderúrgicos, com segurança, qualidade e responsabilidade socioambiental, promovendo o desenvolvimento humano e a continuidade do negócio.",
+    "inventoriesId": [
+        7880,
+        7898
+    ],
+    "logoId": "7766e3f8-6055-3cdd-5f98-3a1932fdc64b",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 14,
+        "acronym": "PA",
+        "name": "Pará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

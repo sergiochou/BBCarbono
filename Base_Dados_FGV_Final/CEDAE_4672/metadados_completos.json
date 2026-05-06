@@ -1,0 +1,75 @@
+{
+    "id": 4672,
+    "name": "CEDAE",
+    "about": null,
+    "inventoriesId": [
+        6091,
+        6246,
+        6429,
+        6436,
+        6427,
+        6409,
+        6215,
+        6092,
+        7287,
+        8923
+    ],
+    "logoId": "051c6ee7-e812-4943-8eaa-ab02b368b7c9",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2019,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2017,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

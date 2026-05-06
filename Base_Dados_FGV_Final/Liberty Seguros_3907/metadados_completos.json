@@ -1,0 +1,45 @@
+{
+    "id": 3907,
+    "name": "Liberty Seguros",
+    "about": "O Grupo Liberty Brasil é formado pelas empresas de seguros e assistência Liberty Seguros, Indiana Seguros, Liberty Agrega e Fácil Assist, que juntas reúnem 3 mil colaboradores. Com filiais em todo o Brasil, mais de 20 mil corretores e 3,6 milhões de clientes ativos, o grupo faz parte da Liberty Mutual Insurance, um dos principais conglomerados seguradores globais, com operações em 30 países e mais de 800 escritórios em todo o mundo. No primeiro trimestre de 2023, a Liberty Seguros passou a ser a principal operação da Mutual depois dos Estados Unidos. Presente no mercado brasileiro desde 1996, a companhia registrou prêmios de R$ 5.8 bilhões em 2022, e atualmente ocupa a 8ª posição entre as maiores seguradoras do país e a 4ª entre as principais em auto. Com um portfólio de soluções de seguros para pessoas físicas, empresas e presença em diversos canais de venda, a Liberty é pioneira em seguros personalizados para funcionários de empresas, com o seguro de afinidade (Affinity) e é especialista em vendas no canal Concessionária, intermediado pela marca Indiana Seguros.",
+    "inventoriesId": [
+        5539,
+        5540,
+        5538,
+        6509
+    ],
+    "logoId": "ad2e259c-e452-4405-8b09-96d563bd0a61",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,372 @@
+[
+    {
+        "empresa_pasta": "Marimex_8604",
+        "id_fgv": 8604,
+        "nome_oficial": "Marimex ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 17517.465,
+                    "emissoes_escopo_2": 185.83,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 17703.295,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MASP_2976",
+        "id_fgv": 2976,
+        "nome_oficial": "MASP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 58.7,
+                    "emissoes_escopo_2": 157.344,
+                    "emissoes_escopo_3": 302.456,
+                    "total_emissoes": 518.5,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 0.356,
+                    "emissoes_escopo_2": 130.605,
+                    "emissoes_escopo_3": 93.121,
+                    "total_emissoes": 224.082,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 0.94,
+                    "emissoes_escopo_2": 302.381,
+                    "emissoes_escopo_3": 21.608,
+                    "total_emissoes": 324.929,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 0.948,
+                    "emissoes_escopo_2": 94.98,
+                    "emissoes_escopo_3": 85.175,
+                    "total_emissoes": 181.103,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Artes, cultura, esporte e recreação",
+                    "emissoes_escopo_1": 23.326,
+                    "emissoes_escopo_2": 104.548,
+                    "emissoes_escopo_3": 307.275,
+                    "total_emissoes": 435.149,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Artes,\u0002cultura,\u0002esporte\u0002e\u0002recreação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MDC Energia_4503",
+        "id_fgv": 4503,
+        "nome_oficial": "MDC Energia",
+        "estado": "BA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 3737.931,
+                    "emissoes_escopo_2": 816.184,
+                    "emissoes_escopo_3": 3078.214,
+                    "total_emissoes": 7632.329,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 5950.163,
+                    "emissoes_escopo_2": 756.641,
+                    "emissoes_escopo_3": 3344.908,
+                    "total_emissoes": 10051.712,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade e gás",
+                    "emissoes_escopo_1": 2757.44,
+                    "emissoes_escopo_2": 668.369,
+                    "emissoes_escopo_3": 824.531,
+                    "total_emissoes": 4250.34,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "MERCEDESBENZ CARS  VANS BRASIL_5674",
+        "id_fgv": 5674,
+        "nome_oficial": "MERCEDES-BENZ CARS & VANS BRASIL",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 91.953,
+                    "emissoes_escopo_2": 11.149,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 103.102,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 76.536,
+                    "emissoes_escopo_2": 2.922,
+                    "emissoes_escopo_3": 193.685,
+                    "total_emissoes": 273.143,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 27.366,
+                    "emissoes_escopo_2": 19.171,
+                    "emissoes_escopo_3": 677.541,
+                    "total_emissoes": 724.078,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Mercur_1720",
+        "id_fgv": 1720,
+        "nome_oficial": "Mercur",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 139.86,
+                    "emissoes_escopo_2": 268.33,
+                    "emissoes_escopo_3": 2719.83,
+                    "total_emissoes": 3128.02,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 110.253,
+                    "emissoes_escopo_2": 135.757,
+                    "emissoes_escopo_3": 2287.64,
+                    "total_emissoes": 2533.65,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Metaflex_6082",
+        "id_fgv": 6082,
+        "nome_oficial": "Metaflex",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 291.515,
+                    "emissoes_escopo_2": 46.688,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 338.203,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Metagraf_6081",
+        "id_fgv": 6081,
+        "nome_oficial": "Metagraf",
+        "estado": "RS",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 199.97,
+                    "emissoes_escopo_2": 44.481,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 244.451,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Metal Group Participações LTDA_8318",
+        "id_fgv": 8318,
+        "nome_oficial": "Metal Group Participações LTDA",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias\u0002de\u0002transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Metalurgica Kratochvil_7257",
+        "id_fgv": 7257,
+        "nome_oficial": "Metalurgica Kratochvil",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1.049,
+                    "emissoes_escopo_2": 1.4,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 2.449,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 0.6,
+                    "emissoes_escopo_2": 2.404,
+                    "emissoes_escopo_3": 2.299,
+                    "total_emissoes": 5.303,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "METRÔDF_8837",
+        "id_fgv": 8837,
+        "nome_oficial": "METRÔ-DF",
+        "estado": "DF",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 135.533,
+                    "emissoes_escopo_2": 3295.636,
+                    "emissoes_escopo_3": 404.116,
+                    "total_emissoes": 3835.285,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

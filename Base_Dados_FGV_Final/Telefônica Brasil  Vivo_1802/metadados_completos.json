@@ -1,0 +1,95 @@
+{
+    "id": 1802,
+    "name": "Telefônica Brasil | Vivo",
+    "about": "Somos a Telefônica Brasil S.A., a maior empresa de telecomunicações do país, com mais 32 mil colaboradores diretos, aproximadamente 100 mil aliados, como chamamos nossos prestadores de serviços e terceirizados, e 116,7 milhões de acessos. Comercializamos nossos serviços e soluções através da marca Vivo, que é reconhecida como uma das mais valiosas do Brasil dentre todos os setores.\nNos tornamos um hub digital que facilita o acesso dos nossos clientes a serviços em diferentes áreas, como entretenimento, soluções digitais, finanças e saúde, além de atuar na prestação de serviços de telecomunicações fixa e móvel em todo o território nacional e contar com um portfólio de produtos completo e convergente para clientes B2C e B2B.\nA Vivo tem como propósito “Digitalizar para Aproximar”, orientando suas ações por pilares estratégicos como o “Futuro Vivo”, que integra transformação digital e sustentabilidade. Sua atuação ESG é organizada em frentes estratégicas monitoradas por mais de 100 indicadores integrados no Plano de Sustentabilidade (PS) e reportados de forma consolidada ao Conselho de Administração.Esta estratégia ESG permitiu que a Telefônica Brasil integrasse a carteira Dow Jones Sustainability World Index, configurando como a única telecom brasileira. A Companhia também é uma das líderes no Índice de Sustentabilidade Empresarial – ISE B3 e no The Sustainability Yearbook 2026 (top 10%).\nA contenção da crise climática é uma pauta prioritária para a Telefônica Brasil, desde 2010 a companhia elabora seu inventário de emissões, seguindo as diretrizes metodológicas do GHG Protocol, baseadas nos princípios de relevância, integralidade, consistência, transparência e exatidão. Diante da urgência climática em limitar o aquecimento global a 1.5°C, após a assinatura do Acordo de Paris, a Vivo intensificou seus esforços para redução de emissões e estabeleceu metas ambiciosas para reduzir suas emissões de gases de efeito estufa.\nEm 2024, durante o ESG Day, o CEO da Companhia anunciou o novo compromisso público em clima, no qual a empresa compromete-se a atingir o Net Zero (zero emissões líquidas) até 2035 - cinco anos antes da meta prevista anteriormente, um feito inédito para grades empresas do setor.\nEm 2025, realizamos o Encontro Futuro Vivo, evento da marca Vivo dedicado a ampliar o debate sobre sustentabilidade; na ocasião, anunciamos o projeto Floresta Futuro Vivo, uma iniciativa de longo prazo focada em restauração florestal e proteção da biodiversidade, sinalizando um novo patamar de ambição em sustentabilidade.\nDesde 2018, a companhia utiliza 100% de eletricidade renovável em sua operação, proveniente de uma composição de I-RECs, mercado livre e do projeto de geração distribuída. Além disso, desde 2023 a Telefônica Brasil mantém uma redução de 90% nas emissões de escopos 1 e 2, em comparação com o ano base de 2015.\nOs serviços que a Telefônica Brasil oferece aos clientes, além de serem de baixo carbono, também ajudam seus usuários a reduzirem suas próprias emissões e se adaptarem às mudanças climáticas, incentivando ações concretas em favor do planeta e das pessoas. Na medida em que nossos serviços de conexão, nuvem e Internet das Coisas (IoT) promovem mudanças comportamentais, reduzem deslocamentos e consumo de energia, apoiamos nossos clientes B2B em sua jornada de descarbonização.\nDesde 2023 publicamos anualmente nosso Plano de Ação Climática, no qual apresentamos os objetivos de Energia e Mudanças Climáticas para os anos de 2025, 2030 e 2035. O plano reforça a preocupação da companhia com as mudanças climáticas e detalha a estratégia da organização para o clima em cinco modelos fundamentais: operacional, cadeia de valor, comercial, econômico e de governança.",
+    "inventoriesId": [
+        565,
+        44,
+        2141,
+        2358,
+        1612,
+        2806,
+        3173,
+        3727,
+        3793,
+        4184,
+        5058,
+        6123,
+        7339,
+        8388
+    ],
+    "logoId": "d71b58aa-8cab-4e47-bc20-12dc300a02a4",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

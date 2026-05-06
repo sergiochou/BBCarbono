@@ -1,0 +1,40 @@
+{
+    "id": 4953,
+    "name": "Bracell",
+    "about": "A Bracell é líder mundial na produção de celulose solúvel e uma das principais produtoras globais de celulose de eucalipto. A Companhia tem operações industriais no Polo Industrial de Camaçari (BA), no Distrito Industrial de Lençóis Paulista (SP), em Feira de Santana (BA), São Gonçalo dos Campos (BA) e Pombos (PE), e operações florestais – da silvicultura à colheita – nos estados da Bahia, de São Paulo e de Sergipe.\n\nA Bracell é membro da RGE (Royal Golden Eagle), um grupo global de empresas de manufatura baseadas em recursos de base biológica renováveis e energia, fornecidos para cem mercados em todo o mundo. A RGE atua em toda a cadeia produtiva — desde as etapas iniciais, com o desenvolvimento e manejo sustentável de recursos, até as fases finais, nas quais suas empresas produzem itens de alto valor agregado para o mercado global.\n\nComo líder global em fibras naturais sustentáveis, óleos comestíveis, embalagens verdes e soluções de energia mais limpa, a RGE constrói negócios duradouros, integrando a sustentabilidade como um facilitador do crescimento, ao mesmo tempo em que promove um futuro mais verde e positivo para a natureza. Mantemos o compromisso com o desenvolvimento sustentável, a conservação e o empoderamento comunitário, guiados pela nossa filosofia dos 5 Cs: fazer o que é bom para a Comunidade, o País (Country), o Clima e o Cliente, e só assim será bom para a Empresa (Company).\n\nNossos produtos são fabricados a partir da celulose, polímero natural, renovável e biodegradável, produzido a partir de madeira de eucalipto de florestas plantadas e certificadas sob manejo da Bracell ou adquirida de fontes controladas.\n\nProduzimos três tipos de celulose: celulose de eucalipto branqueada (kraft), celulose solúvel (rayon-grade) e celulose especial (specialty-grade), que são utilizadas para fabricação de diversos produtos. Além disso, por meio da Bracell Papéis, atuamos também no segmento de produtos de consumo no mercado brasileiro: papel higiênico, papel-toalha, guardanapos e fraldas.\n\nA Bracell possui fábricas em São Paulo, Bahia e Pernambuco, dedicadas à produção de celulose e de papel. Temos, ainda, operações florestais próprias – da silvicultura à colheita de eucalipto – nos estados de São Paulo, da Bahia e de Sergipe.\n\nA Companhia se destaca pela utilização de tecnologias voltadas à eficiência operacional e à qualidade dos produtos. Comprometida com a inovação e a sustentabilidade, adota práticas alinhadas à legislação vigente, às exigências de certificações florestais e industriais, normas regulatórias e protocolos internacionais de sustentabilidade.",
+    "inventoriesId": [
+        6065,
+        7453,
+        8971
+    ],
+    "logoId": "5e60fad7-f7e2-400c-853b-3da336222571",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

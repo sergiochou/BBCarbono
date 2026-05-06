@@ -1,0 +1,100 @@
+{
+    "id": 1461,
+    "name": "Klabin",
+    "about": "Há mais de 125 anos, a Klabin tem feito parte da vida diária de milhões de pessoas, criando soluções sustentáveis personalizadas para vários sectores industriais. A Klabin é o maior fabricante e exportador de papel do Brasil e o principal produtor de papel e cartão para embalagem, sacos industriais e embalagens de cartão canelado. Além disso, somos a única empresa brasileira a fornecer simultaneamente celulose de fibra dura (eucalipto), celulose de fibra macia (pinho) e celulose fluff para o mercado.\nFundada no Brasil em 1899, conta atualmente com 22 unidades industriais, com 21 unidades distribuídas em dez estados brasileiros e uma na Argentina. A Klabin tem também escritórios comerciais em vários estados brasileiros, uma filial nos Estados Unidos, Áustria, e representantes e agentes comerciais em muitos países. Em 2020, a Klabin adquiriu cinco unidades da International Paper.\n \nO papel e cartão para embalagem fabricado, bem como as embalagens de cartão ondulado e sacos industriais oferecem proteção e segurança a alimentos, bebidas, produtos de higiene e limpeza, electrónica e aparelhos de consumo, cimento, sementes, farinha de trigo, produtos químicos e outros artigos.\n \nO Programa de Integridade da Klabin compreende uma série de procedimentos para prevenir, detectar e remediar condutas que possam expor a Klabin a situações indesejáveis, ao mesmo tempo que implementa as melhores práticas globais relacionadas com o assunto. Desta forma, a Klabin demonstra o seu empenho na construção de relações éticas, contribuindo para um ambiente empresarial mais transparente, reforçando a sua imagem, reputação e estratégia empresarial e ajudando a construir uma sociedade mais justa e sustentável. O programa, que está alinhado com os Objetivos de Desenvolvimento Sustentável da ONU (ODS), visa qualquer pessoa que trabalhe ou interaja com a Klabin nos sectores público ou privado.\n \nSomos uma referência mundial em desenvolvimento sustentável. As nossas operações florestais e industriais baseiam-se neste conceito para ajudar a preservar a biodiversidade e o equilíbrio ecológico dos ecossistemas que rodeiam as nossas operações. A política de sustentabilidade da Klabin integra toda a cadeia de produção para oferecer ao mercado produtos ambientalmente responsáveis.\n \nA Klabin reserva cerca de 41% de suas terras para florestas nativas preservadas. Pioneira na adoção do conceito de desenvolvimento sustentável, a Klabin foi a primeira empresa de celulose e papel do Hemisfério Sul a obter, em 1998, a certificação Forest Stewardship Council®-FSC®, que atesta práticas de manejo conservadoras de recursos naturais, proporcionando um trabalho justo condições e incentivar relações saudáveis com as comunidades locais. \nPioneira na adoção de conceitos de plantio em mosaico (sistema que mescla florestas nativas preservadas com florestas plantadas) em seu manejo florestal, a Klabin possui 461 mil hectares plantados com pinus e eucalipto e 373 mil hectares de florestas nativas preservadas.\n \nPara a Klabin, a sustentabilidade é a criação contínua de valor que dá prioridade ao equilíbrio entre as dimensões económica, social e ambiental. Somos uma empresa florestal única com uma gestão responsável que está empenhada na biodiversidade. Trabalhamos em colaboração com os nossos clientes e fornecedores, sempre orientados pela inovação e pela melhoria constante dos nossos produtos e processos.\n \nJuntos, promovemos o envolvimento e desenvolvimento do nosso povo e comunidades locais para alcançar resultados cada vez melhores e sustentáveis para toda a cadeia de valor. Influenciamos direta e indiretamente a dinâmica social e econômica das comunidades que vivem nas cidades onde operamos. Mais do que oferecer boas oportunidades de emprego, a Klabin investe na região para que toda a população beneficie de iniciativas nas áreas do desenvolvimento local, educação, cultura e educação ambiental. A Klabin também oferece aos seus empregados programas para promover o seu desenvolvimento pessoal e iniciativas de voluntariado.\n \nTodas as operações da Klabin incorporam na sua estratégia aspectos de gestão ambiental, tais como água, energia, alterações climáticas e biodiversidade. Desta forma, a empresa reforça o seu compromisso de preservar os recursos naturais, por exemplo, trabalhando para reduzir a utilização de recursos não renováveis, controlando os impactos ambientais, monitorizando a biodiversidade e preservando a fauna e flora nas florestas onde opera.\n \nPara garantir a qualidade, atestar a credibilidade dos nossos produtos e reforçar o nosso compromisso de melhoria contínua, os nossos processos são certificados por uma série de sistemas e metodologias amplamente reconhecidos no mercado global. As certificações que a Klabin detém atestam os seus esforços pioneiros na satisfação das necessidades dos seus clientes e na antecipação das tendências do mercado.\n \nA Klabin tem uma equipa de investigação a trabalhar em duas instalações de investigação centradas na melhoria da sua cadeia de produção. A primeira - o Centro de Investigação Florestal em Lagoa, Telêmaco Borba (PR) - dedica-se ao estudo de tudo o que está relacionado com a cadeia florestal, tais como melhoramento genético, qualidade da madeira, estudos do solo e do clima, adaptação genética, controlo de pragas e biotecnologia, entre outros. A missão do outro Centro Tecnológico, também localizado em Telêmaco, é melhorar a qualidade dos produtos, antecipando ao mesmo tempo tendências e desenvolvendo novas tecnologias e aplicações sustentáveis. Os profissionais procuram soluções para um consumo cada vez mais eficiente de insumos, a fim de minimizar os impactos ambientais.\n \nA empresa cria mais de 18.000 postos de trabalho (diretos e indiretos) e investe regularmente no desenvolvimento de pessoas para promover competências específicas ao seu negócio, bem-estar e segurança.",
+    "inventoriesId": [
+        630,
+        13,
+        2445,
+        2185,
+        1626,
+        2904,
+        3349,
+        3598,
+        3998,
+        4298,
+        4511,
+        5008,
+        5827,
+        7370,
+        8792
+    ],
+    "logoId": "09a9dea2-7039-4758-8984-ce5370fef576",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2011,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2017,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2018,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

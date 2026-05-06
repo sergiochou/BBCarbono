@@ -1,0 +1,30 @@
+{
+    "id": 4367,
+    "name": "Somos - Gestão de Ações Coletivas",
+    "about": "A Somos é uma empresa de gestão de ações coletivas. Sua atuação é a oferta de conhecimento de forma personalizada para escritórios de advocacia que trabalham com causas coletivas. Os serviços incluem gestão de processos, projetos de tecnologia, marketing e atendimento ao cliente. A empresa é comprometida com a melhoria da qualidade de vida na sociedade por meio do apoio operacional para ações judiciais que objetivam tornar o mundo um lugar melhor e mais justo. A Política Ambiental da Somos está alinhada aos Objetivos do Desenvolvimento Sustentável da Agenda 2030 da  Organização das Nações Unidas, pois a empresa se preocupa com o atual cenário de emergência climática e de perda da biodiversidade que tem gerado graves impactos socioambientais e devem se agravar nas próximas décadas. ",
+    "inventoriesId": [
+        5657
+    ],
+    "logoId": "36958111-a435-4cea-a56a-965f507fd0d7",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

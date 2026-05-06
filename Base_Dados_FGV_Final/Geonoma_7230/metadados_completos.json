@@ -1,0 +1,35 @@
+{
+    "id": 7230,
+    "name": "Geonoma",
+    "about": "A Geonoma (geonoma.eco) atua há 15 anos na conservação da biodiversidade e na solução de conflitos entre produção e preservação do meio ambiente, com foco na sustentabilidade e no combate às mudanças climáticas. Para além de cumprir a legislação ambiental, atuamos com responsabilidade em relação à preservação, manutenção e uso sustentável dos recursos naturais. Dessa forma, a Geonoma possui ampla experiência com atividades relacionadas a sustentabilidade, restauração de áreas degradadas, assessoria em licenciamento ambiental, adequação ambiental de propriedades, planejamento de uso do solo, inventário florestal e manejo de áreas naturais. Atuamos em todos os biomas e regiões do país. Como parte de seu propósito de valoração dos serviços ecossistêmicos, a Geonoma ampliou sua área de atuação, passando a abarcar também as iniciativas de redução de emissões. Oferecemos soluções integradas para o desenvolvimento sustentável, desde o inventário de emissões de gases de efeito estufa, passando por soluções de descarbonização até a geração de créditos de alta integridade. Em outubro de 2022 a Geonoma concretizou a sua parceria com a empresa suíça Mercuria Energy Trading (www.mercuria.com), uma das maiores traders privadas de energia e commodities. A nova sociedade ampliou a nossa capacidade de atuação e potencializou o talento do nosso time. Junto com a Mercuria, a Geonoma tem um projeto ambicioso de fortalecer a corrente de fornecedores capazes de implementar e desenvolver a descarbonização dos negócios no Brasil. A Geonoma, por sua característica de atuar em uma frente ampla no mercado de serviços ambientais tem uma estratégia de prestação de serviços 360º e uma presença territorial em todo o Brasil.",
+    "inventoriesId": [
+        6962,
+        8227
+    ],
+    "logoId": "67adc76f-0241-aa91-20b6-3a126ab00a52",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

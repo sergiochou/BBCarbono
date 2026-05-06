@@ -1,0 +1,626 @@
+[
+    {
+        "empresa_pasta": "TEG  TERMINAL EXPORTADOR DO GUARUJA LTDA_8328",
+        "id_fgv": 8328,
+        "nome_oficial": "TEG - TERMINAL EXPORTADOR DO GUARUJA LTDA.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 1034.103,
+                    "emissoes_escopo_2": 303.884,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1337.987,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,pecuária,produçãoflorestal,pescaeaqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Tegma_3249",
+        "id_fgv": 3249,
+        "nome_oficial": "Tegma",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 5874.753,
+                    "emissoes_escopo_2": 333.615,
+                    "emissoes_escopo_3": 154931.605,
+                    "total_emissoes": 161139.973,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 3824.341,
+                    "emissoes_escopo_2": 275.147,
+                    "emissoes_escopo_3": 115440.653,
+                    "total_emissoes": 119540.141,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2256.162,
+                    "emissoes_escopo_2": 346.118,
+                    "emissoes_escopo_3": 136992.499,
+                    "total_emissoes": 139594.779,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 2020.479,
+                    "emissoes_escopo_2": 120.902,
+                    "emissoes_escopo_3": 101016.231,
+                    "total_emissoes": 103157.612,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1884.928,
+                    "emissoes_escopo_2": 112.721,
+                    "emissoes_escopo_3": 107922.204,
+                    "total_emissoes": 109919.853,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TEGRA INCORPORADORA_4559",
+        "id_fgv": 4559,
+        "nome_oficial": "TEGRA INCORPORADORA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 48.424,
+                    "emissoes_escopo_2": 107.287,
+                    "emissoes_escopo_3": 36342.835,
+                    "total_emissoes": 36498.546,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 277.717,
+                    "emissoes_escopo_2": 117.982,
+                    "emissoes_escopo_3": 46116.48,
+                    "total_emissoes": 46512.179,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [
+                "Corredor dos Senandes CDM Project",
+                "Declaração de Verificação de inventário de emissões de gases de efeito estufa",
+                "Programa Brasileiro GHG Protocol",
+                "Esta Declaração de Verificação1 documenta que o Organismo de Verificação (OV) citado abaixo realizou as",
+                "atividades de verificação de acordo com as Especificações de Verificação do Programa Brasileiro GHG Protocol",
+                "e a norma ABNT NBR ISO 14064-3:2007.",
+                "Todos os campos são de preenchimento obrigatório.",
+                "Nome da OI: TEGRA INCORPORADORA S.A. (Ciclo",
+                "Nome do OV: Instituto Totum",
+                "Nome do responsável pelo inventário: Djanio Alves de"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Telefônica Brasil  Vivo_1802",
+        "id_fgv": 1802,
+        "nome_oficial": "Telefônica Brasil | Vivo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 6361.92,
+                    "emissoes_escopo_2": 99094.33,
+                    "emissoes_escopo_3": 11619.92,
+                    "total_emissoes": 117076.17,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 7557.76,
+                    "emissoes_escopo_2": 48425.529,
+                    "emissoes_escopo_3": 5926.508,
+                    "total_emissoes": 61909.797,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 5934.81,
+                    "emissoes_escopo_2": 95646.0,
+                    "emissoes_escopo_3": 3510.94,
+                    "total_emissoes": 105091.75,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 24146.697,
+                    "emissoes_escopo_2": 138795.184,
+                    "emissoes_escopo_3": 4733.659,
+                    "total_emissoes": 167675.54,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 9885.981,
+                    "emissoes_escopo_2": 211220.98,
+                    "emissoes_escopo_3": 7507.2,
+                    "total_emissoes": 228614.161,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 27694.451,
+                    "emissoes_escopo_2": 211809.12,
+                    "emissoes_escopo_3": 6419.568,
+                    "total_emissoes": 245923.139,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 28787.025,
+                    "emissoes_escopo_2": 126755.096,
+                    "emissoes_escopo_3": 6737.255,
+                    "total_emissoes": 162279.376,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 36433.225,
+                    "emissoes_escopo_2": 165017.192,
+                    "emissoes_escopo_3": 5879.206,
+                    "total_emissoes": 207329.623,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 27350.429,
+                    "emissoes_escopo_2": 133698.775,
+                    "emissoes_escopo_3": 445947.338,
+                    "total_emissoes": 606996.542,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 28801.889,
+                    "emissoes_escopo_2": 138101.684,
+                    "emissoes_escopo_3": 630512.304,
+                    "total_emissoes": 797415.877,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Informação\u0002e\u0002comunicação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 26550.102,
+                    "emissoes_escopo_2": 230944.526,
+                    "emissoes_escopo_3": 346715.392,
+                    "total_emissoes": 604210.02,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 12781.204,
+                    "emissoes_escopo_2": 74682.067,
+                    "emissoes_escopo_3": 281580.786,
+                    "total_emissoes": 369044.057,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Informação e comunicação",
+                    "emissoes_escopo_1": 11273.693,
+                    "emissoes_escopo_2": 66502.058,
+                    "emissoes_escopo_3": 302357.569,
+                    "total_emissoes": 380133.32,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2035,
+                "descricao": "esa compromete-se a atingir o Net Zero (zero emissões líquidas) até 2035 - cinco anos antes da meta prevista anteriormente, um feitoinéditoparagradese"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Tempo_4948",
+        "id_fgv": 4948,
+        "nome_oficial": "Tempo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades financeiras, de seguros e serviços relacionados",
+                    "emissoes_escopo_1": 287.212,
+                    "emissoes_escopo_2": 63.69,
+                    "emissoes_escopo_3": 37135.438,
+                    "total_emissoes": 37486.34,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 658.363,
+                    "emissoes_escopo_2": 66.032,
+                    "emissoes_escopo_3": 40812.303,
+                    "total_emissoes": 41536.698,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TERMAG_4633",
+        "id_fgv": 4633,
+        "nome_oficial": "TERMAG",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1145.259,
+                    "emissoes_escopo_2": 211.891,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1357.15,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 1019.365,
+                    "emissoes_escopo_2": 145.7,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 1165.065,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,armazenagemecorreio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Terminal XXXIX de Santos SA_8207",
+        "id_fgv": 8207,
+        "nome_oficial": "Terminal XXXIX de Santos SA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 809.839,
+                    "emissoes_escopo_2": 316.787,
+                    "emissoes_escopo_3": 204.371,
+                    "total_emissoes": 1330.997,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Ternium Brasil Ltda_2043",
+        "id_fgv": 2043,
+        "nome_oficial": "Ternium Brasil Ltda",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9211467.868,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 188460.635,
+                    "total_emissoes": 9399928.503,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9800117.228,
+                    "emissoes_escopo_2": 4559.4,
+                    "emissoes_escopo_3": 373276.286,
+                    "total_emissoes": 10177952.914,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9995779.536,
+                    "emissoes_escopo_2": 7348.397,
+                    "emissoes_escopo_3": 1087292.697,
+                    "total_emissoes": 11090420.63,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9861517.498,
+                    "emissoes_escopo_2": 1290.282,
+                    "emissoes_escopo_3": 1346564.331,
+                    "total_emissoes": 11209372.111,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10765855.107,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1310908.779,
+                    "total_emissoes": 12076763.886,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10364168.2,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1066290.72,
+                    "total_emissoes": 11430458.92,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10215009.9,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 868267.182,
+                    "total_emissoes": 11083277.082,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9494323.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 877537.796,
+                    "total_emissoes": 10371860.796,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10362750.247,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1328722.496,
+                    "total_emissoes": 11691472.743,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 9977672.22,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 1342069.69,
+                    "total_emissoes": 11319741.91,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TERRA NORTE METAIS_8276",
+        "id_fgv": 8276,
+        "nome_oficial": "TERRA NORTE METAIS",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 13764.29,
+                    "emissoes_escopo_2": 264.85,
+                    "emissoes_escopo_3": 1959.736,
+                    "total_emissoes": 15988.876,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TES  TERMINAL EXPORTADOR DE SANTOS SA_8330",
+        "id_fgv": 8330,
+        "nome_oficial": "TES - TERMINAL EXPORTADOR DE SANTOS S.A.",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+                    "emissoes_escopo_1": 154.034,
+                    "emissoes_escopo_2": 530.407,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 684.441,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Agricultura,pecuária,produçãoflorestal,pescaeaqüicultura",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

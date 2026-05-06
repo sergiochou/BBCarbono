@@ -1,0 +1,35 @@
+{
+    "id": 6161,
+    "name": "Expocacer",
+    "about": "Nascemos da soma de muitas histórias empreendedoras, em uma região de atitude, e de cada uma delas aproveitamos o melhor, nos preparando para sonhar mais alto e inovar cada vez mais.\n\nSomos uma cooperativa de vanguarda, atuando em uma era repleta de transformações, conectada aos desafios do futuro das pessoas e do planeta.\n\nOtimistas, exploramos novas possibilidades e somos inquietos pelo progresso. Colaborativos, crescemos juntos estimulando e inspirando o futuro e a transformação. Ousados, ultrapassamos limites e vamos mais longe do que nunca.\n\nQueremos ser protagonistas deste movimento fascinante rumo a uma cafeicultura de qualidade com impacto. E estamos aqui para fornecer conhecimento, suporte e novas ferramentas que ajudem os cafeicultores e o ecossistema do café a crescer de forma sustentável, colaborando com ideias regenerativas e diálogos transparentes.\n\nMais do que uma cooperativa, somos produtores, colaboradores, parceiros e consumidores visando inspirar mudanças e a expansão progressiva de valor, em cada decisão, gerando impacto positivo e estabelecendo nosso compromisso com o futuro da cafeicultura.\n\nInspirar, fomentar e nutrir uma cafeicultura de vanguarda atrelada ao impacto. Nosso propósito é o nosso compromisso, nossa razão de existir. É a diferença e a mudança positiva que estamos fazendo em nossa empresa e para o mundo do café.",
+    "inventoriesId": [
+        7235,
+        7879
+    ],
+    "logoId": "b39a5ce5-368e-ead9-7856-3a1242fbecce",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

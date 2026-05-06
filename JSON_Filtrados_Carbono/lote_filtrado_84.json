@@ -1,0 +1,465 @@
+[
+    {
+        "empresa_pasta": "TRIBUNAL DE JUSTICA DO ESTADO DO ACRE_8806",
+        "id_fgv": 8806,
+        "nome_oficial": "TRIBUNAL DE JUSTICA DO ESTADO DO ACRE",
+        "estado": "AC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 338.12,
+                    "emissoes_escopo_2": 163.938,
+                    "emissoes_escopo_3": 2059.305,
+                    "total_emissoes": 2561.363,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRIBUNAL REGIONAL FEDERAL 5 REGIÃO_8715",
+        "id_fgv": 8715,
+        "nome_oficial": "TRIBUNAL REGIONAL FEDERAL 5 REGIÃO",
+        "estado": "PE",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Administração\u0002pública,\u0002defesa\u0002e\u0002seguridade\u0002social",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 255.715,
+                    "emissoes_escopo_2": 125.005,
+                    "emissoes_escopo_3": 816.478,
+                    "total_emissoes": 1197.198,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Triunfo Participações e Investimentos  TPI_2339",
+        "id_fgv": 2339,
+        "nome_oficial": "Triunfo Participações e Investimentos - TPI",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 42865.276,
+                    "emissoes_escopo_2": 945.39,
+                    "emissoes_escopo_3": 48678.976,
+                    "total_emissoes": 92489.642,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 9100.503,
+                    "emissoes_escopo_2": 745.742,
+                    "emissoes_escopo_3": 1604.419,
+                    "total_emissoes": 11450.664,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 9679.652,
+                    "emissoes_escopo_2": 941.882,
+                    "emissoes_escopo_3": 1391.436,
+                    "total_emissoes": 12012.97,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 10569.844,
+                    "emissoes_escopo_2": 673.801,
+                    "emissoes_escopo_3": 417.588,
+                    "total_emissoes": 11661.233,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 7135.621,
+                    "emissoes_escopo_2": 668.067,
+                    "emissoes_escopo_3": 338.321,
+                    "total_emissoes": 8142.009,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 10911.962,
+                    "emissoes_escopo_2": 3153.436,
+                    "emissoes_escopo_3": 4663.277,
+                    "total_emissoes": 18728.675,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 10714.292,
+                    "emissoes_escopo_2": 1193.168,
+                    "emissoes_escopo_3": 6624.027,
+                    "total_emissoes": 18531.487,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 12563.09,
+                    "emissoes_escopo_2": 357.856,
+                    "emissoes_escopo_3": 6061.413,
+                    "total_emissoes": 18982.359,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Outras atividades de serviços",
+                    "emissoes_escopo_1": 9348.569,
+                    "emissoes_escopo_2": 188.367,
+                    "emissoes_escopo_3": 4683.079,
+                    "total_emissoes": 14220.015,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Outrasatividadesdeserviços",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TROPOC_3603",
+        "id_fgv": 3603,
+        "nome_oficial": "TROPOC",
+        "estado": "PA",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 123.023,
+                    "emissoes_escopo_2": 14.382,
+                    "emissoes_escopo_3": 1096.672,
+                    "total_emissoes": 1234.077,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 162.372,
+                    "emissoes_escopo_2": 50.886,
+                    "emissoes_escopo_3": 1251.532,
+                    "total_emissoes": 1464.79,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 235.154,
+                    "emissoes_escopo_2": 19.452,
+                    "emissoes_escopo_3": 642.735,
+                    "total_emissoes": 897.341,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Comércio; reparação de veículos automotores e motocicletas",
+                    "emissoes_escopo_1": 364.602,
+                    "emissoes_escopo_2": 23.763,
+                    "emissoes_escopo_3": 836.482,
+                    "total_emissoes": 1224.847,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRT da 13ª Região_5247",
+        "id_fgv": 5247,
+        "nome_oficial": "TRT da 13ª Região",
+        "estado": "PB",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 190.731,
+                    "emissoes_escopo_2": 78.586,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 269.317,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Administração pública, defesa e seguridade social",
+                    "emissoes_escopo_1": 51.267,
+                    "emissoes_escopo_2": 69.101,
+                    "emissoes_escopo_3": 361.076,
+                    "total_emissoes": 481.444,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administraçãopública,defesaeseguridadesocial",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "TRT9_9206",
+        "id_fgv": 9206,
+        "nome_oficial": "TRT9",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Administraçãopública,defesaeseguridadesocial",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "TSEA Energia_8708",
+        "id_fgv": 8708,
+        "nome_oficial": "TSEA Energia ",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 10652.085,
+                    "emissoes_escopo_2": 491.431,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 11143.516,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Tuper SA_3975",
+        "id_fgv": 3975,
+        "nome_oficial": "Tuper S/A",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 6009.31,
+                    "emissoes_escopo_2": 4586.42,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 10595.73,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5470.279,
+                    "emissoes_escopo_2": 1545.452,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 7015.731,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 5332.256,
+                    "emissoes_escopo_2": 1343.888,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6676.144,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 4777.033,
+                    "emissoes_escopo_2": 1891.372,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 6668.405,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Tutiplast Matriz_5977",
+        "id_fgv": 5977,
+        "nome_oficial": "Tutiplast Matriz",
+        "estado": "AM",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "liente LG: Meta (1) Se tornar Carbono neutro até 2030, (2) Até 2050 consumir 100% de energia renovável. Redução das emissões absoluta"
+            },
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Ubyfol_7338",
+        "id_fgv": 7338,
+        "nome_oficial": "Ubyfol",
+        "estado": "MG",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 895.818,
+                    "emissoes_escopo_2": 125.159,
+                    "emissoes_escopo_3": 67.244,
+                    "total_emissoes": 1088.221,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 427.073,
+                    "emissoes_escopo_2": 33.141,
+                    "emissoes_escopo_3": 166.048,
+                    "total_emissoes": 626.262,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 801.133,
+                    "emissoes_escopo_2": 27.88,
+                    "emissoes_escopo_3": 357.335,
+                    "total_emissoes": 1186.348,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 1292.128,
+                    "emissoes_escopo_2": 57.421,
+                    "emissoes_escopo_3": 181.144,
+                    "total_emissoes": 1530.693,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "id": 3848,
+    "name": "LWART SOLUÇÕES AMBIENTAIS",
+    "about": "A Lwart Soluções Ambientais é uma empresa 100% brasileira, líder nacional no segmento de coleta e rerrefino do Óleo Lubrificante Usado ou Contaminado (OLUC) e referência mundial na produção de Óleos Básicos de Alta Performance (Grupo II). Com o objetivo de avançar no caminho da sustentabilidade e na disseminação dos conceitos de economia circular, investe continuamente em inovação e desenvolvimento de pessoas para atender às demandas dos clientes e agregar valor à cadeia de logística reversa e transformação de resíduos. Atualmente somos mais de 1.300 colaboradores, divididos entre 19 centros de coleta e armazenamento temporário de OLUC e uma unidade de rerrefino para oferecer aos clientes soluções de alta qualidade e eficiência, a preços competitivos, respeitando o meio ambiente e as comunidades ao redor.",
+    "inventoriesId": [
+        5093,
+        5852,
+        6987,
+        8109
+    ],
+    "logoId": "2056d065-6377-4423-99eb-76d8adc70539",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

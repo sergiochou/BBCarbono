@@ -1,0 +1,40 @@
+{
+    "id": 4112,
+    "name": "SPIC Brasil",
+    "about": null,
+    "inventoriesId": [
+        5326,
+        6456,
+        8766
+    ],
+    "logoId": "30b33375-f661-4f5a-948a-d62a2b6ce084",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

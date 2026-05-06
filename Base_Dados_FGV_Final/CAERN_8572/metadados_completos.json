@@ -1,0 +1,30 @@
+{
+    "id": 8572,
+    "name": "CAERN",
+    "about": "A Companhia de Águas e Esgotos do Rio Grande do Norte (Caern), fundada em 1969, é uma sociedade de economia mista que atua na prestação de serviços essenciais de abastecimento de água potável e coleta de esgoto para a população do Rio Grande do Norte. O Governo do Estado do Rio Grande do Norte é o acionista majoritário com mais de 95% das ações.\nCom presença em 154 dos 167 municípios do Estado, a Caern garante o acesso à água potável para 99% da população e à coleta de esgoto para 38%. Mas este quadro está em fase de mudanças e, até 2033, 90% da população do Rio Grande do Norte contará com coleta e tratamento de esgoto, como prevê o Novo Marco Legal do Saneamento Básico.\nAlém da sede, localizada na Capital, a Caern está dividida geograficamente em Regionais, nas principais localizações do Estado: Agreste Trairi, Sertão Central, Seridó, Mato Grande, Oeste, Alto Oeste, além de Natal.\nCom a gestão pautada na Governança, a Companhia vem trabalhando nas melhorias de seu ambiente de negócios, transparência da informação, tratamento equitativo das pessoas, prestação de contas de forma clara, concisa e tempestiva, além da promoção da responsabilidade corporativa e socioambiental.",
+    "inventoriesId": [
+        8370
+    ],
+    "logoId": "04696b7f-062b-f6d2-0184-3a19fada0246",
+    "sector": {
+        "id": 5,
+        "name": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 20,
+        "acronym": "RN",
+        "name": "Rio Grande do Norte"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

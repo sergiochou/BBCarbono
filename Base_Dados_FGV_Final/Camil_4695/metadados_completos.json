@@ -1,0 +1,40 @@
+{
+    "id": 4695,
+    "name": "Camil",
+    "about": "Com mais de 60 anos de história, a Camil é uma multinacional de origem brasileira entre as maiores empresas de bens de consumo no setor de alimentos na América Latina, detendo posições de liderança nas categorias e países em que atua. \n\nCom portfólio diversificado de marcas tradicionais, consolidadas e com reconhecimento pelos consumidores, a Companhia lidera rankings e possuí participações relevantes nos mercados de arroz do Brasil, Uruguai, Chile, Peru e Equador, além de expressivas participações no mercado de grãos, açúcar, pescados enlatados, massas, biscoitos e caminhando para esse mesmo posicionamento em café torrado e moído no Brasil. \n\nA Camil possui 33 unidades de processamento e 28 centros de distribuição na América do Sul, com mais de 8 mil colaboradores. \n\nA Camil apresenta um histórico consistente de crescimento e ampliação de participação de mercado no setor de alimentos no Brasil e na América do Sul, tanto com crescimento orgânico quanto por meio de aquisições estratégicas, com diversificação de nossa atuação geográfica e categorias de produtos. \n\nA Camil atua em mercados relevantes no setor de alimentos na América do Sul, nos quais acredita haver uma perspectiva positiva, suportada pela retomada do crescimento econômico, aumento da população e fortalecimento de tendências favoráveis nos hábitos de consumo.",
+    "inventoriesId": [
+        5962,
+        6889,
+        8905
+    ],
+    "logoId": "6ef48e7f-ad64-4c83-8645-201fa21aaf5e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

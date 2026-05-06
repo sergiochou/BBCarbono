@@ -1,0 +1,35 @@
+{
+    "id": 2118,
+    "name": "Condomínio Edifício Residencial Porto di Nucci",
+    "about": "O Edifício Residencial Porto di Nucci (PdN) é um condomínio de natureza residencial, localizado em Campinas/SP, instituído sob o regime especial estatuído pelo artigo 1.332 do Código Civil Brasileiro, e residualmente, pela Lei Federal nº 4.591, de 16/dez/1964, regendo-se pelo seu instrumento particular de instituição, especificação e convenção de condomínio, devidamente registrado em 26 de janeiro de 2006 no 1º Cartório de Registro de Imóveis de Campinas sob o nº 316.042.\r\n\r\nO termo condomínio significa propriedade comum. Assim, o negócio desta organização é realizar a gestão da área comum do edifício, um prédio de sete andares com 28 unidades residenciais – apartamentos ou áreas privativas – cujos condôminos contribuem mensalmente com a taxa condominial para a manutenção das despesas e realização de investimentos, além de acatar as diretrizes determinadas na Convenção, Regulamento Interno e decisões da Assembleia.\r\n\r\nOs principais macro processos do PdN são:\r\n\r\n(1) Governança condominial: assembleias ordinárias, reuniões extraordinárias, votações, comunicação e engajamento dos condôminos na gestão condominial;\r\n\r\n(2) Portaria: controle de entrada/saída de moradores, visitantes e fornecedores, controle de entrega de correspondências, reserva do salão de festas, monitoramento das imagens das câmeras;\r\n\r\n(3) Limpeza: limpeza e conservação da área comum – hall de entrada, hall dos andares, estacionamentos, salão de festas / brinquedoteca, espaço fitness e elevador;\r\n\r\n(4) Manutenção: manutenção preventiva e corretiva da estrutura física, elétrica, hidráulica, paisagístico e estética do edifício;\r\n\r\n(5) Segurança: garantia da segurança dos moradores, colaboradores e do patrimônio;\r\n\r\n(6) Gestão econômico-financeira: balancetes mensais, taxas condominiais, cobrança de inadimplentes, investimentos, pagamento de fornecedores, movimentação bancária.",
+    "inventoriesId": [
+        104,
+        202
+    ],
+    "logoId": "21407cbd-07ab-4f21-b8ee-6ba219629036",
+    "sector": {
+        "id": 14,
+        "name": "Atividades administrativas e serviços complementares",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

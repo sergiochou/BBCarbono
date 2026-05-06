@@ -1,0 +1,35 @@
+{
+    "id": 5980,
+    "name": "Santos Brasil",
+    "about": "A Santos Brasil é uma empresa brasileira que por meio de operações portuárias e logística integrada, contribui para o desenvolvimento socioeconômico do País. São milhões de itens em operações de exportação, importação e cabotagem que passam por nossas instalações e que são fundamentais para abastecer diferentes indústrias e mercados, impactando milhões de pessoas no Brasil e no mundo. \nRealizamos operações portuárias de contêineres, veículos e carga geral, armazenagem e movimentação de granéis líquidos, serviços logísticos de recebimento de cargas no porto até o transporte e distribuição, como armazenagem, montagem, etiquetagem e gerenciamento de estoque. Nossas soluções são integradas, completas e customizadas, do porto ao cliente. \n",
+    "inventoriesId": [
+        6872,
+        7897
+    ],
+    "logoId": "05b3168c-e322-27f2-34d6-3a11d54f0389",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,75 @@
+{
+    "id": 2439,
+    "name": "Getnet",
+    "about": "A Getnet é uma empresa global PagoNxt, parte do grupo Santander, desenvolvida para criar oportunidades para empreendedores em todo o mundo com soluções em meios de pagamento. A companhia tem o objetivo de melhorar a simplicidade, velocidade e segurança dos pagamentos em gateway, gerenciamento de risco, processamento, entre outras soluções. A Getnet oferece acesso a pagamentos multicanais, sempre sob os melhores padrões antifraude.\n\nMais informações em https://getnet.com.br/.\n\n",
+    "inventoriesId": [
+        3052,
+        3134,
+        3520,
+        4069,
+        4303,
+        4504,
+        5113,
+        5822,
+        9206,
+        9208
+    ],
+    "logoId": "d4414189-cf99-4903-a022-5e2171ac6743",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

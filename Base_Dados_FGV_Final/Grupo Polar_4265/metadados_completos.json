@@ -1,0 +1,45 @@
+{
+    "id": 4265,
+    "name": "Grupo Polar",
+    "about": "O Grupo Polar é pioneiro no setor de cadeia fria no Brasil, com mais de 20 anos de liderança no desenvolvimento de soluções que asseguram a integridade térmica de produtos durante o transporte e armazenamento. Referência no mercado de Cold Chain, somos a escolha preferencial de grandes nomes da Indústria Farmacêutica, Logística e Laboratorial. Nosso compromisso vai além da entrega de soluções: buscamos disseminar conhecimento e boas práticas para aprimorar a logística e os processos em todos os elos da cadeia fria, tanto no Brasil quanto no exterior. Oferecemos soluções térmicas e de armazenagem sob medida para produtos sensíveis à temperatura, garantindo segurança, eficiência e conformidade regulatória.",
+    "inventoriesId": [
+        5504,
+        5906,
+        6879,
+        8339
+    ],
+    "logoId": "95c8a2af-2f5b-4eb3-a9bd-d3aee27fc303",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

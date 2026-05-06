@@ -1,0 +1,40 @@
+{
+    "id": 4874,
+    "name": "Copasul",
+    "about": "A Copasul – Cooperativa Agrícola Sul-Mato-Grossense, com nome fantasia Copasul, é uma cooperativa que atua fortemente no setor do agronegócio. Inscrita sob o CNPJ nº 03.902.129/0001-83, foi fundada em 1978 no município de Naviraí – MS, por 27 agricultores, em sua maioria pertencentes às famílias Kamitani e Suekane, sob a liderança de Sakae Kamitani. Desde então, a Copasul tem se destacado em diversas frentes do agro, com o propósito de promover o fortalecimento e crescimento de seus cooperados, que atualmente somam mais de 2.364 associados.\n\nSua atuação contempla o recebimento e comércio de grãos como soja, milho e sorgo, além do fornecimento de assistência técnica especializada aos produtores rurais. A cooperativa também desempenha um papel essencial na distribuição de insumos agrícolas, como fertilizantes, sementes e agroquímicos. Outra frente importante é a elaboração de projetos agrícolas e ambientais, com foco em soluções como a instalação de pivôs de irrigação, barramentos e geração de energia solar, incentivando práticas sustentáveis no campo.\n\nA Copasul ainda conta com unidades industriais como a Fiação, onde o algodão é transformado em fios, e a Fecularia, voltada ao beneficiamento da mandioca e à produção de derivados como fécula e tapioca. No setor de combustíveis, a cooperativa opera duas unidades de TRR (Transportador, Revendedor e Retalhista), viabilizando a comercialização de diesel a granel para os produtores, e mantém um posto de combustível próprio, que oferece gasolina, etanol, diesel, lubrificantes e serviços como troca de óleo e filtros, calibração de pneus e venda de gás de cozinha.\n\nPensando também no bem-estar da comunidade, a Copasul disponibiliza a AREC – Associação Recreativa e Esportiva da Copasul, um espaço voltado ao lazer, entretenimento e incentivo ao esporte. Com uma trajetória marcada pelo compromisso com a inovação, sustentabilidade e desenvolvimento regional, a Copasul segue como referência no cooperativismo agrícola de Mato Grosso do Sul.",
+    "inventoriesId": [
+        6495,
+        7267,
+        8129
+    ],
+    "logoId": "a3365781-3236-4538-ac63-f5bfc763dfb6",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 12,
+        "acronym": "MS",
+        "name": "Mato Grosso do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

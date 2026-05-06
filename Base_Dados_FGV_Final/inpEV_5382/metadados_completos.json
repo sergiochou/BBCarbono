@@ -1,0 +1,40 @@
+{
+    "id": 5382,
+    "name": "inpEV",
+    "about": null,
+    "inventoriesId": [
+        6624,
+        7584,
+        8845
+    ],
+    "logoId": "13f0c055-f9a4-9add-3ce0-3a1b2b0a7e22",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 6126,
+    "name": "Alupar Investimento S.A.",
+    "about": "A Alupar é uma holding de controle nacional privado, que nasceu em 2007, com atuação no setor de energia, mais especificamente nos segmentos de transmissão e geração, tendo como objetivo o desenvolvimento e investimento em projetos no Brasil e nos demais países da América Latina. Somos a maior companhia 100% privada e uma das maiores no segmento de transmissão de energia elétrica no Brasil, em termos de RAP.\n\nNo segmento de transmissão, a Alupar possui a concessão de 44 sistemas de transmissão, com mais de 10.000 km de linhas de transmissão, por meio de concessões com prazo de 30 anos, localizados no Brasil, Peru e concessão vitalícia na Colômbia e Chile.\n\nNo segmento de geração de energia e alinhada à sustentabilidade das fontes renováveis, a Alupar detém a concessão/autorização de 16 projetos de geração de energia, que totalizam 798,5 MW de capacidade instalada, distribuídos em 4UHEs, 4 PCHs e 7 parques  Eólicos e 1 Usina Fotovoltaica..\n",
+    "inventoriesId": [
+        7039,
+        8064
+    ],
+    "logoId": "e82755ba-1e34-e370-3ac5-3a1224343aac",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

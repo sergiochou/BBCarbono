@@ -1,0 +1,30 @@
+{
+    "id": 9180,
+    "name": "TIXLOG ",
+    "about": "Fundada em 2024, a Tixlog tem como missão revolucionar o transporte rodoviário com soluções logísticas eficientes, seguras e inovadoras. Com foco em tecnologia e excelência operacional, a empresa busca se consolidar como referência em qualidade e liderança no transporte rodoviário brasileiro.",
+    "inventoriesId": [
+        8984
+    ],
+    "logoId": "cf4f3e33-5033-4491-2724-3a1a1ff0c9cb",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

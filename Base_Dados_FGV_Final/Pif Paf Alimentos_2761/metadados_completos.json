@@ -1,0 +1,50 @@
+{
+    "id": 2761,
+    "name": "Pif Paf Alimentos",
+    "about": "Com sede corporativa em Belo Horizonte (MG), somos a Pif Paf Alimentos — uma das maiores empresas nacionais no fornecimento de aves e suínos. Com mais de 50 anos de história, evoluímos de uma empresa voltada à proteína animal para uma indústria de alimentos processados, investindo fortemente na diversificação do nosso portfólio.\n \nAtualmente, oferecemos mais de 750 produtos com alto valor agregado, que vão direto à mesa dos nossos clientes. Nosso mix inclui carnes, pescados, embutidos, massas, pizzas, pratos prontos, pães de queijo, salgados, entre outros, comercializados por meio de marcas próprias fortes e reconhecidas.\n \nEmpregamos diretamente cerca de 8.500 mil pessoas e atendemos mais de 100 mil clientes em todo o país. Abastecemos os principais mercados das regiões Sudeste, Sul, Centro-Oeste, além do Distrito Federal (DF) e Sul da Bahia (BA).\n \nNossas unidades industriais estão localizadas no interior de Minas Gerais, nos municípios de Visconde do Rio Branco, Viçosa, Leopoldina, Patrocínio, Pará de Minas, Pitangui, São José da Varginha, Paula Cândido e Igaratinga. No Espirito Santo na cidade de Castelo, e em Santa Catarina.\n \nEm Goiás, até o ano de 2024, operávamos nos municípios de Palmeiras de Goiás e Paraúna. No entanto, essas unidades foram vendidas em Outubro de 2024, como parte do processo de reestruturação estratégica da empresa.\n \nTambém contamos com integrados que apoiam nossas unidades industriais em Visconde do Rio Branco, Patrocínio, Canoinhas e Castelo.\n ",
+    "inventoriesId": [
+        3802,
+        4173,
+        4682,
+        5239,
+        8973
+    ],
+    "logoId": "465d816d-28b4-4bc1-bd71-046f1ae0afbe",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

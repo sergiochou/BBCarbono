@@ -1,0 +1,30 @@
+{
+    "id": 1236,
+    "name": "ONIX",
+    "about": "Onix S/A – Indústria de Colchões e Espuma\r\n \r\nA Onix S/A, fundada em 2000, produz colchões, travesseiros e laminas de espuma. A indústria surgiu como necessidade de fornecer espuma para Socimol e outros fabricantes de estofados, colchões e calçados da região.\r\nA indústria acredita em seu potencial, investe em infra-estrutura e emprega grandes tecnologias na fabricação de espuma. Possui tratamentos especiais na composição da espuma, além de fabricar espumas técnicas para estofados e calçados flexíveis: visco-elástico (tecnologia empregada pela NASA nas espumas dos assentos dos ônibus espaciais para absolvição de impactos) e espumas rígidas com alta resistência.\r\nA Onix possui o sistema UNIBLOCK, sistema na fabricação de blocos de espuma com tecnologia a vácuo, a pressão, espuma flexíveis e normais. Existem poucas indústrias no país que usam este tipo de sistema na fabricação de espuma.\r\nO UNIBLOCK é um processo de fabricação que não agride a camada de ozônio, pois a mesma pode trabalhar sem necessidade de agentes expandidores que agridem a camada de ozônio.\r\nComo a Socimol, a Onix S/A também conquistou a certificação de seu Sistema de Gestão da Qualidade nos moldes da ISO 9001:2008.\r\n\r\nOs Colchões Onix com seu sistema flex importado da Espanha, e modelo pillow-top, foram os primeiros no gênero fabricados no Brasil. Atualmente os colchões ONIX chegam a todo o Brasil e ao Mercosul, de modo especial, atua muito forte no setor de hotelaria onde são apontados na preferência dos melhores hotéis do Brasil com reconhecimento pelo seu excelente grau de conforto.\r\n\r\nVisão\r\n\r\nSer uma indústria de referência nacional no segmento que atua.\r\n\r\nMissão\r\n\r\nProduzir produtos, que surpreendam satisfatoriamente nossos clientes\r\ncom Conforto e Bem Estar.\r\n\r\nPolítica da Qualidade\r\n\r\nProduzir atendendo aos requisitos do produto, de forma a:\r\n\r\n- Conhecer a atender as necessidades e expectativas de seus clientes;\r\n\r\n- Manter o Sistema de Gestão da Qualidade sob contínuo monitoramento,\r\ngarantindo sua eficácia e aprimoramento;\r\n\r\n- Fazer da melhoria contínua, o objetivo de nossas atividades;\r\n\r\n- Assegurar condições necessárias para o desenvolvimento profissional\r\nde seus COLABORADORES.\r\n\r\n",
+    "inventoriesId": [
+        2613
+    ],
+    "logoId": "cb17f2db-bf95-4748-9d66-bf0e92ffd5d8",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 18,
+        "acronym": "PI",
+        "name": "Piauí"
+    },
+    "qualifications": [
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

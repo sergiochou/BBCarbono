@@ -1,0 +1,50 @@
+{
+    "id": 3587,
+    "name": "Compass ",
+    "about": "A Compass é uma das empresas do Grupo Cosan e tem  como propósito promover uma transição energética  segura e eficiente através do gás natural e do biometano. \n\nGestora de negócios independentes no país, realiza suas operações em dois segmentos, o de Distribuição de Gás e  o de Marketing & Serviços. No segmento de Distribuição de Gás, conta com a  Comgás, a maior distribuidora de gás canalizado do Brasil e a Commit (parceria entre a Compass e a Mitsui) responsável pela operação de três distribuidoras controladas: Necta, Sulgás e a recém adquirida  Compagas. Além disso, possui participação minoritária  em outras três distribuidoras, MSGás, SCGás e Ceg Rio.\n\nNo segmento de Marketing & Serviços, atua por meio da Edge, responsável pelos ativos de infraestrutura, logística on e off grid e um portfólio completo de originação e comercialização de gás. A Edge tem o compromisso com o desenvolvimento do mercado livre de gás garantindo liberdade de escolha do suprimento aos clientes com flexibilidade, competitividade e segurança. Neste segmento estão as atividades do TRSP (Terminal de Regaseificação de São Paulo), biometano, GNL B2B, demais projetos de infraestrutura e comercialização de gás. \n\nA Compass segue reforçando sua estratégia ESG, com foco em desenvolver as pessoas e a sociedade, promovendo uma transição energética segura e eficiente, o que inclui iniciativas para proporcionar alternativas renováveis de gás canalizado, especialmente com o uso de biometano.\n\nPara mais informações, acesse: www.compassbr.com.\n",
+    "inventoriesId": [
+        4776,
+        5359,
+        5885,
+        7318,
+        8584
+    ],
+    "logoId": "b7e99936-1f98-42f1-afc8-f89641d2788c",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

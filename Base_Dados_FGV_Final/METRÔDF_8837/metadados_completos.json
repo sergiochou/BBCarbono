@@ -1,0 +1,30 @@
+{
+    "id": 8837,
+    "name": "METRÔ-DF",
+    "about": null,
+    "inventoriesId": [
+        9027
+    ],
+    "logoId": "d8ba2c76-4bf2-34a6-5d4b-3a1a005da4d2",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

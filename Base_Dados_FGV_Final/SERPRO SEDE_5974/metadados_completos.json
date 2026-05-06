@@ -1,0 +1,55 @@
+{
+    "id": 5974,
+    "name": "SERPRO SEDE",
+    "about": "Líder no mercado de TI para o setor público, o compromisso do Serpro é com a segurança, qualidade e confiabilidade.\n\nA empresa possui presença nacional, robusta infraestrutura tecnológica e ampla experiência com os grandes sistemas da Administração Pública Federal.\n\nAmpliando a atuação no mercado, o Serpro oferece serviços especializados para os setores privado e público, baseados em informações de governo com oferta de produtos diversificados.\n\nO propósito é prover soluções inteligentes para transformação e inclusão digital. \n\nA visão é construir o melhor Governo Digital para o cidadão.\n \nSerpro - Soluções digitais que conectam governo e sociedade.",
+    "inventoriesId": [
+        6774,
+        6772,
+        6771,
+        6769,
+        6773,
+        8756
+    ],
+    "logoId": "9cde1939-049f-b4b1-8680-3a1a0b13e7d3",
+    "sector": {
+        "id": 10,
+        "name": "Informação e comunicação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 7,
+        "acronym": "DF",
+        "name": "Distrito Federal"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 3801,
+    "name": "HL Soluções Ambientais",
+    "about": "A HL Soluções Ambientais é uma empresa de assessoria e consultoria ambiental, formada por um corpo técnico multidisciplinar composto por mestres, doutores e especialistas, com atuação pautada no aperfeiçoamento contínuo de seus processos e na excelência técnica de seus produtos e serviços. Atua na regularização ambiental de empreendimentos, bem como na elaboração de planos, relatórios e estudos ambientais voltados ao atendimento dos requisitos legais e ambientais aplicáveis.\n \nCom sede em Fortaleza, no Estado do Ceará, destaca-se no cenário nacional pela sua atuação sólida, estratégica e comprometida com o desenvolvimento sustentável, participando de projetos de diferentes portes e segmentos.\n \nA empresa atua de forma integrada junto aos órgãos reguladores da legislação ambiental nas esferas federal, estadual e municipal, compreendendo os processos regulatórios e adotando as melhores estratégias para a viabilização dos projetos de seus clientes, sempre com foco no desenvolvimento socioambiental e na preservação do meio ambiente.\n \nA HL Soluções Ambientais também se posiciona como agente ativo nas iniciativas voltadas à transição energética e à sustentabilidade, com participação em projetos relacionados ao Hub de Hidrogênio Verde do Ceará, energias fotovoltaicas, parques eólicos, complexos turísticos, entre outras iniciativas que promovem o uso de energias limpas em todo o território nacional.",
+    "inventoriesId": [
+        5033,
+        5820,
+        9234
+    ],
+    "logoId": "0c2ebf48-c622-e2b2-5e77-3a11fe68d68c",
+    "sector": {
+        "id": 13,
+        "name": "Atividades profissionais, científicas e técnicas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

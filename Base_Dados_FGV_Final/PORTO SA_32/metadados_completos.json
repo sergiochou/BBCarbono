@@ -1,0 +1,95 @@
+{
+    "id": 32,
+    "name": "PORTO S/A",
+    "about": "A Porto Seguro S.A. é uma sociedade anônima de capital aberto, sediada na região central de São Paulo (SP), que concentra o controle acionário da Porto Companhia de Seguros Gerais e de suas controladas. Suas ações são negociadas no segmento Novo Mercado da Brasil, Bolsa e Balcão [B]³, sob a sigla PSSA3.\nSurgida em 1945 com uma estrutura de apenas 50 funcionários, a Porto é atualmente um grupo empresarial composto por 43 empresas consolidadas com 12,3 mil colaboradores, 37 mil corretores independentes e 13 mil prestadores de serviços.  A Porto é mais que uma seguradora, é um ecossistema de soluções de serviços de proteção com tecnologia embarcada, que tem como objetivo melhorar e facilitar a experiência do cliente. Em 2022 a Porto remodelou sua estrutura em tem verticais de negócios - Porto Seguro, Porto Saúde, Porto Bank e em 2023 consolidou a última vertical Porto Serviços para os segmentos B2B, B2C e B2B2C. Os investimentos em tecnologia marcaram o ano de 2023, dando continuidade ao plano de promover uma transformação digital nos processos da companhia, melhorando a experiência do cliente e dos corretores, parceiros essenciais para o sucesso do negócio.\nNo que diz respeito à agenda ambiental, social e de governança (ESG), a Porto reafirma seu compromisso com o desenvolvimento sustentável e com a criação de valor compartilhado. Como signatária dos Princípios para Sustentabilidade em Seguros (PSI) e do Pacto Global da Organização das Nações Unidas – Rede Brasil, a empresa assumiu o compromisso de contribuir para o alcance dos Objetivos de Desenvolvimento Sustentável (ODS) até 2030. \nEm 2024, a companhia avançou de forma significativa na governança da sustentabilidade, estruturando seu Plano Estratégico de Sustentabilidade 2025–2030, com base em seus temas materiais. O plano orienta as prioridades e a alocação de recursos para as iniciativas de maior impacto, fortalecendo a integração entre sustentabilidade e estratégia de negócio",
+    "inventoriesId": [
+        27,
+        2353,
+        2056,
+        618,
+        2810,
+        3218,
+        3535,
+        4071,
+        4275,
+        4661,
+        5452,
+        5938,
+        6965,
+        8590
+    ],
+    "logoId": "9e5df93c-c550-4d60-89ca-e755f6a7fd62",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2014,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2015,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

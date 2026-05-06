@@ -1,0 +1,30 @@
+{
+    "id": 9181,
+    "name": "FAZENDA IMIGRANTES",
+    "about": "A Fazenda dos Imigrantes, fundada em 1869, está localizada no município de Amparo, interior de São Paulo, e dedica-se ao cultivo de cafés especiais e cereais, com foco em práticas agrícolas sustentáveis. Sua produção integra tradição e inovação, respeitando o meio ambiente e valorizando as pessoas envolvidas. A fazenda investe na preservação dos recursos naturais, como solo, água e biodiversidade da região. Cada grão colhido expressa o compromisso com a qualidade e a responsabilidade socioambiental.",
+    "inventoriesId": [
+        9038
+    ],
+    "logoId": "2872620f-68f5-2cc5-82e4-3a1a242c4efe",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 3184,
+    "name": "VAMOS LOCAÇÃO",
+    "about": "A VAMOS Locação é líder no setor de locação de caminhões, máquinas e equipamentos do Brasil, e oferece um ecossistema único em alternativas para a renovação e expansão da frota.\n\nSomos a maior empresa do segmento de locação de pesados e organizamos nossas atividades entre locação de ativos, com venda de ativos seminovos, além da atividade industrial, de customização de ativos. Nossa estrutura operacional já ultrapassa 50 mil ativos de locação, com 19 lojas próprias para venda de ativos seminovos do segmento de locação. No segmento Industrial, operamos por meio da Truckvan, empresa referência em implementos rodoviários para o segmento de pesados com 54 distribuidores espalhados pelo Brasil, assim como por meio da BMB, empresa de customização automotiva, que possui uma colaboração exclusiva com a Volkswagen Caminhões & Ônibus há mais de 20 anos.",
+    "inventoriesId": [
+        6381,
+        7366,
+        7891
+    ],
+    "logoId": "6950e013-d6b2-44c2-b4cc-e790a3b01f7e",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

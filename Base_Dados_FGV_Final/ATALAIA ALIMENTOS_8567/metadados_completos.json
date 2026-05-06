@@ -1,0 +1,30 @@
+{
+    "id": 8567,
+    "name": "ATALAIA ALIMENTOS",
+    "about": null,
+    "inventoriesId": [
+        8617
+    ],
+    "logoId": "0edbf828-7642-ab73-d89c-3a194bfc1828",
+    "sector": {
+        "id": 9,
+        "name": "Alojamento e alimentação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 13,
+        "acronym": "MG",
+        "name": "Minas Gerais"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

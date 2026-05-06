@@ -1,0 +1,30 @@
+{
+    "id": 8806,
+    "name": "TRIBUNAL DE JUSTICA DO ESTADO DO ACRE",
+    "about": "O Tribunal de Justiça do Estado do Acre (TJAC) é o órgão máximo do Poder Judiciário, responsável por garantir o acesso à justiça e promover a pacificação social no território acreano. Fundado sobre os princípios constitucionais e orientado por uma missão clara — “Garantir justiça para a paz social” —, o TJAC atua de forma comprometida com a celeridade, transparência e efetividade dos serviços judiciais prestados à população.",
+    "inventoriesId": [
+        8507
+    ],
+    "logoId": "2a1cff28-6fa7-7074-6122-3a19fae251ec",
+    "sector": {
+        "id": 15,
+        "name": "Administração pública, defesa e seguridade social",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 1,
+        "acronym": "AC",
+        "name": "Acre"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": 4594,
+    "name": "Renault do Brasil S.A.",
+    "about": "A Renault do Brasil S.A. teve o início de suas atividades no Brasil em 1998, com a instalação da fábrica de São José dos Pinhais, município da região metropolitana de Curitiba, no Paraná.\n\nInicialmente foi construída a Fábrica de Veículos de Passeio - CVP, seguida da Fábrica de Motores - CMO (1999), Fábrica de Veículos Utilitário - CVU (2001) e Injeção de Peças de Alumínio - CIA (2018). Essas quatro fábricas, acrescidas do Centro de Preparação Logística e dos prédios Administrativos, estão instaladas no chamado Complexo Ayrton Senna, que ocupa uma área total de 2,5 milhões de metros quadrados.\n\nNo ano de 2023, a Renault passou por uma reestruturação onde as Fábricas de Motores (CMO e CIA) foram separadas das Fábricas de Veículos, de forma que o Complexo Ayrton Senna a partir de Julho do mesmo ano compreende as Fábricas de Veículos de Passeio - CVP e Utilitários - CVU.\n\nO Complexo Ayrton Senna - Renault do Brasil, no desenvolvimento das atividades relacionadas ao ramo automotivo, tem como política de funcionamento a responsabilidade social e o respeito a legislação ambiental.\n\nA execução dos serviços que envolvem a montagem e a fabricação de automóveis considera o desenvolvimento e a incorporação de novas tecnologias que permitem o melhor aproveitamento dos materiais e dia após dia ganham importância, no desenvolvimento de novos projetos, as questões relativas ao ciclo de vida do produto e a minimização do impacto ambiental.\n",
+    "inventoriesId": [
+        6023,
+        7681,
+        8915
+    ],
+    "logoId": "1d216e7d-3d03-49eb-bd9b-b43291df2192",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

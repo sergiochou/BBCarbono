@@ -1,0 +1,50 @@
+{
+    "id": 3247,
+    "name": "Entrevias",
+    "about": "A Entrevias Concessionária de Rodovias S.A. é responsável pela operação, manutenção e modernização do lote Rodovias do Centro-Oeste Paulista, que compreende 570 quilômetros de vias que cruzam o Estado de São Paulo, ligando Minas Gerais ao Paraná.\n\nLicitado em Março de 2017 e com um prazo de concessão de 30 anos, o lote do Centro-Oeste Paulista é composto por dois trechos. O Trecho Sul se estende do município de Borborema/SP ao município de Florínea/SP, na divisa com o Estado do Paraná. Já o Trecho Norte passa pelos municípios de Bebedouro/SP, Ribeirão Preto/SP, até Igarapava/SP, na divisa com o Estado de Minas Gerais. \n\nA Companhia iniciou as operações do Trecho Sul em julho de 2017 e assumiu a operação do Trecho Norte em maio de 2018, investindo em infraestrutura, sinalização, tecnologia e recursos humanos e operacionais para o atendimento aos usuários.\n\nNo total, são sete rodovias paulistas:\n\n- SP-266 Rodovias José de Almeida e Engenheiro Hélder de Sá\n- SP-294 Rodovia Comandante João Ribeiro de Barros\n- SP-322 Rodovias Attílio Balbo, Armando de Salles Oliveira e Prefeito Antônio Duarte Nogueira\n- SP-328 Rodovia Alexandre Balbo\n- SP-330 Rodovia Anhanguera\n- SP-333 Rodovias Dr. Mario Gentil, Dona Leonor Mendes de Barros, Rachid Rayes e Miguel Jubran\n- SP-351 Rodovia Laureanous Brogna\n\nMais do que uma companhia dedicada à administração de rodovias, a Entrevias tem a visão e o objetivo de acolher o usuário. A Companhia se propõe a oferecer o mais alto nível de infraestrutura rodoviária a seus usuários, por meio de obras relevantes, alta tecnologia e serviços de atendimentos que garantam a tranquilidade de todos os que trafegam e/ou vivem em comunidades próximas aos trechos concedidos.",
+    "inventoriesId": [
+        4777,
+        5061,
+        6659,
+        7604,
+        8889
+    ],
+    "logoId": "7bea0064-fd0e-4769-b083-ba092f65a884",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

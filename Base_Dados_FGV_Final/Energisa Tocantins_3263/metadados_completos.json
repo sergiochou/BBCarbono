@@ -1,0 +1,30 @@
+{
+    "id": 3263,
+    "name": "Energisa Tocantins ",
+    "about": null,
+    "inventoriesId": [
+        4725
+    ],
+    "logoId": "0c50e3d8-0194-4697-8c0a-4346223b065a",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 27,
+        "acronym": "TO",
+        "name": "Tocantins"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,55 @@
+{
+    "id": 237,
+    "name": "VIBRA",
+    "about": "A Vibra entra em uma jornada de crescimento: de maior distribuidora de combustíveis do país para uma das maiores plataformas multienergia do Brasil, oferecendo a energia que move e transforma a vida dos brasileiros. Estamos atentos as necessidades das pessoas e empresas para oferecer soluções energéticas sob medida. Trabalhamos para entregar o melhor serviço e a melhor experiencia, com conveniência e proximidade.\nA Vibra Energia S.A. e uma empresa brasileira de capital aberto e a única do segmento que está presente em todos os 26 estados e no Distrito Federal. Com 53 anos de história, geramos empregos e movimentamos a economia do país, contribuindo para o PIB nacional. Nosso portfolio de produtos e serviços tem marcas reconhecidas pela qualidade e que detêm a confiança dos clientes e consumidores, atendendo pessoas físicas, empresas e órgãos governamentais.\nNossa sede está no Rio de Janeiro e possuímos 100 unidades operacionais nas cinco regiões do país. São 42 bases próprias, 13 áreas individuais (operações em pool de terceiros), 28 armazenagens conjuntas com outras distribuidoras, 3 depósitos de supply house e 14 operadores logísticos. Para apoiar nossas transações internacionais, como importação e exportação, mantemos a Vibra Trading BV.\nNossos 3.978 colaboradores são o combustível que nos move para o futuro. Contamos com um time de alto conhecimento técnico, preparado para enfrentar os desafios e que trabalha para alcançar nossa ambição e construir a empresa que queremos.\nAbastecemos uma rede de 7.897 postos de combustíveis (detendo a licença de uso da marca Petrobras) que atende a mais de 30 milhões de consumidores finais todos os meses, alcançando um market share de 31% da rede embandeirada. Nossa franquia de lojas de conveniência BR Mania possui 1.400 unidades em Postos Petrobras em 538 cidades de 27 unidades federativas, além de 2 unidades próprias no nosso edifício-sede e no edifício Edisen.\nA Lubrax, nossa marca de lubrificantes, e a mais lembrada da categoria. Em 2024, concluímos a expansão de nosso complexo industrial de lubrificantes, consolidando-o como o maior da America Latina e posicionando-o entre os cinco maiores do mundo. Possuímos mais de 1.600 unidades da franquia Lubrax+, centros de lubrificação instalados em Postos Petrobras, e nossa linha de lubrificantes e comercializada em mais de 120 mil pontos de venda.\nPor meio da marca licenciada BR Aviation, mantemos também estruturas para abastecimento de aeronaves em 91 aeroportos, abastecendo seis em cada dez voos comerciais do Brasil. Fornecemos combustível para 10,4 mil empresas de diferentes setores, como transporte, supply house, comercio, indústrias eletrointensivas, produtos químicos e agronegócio. Juntas, possuem mais de 30 mil pontos de consumo e utilizam 33,62% de todo o combustível consumido por empresas no país.\nEm 2024, passamos a oferecer gás natural ao mercado corporativo, complementando nosso portfólio. E, em janeiro de 2025 adquirimos a totalidade da Comerc, empresa comercializadora de energia da qual detínhamos 48,7% de participação e que e uma das maiores geradoras de energia de fontes renováveis do país, além de ser a maior plataforma de geração distribuída do Brasil. Ainda, mantemos uma parceria com a EZVolt, pioneira na oferta de recarga de veículos elétricos como serviço. Até marco de 2025 éramos detentores de 50% da ZEG Biogás e Energia, quando celebramos um acordo para nossa saída do capital social da sociedade.\nContar com a confiança de nossos públicos de relacionamento e fundamental para alcançar os objetivos que ambicionamos para os próximos anos. Seguimos empenhados em nosso proposito de mover o Brasil com sua melhor energia.",
+    "inventoriesId": [
+        4299,
+        4526,
+        5410,
+        6248,
+        7581,
+        8110
+    ],
+    "logoId": "ed4b2fc0-de3c-4382-874f-15c868fa3fce",
+    "sector": {
+        "id": 7,
+        "name": "Comércio; reparação de veículos automotores e motocicletas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

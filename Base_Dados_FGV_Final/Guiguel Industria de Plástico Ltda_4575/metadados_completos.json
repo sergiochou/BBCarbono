@@ -1,0 +1,45 @@
+{
+    "id": 4575,
+    "name": "Guiguel Industria de Plástico Ltda",
+    "about": "A Guiguel é uma importante companhia do mercado que se dedica a soluções inovadoras em injeção plástica. No nosso portfólio, podemos encontrar diversos produtos no ramo alimentício, home care, brindes promocionais, cosméticos, linha médica, linha branca, entre outros. \r\n\r\nO nosso parque industrial está situado em Sorocaba, a aproximadamente uma hora de São Paulo, Capital, e conta com uma estrutura fabril capacitada para atender o mercado local e internacional.\r\n\r\nNossos negócios são sustentados pelas nossas políticas de qualidade, governança e socioambiental, sempre buscando atender às demandas dos stakeholders, dentre os quais se destacam nossos colaboradores, proprietários, órgãos públicos, clientes e a sociedade. \r\n\r\nAcreditamos que podemos unir as nossas práticas organizacionais a atitudes responsáveis, criando uma maior consciência para a proteção dos valores e direitos humanos, da transparência e ética e do meio ambiente, se comprometendo com os nossos objetivos, melhorando constantemente e gerando valores na cadeia produtiva.",
+    "inventoriesId": [
+        5837,
+        5835,
+        7856,
+        9272
+    ],
+    "logoId": "224a750c-da8f-45f1-a1d9-7b372a772376",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

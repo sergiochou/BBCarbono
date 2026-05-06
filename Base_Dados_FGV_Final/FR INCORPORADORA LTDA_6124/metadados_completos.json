@@ -1,0 +1,35 @@
+{
+    "id": 6124,
+    "name": "FR INCORPORADORA LTDA",
+    "about": "Um questionamento pode ser algo que vem e que passa. Mas a pergunta certa pode gerar respostas que ecoam por gerações. Em nosso processo de aprimoramento, nós nos perguntamos: se deixássemos de fazer o nosso trabalho, qual seria o saldo que ficaria para as pessoas? Qual legado temos construído por meio de nossas ações? Para nós da FR., o maior aprendizado que o tempo nos trouxe foi o de que os valores que norteiam nossas realizações são parte do que retribuímos à cidade, à sociedade, a todos os que nos acompanham nesta jornada. E por meio de nosso propósito, a responsabilidade, o desenvolvimento e a qualidade permeiam a razão de ser de toda a empresa. Afinal, mais do que construir, na FR. nós realizamos etapas memoráveis do projeto de vida de tantas famílias; nós fazemos, com o coração, o nosso melhor para as pessoas e para o mundo, hoje e sempre. Um pilar pode ser visto como uma mera estrutura. Mas há quem veja como algo capaz de edificar o bem.",
+    "inventoriesId": [
+        7070,
+        8142
+    ],
+    "logoId": "64e9706a-12a3-442a-dee9-3a128ef262a7",
+    "sector": {
+        "id": 6,
+        "name": "Construção",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

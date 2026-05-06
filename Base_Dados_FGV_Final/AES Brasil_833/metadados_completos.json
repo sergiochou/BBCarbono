@@ -1,0 +1,95 @@
+{
+    "id": 833,
+    "name": "AES Brasil",
+    "about": "Somos a AES Brasil Energia S.A., companhia de capital aberto listada no Novo Mercado da B3. Estamos sediados no Brasil, em São Paulo (SP), e atuamos exclusivamente em território nacional,\noferecendo soluções customizadas de geração e comercialização de energia elétrica de fontes 100% renováveis. Nossa meta é sermos a melhor escolha para nossos clientes. Para isso, buscamos atender às demandas e necessidades mais singulares de empresas dos mercados\nregulado (Ambiente de Contratação Regulada – ACR) e livre (Ambiente de Contratação Livre – ACL) de energia. As principais geradoras, comercializadoras e distribuidoras estão entre nossos clientes. Grandes empresas do comércio e da indústria fazem parte de nossa carteira como consumidores finais. Estamos ainda posicionados entre as principais comercializadoras varejistas do país, com foco em pequenos e médios consumidores de energia na alta tensão. \nNossas ações são negociadas no Novo Mercado da B3 e integramos a carteira do Índice de Sustentabilidade Empresarial (ISE B3), fazendo parte também de outros índices da B3, como o de Governança Corporativa. Figuramos, ainda, como companhia aberta na categoria A da Comissão de Valores Mobiliários (CVM), o que nos permite negociar debêntures não conversíveis em ações, no mercado de balcão não organizado. No encerramento do ano, nossa capacidade instalada\natingiu 5,2 GW totalmente renovável em sete estados, sendo 5,1 GW em operação e 0,1 GW em construção.",
+    "inventoriesId": [
+        106,
+        2489,
+        1988,
+        1746,
+        546,
+        3056,
+        3437,
+        3770,
+        3995,
+        4207,
+        4567,
+        5167,
+        5900,
+        7073
+    ],
+    "logoId": "6d5ff825-f1b7-4f05-ae93-7435e479d4e7",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2011,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2014,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2013,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2010,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2015,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

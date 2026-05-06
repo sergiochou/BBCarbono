@@ -1,0 +1,528 @@
+[
+    {
+        "empresa_pasta": "Bresco_4222",
+        "id_fgv": 4222,
+        "nome_oficial": "Bresco ",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 5.523,
+                    "emissoes_escopo_2": 132.551,
+                    "emissoes_escopo_3": 873.165,
+                    "total_emissoes": 1011.239,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Construção",
+                    "emissoes_escopo_1": 17.605,
+                    "emissoes_escopo_2": 65.775,
+                    "emissoes_escopo_3": 878.543,
+                    "total_emissoes": 961.923,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 310.768,
+                    "emissoes_escopo_2": 466.319,
+                    "emissoes_escopo_3": 817.9,
+                    "total_emissoes": 1594.987,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶imobiliárias",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BRF_1014",
+        "id_fgv": 1014,
+        "nome_oficial": "BRF",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_3.pdf",
+                    "ano_inventario": 2009,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 200568.28,
+                    "emissoes_escopo_2": 27644.7,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 228212.98,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_4.pdf",
+                    "ano_inventario": 2010,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 235663.4,
+                    "emissoes_escopo_2": 112398.88,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 348062.28,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 273554.98,
+                    "emissoes_escopo_2": 64060.224,
+                    "emissoes_escopo_3": 521651.771,
+                    "total_emissoes": 859266.975,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 258834.31,
+                    "emissoes_escopo_2": 147750.09,
+                    "emissoes_escopo_3": 539661.36,
+                    "total_emissoes": 946245.76,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 301739.294,
+                    "emissoes_escopo_2": 219848.016,
+                    "emissoes_escopo_3": 1000437.086,
+                    "total_emissoes": 1522024.396,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 299287.331,
+                    "emissoes_escopo_2": 311165.484,
+                    "emissoes_escopo_3": 938298.261,
+                    "total_emissoes": 1548751.076,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 300898.501,
+                    "emissoes_escopo_2": 261592.402,
+                    "emissoes_escopo_3": 913194.254,
+                    "total_emissoes": 1475685.157,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 297419.22,
+                    "emissoes_escopo_2": 157130.13,
+                    "emissoes_escopo_3": 834957.271,
+                    "total_emissoes": 1289506.621,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_11.pdf",
+                    "ano_inventario": 2017,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 252202.833,
+                    "emissoes_escopo_2": 179052.758,
+                    "emissoes_escopo_3": 934722.08,
+                    "total_emissoes": 1365977.671,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_12.pdf",
+                    "ano_inventario": 2018,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 248877.36,
+                    "emissoes_escopo_2": 137005.223,
+                    "emissoes_escopo_3": 721380.67,
+                    "total_emissoes": 1107263.253,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_13.pdf",
+                    "ano_inventario": 2019,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 260899.49,
+                    "emissoes_escopo_2": 150196.49,
+                    "emissoes_escopo_3": 736489.57,
+                    "total_emissoes": 1147585.55,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 236604.97,
+                    "emissoes_escopo_2": 118923.44,
+                    "emissoes_escopo_3": 699511.11,
+                    "total_emissoes": 1055039.52,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 270366.64,
+                    "emissoes_escopo_2": 247905.6,
+                    "emissoes_escopo_3": 731895.45,
+                    "total_emissoes": 1250167.69,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 251142.722,
+                    "emissoes_escopo_2": 80749.284,
+                    "emissoes_escopo_3": 733159.47,
+                    "total_emissoes": 1065051.476,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Alojamento e alimentação",
+                    "emissoes_escopo_1": 290039.491,
+                    "emissoes_escopo_2": 75004.187,
+                    "emissoes_escopo_3": 61739.507,
+                    "total_emissoes": 426783.185,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2030,
+                "descricao": "s em que estamos inseridos. O compromisso Net Zero contempla ações para reduzir, até 2030, 35% das emissões Escopo 1 (emissões diretas) e Escopo 2 (em"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bridgestone_342",
+        "id_fgv": 342,
+        "nome_oficial": "Bridgestone",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_5.pdf",
+                    "ano_inventario": 2011,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 79094.1,
+                    "emissoes_escopo_2": 5703.0,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 84797.1,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bristol Parts_4381",
+        "id_fgv": 4381,
+        "nome_oficial": "Bristol Parts",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 81.01,
+                    "emissoes_escopo_2": 1.254,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 82.264,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bristow Matriz_3586",
+        "id_fgv": 3586,
+        "nome_oficial": "Bristow Matriz",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_14.pdf",
+                    "ano_inventario": 2020,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 9603.072,
+                    "emissoes_escopo_2": 17.054,
+                    "emissoes_escopo_3": 18.814,
+                    "total_emissoes": 9638.94,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 10892.07,
+                    "emissoes_escopo_2": 33.523,
+                    "emissoes_escopo_3": 110.917,
+                    "total_emissoes": 11036.51,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 11764.732,
+                    "emissoes_escopo_2": 10.9,
+                    "emissoes_escopo_3": 174.589,
+                    "total_emissoes": 11950.221,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 15179.803,
+                    "emissoes_escopo_2": 10.318,
+                    "emissoes_escopo_3": 258.679,
+                    "total_emissoes": 15448.8,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Bristow_3595",
+        "id_fgv": 3595,
+        "nome_oficial": "Bristow",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte,‑armazenagem‑e‑correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "BRK_3966",
+        "id_fgv": 3966,
+        "nome_oficial": "BRK",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 337770.879,
+                    "emissoes_escopo_2": 18240.138,
+                    "emissoes_escopo_3": 7896.674,
+                    "total_emissoes": 363907.691,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 402151.171,
+                    "emissoes_escopo_2": 13376.188,
+                    "emissoes_escopo_3": 21464.439,
+                    "total_emissoes": 436991.798,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 408779.972,
+                    "emissoes_escopo_2": 12676.751,
+                    "emissoes_escopo_3": 41594.223,
+                    "total_emissoes": 463050.946,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Água,▶esgoto,▶atividades▶de▶gestão▶de▶resíduos▶e▶descontaminação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BROOKFIELD PROPERTIES_4630",
+        "id_fgv": 4630,
+        "nome_oficial": "BROOKFIELD PROPERTIES",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 1957.447,
+                    "emissoes_escopo_2": 4122.881,
+                    "emissoes_escopo_3": 42838.289,
+                    "total_emissoes": 48918.617,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades imobiliárias",
+                    "emissoes_escopo_1": 4131.197,
+                    "emissoes_escopo_2": 2795.213,
+                    "emissoes_escopo_3": 29617.984,
+                    "total_emissoes": 36544.394,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades▶imobiliárias",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": {
+                "ano": 2050,
+                "descricao": "ia está engajada em se tornar Netzero até 2050. Uma das ações aplicáveis é a mensuração e gestão das emissõesporativosglobalme"
+            },
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "BT LOGISTICA INTEGRADA LTDA_8478",
+        "id_fgv": 8478,
+        "nome_oficial": "BT LOGISTICA INTEGRADA LTDA",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "BTP_3854",
+        "id_fgv": 3854,
+        "nome_oficial": "BTP",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 16173.427,
+                    "emissoes_escopo_2": 4905.154,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 21078.581,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 16913.65,
+                    "emissoes_escopo_2": 1836.904,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 18750.554,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 16022.839,
+                    "emissoes_escopo_2": 1782.979,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 17805.818,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

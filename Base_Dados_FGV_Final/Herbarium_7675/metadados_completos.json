@@ -1,0 +1,35 @@
+{
+    "id": 7675,
+    "name": "Herbarium",
+    "about": "A troca harmoniosa com a natureza é a raiz de nossos negócios. Emprestamos dela os ingredientes que promovem o equilíbrio da saúde do corpo e da mente. Nascemos como Herbarium Laboratório Botânico, em Colombo, município da Região Metropolitana de Curitiba, no Paraná, que tem consolidado sua vocação para a produção orgânica de alimentos. Lá, está o nosso Eco-Parque, onde transformamos ativos naturais em soluções para uma vida saudável.\nAo longo dos últimos 39 anos, firmamos parcerias estratégicas para sermos, hoje, líderes e referência em fitoterapia no Brasil, mercado em ascensão no qual concentramos nossas operações oferecendo um amplo portfólio de produtos fitoterápicos tradicionais, suplementos alimentares, fitocosméticos e fitomedicamentos éticos, com eficácia cientificamente comprovada.\nAo aliar natureza com tecnologia e conhecimento científico, nos tornamos pioneiros no desenvolvimento de produtos naturais com qualidade farmacêutica e contamos com o maior número de fitoterápicos registrados junto ao principal órgão regulador no país, a Agência Nacional de Vigilância Sanitária (Anvisa).\nEm 2023, criamos o Ecossistema de Negócios Herbarium – o Ecoh –, um sistema empresarial coeso e autossuficiente composto por empresas que compartilham propósitos e valores comuns. Além da Herbarium Laboratório Botânico, até 2023 o Ecoh reunia Phytera, Intua, Oshadhi e bvtec. Esse conglomerado leva ao mercado nossas principais marcas: Herbarium, Musquée, Oshadhi e Intua. Oshadhi e bvtec passaram a reforçar o Ecoh em 2023, agregando outras soluções ao nosso portfólio. A marca Oshadhi é líder mundial em aromaterapia e ingressou no mercado brasileiro em meados de 2023, por meio de nossa plataforma de negócios. Já a bvtec, cuja incorporação foi efetivada em 2023, é especializada na tecnologia de sprays de jato contínuo Bag-on-Valve (BoV) e atende às demandas da indústria farmacêutica.\nTemos a preocupação de entregar aos consumidores produtos de altíssima qualidade, e isso nos leva a buscar matérias-primas de empresas reconhecidas mundialmente e que compartilham do mesmo compromisso com a qualidade, a eficácia e a segurança dos fitoterápicos. As matérias-primas são regularmente avaliadas e validadas por órgãos reguladores brasileiros.\nIntegram, ainda, nossa cadeia de valor as principais redes de farmácias que atuam no Brasil, nas quais são comercializados nossos produtos, e os profissionais da saúde (médicos, farmacêuticos e nutricionistas), nossos parceiros no propósito de difundir soluções naturais para uma vida saudável e equilibrada.\nAssim como na natureza os ecossistemas se adaptam às transformações do meio, nosso Ecossistema de Negócios está em constante movimento para acompanhar as mudanças do mercado. Em 2023, anunciamos uma nova joint venture, dessa vez com o grupo alemão Schwabe, um dos maiores fabricantes mundiais de fitoterápicos, para lançar uma nova farmacêutica no Brasil.\nAs empresas citadas acima ficam alocadas dentro do mesmo site, em Colombo. Então os impactos ambientais relacionadas as atividades desenvolvidas são gerenciados pelo Sistema de Gestão Ambiental da Herbarium. Dessa forma, as emissões relatadas neste inventário se referem as atividades de todas as empresas, pois os espaços e processos são compartilhados.",
+    "inventoriesId": [
+        7359,
+        8774
+    ],
+    "logoId": "d7add019-f0fa-7cb9-75c7-3a13012fe949",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 16,
+        "acronym": "PR",
+        "name": "Paraná"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

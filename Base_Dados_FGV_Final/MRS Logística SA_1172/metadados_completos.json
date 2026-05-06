@@ -1,0 +1,55 @@
+{
+    "id": 1172,
+    "name": "MRS Logística S/A",
+    "about": "A MRS Logística é uma operadora ferroviária de cargas que administra uma malha de 1.643 km nos estados de Minas Gerais, Rio de Janeiro e São Paulo, região que concentra cerca da metade do PIB brasileiro. A companhia foi criada em 1996, quando o governo transferiu à iniciativa privada a gestão do sistema ferroviário nacional, e hoje está entre as melhores ferrovias de carga do mundo, com produção cerca de quatro vezes superior àquela registrada nos anos 90.\n\nNossa malha conecta regiões produtoras de commodities minerais e agrícolas e alguns dos principais parques industriais do país a cinco dos principais portos do país. Quase 20% de tudo o que o Brasil exporta e um terço de toda a carga transportada por trens no país passam pelos trilhos da companhia.\n\nAlém do transporte de cargas como minérios, produtos siderúrgicos acabados, cimento, bauxita, produtos agrícolas e containers, entre outros, a MRS oferece soluções logísticas mais amplas, incluindo o planejamento e o desenvolvimento de soluções multimodais (que se valem de mais de um meio de transporte), além de serviços ferroviários customizados. A companhia tem hoje indicadores comparáveis aos das mais eficientes e seguras ferrovias do mundo, em quesitos como eficiência energética, intensidade de emissões de GEE, transit time, confiabilidade de ativos, segurança e produtividade, e se destaca pelo uso intensivo de tecnologia e de uma cultura de inovação.",
+    "inventoriesId": [
+        5636,
+        5647,
+        5351,
+        6578,
+        7156,
+        8349
+    ],
+    "logoId": "71b19f22-5327-4af0-80b7-9fb3ca12b159",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 19,
+        "acronym": "RJ",
+        "name": "Rio de Janeiro"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2019,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

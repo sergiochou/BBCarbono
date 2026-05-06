@@ -1,0 +1,35 @@
+{
+    "id": 7310,
+    "name": "Grupo Pernambucanas",
+    "about": "Há 116 anos, a Pernambucanas evolui junto com a família brasileira. Referência no varejo nacional, a companhia tem como marca registrada o pioneirismo e a contribuição para o progresso de diversas cidades do país. Conta com um time de estilistas que identifica as principais tendências mundiais da moda e oferece uma ampla variedade de produtos em vestuário, beleza, lar e eletroportáteis.. Está presente em mais de 340 cidades, em 15 estados e no Distrito Federal, com mais de 480 lojas e cerca de 12 mil colaboradores. Além do varejo, a companhia tem a sua fintech, a Pefisa, braço financeiro do grupo, responsável pelo desenvolvimento e gestão dos produtos como os cartões, empréstimo pessoal e seguros. Sempre se reinventando e acompanhando as necessidades de seus clientes, a Pernambucanas oferece uma plataforma de relacionamento em varejo e produtos financeiros com aplicativo, compra online, tablet nas lojas (concessão de crédito 100% digital em 10 minutos), emissão instantânea de cartão com chip e Wi-Fi grátis em todas as lojas.",
+    "inventoriesId": [
+        7692,
+        9218
+    ],
+    "logoId": "6e86409f-c72f-8007-a78e-3a1a33014a2c",
+    "sector": {
+        "id": 19,
+        "name": "Outras atividades de serviços",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

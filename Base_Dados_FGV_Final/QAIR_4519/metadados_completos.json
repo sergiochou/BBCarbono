@@ -1,0 +1,40 @@
+{
+    "id": 4519,
+    "name": "QAIR",
+    "about": "A Qair Brasil é uma produtora independente de energia limpa, que desenvolve, implanta e opera soluções baseadas em fontes renováveis de energia, contribuindo para a construção de um futuro mais sustentável e para a transição da matriz energética, através do uso responsável da energia presente no vento, no sol e na água. E agora com o hidrogênio verde, um dos elementos mais abundantes no planeta. \n\nEssa missão nasceu há mais de 30 anos com o grupo Qair International, e vem se consolidando em todos os 20 países em que atuamos, com a produção de energia renovável e ações fundamentadas na prática contínua da sustentabilidade socioambiental e promoção da sinergia entre as pessoas.\n\n",
+    "inventoriesId": [
+        6286,
+        7816,
+        8499
+    ],
+    "logoId": "7efdda2c-6b60-45e2-aebf-625d0c279c73",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2022,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Controlada",
+    "logoThumbnailRef": null
+}

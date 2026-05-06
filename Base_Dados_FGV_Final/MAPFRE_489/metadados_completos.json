@@ -1,0 +1,65 @@
+{
+    "id": 489,
+    "name": "MAPFRE",
+    "about": "A MAPFRE é um grupo multinacional com sede na Espanha, atuação em mais de 100 países e presença em 38 deles por meio de uma rede composta por 12.282 escritórios e 81.000 mediadores (agente comerciais ou corretores responsáveis pela comercialização dos seguros). Com posições relevantes e/ou de liderança na maioria dos países onde opera, a MAPFRE completou 90 anos em 2023 com receita global de 32,2 bilhões de euros (9,2% superior em relação a 2022) e um aumento de 9,7% nos prêmios emitidos, que alcançaram 26,9 bilhões de euros em 2023.\nNo Brasil, onde está presente desde 1992, a MAPFRE atua nos mercados de seguros, investimentos, consórcios, capitalização, previdência e assistência a residência e veículos. Com sede na capital paulista e operações em todo o país, a subsidiária brasileira é a principal operação da MAPFRE fora da Espanha e um importante mercado estratégico, responsável por 19% dos prêmios totais do Grupo. Em 2023, as receitas de seguros totalizaram R$ 26.045 milhões, com lucro líquido de R$ 4.084 milhões.",
+    "inventoriesId": [
+        2080,
+        2309,
+        2866,
+        3433,
+        3558,
+        4083,
+        4907,
+        5151
+    ],
+    "logoId": "d6192382-45e9-456d-a56a-eab7af6416f6",
+    "sector": {
+        "id": 11,
+        "name": "Atividades financeiras, de seguros e serviços relacionados",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2014,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2015,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2016,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2017,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2018,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

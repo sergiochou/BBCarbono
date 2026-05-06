@@ -1,0 +1,376 @@
+[
+    {
+        "empresa_pasta": "DOMANI GLOBAL_4639",
+        "id_fgv": 4639,
+        "nome_oficial": "DOMANI GLOBAL",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades‑administrativas‑e‑serviços‑complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": 0.0,
+                    "emissoes_escopo_2": 0.0,
+                    "emissoes_escopo_3": 2.391,
+                    "total_emissoes": 2.391,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Atividades administrativas e serviços complementares",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "DORI ALIMENTOS  UN10_3867",
+        "id_fgv": 3867,
+        "nome_oficial": "DORI ALIMENTOS - UN10",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8166.547,
+                    "emissoes_escopo_2": 3734.612,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 11901.159,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 8366.575,
+                    "emissoes_escopo_2": 1401.233,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 9767.808,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 2704.771,
+                    "emissoes_escopo_2": 1194.42,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 3899.191,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "DP World Santos_7232",
+        "id_fgv": 7232,
+        "nome_oficial": "DP World Santos",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Transporte, armazenagem e correio",
+                    "emissoes_escopo_1": 13254.828,
+                    "emissoes_escopo_2": 961.906,
+                    "emissoes_escopo_3": 2716.083,
+                    "total_emissoes": 16932.817,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Transporte,▶armazenagem▶e▶correio",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Duas Rodas Industrial_7211",
+        "id_fgv": 7211,
+        "nome_oficial": "Duas Rodas Industrial",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústrias▶de▶transformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "DUDALINA_563",
+        "id_fgv": 563,
+        "nome_oficial": "DUDALINA",
+        "estado": "SC",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_6.pdf",
+                    "ano_inventario": 2012,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 249.929,
+                    "emissoes_escopo_2": 240.877,
+                    "emissoes_escopo_3": 959.317,
+                    "total_emissoes": 1450.123,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_7.pdf",
+                    "ano_inventario": 2013,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 301.28,
+                    "emissoes_escopo_2": 379.709,
+                    "emissoes_escopo_3": 886.114,
+                    "total_emissoes": 1567.103,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_8.pdf",
+                    "ano_inventario": 2014,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 339.977,
+                    "emissoes_escopo_2": 593.285,
+                    "emissoes_escopo_3": 1199.663,
+                    "total_emissoes": 2132.925,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_9.pdf",
+                    "ano_inventario": 2015,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 328.456,
+                    "emissoes_escopo_2": 546.798,
+                    "emissoes_escopo_3": 1371.583,
+                    "total_emissoes": 2246.837,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_10.pdf",
+                    "ano_inventario": 2016,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 369.381,
+                    "emissoes_escopo_2": 344.042,
+                    "emissoes_escopo_3": 1351.148,
+                    "total_emissoes": 2064.571,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Projeto de Plantio em Áreas de Terceiros",
+                "Piquenique Sustentável",
+                "Inventário de emissões de gases de efeito estufa",
+                "Ano inventariado: 2013",
+                "Inventário 2013 - DUDALINA",
+                "Dudalina S.A.",
+                "Nome fantasia: DUDALINA",
+                "CNPJ: 85.120.939/0004-95",
+                "Setor econômico: Indústrias de transformação",
+                "Subsetor: Confecção de artigos do vestuário e acessórios"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Dunlop Pneus_5978",
+        "id_fgv": 5978,
+        "nome_oficial": "Dunlop Pneus",
+        "estado": "PR",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_17.pdf",
+                    "ano_inventario": 2023,
+                    "setor_economico": "Indústrias de transformação",
+                    "emissoes_escopo_1": 18513.097,
+                    "emissoes_escopo_2": 2553.012,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 21066.109,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Indústriasdetransformação",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Dédalo_4054",
+        "id_fgv": 4054,
+        "nome_oficial": "Dédalo",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.61,
+                    "emissoes_escopo_2": 0.398,
+                    "emissoes_escopo_3": 2.173,
+                    "total_emissoes": 3.181,
+                    "status": "sucesso"
+                },
+                {
+                    "pdf_origem": "relatorio_id_16.pdf",
+                    "ano_inventario": 2022,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.618,
+                    "emissoes_escopo_2": 0.2,
+                    "emissoes_escopo_3": 3.479,
+                    "total_emissoes": 4.297,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "Eccaplan_4255",
+        "id_fgv": 4255,
+        "nome_oficial": "Eccaplan",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_15.pdf",
+                    "ano_inventario": 2021,
+                    "setor_economico": "Água, esgoto, atividades de gestão de resíduos e descontaminação",
+                    "emissoes_escopo_1": 4.052,
+                    "emissoes_escopo_2": 0.17,
+                    "emissoes_escopo_3": 4.279,
+                    "total_emissoes": 8.501,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [
+                "Terrus Carbon Coffee: Soluções da Natureza e Cafés do Brasil",
+                "Terrus Carbon Coffee"
+            ],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    },
+    {
+        "empresa_pasta": "ECOGEN_8275",
+        "id_fgv": 8275,
+        "nome_oficial": "ECOGEN",
+        "estado": "SP",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Eletricidade▶e▶gás",
+                    "emissoes_escopo_1": null,
+                    "emissoes_escopo_2": null,
+                    "emissoes_escopo_3": null,
+                    "total_emissoes": null,
+                    "status": "sem_dados"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sem_dados"
+        }
+    },
+    {
+        "empresa_pasta": "Ecogest_9429",
+        "id_fgv": 9429,
+        "nome_oficial": "Ecogest",
+        "estado": "RJ",
+        "dados_carbono": {
+            "inventarios": [
+                {
+                    "pdf_origem": "relatorio_id_18.pdf",
+                    "ano_inventario": 2024,
+                    "setor_economico": "Atividades profissionais, científicas e técnicas",
+                    "emissoes_escopo_1": 0.729,
+                    "emissoes_escopo_2": 0.078,
+                    "emissoes_escopo_3": 0.0,
+                    "total_emissoes": 0.807,
+                    "status": "sucesso"
+                }
+            ],
+            "projetos_carbono": [],
+            "metas_net_zero": null,
+            "status": "sucesso"
+        }
+    }
+]

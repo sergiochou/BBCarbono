@@ -1,0 +1,30 @@
+{
+    "id": 8376,
+    "name": "M DIAS BRANCO",
+    "about": "Com mais de sete décadas de existência, a M. Dias Branco atua nos seguintes segmentos: biscoitos de trigo e arroz; massas de trigo e milho; farinhas e farelos de trigo; misturas para bolos; margarinas e cremes vegetais; bolos; snacks de milho e trigo; torradas; biscoitos cobertos de chocolate; pasta de amendoim; temperos e chocolates; granolas; cookies; e panificação sem glúten e beneficiamento de grãos. A partir da nossa sede, localizada em Eusébio, no estado do Ceará, adotamos uma estratégia bem-sucedida de construção e aquisição de novas indústrias. Possuímos modernos parques industriais, com equipamentos de última geração, seguindo os mais rigorosos padrões de qualidade na produção de alimentos e operando com um modelo de integração vertical, que permite a produção de nossas mais importantes matérias-primas.",
+    "inventoriesId": [
+        8098
+    ],
+    "logoId": "63f131d2-f844-1b1f-9796-3a18f041178e",
+    "sector": {
+        "id": 3,
+        "name": "Indústrias de transformação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 6,
+        "acronym": "CE",
+        "name": "Ceará"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

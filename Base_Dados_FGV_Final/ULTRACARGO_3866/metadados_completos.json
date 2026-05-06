@@ -1,0 +1,50 @@
+{
+    "id": 3866,
+    "name": "ULTRACARGO",
+    "about": "Nosso propósito é conectar negócios. Criar conexões é o que faz os negócios acontecerem. Quanto mais rápidas e fluidas elas forem, melhor o ambiente econômico de um País. Entendemos que conexão é essencial ao desenvolvimento da sociedade. E desde o início, conectamos o Brasil com o mundo, e um negócio com outro. Porque ninguém é alguém sozinho. E da conexão, surge o crescimento.\r\n\r\nSabemos que a conexão é um negócio complexo, que demanda muito mais do que armazenagem. Conexão é um fluxo de produtos, mas também de informações e de processos. O know-how que possuímos e a especialização de nossos colaboradores fazem da complexidade logística a nossa fortaleza.Por isso, antes de conectarmos empresas, nos conectamos com nossos clientes. Nos aprofundamos nos seus mercados, e processos e trazemos soluções inovadoras.\r\n\r\nMais do que armazenar produtos, conectamos diferentes cadeias de negócios, facilitando processos e reduzindo prazos, sempre com agilidade, produtividade, confiabilidade, segurança e orientação ao cliente.",
+    "inventoriesId": [
+        5226,
+        5283,
+        5816,
+        7753,
+        9007
+    ],
+    "logoId": "57ab611e-c111-46eb-b044-38b785e69d70",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

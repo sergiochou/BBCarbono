@@ -1,0 +1,50 @@
+{
+    "id": 3666,
+    "name": "Hospital Moinhos de Vento",
+    "about": "Desde sua fundação em 1927, o Hospital Moinhos de Vento tem como missão cuidar de vidas e colaborar com o desenvolvimento do país, promovendo uma medicina de excelência, na vanguarda dos melhores modelos de saúde internacionais. A instituição se consolidou como referência nacional com expertise mundial, sendo um modelo em práticas médicas, assistenciais e de gestão.\r\n\r\nÚnico hospital brasileiro afiliado à Johns Hopkins Medicine International e um dos seis de excelência do Brasil, segundo o Ministério da Saúde, foi considerado, pelo ranking da Revista Newsweek o segundo melhor hospital do Brasil. A avaliação da publicação norte-americana possui apenas 2 brasileiros entre os 100 melhores do mundo — o Moinhos de Vento é um deles. Pelo ranking da América Economía Intelligence, é também o segundo do país e o sexto melhor da América Latina. Em 2020, obteve a sétima acreditação pela Joint Commission International, mais importante consultoria de acreditação hospitalar do mundo.\r\n\r\nCom uma trajetória de pioneirismo e inovação, já realizou dezenas de procedimentos inéditos no Brasil e na Região Sul, de alta complexidade, nas áreas da cardiologia e cirurgia vascular, neurologia, oncologia, cirurgia robótica e terapia genética. Na última década, desenvolveu programas de telemedicina, nos quais foram atendidos pacientes nas mais variadas especialidades médicas e em projetos de qualificação do Sistema Único de Saúde, em parceria com os governos federal e estadual.",
+    "inventoriesId": [
+        4927,
+        5398,
+        6032,
+        7586,
+        8991
+    ],
+    "logoId": "ec49f4de-1a8a-4044-a626-8fec90e94282",
+    "sector": {
+        "id": 17,
+        "name": "Saúde humana e serviços sociais",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 21,
+        "acronym": "RS",
+        "name": "Rio Grande do Sul"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

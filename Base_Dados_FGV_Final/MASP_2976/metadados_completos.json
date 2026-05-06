@@ -1,0 +1,55 @@
+{
+    "id": 2976,
+    "name": "MASP",
+    "about": "O MASP, Museu diverso, inclusivo e plural, tem a missão de estabelecer, de maneira crítica e criativa, diálogos entre passado e presente, culturas e territórios, a partir das artes visuais. Para tanto, deve ampliar, preservar, pesquisar e difundir seu acervo, bem como promover o encontro entre públicos e arte por meio de experiências transformadoras e acolhedoras. ",
+    "inventoriesId": [
+        4284,
+        4679,
+        5284,
+        5811,
+        7183,
+        9093
+    ],
+    "logoId": "bb7b7875-0e5f-4005-97fa-d1145e899cde",
+    "sector": {
+        "id": 18,
+        "name": "Artes, cultura, esporte e recreação",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2019,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2020,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2021,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": 3260,
+    "name": "Energisa Mato Grosso",
+    "about": null,
+    "inventoriesId": [
+        4724
+    ],
+    "logoId": "a9da1683-94d3-4e67-8faf-00ee367eb2f0",
+    "sector": {
+        "id": 4,
+        "name": "Eletricidade e gás",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 11,
+        "acronym": "MT",
+        "name": "Mato Grosso"
+    },
+    "qualifications": [
+        {
+            "year": 2020,
+            "qualification": "Bronze"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Unidade",
+    "logoThumbnailRef": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": 9367,
+    "name": "AGRICOLA WEHRMANN",
+    "about": null,
+    "inventoriesId": [
+        9110,
+        9112
+    ],
+    "logoId": "de238362-4c7a-e6d2-aca2-3a1a2bce1a54",
+    "sector": {
+        "id": 1,
+        "name": "Agricultura, pecuária, produção florestal, pesca e aqüicultura",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 9,
+        "acronym": "GO",
+        "name": "Goiás"
+    },
+    "qualifications": [
+        {
+            "year": 2024,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2023,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

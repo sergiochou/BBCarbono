@@ -1,0 +1,45 @@
+{
+    "id": 4391,
+    "name": "Mineração Taboca S.A.",
+    "about": "A Mineração Taboca atua de forma sustentável nos setores de mineração e metalurgia de estanho e minerais industriais, com operações nos estados do Amazonas e de São Paulo. No Amazonas, no município de Presidente Figueiredo, está localizada a unidade minero-metalúrgica, composta pela mina de Pitinga — a empresa é uma das poucas no mercado mundial de estanho a possuir mina própria —, além de uma planta metalúrgica e uma usina hidrelétrica, que garante autonomia na geração de energia para a unidade.\nEm São Paulo, no município de Pirapora do Bom Jesus, está situada a unidade metalúrgica onde o concentrado de cassiterita (minério de estanho), proveniente da mina de Pitinga, é fundido para a obtenção do estanho refinado (high grade). Registrado na Bolsa de Metais de Londres (LME), o Estanho Mamoré — nome comercial do estanho refinado — é altamente competitivo e reconhecido no mercado, com teor mínimo garantido de 99,95% de estanho metálico.\nA Mineração Taboca também atua nos mercados de nióbio e tântalo, por meio das ligas metálicas FeNb e FeTa, obtidas a partir da fundição do concentrado de columbita presente na mina de Pitinga.\n",
+    "inventoriesId": [
+        5699,
+        6334,
+        7111,
+        8844
+    ],
+    "logoId": "d256e418-8245-05e9-3116-3a19b83c7797",
+    "sector": {
+        "id": 2,
+        "name": "Indústrias extrativas",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 25,
+        "acronym": "SP",
+        "name": "São Paulo"
+    },
+    "qualifications": [
+        {
+            "year": 2021,
+            "qualification": "Silver"
+        },
+        {
+            "year": 2022,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2023,
+            "qualification": "Gold"
+        },
+        {
+            "year": 2024,
+            "qualification": "Gold"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}

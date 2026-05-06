@@ -1,0 +1,35 @@
+{
+    "id": 230,
+    "name": "COOTRAVALE",
+    "about": "Em 20 de Junho de 1995, na cidade de Videira – SC, a partir da oportunidade aberta pela Perdigão Agroindustrial S/A e do sonho de 25 pequenos transportadores, a Cootravale – Cooperativa dos Transportadores do Vale foi fundada. Estes visionários fundadores acreditavam que a união abriria portas e ajudaria a conquistar novos mercados, com seriedade, profissionalismo e dedicação poderiam se tornar uma das maiores cooperativas de transporte deste país.\r\n\r\nCiente da sua responsabilidade como uma cooperativa, estabeleceu um compromisso mantido até hoje com seus colaboradores, cooperados, clientes e a comunidade: realizar um trabalho responsável e de qualidade, de modo que todos que mantém relações com a Cootravale cresçam de forma unificada. Compromisso este que está firmado também na missão da cooperativa: “Contribuir para o desenvolvimento social, profissional e econômico de seus cooperados e colaboradores, prestando serviços de transporte com excelência”.\r\n\r\nUma empresa projetada para o futuro, esta é a forma como a Cootravale vem sendo administrada, percebendo que os resultados de hoje tem de ser motivo de orgulho no amanhã, como consta em sua visão - “Ser a melhor empresa de transporte, a melhor opção de investimento para cooperados e a melhor empresa para se trabalhar”.\r\n\r\nPara tanto, os valores que norteiam o trabalho dos cooperados e dos colaboradores são: \r\n\r\n•\tSenso de Coletividade: para nós a opinião do grupo é fundamental.\r\n\r\n•\tÉtica: trabalharemos sempre respeitando as pessoas, organizações e órgãos.\r\n\r\n•\tQualidade: um padrão de atendimento.\r\n\r\n•\tConfiabilidade: relacionamentos de confiança mútua.\r\n\r\n•\tGestão de Pessoas: acreditamos que as pessoas fazem a diferença.\r\n\r\n•\tResponsabilidade Socioambiental: respeitamos o mundo em que vivemos.\r\n\r\nAtualmente, a Cootravale conta com 21 unidades, entre sede administrativa, filiais e pontos de apoio; 154 colaboradores e uma frota dedicada de 350 caminhões.\r\n\r\n",
+    "inventoriesId": [
+        2191,
+        550
+    ],
+    "logoId": "0e63e244-9d18-4d1e-b59b-9d1faac44455",
+    "sector": {
+        "id": 8,
+        "name": "Transporte, armazenagem e correio",
+        "parentId": null,
+        "subSectors": []
+    },
+    "subSector": null,
+    "state": {
+        "id": 24,
+        "acronym": "SC",
+        "name": "Santa Catarina"
+    },
+    "qualifications": [
+        {
+            "year": 2013,
+            "qualification": "Bronze"
+        },
+        {
+            "year": 2012,
+            "qualification": "Silver"
+        }
+    ],
+    "typesPerYear": [],
+    "currentType": "Matriz",
+    "logoThumbnailRef": null
+}
