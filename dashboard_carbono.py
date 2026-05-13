@@ -143,7 +143,7 @@ def carregar_dados() -> pd.DataFrame:
                 registros.append({
                     "empresa": nome,
                     "estado": estado,
-                    "setor": inv.get("setor_economico") or "Nao informado",
+                    "setor": inv.get("setor_economico") or "Não informado",
                     "escopo_1": inv.get("emissoes_escopo_1") or 0,
                     "escopo_2": inv.get("emissoes_escopo_2") or 0,
                     "escopo_3": inv.get("emissoes_escopo_3") or 0,
@@ -203,8 +203,8 @@ def grafico_top_emissores(df: pd.DataFrame, top_n: int = 20) -> go.Figure:
     fig.update_layout(
         barmode="stack",
         bargap=0.35,
-        title=f"Top {top_n} Maiores Emissores · Media Anual tCO₂e por Escopo",
-        xaxis_title="Media anual de emissoes (tCO₂e)",
+        title=f"Top {top_n} Maiores Emissores · Média Anual tCO₂e por Escopo",
+        xaxis_title="Média anual de emissões (tCO₂e)",
         height=720,
         legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0, xanchor="left"),
         margin=dict(l=260, r=30, t=90, b=60),
@@ -219,7 +219,7 @@ def grafico_creditos_carbono(df: pd.DataFrame, top_n: int = 25) -> go.Figure:
     fig = make_subplots(
         rows=1, cols=2,
         subplot_titles=(
-            "Creditos necessarios · media anual tCO₂e",
+            "Créditos necessários · média anual tCO₂e",
             f"Custo estimado anual · USD {fmt_br(PRECO_CREDITO_USD, 2)}/tCO₂e",
         ),
         horizontal_spacing=0.14,
@@ -228,8 +228,8 @@ def grafico_creditos_carbono(df: pd.DataFrame, top_n: int = 25) -> go.Figure:
     fig.add_trace(go.Bar(
         x=top["empresa"], y=top["creditos_necessarios"],
         marker=dict(color=COR_ESCOPO3, line=dict(width=0)),
-        name="Creditos",
-        hovertemplate="<b>%{x}</b><br>%{y:,.0f} creditos/ano<extra></extra>",
+        name="Créditos",
+        hovertemplate="<b>%{x}</b><br>%{y:,.0f} créditos/ano<extra></extra>",
     ), row=1, col=1)
 
     fig.add_trace(go.Bar(
@@ -269,7 +269,7 @@ def grafico_distribuicao_escopos(df: pd.DataFrame) -> go.Figure:
     ))
 
     fig.update_layout(
-        title="Distribuicao por Escopo · Media Anual",
+        title="Distribuição por Escopo · Média Anual",
         height=460,
         legend=dict(orientation="h", yanchor="top", y=-0.05, x=0.5, xanchor="center"),
         margin=dict(l=30, r=30, t=80, b=80),
@@ -304,9 +304,9 @@ def grafico_por_estado(df: pd.DataFrame) -> go.Figure:
     fig.update_layout(
         barmode="stack",
         bargap=0.25,
-        title="Emissoes por Estado · Media Anual tCO₂e",
+        title="Emissões por Estado · Média Anual tCO₂e",
         xaxis_title="Unidade Federativa",
-        yaxis_title="Media anual de emissoes (tCO₂e)",
+        yaxis_title="Média anual de emissões (tCO₂e)",
         height=480,
         legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0, xanchor="left"),
     )
@@ -329,7 +329,7 @@ def grafico_scatter_escopos(df: pd.DataFrame) -> go.Figure:
             line=dict(color=COR_INK_DEEP, width=1.2),
             opacity=0.88,
             colorbar=dict(
-                title=dict(text="Media anual tCO₂e", font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM)),
+                title=dict(text="Média anual tCO₂e", font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM)),
                 tickfont=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM),
                 thickness=10,
                 outlinewidth=0,
@@ -346,9 +346,9 @@ def grafico_scatter_escopos(df: pd.DataFrame) -> go.Figure:
     ))
 
     fig.update_layout(
-        title="Correlacao entre Escopos · Media Anual · Log-log",
-        xaxis_title="Escopo 1 · Diretas (log · media anual tCO₂e)",
-        yaxis_title="Escopo 3 · Cadeia de valor (log · media anual tCO₂e)",
+        title="Correlação entre Escopos · Média Anual · Log-log",
+        xaxis_title="Escopo 1 · Diretas (log · média anual tCO₂e)",
+        yaxis_title="Escopo 3 · Cadeia de valor (log · média anual tCO₂e)",
         height=560,
     )
     fig.update_xaxes(type="log")
@@ -380,19 +380,19 @@ def grafico_compensacao_status(df: pd.DataFrame) -> go.Figure:
 
     fig.add_annotation(
         x="Com projeto", y=len(com),
-        text=f"media: {fmt_br(media_com)} tCO₂e",
+        text=f"média: {fmt_br(media_com)} tCO₂e",
         showarrow=False, yshift=45,
         font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_FAINT),
     )
     fig.add_annotation(
         x="Sem projeto", y=len(sem),
-        text=f"media: {fmt_br(media_sem)} tCO₂e",
+        text=f"média: {fmt_br(media_sem)} tCO₂e",
         showarrow=False, yshift=45,
         font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_FAINT),
     )
 
     fig.update_layout(
-        title="Empresas com Compensacao de Carbono",
+        title="Empresas com Compensação de Carbono",
         yaxis_title="Quantidade de empresas",
         height=440,
         showlegend=False,
@@ -421,7 +421,7 @@ def _render_tabela_html(df: pd.DataFrame, page_size: int = 41) -> str:
         '<th class="num">Escopo 2</th>'
         '<th class="num">Escopo 3</th>'
         '<th class="num">Total tCO₂e</th>'
-        '<th class="num">Creditos</th>'
+        '<th class="num">Créditos</th>'
         '<th class="num">Custo USD</th>'
         '<th>Compensa</th>'
         '<th>Net Zero</th>'
@@ -484,14 +484,14 @@ def _render_tabela_html(df: pd.DataFrame, page_size: int = 41) -> str:
         </div>
       </div>
       <div class="carousel-controls">
-        <button class="carousel-btn prev" type="button" aria-label="Pagina anterior" disabled>‹</button>
-        <nav class="carousel-pages" role="tablist" aria-label="Selecionar pagina"></nav>
-        <button class="carousel-btn next" type="button" aria-label="Proxima pagina">›</button>
+        <button class="carousel-btn prev" type="button" aria-label="Página anterior" disabled>‹</button>
+        <nav class="carousel-pages" role="tablist" aria-label="Selecionar página"></nav>
+        <button class="carousel-btn next" type="button" aria-label="Próxima página">›</button>
       </div>
       <div class="carousel-meta">
-        Pagina <strong class="carousel-current">1</strong> de <strong>{n_pages}</strong>
-        &nbsp;·&nbsp; {page_size} inventarios por pagina
-        &nbsp;·&nbsp; {total} inventarios no total
+        Página <strong class="carousel-current">1</strong> de <strong>{n_pages}</strong>
+        &nbsp;·&nbsp; {page_size} inventários por página
+        &nbsp;·&nbsp; {total} inventários no total
       </div>
     </div>
     """
@@ -522,12 +522,12 @@ def _render_tabela_consolidada_html(df: pd.DataFrame, page_size: int = 41) -> st
         '<tr>'
         '<th class="th-empresa">Empresa</th>'
         '<th class="th-uf">UF</th>'
-        '<th class="num">Inventarios</th>'
+        '<th class="num">Inventários</th>'
         '<th class="num">Escopo 1</th>'
         '<th class="num">Escopo 2</th>'
         '<th class="num">Escopo 3</th>'
         '<th class="num">Total tCO₂e</th>'
-        '<th class="num">Creditos</th>'
+        '<th class="num">Créditos</th>'
         '<th class="num">Custo USD</th>'
         '<th>Compensa</th>'
         '<th>Net Zero</th>'
@@ -589,13 +589,13 @@ def _render_tabela_consolidada_html(df: pd.DataFrame, page_size: int = 41) -> st
         </div>
       </div>
       <div class="carousel-controls">
-        <button class="carousel-btn prev" type="button" aria-label="Pagina anterior" disabled>‹</button>
-        <nav class="carousel-pages" role="tablist" aria-label="Selecionar pagina"></nav>
-        <button class="carousel-btn next" type="button" aria-label="Proxima pagina">›</button>
+        <button class="carousel-btn prev" type="button" aria-label="Página anterior" disabled>‹</button>
+        <nav class="carousel-pages" role="tablist" aria-label="Selecionar página"></nav>
+        <button class="carousel-btn next" type="button" aria-label="Próxima página">›</button>
       </div>
       <div class="carousel-meta">
-        Pagina <strong class="carousel-current">1</strong> de <strong>{n_pages}</strong>
-        &nbsp;·&nbsp; {page_size} empresas por pagina
+        Página <strong class="carousel-current">1</strong> de <strong>{n_pages}</strong>
+        &nbsp;·&nbsp; {page_size} empresas por página
         &nbsp;·&nbsp; {total} empresas no total
       </div>
     </div>
@@ -627,7 +627,7 @@ def _render_tabelas_section(df: pd.DataFrame) -> str:
 
     return f"""
     <div class="table-view-toggle">
-      <button class="view-btn active" type="button" data-view="detalhada">Por inventario</button>
+      <button class="view-btn active" type="button" data-view="detalhada">Por inventário</button>
       <button class="view-btn" type="button" data-view="consolidada">Consolidada</button>
     </div>
 
@@ -654,7 +654,7 @@ def _render_tabelas_section(df: pd.DataFrame) -> str:
         </button>
       </div>
 
-      <button class="filter-toggle" type="button" aria-label="Filtros e ordenacao">
+      <button class="filter-toggle" type="button" aria-label="Filtros e ordenação">
         <svg viewBox="0 0 24 24" width="18" height="18"
              fill="none" stroke="currentColor" stroke-width="2"
              stroke-linecap="round" stroke-linejoin="round">
@@ -678,12 +678,12 @@ def _render_tabelas_section(df: pd.DataFrame) -> str:
               <option value="empresa">Empresa</option>
               <option value="uf">UF</option>
               <option value="ano" data-only-view="detalhada">Ano</option>
-              <option value="inventarios" data-only-view="consolidada" disabled hidden>Inventarios</option>
+              <option value="inventarios" data-only-view="consolidada" disabled hidden>Inventários</option>
               <option value="escopo1">Escopo 1</option>
               <option value="escopo2">Escopo 2</option>
               <option value="escopo3">Escopo 3</option>
               <option value="total">Total tCO&#8322;e</option>
-              <option value="creditos">Creditos</option>
+              <option value="creditos">Créditos</option>
               <option value="custo">Custo USD</option>
             </select>
             <div class="sort-dir-group">
@@ -721,7 +721,7 @@ def _render_tabelas_section(df: pd.DataFrame) -> str:
         </section>
 
         <section class="filter-section" data-only-view="detalhada">
-          <h4 class="filter-heading">Ano do inventario</h4>
+          <h4 class="filter-heading">Ano do inventário</h4>
           <div class="filter-row filter-uf-actions">
             <button class="filter-link" type="button" data-action="check-all">Todos</button>
             <button class="filter-link" type="button" data-action="uncheck-all">Nenhum</button>
@@ -732,12 +732,12 @@ def _render_tabelas_section(df: pd.DataFrame) -> str:
         </section>
 
         <section class="filter-section">
-          <h4 class="filter-heading">Compensacao</h4>
+          <h4 class="filter-heading">Compensação</h4>
           <div class="filter-row">
             <select class="filter-select" id="filter-compensa">
               <option value="">Todos</option>
               <option value="sim">Apenas quem compensa</option>
-              <option value="nao">Apenas quem nao compensa</option>
+              <option value="nao">Apenas quem não compensa</option>
             </select>
           </div>
         </section>
@@ -816,17 +816,17 @@ def _render_hero(df: pd.DataFrame) -> str:
     return f"""
     <section class="hero" id="panorama">
       <div class="hero-main">
-        <span class="hero-label">Media anual de emissoes estimada</span>
+        <span class="hero-label">Média anual de emissões estimada</span>
         <div class="hero-value">{fmt_br(total_geral)}</div>
         <div class="hero-unit">toneladas de <strong>CO₂ equivalente</strong> &nbsp;·&nbsp; {n_empresas} empresas &nbsp;·&nbsp; {n_estados} estados</div>
       </div>
       <aside class="hero-side">
         <dl>
-          <dt>Creditos necessarios</dt>
+          <dt>Créditos necessários</dt>
           <dd>{fmt_compacto(total_geral)}<small>tCO₂e/ano</small></dd>
         </dl>
         <dl>
-          <dt>Compensacao estimada</dt>
+          <dt>Compensação estimada</dt>
           <dd>US$ {fmt_compacto(custo_total)}<small>@ {fmt_br(PRECO_CREDITO_USD, 2)}</small></dd>
         </dl>
         <dl>
@@ -849,7 +849,7 @@ def _render_kpi_row(df: pd.DataFrame) -> str:
       <div class="kpi-tile" data-accent="gold">
         <div class="label">Escopo 1 · Diretas</div>
         <div class="value">{fmt_compacto(e1)}</div>
-        <div class="sublabel">tCO₂e/ano · emissoes proprias</div>
+        <div class="sublabel">tCO₂e/ano · emissões próprias</div>
       </div>
       <div class="kpi-tile" data-accent="azure">
         <div class="label">Escopo 2 · Energia</div>
@@ -877,21 +877,21 @@ def _render_note() -> str:
     <section class="note">
       <div class="note-kicker">Metodologia</div>
       <p class="note-body">
-        Cada <strong>credito de carbono</strong> equivale a <em>1 tCO₂e</em> —
-        uma tonelada de CO₂ equivalente. O custo estimado usa o preco medio do
-        mercado voluntario brasileiro de <strong>USD {fmt_br(PRECO_CREDITO_USD, 2)}</strong>
-        por credito. <strong>Escopo 1</strong> refere-se a emissoes diretas
-        (combustao propria); <strong>Escopo 2</strong>, a eletricidade comprada;
+        Cada <strong>crédito de carbono</strong> equivale a <em>1 tCO₂e</em> —
+        uma tonelada de CO₂ equivalente. O custo estimado usa o preço médio do
+        mercado voluntário brasileiro de <strong>USD {fmt_br(PRECO_CREDITO_USD, 2)}</strong>
+        por crédito. <strong>Escopo 1</strong> refere-se a emissões diretas
+        (combustão própria); <strong>Escopo 2</strong>, a eletricidade comprada;
         <strong>Escopo 3</strong>, a cadeia de valor — transporte, fornecedores
         e uso dos produtos.
       </p>
       <p class="note-body">
-        <strong>Criterio de agregacao:</strong> para empresas com mais de um
-        relatorio de emissao, os valores exibidos nos graficos representam a
-        <em>media anual</em> de seus inventarios. Isso garante comparacao justa
-        entre empresas com diferentes quantidades de relatorios historicos.
+        <strong>Critério de agregação:</strong> para empresas com mais de um
+        relatório de emissão, os valores exibidos nos gráficos representam a
+        <em>média anual</em> de seus inventários. Isso garante comparação justa
+        entre empresas com diferentes quantidades de relatórios históricos.
         Para dados detalhados por ano e por empresa, consulte a
-        <a href="#tabela" style="color:#e2b84d;text-decoration:underline;text-underline-offset:3px">tabela completa na secao §05 Registro</a>.
+        <a href="#tabela" style="color:#e2b84d;text-decoration:underline;text-underline-offset:3px">tabela completa na seção §05 Registro</a>.
       </p>
     </section>
     """
@@ -939,8 +939,8 @@ def montar_dashboard(df: pd.DataFrame) -> str:
             kicker="§ Ranking",
             titulo="Os maiores <em>emissores</em>",
             deck=(
-                "Empresas ordenadas pelo volume total de emissoes, desmembradas "
-                "por escopo. Poucos nomes concentram uma fracao desproporcional "
+                "Empresas ordenadas pelo volume total de emissões, desmembradas "
+                "por escopo. Poucos nomes concentram uma fração desproporcional "
                 "do total registrado."
             ),
             conteudo=_render_chart(grafico_top_emissores(df_recente)),
@@ -949,11 +949,11 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="02",
             kicker="§ Anatomia",
-            titulo="Composicao por <em>escopo</em>",
+            titulo="Composição por <em>escopo</em>",
             deck=(
-                "Onde as emissoes realmente acontecem. A distribuicao agregada "
-                "revela o peso da cadeia de valor, enquanto a correlacao entre "
-                "escopos 1 e 3 expoe perfis distintos de negocio."
+                "Onde as emissões realmente acontecem. A distribuição agregada "
+                "revela o peso da cadeia de valor, enquanto a correlação entre "
+                "escopos 1 e 3 expõe perfis distintos de negócio."
             ),
             conteudo=_render_chart_grid(
                 grafico_distribuicao_escopos(df_recente),
@@ -964,11 +964,11 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="03",
             kicker="§ Territorio",
-            titulo="Geografia das <em>emissoes</em>",
+            titulo="Geografia das <em>emissões</em>",
             deck=(
-                "Distribuicao por unidade federativa. A concentracao geografica "
-                "reflete a presenca dos grandes polos industriais e energeticos "
-                "do pais."
+                "Distribuição por unidade federativa. A concentração geográfica "
+                "reflete a presença dos grandes polos industriais e energéticos "
+                "do país."
             ),
             conteudo=_render_chart(grafico_por_estado(df_recente)),
             anchor="geografia",
@@ -976,11 +976,11 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="04",
             kicker="§ Contrapartida",
-            titulo="Creditos e <em>compensacao</em>",
+            titulo="Créditos e <em>compensação</em>",
             deck=(
-                "A tradutao financeira da pegada de carbono. Quantos creditos "
-                "sao necessarios e quantas empresas ja mantem projetos ativos "
-                "de compensacao voluntaria."
+                "A tradução financeira da pegada de carbono. Quantos créditos "
+                "são necessários e quantas empresas já mantêm projetos ativos "
+                "de compensação voluntária."
             ),
             conteudo=_render_chart_grid(
                 grafico_creditos_carbono(df_recente),
@@ -994,7 +994,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
             titulo="Tabela <em>completa</em>",
             deck=(
                 "Registro detalhado de cada empresa — volumes por escopo, "
-                "creditos necessarios, custo de compensacao e metas de net zero "
+                "créditos necessários, custo de compensação e metas de net zero "
                 "declaradas."
             ),
             conteudo=_render_tabelas_section(df),
@@ -1008,7 +1008,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crédito de Carbono · Dashboard</title>
-    <meta name="description" content="Dashboard editorial de emissoes de carbono corporativo — Registro Publico FGV · GHG Protocol.">
+    <meta name="description" content="Dashboard editorial de emissões de carbono corporativo — Registro Público FGV · GHG Protocol.">
     <link rel="stylesheet" href="{CAMINHO_CSS}">
     <script src="https://cdn.plot.ly/plotly-2.35.0.min.js"></script>
     <script defer src="{CAMINHO_JS}"></script>
@@ -1016,13 +1016,30 @@ def montar_dashboard(df: pd.DataFrame) -> str:
 <body>
     <div class="shell">
         <header class="masthead">
-            <h1 class="masthead-title">Crédito<br><em>de Carbono</em></h1>
-            <p class="masthead-standfirst">
-                Retrato consolidado das emissoes registradas no <strong>Registro
-                Publico de Emissoes</strong> da Fundacao Getulio Vargas. Escopos
-                1, 2 e 3 lado a lado com a contrapartida financeira da
-                compensacao no mercado voluntario brasileiro.
-            </p>
+            <div class="masthead-content">
+                <div class="masthead-text">
+                    <h1 class="masthead-title">Crédito<br><em>de Carbono</em></h1>
+                    <p class="masthead-standfirst">
+                        Retrato consolidado das emissões registradas no <strong>Registro
+                        Público de Emissões</strong> da Fundação Getulio Vargas. Escopos
+                        1, 2 e 3 lado a lado com a contrapartida financeira da
+                        compensação no mercado voluntário brasileiro.
+                    </p>
+                </div>
+                <div class="masthead-team">
+                    <span class="masthead-team-label">Equipe</span>
+                    <ul class="masthead-team-list">
+                        <li><a href="https://www.linkedin.com/in/pedro-ism/" target="_blank" rel="noopener" class="masthead-team-link"><span class="team-icon">&#8599;</span>Pedro Monteiro</a></li>
+                        <li><a href="https://github.com/sergiochou" target="_blank" rel="noopener" class="masthead-team-link"><span class="team-icon">&#8599;</span>Sérgio Chousino</a></li>
+                        <li><a href="https://github.com/byteric" target="_blank" rel="noopener" class="masthead-team-link"><span class="team-icon">&#8599;</span>Ricardo Severiano</a></li>
+                        <li><a href="https://github.com/codeblack2301" target="_blank" rel="noopener" class="masthead-team-link"><span class="team-icon">&#8599;</span>Rafael Aimbere</a></li>
+                    </ul>
+                </div>
+                <div class="masthead-logos">
+                    <img src="../img/logo-bb.png" alt="Banco do Brasil" class="masthead-logo masthead-logo--bb">
+                    <img src="../img/logo-cesar.png" alt="CESAR School" class="masthead-logo masthead-logo--cesar">
+                </div>
+            </div>
         </header>
 
         <nav class="rail">
@@ -1030,7 +1047,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
             <a href="#emissores"><span class="sec">§01</span>Emissores</a>
             <a href="#escopos"><span class="sec">§02</span>Escopos</a>
             <a href="#geografia"><span class="sec">§03</span>Geografia</a>
-            <a href="#compensacao"><span class="sec">§04</span>Compensacao</a>
+            <a href="#compensacao"><span class="sec">§04</span>Compensação</a>
             <a href="#tabela"><span class="sec">§05</span>Registro</a>
         </nav>
 

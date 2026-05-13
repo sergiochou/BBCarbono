@@ -119,6 +119,113 @@ body::after {
     position: relative;
 }
 
+.masthead-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.masthead-text {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.masthead-team {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem 2.5rem;
+    border: 1px solid var(--hairline-bright);
+    border-radius: 4px;
+    background: rgba(255,255,255,0.03);
+    min-width: 260px;
+    max-width: 380px;
+}
+
+.masthead-team-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.25rem;
+    display: block;
+}
+
+.masthead-team-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.masthead-team-list li {
+    border-bottom: 1px solid var(--hairline);
+}
+
+.masthead-team-list li:last-child {
+    border-bottom: none;
+}
+
+.masthead-team-link {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    padding: 0.8rem 0;
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--paper-dim);
+    text-decoration: none;
+    transition: color 0.18s ease;
+    white-space: nowrap;
+}
+
+.masthead-team-link:hover {
+    color: var(--paper-bright);
+}
+
+.masthead-team-link:hover .team-icon {
+    color: var(--gold);
+}
+
+.team-icon {
+    font-size: 13px;
+    color: var(--paper-faint);
+    transition: color 0.18s ease;
+    line-height: 1;
+}
+
+.masthead-logos {
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.75rem;
+    padding-left: 2rem;
+}
+
+.masthead-logo {
+    display: block;
+    object-fit: contain;
+}
+
+.masthead-logo--bb {
+    width: clamp(80px, 10vw, 120px);
+    height: auto;
+}
+
+.masthead-logo--cesar {
+    width: clamp(90px, 11vw, 130px);
+    height: auto;
+    filter: brightness(0) invert(1) opacity(0.75);
+}
+
 .masthead-title {
     font-family: var(--font-display);
     font-weight: 300;
@@ -1414,6 +1521,12 @@ body::after {
     .hero-value { font-size: clamp(3.5rem, 18vw, 5rem); }
 
     .masthead-title { font-size: clamp(2.75rem, 14vw, 4.5rem); }
+
+    .masthead-content { flex-direction: column; align-items: flex-start; }
+    .masthead-team { min-width: 0; width: 100%; padding: 1rem 1.25rem; }
+    .masthead-logos { flex-direction: row; padding-left: 0; padding-top: 1.5rem; gap: 2rem; }
+    .masthead-logo--bb { width: 70px; }
+    .masthead-logo--cesar { width: 80px; }
 
     .rail { gap: 1.25rem; }
     .rail a { font-size: 10.5px; }
