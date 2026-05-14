@@ -5,7 +5,6 @@
    Acentos: dourado (gold) · azul-aco (azure) · azul-gelo (ice)
    ════════════════════════════════════════════════════════════════════ */
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400;1,9..144,500&family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
 
 :root {
@@ -37,14 +36,15 @@
     --ice-pale:       #a8c8eb;
     --coral:          #c96a4a;
 
-    --font-display:   'Fraunces', 'Playfair Display', Georgia, serif;
-    --font-body:      'Geist', 'Helvetica Neue', system-ui, sans-serif;
-    --font-mono:      'JetBrains Mono', 'Courier New', monospace;
+    --font-display:   Helvetica, Arial, sans-serif;
+    --font-body:      Helvetica, Arial, sans-serif;
+    --font-mono:      Helvetica, Arial, sans-serif;
 
     --shell-max:      1400px;
     --shell-pad:      clamp(1.25rem, 3.5vw, 2.75rem);
 
     --ease-fluid:     cubic-bezier(0.2, 0.8, 0.2, 1);
+    --shadow-button:  rgba(0, 0, 0, 0.18);
 }
 
 
@@ -69,9 +69,9 @@ body {
     min-height: 100vh;
     overflow-x: hidden;
     position: relative;
-    font-feature-settings: "ss01", "cv11", "kern";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    transition: background 0.3s var(--ease-fluid), color 0.3s var(--ease-fluid);
 }
 
 
@@ -233,15 +233,13 @@ body::after {
     line-height: 0.9;
     letter-spacing: -0.045em;
     color: var(--paper-bright);
-    font-variation-settings: "opsz" 144, "SOFT" 10;
     margin-bottom: 1.5rem;
 }
 
 .masthead-title em {
     font-style: italic;
     font-weight: 400;
-    color: var(--gold);
-    font-variation-settings: "opsz" 144, "SOFT" 100;
+    color: var(--paper-bright);
 }
 
 .masthead-standfirst {
@@ -256,8 +254,8 @@ body::after {
 }
 
 .masthead-standfirst strong {
-    color: var(--paper);
-    font-weight: 500;
+    color: var(--paper-dim);
+    font-weight: 600;
 }
 
 
@@ -334,10 +332,10 @@ body::after {
 
 .hero-label {
     font-family: var(--font-mono);
-    font-size: 10.5px;
-    letter-spacing: 0.28em;
+    font-size: 13px;
+    letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-dim);
     display: flex;
     align-items: center;
     gap: 0.75rem;
@@ -348,17 +346,16 @@ body::after {
     content: "";
     flex: 1;
     height: 1px;
-    background: var(--hairline);
+    background: var(--hairline-bright);
     max-width: 80px;
 }
 
 .hero-value {
     font-family: var(--font-display);
     font-weight: 400;
-    font-variation-settings: "opsz" 144, "SOFT" 30;
-    font-size: clamp(4.5rem, 13vw, 10rem);
-    line-height: 0.88;
-    letter-spacing: -0.055em;
+    font-size: clamp(3.5rem, 10vw, 7.5rem);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
     background: linear-gradient(175deg, var(--paper-bright) 20%, var(--gold) 130%);
     -webkit-background-clip: text;
     background-clip: text;
@@ -375,10 +372,8 @@ body::after {
 }
 
 .hero-unit strong {
-    color: var(--paper-bright);
+    color: var(--paper-dim);
     font-weight: 500;
-    font-family: var(--font-display);
-    font-style: italic;
 }
 
 .hero-side {
@@ -413,7 +408,6 @@ body::after {
     font-size: 34px;
     font-weight: 400;
     color: var(--paper-bright);
-    font-variation-settings: "opsz" 96, "SOFT" 20;
     letter-spacing: -0.025em;
     line-height: 1;
     text-align: right;
@@ -515,7 +509,6 @@ body::after {
 
 .kpi-tile .value {
     font-family: var(--font-display);
-    font-variation-settings: "opsz" 96, "SOFT" 20;
     font-weight: 400;
     font-size: clamp(2rem, 3.6vw, 2.85rem);
     letter-spacing: -0.03em;
@@ -584,8 +577,8 @@ body::after {
     font-weight: 300;
 }
 
-.note-body strong { color: var(--paper); font-weight: 500; }
-.note-body em     { color: var(--paper-bright); font-family: var(--font-display); font-style: italic; font-size: 15px; }
+.note-body strong { color: var(--paper-dim); font-weight: 600; }
+.note-body em     { color: var(--paper-dim); font-style: italic; }
 
 
 .chapter {
@@ -607,7 +600,6 @@ body::after {
     font-size: 68px;
     line-height: 0.9;
     color: var(--gold);
-    font-variation-settings: "opsz" 144, "SOFT" 80;
     letter-spacing: -0.05em;
     font-style: italic;
     padding-top: 0.15em;
@@ -641,13 +633,12 @@ body::after {
     letter-spacing: -0.025em;
     line-height: 1.1;
     margin-bottom: 0.75rem;
-    font-variation-settings: "opsz" 72, "SOFT" 10;
 }
 
 .chapter-heading em {
     font-style: italic;
-    color: var(--gold);
-    font-weight: 300;
+    color: var(--paper-bright);
+    font-weight: 400;
 }
 
 .chapter-deck {
@@ -659,8 +650,8 @@ body::after {
 }
 
 .chapter-deck strong {
-    color: var(--paper);
-    font-weight: 500;
+    color: var(--paper-dim);
+    font-weight: 600;
 }
 
 
@@ -1532,6 +1523,94 @@ body::after {
     .rail a { font-size: 10.5px; }
 }
 
+/* ════════════════════════════════════════════════════════════════════
+   Modo Claro — sobrescreve variáveis de cor
+   ════════════════════════════════════════════════════════════════════ */
+
+[data-theme="light"] {
+    --ink-void:       #ffffff;
+    --ink-deep:       #f5f6fa;
+    --ink-raised:     #ebedf5;
+    --ink-elevated:   #dde0ee;
+    --ink-highest:    #cdd2e6;
+
+    --paper:          #1a2340;
+    --paper-bright:   #0c1526;
+    --paper-dim:      #4a5270;
+    --paper-faint:    #6a7290;
+    --paper-whisper:  #8a90a8;
+
+    --hairline:           rgba(26, 35, 64, 0.07);
+    --hairline-bright:    rgba(26, 35, 64, 0.18);
+    --hairline-strong:    rgba(26, 35, 64, 0.32);
+
+    --gold-glow:      rgba(226, 184, 77, 0.10);
+    --azure-glow:     rgba(93, 143, 201, 0.10);
+    --steel-glow:     rgba(58, 110, 165, 0.10);
+
+    --shadow-button:  rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] body::before {
+    background:
+        radial-gradient(ellipse 900px 600px at 15% -10%, var(--gold-glow), transparent 58%),
+        radial-gradient(ellipse 700px 500px at 95% 35%, var(--steel-glow), transparent 55%),
+        radial-gradient(ellipse 500px 700px at 55% 110%, var(--azure-glow), transparent 60%);
+}
+
+[data-theme="light"] body::after {
+    opacity: 0.02;
+}
+
+/* ════════════════════════════════════════════════════════════════════
+   Botão de alternância de tema
+   ════════════════════════════════════════════════════════════════════ */
+
+.theme-toggle {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.55rem 1rem;
+    background: var(--ink-elevated);
+    border: 1px solid var(--hairline-strong);
+    border-radius: 4px;
+    color: var(--paper);
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition:
+        background 0.2s var(--ease-fluid),
+        border-color 0.2s var(--ease-fluid),
+        color 0.2s var(--ease-fluid),
+        box-shadow 0.2s var(--ease-fluid),
+        transform 0.1s var(--ease-fluid);
+}
+
+.theme-toggle:hover {
+    background: var(--ink-highest);
+    border-color: var(--hairline-bright);
+    box-shadow: 0 4px 16px var(--shadow-button);
+}
+
+.theme-toggle:active {
+    transform: translateY(1px);
+}
+
+.theme-toggle:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+}
+
+.theme-toggle-icon {
+    font-size: 15px;
+    line-height: 1;
+}
 
 @media print {
     .carousel-viewport {

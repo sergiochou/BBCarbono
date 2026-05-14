@@ -1,3 +1,43 @@
+// Theme toggle — persiste preferência no localStorage
+(function () {
+  'use strict';
+  var saved = localStorage.getItem('bb-theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', saved);
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+    var icon  = btn.querySelector('.theme-toggle-icon');
+    var label = btn.querySelector('.theme-toggle-label');
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('bb-theme', theme);
+      if (theme === 'dark') {
+        icon.textContent  = '☀';
+        label.textContent = 'Modo Claro';
+      } else {
+        icon.textContent  = '🌙';
+        label.textContent = 'Modo Escuro';
+      }
+    }
+
+    var current = document.documentElement.getAttribute('data-theme');
+    if (current === 'dark') {
+      icon.textContent  = '☀';
+      label.textContent = 'Modo Claro';
+    } else {
+      icon.textContent  = '🌙';
+      label.textContent = 'Modo Escuro';
+    }
+
+    btn.addEventListener('click', function () {
+      var c = document.documentElement.getAttribute('data-theme');
+      applyTheme(c === 'dark' ? 'light' : 'dark');
+    });
+  });
+})();
+
 (function () {
   'use strict';
 

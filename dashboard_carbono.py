@@ -1078,6 +1078,11 @@ def montar_dashboard(df: pd.DataFrame) -> str:
     }}
 }})();
 </script>
+
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Alternar tema">
+  <span class="theme-toggle-icon"></span>
+  <span class="theme-toggle-label"></span>
+</button>
 </body>
 </html>"""
 
