@@ -77,8 +77,8 @@ def _registrar_tema_plotly() -> None:
         linecolor=COR_HAIRLINE_BRIGHT,
         tickcolor=COR_HAIRLINE_BRIGHT,
         zerolinecolor=COR_HAIRLINE_BRIGHT,
-        tickfont=dict(family=FONTE_MONO, size=10.5, color=COR_PAPEL_DIM),
-        title=dict(font=dict(family=FONTE_MONO, size=11, color=COR_PAPEL_FAINT)),
+        tickfont=dict(family=FONTE_MONO, size=10.5, color=COR_PAPEL_BRIGHT),
+        title=dict(font=dict(family=FONTE_MONO, size=11, color=COR_PAPEL_BRIGHT)),
         zeroline=False,
         automargin=True,
     )
@@ -99,7 +99,7 @@ def _registrar_tema_plotly() -> None:
             legend=dict(
                 bgcolor="rgba(0,0,0,0)",
                 bordercolor="rgba(0,0,0,0)",
-                font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM),
+                font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_BRIGHT),
             ),
             hoverlabel=dict(
                 bgcolor=COR_INK_ELEVATED,
@@ -240,7 +240,7 @@ def grafico_creditos_carbono(df: pd.DataFrame, top_n: int = 25) -> go.Figure:
     ), row=1, col=2)
 
     fig.update_annotations(
-        font=dict(family=FONTE_MONO, size=11, color=COR_PAPEL_DIM),
+        font=dict(family=FONTE_MONO, size=11, color=COR_PAPEL_BRIGHT),
     )
     fig.update_layout(
         title=f"Contrapartida Financeira Anual · Top {top_n}",
@@ -274,7 +274,7 @@ def grafico_distribuicao_escopos(df: pd.DataFrame) -> go.Figure:
         legend=dict(orientation="h", yanchor="top", y=-0.05, x=0.5, xanchor="center"),
         margin=dict(l=30, r=30, t=80, b=80),
         annotations=[dict(
-            text=f"<b>{fmt_compacto(sum(totais))}</b><br><span style='font-size:11px;color:{COR_PAPEL_FAINT};letter-spacing:0.2em'>TCO₂E/ANO</span>",
+            text=f"<b>{fmt_compacto(sum(totais))}</b><br><span style='font-size:11px;color:{COR_PAPEL_BRIGHT};letter-spacing:0.2em'>TCO₂E/ANO</span>",
             showarrow=False, x=0.5, y=0.5,
             font=dict(family=FONTE_DISPLAY, size=34, color=COR_PAPEL_BRIGHT),
         )],
@@ -329,8 +329,8 @@ def grafico_scatter_escopos(df: pd.DataFrame) -> go.Figure:
             line=dict(color=COR_INK_DEEP, width=1.2),
             opacity=0.88,
             colorbar=dict(
-                title=dict(text="Média anual tCO₂e", font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM)),
-                tickfont=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_DIM),
+                title=dict(text="Média anual tCO₂e", font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_BRIGHT)),
+                tickfont=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_BRIGHT),
                 thickness=10,
                 outlinewidth=0,
                 bgcolor="rgba(0,0,0,0)",
@@ -382,13 +382,13 @@ def grafico_compensacao_status(df: pd.DataFrame) -> go.Figure:
         x="Com projeto", y=len(com),
         text=f"média: {fmt_br(media_com)} tCO₂e",
         showarrow=False, yshift=45,
-        font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_FAINT),
+        font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_BRIGHT),
     )
     fig.add_annotation(
         x="Sem projeto", y=len(sem),
         text=f"média: {fmt_br(media_sem)} tCO₂e",
         showarrow=False, yshift=45,
-        font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_FAINT),
+        font=dict(family=FONTE_MONO, size=10, color=COR_PAPEL_BRIGHT),
     )
 
     fig.update_layout(
@@ -865,7 +865,7 @@ def _render_kpi_row(df: pd.DataFrame) -> str:
               </div>
       <div class="kpi-tile" data-accent="paper">
         <div class="label">Setores cobertos</div>
-        <div class="value"><em>{n_setores}</em></div>
+        <div class="value">{n_setores}</div>
         <div class="sublabel">ramos economicos</div>
       </div>
     </div>
@@ -877,7 +877,7 @@ def _render_note() -> str:
     <section class="note">
       <div class="note-kicker">Metodologia</div>
       <p class="note-body">
-        Cada <strong>crédito de carbono</strong> equivale a <em>1 tCO₂e</em> —
+        Cada <strong>crédito de carbono</strong> equivale a 1 tCO₂e —
         uma tonelada de CO₂ equivalente. O custo estimado usa o preço médio do
         mercado voluntário brasileiro de <strong>USD {fmt_br(PRECO_CREDITO_USD, 2)}</strong>
         por crédito. <strong>Escopo 1</strong> refere-se a emissões diretas
@@ -888,7 +888,7 @@ def _render_note() -> str:
       <p class="note-body">
         <strong>Critério de agregação:</strong> para empresas com mais de um
         relatório de emissão, os valores exibidos nos gráficos representam a
-        <em>média anual</em> de seus inventários. Isso garante comparação justa
+        média anual de seus inventários. Isso garante comparação justa
         entre empresas com diferentes quantidades de relatórios históricos.
         Para dados detalhados por ano e por empresa, consulte a
         <a href="#tabela" style="color:#e2b84d;text-decoration:underline;text-underline-offset:3px">tabela completa na seção §05 Registro</a>.
@@ -937,7 +937,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="01",
             kicker="§ Ranking",
-            titulo="Os maiores <em>emissores</em>",
+            titulo="Os maiores emissores",
             deck=(
                 "Empresas ordenadas pelo volume total de emissões, desmembradas "
                 "por escopo. Poucos nomes concentram uma fração desproporcional "
@@ -949,7 +949,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="02",
             kicker="§ Anatomia",
-            titulo="Composição por <em>escopo</em>",
+            titulo="Composição por escopo",
             deck=(
                 "Onde as emissões realmente acontecem. A distribuição agregada "
                 "revela o peso da cadeia de valor, enquanto a correlação entre "
@@ -964,7 +964,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="03",
             kicker="§ Territorio",
-            titulo="Geografia das <em>emissões</em>",
+            titulo="Geografia das emissões",
             deck=(
                 "Distribuição por unidade federativa. A concentração geográfica "
                 "reflete a presença dos grandes polos industriais e energéticos "
@@ -976,7 +976,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="04",
             kicker="§ Contrapartida",
-            titulo="Créditos e <em>compensação</em>",
+            titulo="Créditos e compensação",
             deck=(
                 "A tradução financeira da pegada de carbono. Quantos créditos "
                 "são necessários e quantas empresas já mantêm projetos ativos "
@@ -991,7 +991,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         _render_chapter(
             num="05",
             kicker="§ Registro",
-            titulo="Tabela <em>completa</em>",
+            titulo="Tabela completa",
             deck=(
                 "Registro detalhado de cada empresa — volumes por escopo, "
                 "créditos necessários, custo de compensação e metas de net zero "
@@ -1018,7 +1018,7 @@ def montar_dashboard(df: pd.DataFrame) -> str:
         <header class="masthead">
             <div class="masthead-content">
                 <div class="masthead-text">
-                    <h1 class="masthead-title">Crédito<br><em>de Carbono</em></h1>
+                    <h1 class="masthead-title">Crédito<br>de Carbono</h1>
                     <p class="masthead-standfirst">
                         Retrato consolidado das emissões registradas no <strong>Registro
                         Público de Emissões</strong> da Fundação Getulio Vargas. Escopos

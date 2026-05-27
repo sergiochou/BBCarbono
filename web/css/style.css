@@ -179,7 +179,7 @@ body::after {
     font-family: var(--font-body);
     font-size: 15px;
     font-weight: 400;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     text-decoration: none;
     transition: color 0.18s ease;
     white-space: nowrap;
@@ -195,7 +195,7 @@ body::after {
 
 .team-icon {
     font-size: 13px;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     transition: color 0.18s ease;
     line-height: 1;
 }
@@ -236,17 +236,12 @@ body::after {
     margin-bottom: 1.5rem;
 }
 
-.masthead-title em {
-    font-style: italic;
-    font-weight: 400;
-    color: var(--paper-bright);
-}
 
 .masthead-standfirst {
     max-width: 640px;
     font-size: 17px;
     line-height: 1.55;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-weight: 300;
     margin-top: 2.25rem;
     padding-left: 1.5rem;
@@ -254,7 +249,7 @@ body::after {
 }
 
 .masthead-standfirst strong {
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-weight: 600;
 }
 
@@ -283,7 +278,7 @@ body::after {
     font-weight: 500;
     letter-spacing: 0.18em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     text-decoration: none;
     white-space: nowrap;
     padding: 4px 0;
@@ -335,7 +330,7 @@ body::after {
     font-size: 13px;
     letter-spacing: 0.22em;
     text-transform: uppercase;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     display: flex;
     align-items: center;
     gap: 0.75rem;
@@ -365,14 +360,14 @@ body::after {
 .hero-unit {
     font-family: var(--font-body);
     font-size: 14.5px;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     margin-top: 0.9rem;
     letter-spacing: 0.01em;
     font-weight: 300;
 }
 
 .hero-unit strong {
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-weight: 500;
 }
 
@@ -400,7 +395,7 @@ body::after {
     font-size: 10.5px;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
 }
 
 .hero-side dd {
@@ -416,7 +411,7 @@ body::after {
 .hero-side dd small {
     font-family: var(--font-mono);
     font-size: 10.5px;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     font-weight: 500;
     margin-left: 0.5rem;
     text-transform: uppercase;
@@ -485,7 +480,7 @@ body::after {
     font-size: 10px;
     letter-spacing: 0.24em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     margin-bottom: 0.9rem;
     display: flex;
     align-items: center;
@@ -516,11 +511,6 @@ body::after {
     color: var(--paper-bright);
 }
 
-.kpi-tile .value em {
-    font-style: italic;
-    color: var(--gold);
-    font-weight: 300;
-}
 
 .kpi-tile .sublabel {
     margin-top: 0.7rem;
@@ -528,7 +518,7 @@ body::after {
     font-size: 10.5px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
 }
 
 
@@ -561,7 +551,6 @@ body::after {
     content: "§";
     font-family: var(--font-display);
     font-size: 18px;
-    font-style: italic;
     line-height: 1;
     text-transform: none;
     letter-spacing: 0;
@@ -572,13 +561,12 @@ body::after {
 .note-body {
     font-size: 14px;
     line-height: 1.75;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     max-width: 85ch;
     font-weight: 300;
 }
 
-.note-body strong { color: var(--paper-dim); font-weight: 600; }
-.note-body em     { color: var(--paper-dim); font-style: italic; }
+.note-body strong { color: var(--paper-bright); font-weight: 600; }
 
 
 .chapter {
@@ -601,7 +589,6 @@ body::after {
     line-height: 0.9;
     color: var(--gold);
     letter-spacing: -0.05em;
-    font-style: italic;
     padding-top: 0.15em;
     position: relative;
 }
@@ -621,7 +608,7 @@ body::after {
     font-size: 10.5px;
     letter-spacing: 0.28em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     margin-bottom: 0.6rem;
 }
 
@@ -635,22 +622,17 @@ body::after {
     margin-bottom: 0.75rem;
 }
 
-.chapter-heading em {
-    font-style: italic;
-    color: var(--paper-bright);
-    font-weight: 400;
-}
 
 .chapter-deck {
     font-size: 16px;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     max-width: 62ch;
     line-height: 1.55;
     font-weight: 300;
 }
 
 .chapter-deck strong {
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-weight: 600;
 }
 
@@ -874,7 +856,7 @@ body::after {
 
 .view-btn {
     background: var(--ink-raised);
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     border: none;
     padding: 0.55rem 1.4rem;
     font-family: var(--font-mono);
@@ -937,7 +919,7 @@ body::after {
 
 .table-search-icon {
     flex-shrink: 0;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     transition: color 0.25s var(--ease-fluid);
 }
 
@@ -968,7 +950,7 @@ body::after {
     background: none;
     border: none;
     cursor: pointer;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     padding: 4px;
     border-radius: 4px;
     display: flex;
@@ -989,7 +971,7 @@ body::after {
     font-size: 12px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     text-align: center;
     padding: 2.5rem 1rem;
 }
@@ -1003,7 +985,7 @@ body::after {
     border: 1px solid var(--hairline-bright);
     border-radius: 8px;
     padding: 9px 16px;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-family: var(--font-body);
     font-size: 14px;
     font-weight: 400;
@@ -1115,7 +1097,7 @@ body::after {
 .sort-dir-btn {
     background: transparent;
     border: none;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     padding: 5px 8px;
     border-radius: 4px;
     cursor: pointer;
@@ -1181,7 +1163,7 @@ body::after {
     gap: 4px;
     font-family: var(--font-mono);
     font-size: 12px;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     cursor: pointer;
     user-select: none;
     transition: color 0.15s var(--ease-fluid);
@@ -1235,7 +1217,7 @@ body::after {
     background: none;
     border: 1px solid var(--hairline-bright);
     border-radius: 6px;
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-family: var(--font-body);
     font-size: 13px;
     padding: 8px 16px;
@@ -1247,7 +1229,7 @@ body::after {
 
 .filter-reset:hover {
     color: var(--paper-bright);
-    border-color: var(--paper-faint);
+    border-color: var(--paper-bright);
 }
 
 .data-carousel {
@@ -1316,7 +1298,7 @@ body::after {
 .carousel-btn {
     background: transparent;
     border: 1px solid var(--hairline-bright);
-    color: var(--paper-dim);
+    color: var(--paper-bright);
     font-family: var(--font-display);
     font-size: 22px;
     line-height: 1;
@@ -1374,7 +1356,7 @@ body::after {
 .carousel-page {
     background: transparent;
     border: none;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     font-family: var(--font-mono);
     font-size: 12px;
     font-weight: 500;
@@ -1411,7 +1393,7 @@ body::after {
     font-size: 11px;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--paper-faint);
+    color: var(--paper-bright);
     text-align: center;
 }
 
